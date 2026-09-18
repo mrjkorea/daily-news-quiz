@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily News Quiz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app">
+    <div class="wrap">
+      <h1>Daily News Quiz</h1>
+      <p>월–금 뉴스 퀴즈 · 제출 후 점수 · 오답 · 힌트</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <div class="card">
+      <h2>날짜별 퀴즈</h2>
+      <p class="meta">최신 날짜가 위에 표시됩니다. 항목을 눌러 퀴즈를 시작하세요.</p>
+    </div>
+    <ul class="test-list" id="list"></ul>
+    <p class="meta hidden" id="status">목록을 불러오는 중…</p>
+    <footer class="site">
+      Mr. Jay — Daily News Quiz<br />
+      <a href="https://mrjkorea.github.io/daily-news-quiz/">mrjkorea.github.io/daily-news-quiz</a>
+    </footer>
+  </main>
+  <script>
+    const WEEKDAY_KO = ['일', '월', '화', '수', '목', '금', '토'];
+
+    function formatDateLabel(iso) {
+      const d = new Date(iso + 'T12:00:00');
+      if (Number.isNaN(d.getTime())) return iso;
+      const w = WEEKDAY_KO[d.getDay()];
+      return `${iso} (${w})`;
+    }
+
+    const list = document.getElementById('list');
+    const status = document.getElementById('status');
+
+    fetch('quizzes/index.json')
+      .then((r) => {
+        if (!r.ok) throw new Error('index');
+        return r.json();
+      })
+      .then((entries) => {
+        status.classList.add('hidden');
+        entries.forEach((t) => {
+          const li = document.createElement('li');
+          const label = formatDateLabel(t.date || t.id);
+          const headline = t.title || '';
+          li.innerHTML =
+            `<div><strong>${label}</strong>` +
+            `<div class="meta">${headline}</div>` +
+            `<div class="meta">${t.questionCount || '?'}문항</div></div>`;
+          const a = document.createElement('a');
+          a.className = 'go';
+          a.href = `quiz.html?id=${encodeURIComponent(t.id)}`;
+          a.textContent = '시작';
+          li.appendChild(a);
+          list.appendChild(li);
+        });
+      })
+      .catch(() => {
+        status.textContent = '목록을 불러올 수 없습니다.';
+        status.classList.remove('hidden');
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+{
+  "id": "2026-06-23",
+  "date": "2026-06-23",
+  "title": "Daily News Quiz · 2026-06-23",
+  "headline": "",
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "According to the news story, what did scientists recently discover about how the brain repairs itself?",
+      "choices": [
+        "The brain cannot repair itself at all",
+        "The brain uses mechanical force to fix damaged cells",
+        "The brain produces new neurons that migrate to damaged areas",
+        "The brain relies entirely on medication for repair",
+        "The brain shrinks to reduce the damaged area"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Not quite. The brain actually produces new neurons that migrate to damaged areas to help with repair."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the outer layer of the brain called?",
+      "choices": [
+        "The genome",
+        "The cortex",
+        "The helix",
+        "The enzyme",
+        "The neuron"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The answer is the cortex. It's the wrinkled outer surface of the brain."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "What does the word 'mutation' mean in science?",
+      "choices": [
+        "A change in DNA sequence",
+        "A type of brain cell",
+        "A chemical reaction in the body",
+        "A method of brain repair",
+        "A measurement of genetic diversity"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A mutation refers to a change in DNA sequence — not a cell type or reaction."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "What is the shape of a DNA molecule commonly described as?",
+      "choices": [
+        "A flat ribbon",
+        "A perfect circle",
+        "A straight ladder",
+        "A twisted ladder (double helix)",
+        "A spiral staircase"
+      ],
+      "answerIndex": 3,
+      "hintKo": "DNA is shaped like a twisted ladder, known as a double helix."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is genetic diversity important for a species?",
+      "choices": [
+        "It makes every organism look the same",
+        "It prevents all diseases permanently",
+        "It stops all DNA mutations from happening",
+        "It makes organisms grow faster",
+        "It helps a species survive changes in the environment"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Genetic diversity is important because it helps a species adapt and survive when conditions change."
+    }
+  ]
+}
