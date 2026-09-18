@@ -4,18 +4,27 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>News quiz · Daily ESL News · MRJ English</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500;700;900&family=Nunito:wght@700;800;900&display=swap" rel="stylesheet"/>
   <link rel="stylesheet" href="css/app.css"/>
 </head>
-<body>
-  <p><a href="index.html">← All quizzes</a></p>
+<body class="quiz-page">
+  <div class="glow" aria-hidden="true"></div>
+  <header class="qhead">
+    <a class="back" href="index.html">← All quizzes</a>
+    <span class="host-pill" title="Q2 Lively Game Show Host">🎙️ Quiz host</span>
+  </header>
+  <p class="kicker" id="date-line">Daily ESL News</p>
   <h1 id="title">Loading…</h1>
-  <p class="meta" id="sub">Submit to see your score. 다시 풀기 anytime.</p>
+  <p class="sub" id="sub">Tap the question or A · B · C · D to hear the host. Then submit for your score.</p>
+  <div class="progress" id="progress"></div>
   <form id="quiz"></form>
-  <div class="bar">
-    <button type="button" class="chunk" id="submit">Submit</button>
+  <div class="bar sticky">
+    <button type="button" class="chunk" id="submit">Lock in answers ★</button>
     <button type="button" class="ghost" id="reset">다시 풀기</button>
   </div>
   <section id="results" class="hidden"></section>
+  <p class="hint-foot">Tap any sentence to hear it. Same quiz-show host every day.</p>
   <script src="js/quiz.js"></script>
 </body>
 </html>
