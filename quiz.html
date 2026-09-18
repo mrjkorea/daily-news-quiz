@@ -1,32 +1,21 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Daily News Quiz</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css" />
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>News quiz · Daily ESL News · MRJ English</title>
+  <link rel="stylesheet" href="css/app.css"/>
 </head>
 <body>
-  <header class="app">
-    <div class="wrap">
-      <p class="back-link"><a href="index.html">← 목록</a></p>
-      <h1 id="title">불러오는 중…</h1>
-      <p id="sub" class="meta header-sub">제출 후 점수·오답·힌트가 표시됩니다.</p>
-      <p id="attempts" class="meta header-sub hidden"></p>
-    </div>
-  </header>
-  <main class="wrap">
-    <div id="headline" class="card hidden"></div>
-    <form id="quiz"></form>
-    <div class="actions" id="actions">
-      <button type="button" class="primary" id="submit">제출하고 채점</button>
-      <button type="button" class="ghost" id="reset">다시 풀기</button>
-    </div>
-    <section id="results" class="hidden"></section>
-    <footer class="site">객관식만 채점합니다. 로그인 없이 브라우저에만 시도 횟수가 저장됩니다.</footer>
-  </main>
+  <p><a href="index.html">← All quizzes</a></p>
+  <h1 id="title">Loading…</h1>
+  <p class="meta" id="sub">Submit to see your score. 다시 풀기 anytime.</p>
+  <form id="quiz"></form>
+  <div class="bar">
+    <button type="button" class="chunk" id="submit">Submit</button>
+    <button type="button" class="ghost" id="reset">다시 풀기</button>
+  </div>
+  <section id="results" class="hidden"></section>
   <script src="js/quiz.js"></script>
 </body>
 </html>

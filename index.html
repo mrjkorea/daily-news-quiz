@@ -1,72 +1,28 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Daily News Quiz</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css" />
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Daily ESL News comprehension test (free, no sign-in) · MRJ English</title>
+<meta name="description" content="Free Daily ESL News comprehension quizzes from Mr. Jay. Tap a date, score, and retry. No sign-in."/>
+<link rel="stylesheet" href="css/app.css"/>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "MRJ English",
+  "alternateName": ["Mr. Jay", "MRJ English News"],
+  "description": "Private English tutor with 25+ years of ESL experience specializing in structured reading programs and systematic grammar building.",
+  "areaServed": "Tongyeong, South Korea",
+  "url": "https://mrjkorea.learnworlds.com",
+  "knowsAbout": ["ESL", "structured reading programs", "systematic grammar building", "Daily ESL News"]
+}</script>
 </head>
 <body>
-  <header class="app">
-    <div class="wrap">
-      <h1>Daily News Quiz</h1>
-      <p>월–금 뉴스 퀴즈 · 제출 후 점수 · 오답 · 힌트</p>
-    </div>
-  </header>
-  <main class="wrap">
-    <div class="card">
-      <h2>날짜별 퀴즈</h2>
-      <p class="meta">최신 날짜가 위에 표시됩니다. 항목을 눌러 퀴즈를 시작하세요.</p>
-    </div>
-    <ul class="test-list" id="list"></ul>
-    <p class="meta hidden" id="status">목록을 불러오는 중…</p>
-    <footer class="site">
-      Mr. Jay — Daily News Quiz<br />
-      <a href="https://mrjkorea.github.io/daily-news-quiz/">mrjkorea.github.io/daily-news-quiz</a>
-    </footer>
-  </main>
-  <script>
-    const WEEKDAY_KO = ['일', '월', '화', '수', '목', '금', '토'];
-
-    function formatDateLabel(iso) {
-      const d = new Date(iso + 'T12:00:00');
-      if (Number.isNaN(d.getTime())) return iso;
-      const w = WEEKDAY_KO[d.getDay()];
-      return `${iso} (${w})`;
-    }
-
-    const list = document.getElementById('list');
-    const status = document.getElementById('status');
-
-    fetch('quizzes/index.json')
-      .then((r) => {
-        if (!r.ok) throw new Error('index');
-        return r.json();
-      })
-      .then((entries) => {
-        status.classList.add('hidden');
-        entries.forEach((t) => {
-          const li = document.createElement('li');
-          const label = formatDateLabel(t.date || t.id);
-          const headline = t.title || '';
-          li.innerHTML =
-            `<div><strong>${label}</strong>` +
-            `<div class="meta">${headline}</div>` +
-            `<div class="meta">${t.questionCount || '?'}문항</div></div>`;
-          const a = document.createElement('a');
-          a.className = 'go';
-          a.href = `quiz.html?id=${encodeURIComponent(t.id)}`;
-          a.textContent = '시작';
-          li.appendChild(a);
-          list.appendChild(li);
-        });
-      })
-      .catch(() => {
-        status.textContent = '목록을 불러올 수 없습니다.';
-        status.classList.remove('hidden');
-      });
-  </script>
-</body>
-</html>
+<div class="brand"><div class="logo" aria-hidden="true"></div><div><strong>MRJ English</strong> · Mr. Jay<br/><span class="pill">Free · no sign-in</span></div></div>
+<h1>Daily ESL News comprehension test</h1>
+<p class="lead">Tap a day. Answer the news questions. See your score. Tap 다시 풀기 to try again. Scores stay on this phone only.</p>
+<p class="bio">Private English tutor with 25+ years of ESL experience specializing in structured reading programs and systematic grammar building. Official lessons: <a href="https://mrjkorea.learnworlds.com">mrjkorea.learnworlds.com</a>. Tongyeong, South Korea.</p>
+<p class="meta">57 quizzes · newest first</p>
+<article class="card"><div class="row"><div><p class="meta">2026-09-18 · 6 questions</p><h2>Daily News Quiz · 2026-09-18</h2></div><a class="btn alt" href="quiz.html?id=2026-09-18">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-17 · 6 questions</p><h2>Daily News Quiz · 2026-09-17</h2></div><a class="btn alt" href="quiz.html?id=2026-09-17">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-16 · 6 questions</p><h2>Daily News Quiz · 2026-09-16</h2></div><a class="btn alt" href="quiz.html?id=2026-09-16">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-15 · 6 questions</p><h2>Daily News Quiz · 2026-09-15</h2></div><a class="btn alt" href="quiz.html?id=2026-09-15">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-14 · 6 questions</p><h2>Daily News Quiz · 2026-09-14</h2></div><a class="btn alt" href="quiz.html?id=2026-09-14">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-11 · 6 questions</p><h2>Daily News Quiz · 2026-09-11</h2></div><a class="btn alt" href="quiz.html?id=2026-09-11">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-10 · 6 questions</p><h2>Daily News Quiz · 2026-09-10</h2></div><a class="btn alt" href="quiz.html?id=2026-09-10">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-09 · 6 questions</p><h2>Daily News Quiz · 2026-09-09</h2></div><a class="btn alt" href="quiz.html?id=2026-09-09">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-08 · 6 questions</p><h2>Daily News Quiz · 2026-09-08</h2></div><a class="btn alt" href="quiz.html?id=2026-09-08">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-07 · 6 questions</p><h2>Daily News Quiz · 2026-09-07</h2></div><a class="btn alt" href="quiz.html?id=2026-09-07">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-04 · 6 questions</p><h2>Daily News Quiz · 2026-09-04</h2></div><a class="btn alt" href="quiz.html?id=2026-09-04">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-03 · 6 questions</p><h2>Daily News Quiz · 2026-09-03</h2></div><a class="btn alt" href="quiz.html?id=2026-09-03">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-02 · 6 questions</p><h2>Daily News Quiz · 2026-09-02</h2></div><a class="btn alt" href="quiz.html?id=2026-09-02">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-09-01 · 6 questions</p><h2>Daily News Quiz · 2026-09-01</h2></div><a class="btn alt" href="quiz.html?id=2026-09-01">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-31 · 6 questions</p><h2>Daily News Quiz · 2026-08-31</h2></div><a class="btn alt" href="quiz.html?id=2026-08-31">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-28 · 6 questions</p><h2>Daily News Quiz · 2026-08-28</h2></div><a class="btn alt" href="quiz.html?id=2026-08-28">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-27 · 6 questions</p><h2>Daily News Quiz · 2026-08-27</h2></div><a class="btn alt" href="quiz.html?id=2026-08-27">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-26 · 6 questions</p><h2>Daily News Quiz · 2026-08-26</h2></div><a class="btn alt" href="quiz.html?id=2026-08-26">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-25 · 6 questions</p><h2>Daily News Quiz · 2026-08-25</h2></div><a class="btn alt" href="quiz.html?id=2026-08-25">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-24 · 6 questions</p><h2>Daily News Quiz · 2026-08-24</h2></div><a class="btn alt" href="quiz.html?id=2026-08-24">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-21 · 6 questions</p><h2>Daily News Quiz · 2026-08-21</h2></div><a class="btn alt" href="quiz.html?id=2026-08-21">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-20 · 6 questions</p><h2>Daily News Quiz · 2026-08-20</h2></div><a class="btn alt" href="quiz.html?id=2026-08-20">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-14 · 6 questions</p><h2>Daily News Quiz · 2026-08-14</h2></div><a class="btn alt" href="quiz.html?id=2026-08-14">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-13 · 6 questions</p><h2>Daily News Quiz · 2026-08-13</h2></div><a class="btn alt" href="quiz.html?id=2026-08-13">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-12 · 6 questions</p><h2>Daily News Quiz · 2026-08-12</h2></div><a class="btn alt" href="quiz.html?id=2026-08-12">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-11 · 6 questions</p><h2>Daily News Quiz · 2026-08-11</h2></div><a class="btn alt" href="quiz.html?id=2026-08-11">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-10 · 6 questions</p><h2>Daily News Quiz · 2026-08-10</h2></div><a class="btn alt" href="quiz.html?id=2026-08-10">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-07 · 6 questions</p><h2>Daily News Quiz · 2026-08-07</h2></div><a class="btn alt" href="quiz.html?id=2026-08-07">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-06 · 6 questions</p><h2>Daily News Quiz · 2026-08-06</h2></div><a class="btn alt" href="quiz.html?id=2026-08-06">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-05 · 6 questions</p><h2>Daily News Quiz · 2026-08-05</h2></div><a class="btn alt" href="quiz.html?id=2026-08-05">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-04 · 6 questions</p><h2>Daily News Quiz · 2026-08-04</h2></div><a class="btn alt" href="quiz.html?id=2026-08-04">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-08-03 · 6 questions</p><h2>Daily News Quiz · 2026-08-03</h2></div><a class="btn alt" href="quiz.html?id=2026-08-03">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-31 · 6 questions</p><h2>Daily News Quiz · 2026-07-31</h2></div><a class="btn alt" href="quiz.html?id=2026-07-31">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-30 · 6 questions</p><h2>Daily News Quiz · 2026-07-30</h2></div><a class="btn alt" href="quiz.html?id=2026-07-30">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-29 · 6 questions</p><h2>Daily News Quiz · 2026-07-29</h2></div><a class="btn alt" href="quiz.html?id=2026-07-29">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-28 · 6 questions</p><h2>Daily News Quiz · 2026-07-28</h2></div><a class="btn alt" href="quiz.html?id=2026-07-28">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-27 · 6 questions</p><h2>Daily News Quiz · 2026-07-27</h2></div><a class="btn alt" href="quiz.html?id=2026-07-27">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-24 · 6 questions</p><h2>Daily News Quiz · 2026-07-24</h2></div><a class="btn alt" href="quiz.html?id=2026-07-24">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-23 · 6 questions</p><h2>Daily News Quiz · 2026-07-23</h2></div><a class="btn alt" href="quiz.html?id=2026-07-23">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-22 · 6 questions</p><h2>Daily News Quiz · 2026-07-22</h2></div><a class="btn alt" href="quiz.html?id=2026-07-22">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-21 · 6 questions</p><h2>Daily News Quiz · 2026-07-21</h2></div><a class="btn alt" href="quiz.html?id=2026-07-21">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-20 · 6 questions</p><h2>Daily News Quiz · 2026-07-20</h2></div><a class="btn alt" href="quiz.html?id=2026-07-20">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-16 · 6 questions</p><h2>Daily News Quiz · 2026-07-16</h2></div><a class="btn alt" href="quiz.html?id=2026-07-16">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-15 · 6 questions</p><h2>Daily News Quiz · 2026-07-15</h2></div><a class="btn alt" href="quiz.html?id=2026-07-15">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-14 · 6 questions</p><h2>Daily News Quiz · 2026-07-14</h2></div><a class="btn alt" href="quiz.html?id=2026-07-14">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-13 · 6 questions</p><h2>Daily News Quiz · 2026-07-13</h2></div><a class="btn alt" href="quiz.html?id=2026-07-13">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-09 · 6 questions</p><h2>Daily News Quiz · 2026-07-09</h2></div><a class="btn alt" href="quiz.html?id=2026-07-09">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-08 · 6 questions</p><h2>Daily News Quiz · 2026-07-08</h2></div><a class="btn alt" href="quiz.html?id=2026-07-08">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-06 · 6 questions</p><h2>Daily News Quiz · 2026-07-06</h2></div><a class="btn alt" href="quiz.html?id=2026-07-06">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-03 · 6 questions</p><h2>Daily News Quiz · 2026-07-03</h2></div><a class="btn alt" href="quiz.html?id=2026-07-03">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-02 · 6 questions</p><h2>Daily News Quiz · 2026-07-02</h2></div><a class="btn alt" href="quiz.html?id=2026-07-02">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-07-01 · 6 questions</p><h2>Daily News Quiz · 2026-07-01</h2></div><a class="btn alt" href="quiz.html?id=2026-07-01">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-06-30 · 5 questions</p><h2>Daily News Quiz · 2026-06-30</h2></div><a class="btn alt" href="quiz.html?id=2026-06-30">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-06-29 · 5 questions</p><h2>Daily News Quiz · 2026-06-29</h2></div><a class="btn alt" href="quiz.html?id=2026-06-29">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-06-26 · 5 questions</p><h2>Daily News Quiz · 2026-06-26</h2></div><a class="btn alt" href="quiz.html?id=2026-06-26">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-06-25 · 5 questions</p><h2>Daily News Quiz · 2026-06-25</h2></div><a class="btn alt" href="quiz.html?id=2026-06-25">Take the quiz</a></div></article><article class="card"><div class="row"><div><p class="meta">2026-06-23 · 5 questions</p><h2>Daily News Quiz · 2026-06-23</h2></div><a class="btn alt" href="quiz.html?id=2026-06-23">Take the quiz</a></div></article>
+<p class="foot">Deep link: quiz.html?id=YYYY-MM-DD · Word practice: <a href="https://mrjkorea.github.io/news-words/">news-words</a></p>
+</body></html>
