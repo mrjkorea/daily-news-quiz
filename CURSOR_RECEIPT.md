@@ -23,6 +23,7 @@ cd /Users/andreclouthier/.hermes/projects/mrj-daily-news-quiz
 python3 -m http.server 8765
 # Open http://localhost:8765/ and http://localhost:8765/quiz.html?id=2026-09-18
 curl -sI https://mrjkorea.github.io/daily-news-quiz/
+# Deploy: HTTP/2 200 (after Pages build, ~30–45s post-enable)
 ```
 
 - Index lists dates (newest first) with weekday label.
