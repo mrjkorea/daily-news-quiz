@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-16",
+  "date": "2026-09-16",
+  "title": "Daily News Quiz · 2026-09-16",
+  "headline": "A drug designed by artificial intelligence reverses biological age in a clinical study",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who announced the new clinical study results on biological aging?",
+      "choices": [
+        "A university athletics team",
+        "Insilico Medicine",
+        "A museum in Finland",
+        "A bird conservation charity",
+        "A national space agency"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The company behind the study is Insilico Medicine."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the six protein-based aging clocks show in treated patients?",
+      "choices": [
+        "No measurable protein at all",
+        "A change in eye colour",
+        "A younger predicted biological age",
+        "Exactly the same age as before",
+        "An older predicted biological age"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Every clock pointed toward a younger predicted biological age."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When were the study results published and announced?",
+      "choices": [
+        "In early September, twenty twenty-six",
+        "Last Christmas",
+        "In nineteen eighty",
+        "On the first of March",
+        "Twenty years ago"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The study was published and announced in early September, twenty twenty-six."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where were the results presented on the eighth of September?",
+      "choices": [
+        "In a stadium in Budapest",
+        "On the Moon",
+        "At a shopping centre in Manila",
+        "At a conference at Sorbonne University in Paris",
+        "In a Finnish forest"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The presentation took place in Paris at Sorbonne University."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do experts say the results must be treated with caution?",
+      "choices": [
+        "No proteins were measured",
+        "The patients were not real",
+        "The clocks all disagreed",
+        "The study was small and cannot yet separate slower aging from a treated lung",
+        "The drug does not exist"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The caution comes from the small size of the study and the treated lung, not from missing data."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How long did the company say it took to move from choosing a target to naming a candidate drug?",
+      "choices": [
+        "It never produced a candidate",
+        "About eighteen months",
+        "About two weeks",
+        "About one hundred years",
+        "About fifty years"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The timeline quoted by the company is about eighteen months."
+    }
+  ],
+  "youtube_url": ""
+}

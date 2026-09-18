@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-30",
+  "date": "2026-07-30",
+  "title": "Daily News Quiz · 2026-07-30",
+  "headline": "Coffee linked to dramatically lower risk of liver disease and liver cancer",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who was the first author of the coffee and liver study?",
+      "choices": [
+        "Lauren Manaker",
+        "Dr. Hyunseok Kim",
+        "A Harvard professor",
+        "The American Heart Association",
+        "The FDA commissioner"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Dr. Kim of Cedars-Sinai Medical Center was the first study author."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What conditions did coffee consumption reduce the risk of?",
+      "choices": [
+        "Heart disease and stroke",
+        "Diabetes and obesity",
+        "Cirrhosis, liver cancer, and liver-related death",
+        "Kidney stones and gallstones",
+        "Lung cancer and asthma"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The study specifically looked at liver conditions: cirrhosis, liver cancer, and liver-related death."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was the study published?",
+      "choices": [
+        "June first",
+        "June fifteenth",
+        "June twenty-fifth",
+        "June thirtieth",
+        "July first"
+      ],
+      "answerIndex": 4,
+      "hintKo": "CNN published the article on July first, twenty twenty-six."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the study conducted?",
+      "choices": [
+        "The United Kingdom, using UK Biobank data",
+        "The United States only",
+        "South Korea",
+        "Brazil",
+        "Multiple hospitals worldwide"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The research was based on the UK Biobank study population."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do the benefits appear to come from antioxidants rather than caffeine?",
+      "choices": [
+        "Because caffeine causes liver damage",
+        "Because the study only looked at tea drinkers",
+        "Because coffee beans have no caffeine",
+        "Because decaffeinated drinkers showed similar benefits to regular coffee drinkers",
+        "Because caffeine was proven harmful to the liver"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The similar results in decaf drinkers point to antioxidants as the source of the benefits."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many participants were followed in the study?",
+      "choices": [
+        "About 100,000",
+        "About 250,000",
+        "More than 354,000",
+        "About 500,000",
+        "Exactly 1 million"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The study followed more than 354,000 participants."
+    }
+  ],
+  "youtube_url": ""
+}

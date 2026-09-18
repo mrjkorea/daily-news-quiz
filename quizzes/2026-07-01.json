@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-01",
+  "date": "2026-07-01",
+  "title": "Daily News Quiz · 2026-07-01",
+  "headline": "2026 07 01",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is France's top scorer chasing the Golden Boot?",
+      "choices": [
+        "Kylian Mbappé",
+        "Ousmane Dembélé",
+        "Julián Quiñones",
+        "Erling Haaland",
+        "Yan Diomandé"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The video says Kylian Mbappé already has four goals and is chasing the Golden Boot."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What stage of the World Cup begins today?",
+      "choices": [
+        "Group stage",
+        "Round of 16",
+        "Round of 32",
+        "Quarter-finals",
+        "Final"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The video says the World Cup has entered the Round of 32."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where will Mexico play Ecuador tonight?",
+      "choices": [
+        "New York New Jersey Stadium",
+        "Dallas Stadium",
+        "Toronto Stadium",
+        "Mexico City Stadium",
+        "Los Angeles Stadium"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The video says Mexico faces Ecuador at the sold-out Mexico City Stadium."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When was the last time Norway reached the World Cup knockout stage?",
+      "choices": [
+        "1986",
+        "1998",
+        "2010",
+        "2018",
+        "2022"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The video says Norway is back in this round for the first time since 1998."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is Ivory Coast's appearance in the knockout stage historic?",
+      "choices": [
+        "They are hosting the tournament",
+        "They beat France",
+        "They won every group match",
+        "They already won the trophy",
+        "It is their first time reaching this stage"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The video says Ivory Coast are through to the knockout stage for the first time in their nation's history."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many matches remain until the World Cup champion is crowned?",
+      "choices": [
+        "Three",
+        "Five",
+        "Six",
+        "Ten",
+        "Seven"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The video says seven matches remain until one nation lifts the trophy."
+    }
+  ],
+  "youtube_url": ""
+}

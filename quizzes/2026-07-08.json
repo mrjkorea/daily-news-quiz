@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-08",
+  "date": "2026-07-08",
+  "title": "Daily News Quiz · 2026-07-08",
+  "headline": "2026 07 08",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who warned that Europe is the fastest-warming continent?",
+      "choices": [
+        "The French prime minister",
+        "The head of the World Health Organization",
+        "A railway operator",
+        "A school principal",
+        "A firefighter in Germany"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The other choices are mentioned as context or are not connected to that warning."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What natural disaster broke out in German forests during the heatwave?",
+      "choices": [
+        "Floods",
+        "Earthquakes",
+        "Wildfires",
+        "Tornadoes",
+        "Volcanic eruptions"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The other disasters were not the natural disaster described in German forests."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where did lightning strikes send several people to the hospital?",
+      "choices": [
+        "France",
+        "Germany",
+        "Denmark",
+        "Sweden",
+        "Brazil"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The other places appear in the lesson, but Sweden is the place connected to this detail."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When did France record about one thousand additional deaths?",
+      "choices": [
+        "During the peak of the extreme heat last week",
+        "During winter",
+        "Next month",
+        "Before the heatwave began",
+        "During a normal weather week"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The other answers do not match the timing given in the lesson."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did scientists say the heatwave would have been impossible without climate change?",
+      "choices": [
+        "Because trains were delayed",
+        "Because schools closed",
+        "Because lightning happened",
+        "Because France is in Europe",
+        "Because these temperatures are now much more likely than twenty years ago"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The other choices are details from the story, but they do not explain the climate-change connection."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many lightning strikes did Denmark record in a single morning?",
+      "choices": [
+        "About one hundred",
+        "Over one thousand one hundred",
+        "Exactly ten",
+        "More than one million",
+        "Fifty"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The other numbers do not match the figure given in the lesson."
+    }
+  ],
+  "youtube_url": ""
+}

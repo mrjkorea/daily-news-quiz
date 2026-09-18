@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-24",
+  "date": "2026-07-24",
+  "title": "Daily News Quiz · 2026-07-24",
+  "headline": "2026 07 24",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the mission that captured the images of Pluto?",
+      "choices": [
+        "NASA",
+        "The European Space Agency",
+        "A private space company",
+        "The Russian space agency",
+        "A university research team"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story specifically names NASA's New Horizons mission as the spacecraft that photographed Pluto."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did scientists discover on Pluto's surface?",
+      "choices": [
+        "Active volcanoes",
+        "Underground oceans",
+        "Six massive ice landslides",
+        "Signs of alien life",
+        "New impact craters"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The discovery was specifically about landslides, not these other features."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the New Horizons spacecraft fly past Pluto?",
+      "choices": [
+        "July 2015",
+        "July 2016",
+        "July 2014",
+        "July 2017",
+        "July 2013"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The article states the flyby happened in July 2015."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where on Pluto were the landslides found?",
+      "choices": [
+        "On Pluto's flat plains",
+        "Inside the inner rims of three impact craters",
+        "On the tops of Pluto's mountains",
+        "At Pluto's north pole",
+        "In Pluto's valleys"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The landslides are specifically located along the inner rims of impact craters."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are these landslides important to scientists?",
+      "choices": [
+        "They prove Pluto has volcanoes",
+        "They show Pluto has liquid water",
+        "They explain why Pluto is blue",
+        "They help scientists understand how Pluto's surface has been shaped over time",
+        "They confirm Pluto has an atmosphere"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The discovery provides evidence about surface-shaping processes on Pluto, not these other claims."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How large was the biggest landslide discovered?",
+      "choices": [
+        "Ten square miles",
+        "Twenty-five square miles",
+        "Thirty square miles",
+        "Forty square miles",
+        "Fifty square miles"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The article states the largest landslide is fifty square miles."
+    }
+  ],
+  "youtube_url": ""
+}

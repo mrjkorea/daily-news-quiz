@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-07",
+  "date": "2026-09-07",
+  "title": "Daily News Quiz · 2026-09-07",
+  "headline": "LUX-ZEPLIN detector records one high-energy flash that could be dark matter",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who presented the LUX-ZEPLIN high-energy result at the Tendo conference?",
+      "choices": [
+        "A spirulina farmer in Iceland",
+        "A phone designer at Samsung",
+        "A chef in Sydney",
+        "A museum guard in Sicily",
+        "Samuel Eriksen of the University of Bristol"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The presenter was a particle physicist on the LZ team, not a chef or designer."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What material fills the LUX-ZEPLIN detector that recorded the flash?",
+      "choices": [
+        "Chocolate milk",
+        "Ultra-pure liquid xenon",
+        "Tinned sardines",
+        "Rocket fuel",
+        "Algae paste"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The tank holds xenon, not food or fuel."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the team analyse observational data for this search?",
+      "choices": [
+        "From March twenty twenty-three to April twenty twenty-four",
+        "During October alligator season",
+        "Every Friday night only",
+        "During the Middle Ages",
+        "On August fifteenth during Ferragosto"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The data window was in twenty twenty-three and twenty twenty-four, not a holiday."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the LUX-ZEPLIN experiment located?",
+      "choices": [
+        "Lead, South Dakota, at the Sanford Underground Research Facility",
+        "Inside a Sicilian monastery",
+        "On a Louisiana swamp boat",
+        "On the moon",
+        "In a Zurich stadium"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The experiment is underground in South Dakota, not on the moon."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are researchers cautious about calling the flash a dark-matter discovery?",
+      "choices": [
+        "The flash was caused by a phone camera",
+        "They already proved dark matter last week",
+        "Previous hopeful signals turned out to be spurious and they need more data",
+        "They never removed test signals",
+        "The detector has no xenon"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Caution comes from history and the need for replication, not missing equipment."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much energy did the single leftover recoil deposit in the detector?",
+      "choices": [
+        "Two hundred forty-eight kiloelectronvolts",
+        "Eighty thousand dollars",
+        "Two point four micrograms",
+        "Twenty-five thousand fans",
+        "One tonne of payload"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The measured energy was two hundred forty-eight kiloelectronvolts, not money or weight."
+    }
+  ],
+  "youtube_url": ""
+}

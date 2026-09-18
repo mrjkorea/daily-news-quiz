@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-18",
+  "date": "2026-09-18",
+  "title": "Daily News Quiz · 2026-09-18",
+  "headline": "A metal detectorist finds Finland's largest Viking Age silver hoard",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who found Finland's largest Viking Age silver hoard?",
+      "choices": [
+        "A hobby metal detectorist named Kalle Lappinen",
+        "A team of professional divers",
+        "A farmer in Denmark",
+        "A university professor in Helsinki",
+        "A museum guard in Lahti"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The find was made by a hobby metal detectorist, Kalle Lappinen."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the buried containers hold?",
+      "choices": [
+        "Glass bottles of oil",
+        "Thousands of silver coins plus jewelry and cut silver",
+        "Iron tools and weapons",
+        "Gold bars only",
+        "Ancient paper documents"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The hoard was mostly silver coins, with some jewelry and cut silver."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When were the silver objects buried?",
+      "choices": [
+        "During the twentieth century",
+        "In the nineteenth century",
+        "Last year only",
+        "Between about the year one thousand and ten fifty",
+        "About five hundred years ago"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The silver was buried about a thousand years ago, at the end of the Viking Age."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the treasure discovered?",
+      "choices": [
+        "In the countryside near a town in southern Finland",
+        "On a beach in Spain",
+        "Inside a museum in Germany",
+        "On an island in Indonesia",
+        "In a city park in Budapest"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The find was made in southern Finland."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do historians think the owner never returned for the silver?",
+      "choices": [
+        "It was a museum display",
+        "The silver was worthless",
+        "The owner moved to Denmark",
+        "The period was unstable and the treasure was hidden in a hurry",
+        "The coins were made of plastic"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Unrest and rushing to hide the silver best explain why nobody came back."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How heavy is the collection of coins?",
+      "choices": [
+        "Exactly one tonne",
+        "About fifty grams",
+        "Less than one gram",
+        "Just under ten pounds, or about four and a half kilograms",
+        "About one hundred kilograms"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The coins weigh just under ten pounds, roughly four and a half kilograms."
+    }
+  ],
+  "youtube_url": ""
+}

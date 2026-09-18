@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-01",
+  "date": "2026-09-01",
+  "title": "Daily News Quiz · 2026-09-01",
+  "headline": "Two world records fall within an hour at Zurich Diamond League athletics",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who broke the men's four hundred meter hurdles world record in Zurich?",
+      "choices": [
+        "Alison dos Santos of Brazil",
+        "A museum thief in Sicily",
+        "A phone engineer at Samsung",
+        "A wildlife ranger in Louisiana",
+        "A chef growing algae"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The men's hurdles record was broken by Dos Santos, not by a thief or an engineer."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What two world records fell at the Diamond League meeting?",
+      "choices": [
+        "The men's four hundred meter hurdles and the women's one hundred meter hurdles",
+        "Two cooking records",
+        "Two painting records",
+        "Two phone battery records",
+        "Two alligator hunting records"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The records were in hurdles, not in cooking or hunting."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the two hurdles world records fall?",
+      "choices": [
+        "Within about one hour on the same night",
+        "During Ferragosto in Sicily",
+        "In nineteen sixty-two",
+        "On a Monday morning in Seoul",
+        "During a phone launch in September"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They fell the same night in Zurich, not on a holiday in Sicily."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where in Zurich did the athletes break the records?",
+      "choices": [
+        "Letzigrund Stadium",
+        "A museum in Messina",
+        "A swamp in Louisiana",
+        "An algae factory in Iceland",
+        "A Samsung store"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The races were in a Zurich stadium, not a museum or a swamp."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the conditions in the stadium help the runners?",
+      "choices": [
+        "The weather was balmy",
+        "It was snowing hard",
+        "The track was covered in ice",
+        "The lights were off",
+        "The race was cancelled"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Warm pleasant weather helped, not ice or darkness."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How fast did Masai Russell run the women's one hundred meter hurdles?",
+      "choices": [
+        "Twelve point zero nine seconds",
+        "Forty-five point eight zero seconds",
+        "Six point two five meters",
+        "One minute fifty-three",
+        "Eighty thousand dollars"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Twelve point zero nine was her time, not the men's hurdles time."
+    }
+  ],
+  "youtube_url": ""
+}

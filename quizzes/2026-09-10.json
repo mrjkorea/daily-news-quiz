@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-10",
+  "date": "2026-09-10",
+  "title": "Daily News Quiz · 2026-09-10",
+  "headline": "Injectable hydrogel from University at Buffalo could keep arthritis drugs working for weeks",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who developed the injectable hydrogel for osteoarthritis?",
+      "choices": [
+        "A sardine exporter",
+        "Isar Aerospace",
+        "The Reserve Bank of Australia",
+        "Scientists at the University at Buffalo",
+        "Samuel Eriksen at Bristol"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The hydrogel team is at the University at Buffalo."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What happens to the hydrogel after it is injected into a joint?",
+      "choices": [
+        "It proves dark matter exists",
+        "It becomes tinned fish",
+        "It becomes a semisolid depot that releases drugs for weeks",
+        "It evaporates in one hour",
+        "It turns into rocket fuel"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The gel firms up inside the joint and slowly releases drugs."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When might patients benefit from fewer injections if this works?",
+      "choices": [
+        "During the Middle Ages",
+        "After clinical trials show the depot lasts weeks in the joint",
+        "When sardine sales jump thirty percent",
+        "When GDP beats forecasts",
+        "At the moment a rocket reaches orbit"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Fewer injections would follow successful clinical use, not ancient history."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does the hydrogel aim to keep medicine concentrated?",
+      "choices": [
+        "Inside the arthritic joint rather than spreading through the body",
+        "On the moon",
+        "In a xenon tank underground",
+        "At Andoya spaceport",
+        "In a Sydney mining pit"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The design targets the joint space, not outer space or mines."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do current arthritis injections often fail patients long term?",
+      "choices": [
+        "Households stop buying sardines",
+        "Rockets explode every time",
+        "GDP growth is too strong",
+        "Their effects are short-lived and drugs wash out of joint fluid quickly",
+        "Dark matter flashes hide the drugs"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Current shots wear off because drugs leave the joint too fast."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does the gel release its medicine over time?",
+      "choices": [
+        "By catching sardines",
+        "By raising interest rates",
+        "By salting xenon data",
+        "By launching satellites",
+        "Through diffusion and gradual relaxation of the matrix over weeks"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Release is gradual through the gel matrix, not through rockets or banking."
+    }
+  ],
+  "youtube_url": ""
+}

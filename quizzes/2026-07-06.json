@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-06",
+  "date": "2026-07-06",
+  "title": "Daily News Quiz · 2026-07-06",
+  "headline": "2026 07 06",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who declared a state of emergency on Guam before the typhoon hit?",
+      "choices": [
+        "The US President",
+        "The National Weather Service",
+        "Governor Lou Leon Guerrero",
+        "The Joint Typhoon Warning Center",
+        "The military commander"
+      ],
+      "answerIndex": 2,
+      "hintKo": "It was Guam's governor, not the president, NWS, JTWC, or military."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What category was Super Typhoon Bavi when it made landfall on Monday?",
+      "choices": [
+        "Category 1",
+        "Category 2",
+        "Category 3",
+        "Category 4",
+        "Category 5"
+      ],
+      "answerIndex": 4,
+      "hintKo": "At 180 mph, Bavi was the highest category possible — Category 5."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where did the eye of Typhoon Bavi pass directly over?",
+      "choices": [
+        "Guam",
+        "Rota",
+        "Saipan",
+        "Tinian",
+        "Manila"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Rota, in the Northern Mariana Islands, took the direct hit from Bavi's eye."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When did Guam's governor say she would begin damage assessments?",
+      "choices": [
+        "Tuesday morning",
+        "Monday afternoon",
+        "Wednesday",
+        "Immediately after the storm",
+        "Next weekend"
+      ],
+      "answerIndex": 0,
+      "hintKo": "She specifically said 'first thing tomorrow morning' — Tuesday morning."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why were shelters on Saipan and Tinian already full when Bavi approached?",
+      "choices": [
+        "They were too small",
+        "People panicked unnecessarily",
+        "The government ordered everyone to go",
+        "Many residents still had no power from Typhoon Sinlaku in April",
+        "There was a tsunami warning"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The previous typhoon (Sinlaku) left many without power, making them more vulnerable and shelters were packed."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How fast were the maximum sustained winds of Super Typhoon Bavi?",
+      "choices": [
+        "150 miles per hour",
+        "180 miles per hour",
+        "200 miles per hour",
+        "120 miles per hour",
+        "160 miles per hour"
+      ],
+      "answerIndex": 1,
+      "hintKo": "180 mph is correct — equivalent to 290 kilometers per hour."
+    }
+  ],
+  "youtube_url": ""
+}

@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-04",
+  "date": "2026-09-04",
+  "title": "Daily News Quiz · 2026-09-04",
+  "headline": "Samsung launches the Galaxy S26 FE packed with Galaxy AI tools",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who launched the Galaxy S twenty-six F E?",
+      "choices": [
+        "Alison dos Santos",
+        "Samsung",
+        "A Louisiana wildlife office",
+        "Antonello da Messina",
+        "A spirulina lab"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The launcher is Samsung, not a painter or a runner."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What AI tools come with the new Galaxy F E phone?",
+      "choices": [
+        "Algae lights",
+        "Hurdles and pole vaults",
+        "Altarpiece alarms",
+        "Alligator tags",
+        "Call Assist, Writing Assist, Interpreter, Photo Assist, and Audio Eraser"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The tools are phone AI features, not sports or museum gear."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When is the Galaxy S twenty-six F E scheduled to launch?",
+      "choices": [
+        "September fourth",
+        "On a Thursday night in Zurich",
+        "August fifteenth during Ferragosto",
+        "During October alligator season",
+        "In nineteen sixty-two"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The launch date is September fourth, not a feast day."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where do Galaxy AI tools like Now Brief appear on the phone?",
+      "choices": [
+        "In a Sicilian museum",
+        "Inside an algae tank",
+        "On the lock screen",
+        "In a swamp boat",
+        "On a running track"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Now Brief is a phone lock-screen feature."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are reviewers saying the F E is more about software than hardware?",
+      "choices": [
+        "Hardware changes look modest, and the AI suite is the headline",
+        "The track is wet",
+        "The body is made of algae",
+        "The phone cannot make calls",
+        "The phone has no camera"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Reviewers focused on software, not a missing camera."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much does the Galaxy S twenty-six F E start at?",
+      "choices": [
+        "Six hundred ninety-nine dollars and ninety-nine cents",
+        "One hundred fifty dollars",
+        "Eighty thousand dollars",
+        "Twenty-five dollars",
+        "Two point four micrograms"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The starting price is about seven hundred dollars, not a race prize."
+    }
+  ],
+  "youtube_url": ""
+}

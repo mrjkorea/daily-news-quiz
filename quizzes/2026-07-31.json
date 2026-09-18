@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-31",
+  "date": "2026-07-31",
+  "title": "Daily News Quiz · 2026-07-31",
+  "headline": "AI completely unwraps and reads 2,000-year-old Herculaneum scroll",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who launched the Vesuvius Challenge in twenty twenty-three?",
+      "choices": [
+        "The Italian government",
+        "Brent Seales of the University of Kentucky",
+        "Frederica Nicolardi",
+        "Google AI researchers",
+        "The United Nations"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The Vesuvius Challenge was launched by Brent Seales and his team at the University of Kentucky."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the AI detect on the virtually unwrapped scroll?",
+      "choices": [
+        "Hidden treasure maps",
+        "Secret codes",
+        "Twenty columns of text",
+        "Colorful paintings",
+        "Mathematical formulas"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The AI identified twenty columns of continuous text on the papyrus."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Mount Vesuvius erupt and bury Herculaneum?",
+      "choices": [
+        "100 BC",
+        "100 AD",
+        "50 AD",
+        "65 AD",
+        "79 AD"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The famous eruption occurred in 79 AD."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the scroll discovered?",
+      "choices": [
+        "At a villa in Herculaneum, Italy",
+        "In a pyramid in Egypt",
+        "Under the Colosseum in Rome",
+        "In a cave in Greece",
+        "In a temple in Turkey"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The scroll was part of a library found at a villa in Herculaneum."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why was PHerc. sixteen sixty-seven considered unreadable for decades?",
+      "choices": [
+        "It was written in an unknown language",
+        "It was too small to read",
+        "The ink had faded completely",
+        "It was carbonized into a lump of charcoal and damaged by previous unfurling attempts",
+        "It was locked in a vault nobody could open"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The carbonization from the eruption and damage from physical unfurling attempts made it seem impossible to read."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the researchers read the scroll without physically opening it?",
+      "choices": [
+        "By using a very small camera to look inside",
+        "By using CT scans and AI trained to identify ink on papyrus",
+        "By soaking it in special chemicals",
+        "By carefully peeling it layer by layer with tweezers",
+        "By using X-ray vision technology"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The combination of CT scanning and AI ink detection allowed virtual unwrapping without physical contact."
+    }
+  ],
+  "youtube_url": ""
+}

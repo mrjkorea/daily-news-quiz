@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-31",
+  "date": "2026-08-31",
+  "title": "Daily News Quiz · 2026-08-31",
+  "headline": "Spirulina grown under special light makes active vitamin B12 like beef",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the study of Spirulina that makes active vitamin B twelve?",
+      "choices": [
+        "Doctor Asaf Tzachor of Reichman University",
+        "A phone designer at Samsung",
+        "A football coach in Brazil",
+        "A museum guard in Sicily",
+        "A chef in Tokyo"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The study was led by a university research team, not a sports or phone company."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the special light help the Spirulina produce?",
+      "choices": [
+        "Plastic bottles",
+        "Rocket fuel",
+        "Biologically active vitamin B twelve",
+        "Gold coins",
+        "Ice cream"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The light change was about vitamins in algae, not money or machines."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When has ordinary Spirulina failed as a reliable B twelve food?",
+      "choices": [
+        "After the Tokyo Olympics",
+        "Every Friday night",
+        "During the Middle Ages only",
+        "During Ferragosto in Sicily",
+        "Until now, because most of its B twelve was a fake form"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The problem was the fake vitamin form, not a holiday or a sports event."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did researchers grow the Spirulina in photobioreactors?",
+      "choices": [
+        "A Sicilian monastery",
+        "A Zurich stadium",
+        "The moon",
+        "The Mississippi River",
+        "Iceland"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The tanks were in Iceland, not on the moon or in a stadium."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do scientists want a plant-like source of vitamin B twelve?",
+      "choices": [
+        "Meat and dairy cost the planet and many people have low levels",
+        "They want a new sports drink",
+        "They want to paint museums",
+        "They want cheaper phone chips",
+        "They want faster hurdles"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The goal was nutrition and a smaller footprint, not sports or phones."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the team change what the algae produced?",
+      "choices": [
+        "By carefully controlling the light while it grew",
+        "By adding rocket engines",
+        "By painting it gold",
+        "By running it in a lottery",
+        "By freezing it in space"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They changed light, not rockets or lotteries."
+    }
+  ],
+  "youtube_url": ""
+}

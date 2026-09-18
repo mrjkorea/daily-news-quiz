@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-24",
+  "date": "2026-08-24",
+  "title": "Daily News Quiz · 2026-08-24",
+  "headline": "NASA-led study shows some Earth microbes could survive on the moon",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the study of Earth microbes on the moon?",
+      "choices": [
+        "Prabal Saxena",
+        "Heather Graham",
+        "A NASA pilot",
+        "The president of China",
+        "A news anchor"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The lead scientist was Prabal Saxena of NASA's Goddard center."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the NASA-led models say some Earth microbes could do?",
+      "choices": [
+        "Grow crops on the moon",
+        "Survive for weeks to months on the moon",
+        "Fly to Mars",
+        "Build lunar homes",
+        "Make oxygen"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The finding was that some microbes could survive for weeks to months."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the models say microbes were more likely to survive?",
+      "choices": [
+        "During autumn and winter",
+        "Only at noon",
+        "During spring rain",
+        "Every full moon",
+        "Never"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The models favored autumn and winter for survival."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where near the lunar South Pole could some microbes last the longest?",
+      "choices": [
+        "On the brightest rocks",
+        "Inside permanently shadowed craters",
+        "On the spacecraft roof",
+        "In open sunlight",
+        "At the equator"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Permanently shadowed craters offered the best survival chances."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do scientists worry about Earth microbes reaching the moon?",
+      "choices": [
+        "They could contaminate ice, soil, and sample tests",
+        "They would make the moon too heavy",
+        "They would eat the spacecraft",
+        "They would turn the moon green",
+        "They cannot survive at all"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The worry is contamination of ice, soil, and samples."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the researchers test whether microbes could survive there?",
+      "choices": [
+        "By sending them in a rocket",
+        "By modeling lunar conditions with computer data",
+        "By boiling them in water",
+        "By freezing them in a fridge",
+        "By feeding them moon dust"
+      ],
+      "answerIndex": 1,
+      "hintKo": "They used models based on lunar observations and data."
+    }
+  ],
+  "youtube_url": ""
+}

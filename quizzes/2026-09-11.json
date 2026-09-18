@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-11",
+  "date": "2026-09-11",
+  "title": "Daily News Quiz · 2026-09-11",
+  "headline": "Sardine shortage hits shelves as Gen Z demand rises and catches shrink",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is helping drive higher demand for tinned sardines?",
+      "choices": [
+        "The LUX-ZEPLIN collaboration",
+        "Xenon physicists only",
+        "Reserve Bank board members",
+        "Isar rocket engineers",
+        "Gen Z shoppers and social media food trends"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Younger shoppers and social media trends are boosting sardine demand."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What nutrients make sardines popular when they are available?",
+      "choices": [
+        "Hydrogel polymers only",
+        "Interest-rate targets",
+        "Protein, omega-three fats, vitamin B twelve, and minerals",
+        "Dark-matter particles",
+        "Rocket fuel and satellite parts"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Sardines are valued for nutrients, not rocket or physics terms."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When do shelves often look empty according to the reports?",
+      "choices": [
+        "Now, as demand rises while catches shrink",
+        "Only during the Middle Ages",
+        "When rockets fail in Norway",
+        "After every dark-matter flash",
+        "When arthritis gels fail trials"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Empty shelves are a current supply-demand problem, not ancient history."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where might shoppers notice the sardine shortage first?",
+      "choices": [
+        "At Andoya spaceport",
+        "On grocery store shelves where tins used to sit",
+        "On a GDP chart",
+        "Inside a xenon detector",
+        "In a Buffalo lab"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The shortage shows up at retail shelves, not labs or launch pads."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why can higher demand make sardines harder to find?",
+      "choices": [
+        "Rockets carry sardines to orbit",
+        "Hydrogel blocks the supply chain",
+        "Wild catches are shrinking while more people want the tins",
+        "GDP growth stops all fishing",
+        "Dark matter hides the fish"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Shrinking catches plus higher demand create shortages."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How are some cooks responding when sardine tins vanish?",
+      "choices": [
+        "They substitute mackerel, anchovies, or fresh fish",
+        "They inject hydrogel into joints",
+        "They salt xenon data",
+        "They launch private rockets",
+        "They raise central-bank rates"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Cooks substitute other fish when sardine tins are unavailable."
+    }
+  ],
+  "youtube_url": ""
+}

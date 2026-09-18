@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-04",
+  "date": "2026-08-04",
+  "title": "Daily News Quiz · 2026-08-04",
+  "headline": "2026 08 04",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who issued the three proclamations imposing new tariffs on Canadian goods?",
+      "choices": [
+        "President Trump",
+        "The Canadian Prime Minister",
+        "The United States Congress",
+        "The World Trade Organization",
+        "The United States Supreme Court"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The proclamations were issued by President Trump, not by Congress or any other body."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What percent duty do the new tariffs add to covered Canadian goods?",
+      "choices": [
+        "Five percent",
+        "Fifteen percent",
+        "Twenty-five percent",
+        "Fifty percent",
+        "Seventy-five percent"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The new additional duty is fifty percent on covered Canadian goods."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When do the new tariffs take effect?",
+      "choices": [
+        "July first",
+        "August nineteenth",
+        "September first",
+        "October fifteenth",
+        "January first"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The effective date of the new duties is August nineteenth, twenty twenty-six."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where do the covered goods come from?",
+      "choices": [
+        "Mexico",
+        "China",
+        "Canada",
+        "The European Union",
+        "Australia"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The tariffs target Canadian goods, not goods from these other places."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the administration impose the new tariffs?",
+      "choices": [
+        "To punish Canada for military spending",
+        "In response to what it calls discriminatory Canadian measures affecting motor vehicles, alcohol, and dairy",
+        "To raise money for infrastructure",
+        "Because Canada left the USMCA",
+        "To protect Canadian workers"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The stated reason is a response to what the administration calls discriminatory Canadian trade measures."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does the new tariff apply to goods that qualify under USMCA?",
+      "choices": [
+        "It does not apply to USMCA goods",
+        "It applies only to dairy products",
+        "It generally applies regardless of USMCA preferential treatment, subject to specified exclusions",
+        "It applies only after a court ruling",
+        "It applies only to energy products"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The tariffs apply broadly to covered Canadian goods even when they qualify for USMCA treatment, with some exclusions."
+    }
+  ],
+  "youtube_url": ""
+}

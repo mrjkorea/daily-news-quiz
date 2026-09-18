@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-09",
+  "date": "2026-09-09",
+  "title": "Daily News Quiz · 2026-09-09",
+  "headline": "Isar Aerospace Spectrum rocket reaches orbit from Norway in a European first",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who developed the Spectrum rocket that reached orbit from Norway?",
+      "choices": [
+        "A Buffalo arthritis lab",
+        "Samsung",
+        "The Australian Bureau of Statistics",
+        "Isar Aerospace of Germany",
+        "The LUX-ZEPLIN collaboration"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Isar Aerospace is the German company behind Spectrum."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What can the Spectrum rocket carry once production scales up?",
+      "choices": [
+        "Tinned sardines to grocery stores",
+        "Civilian and military satellites into low-Earth orbit",
+        "Dark-matter particles into xenon",
+        "World-record hurdles",
+        "Spirulina algae under LED lights"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Its payload is satellites, not food or physics samples."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Isar's first rocket fail near the same launch site?",
+      "choices": [
+        "About eighteen months before this successful flight",
+        "On September seventh only",
+        "During Ferragosto in Sicily",
+        "During the Middle Ages",
+        "At the Tokyo Olympics"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The earlier failure came roughly eighteen months before this orbit success."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the successful Spectrum launch take place?",
+      "choices": [
+        "Andoya spaceport in Norway, north of the Arctic Circle",
+        "Sydney Harbour",
+        "A Zurich stadium",
+        "A Buffalo hospital clinic",
+        "Lead, South Dakota"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Andoya in Norway was the launch site, not South Dakota or Sydney."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do European leaders want more launch capacity at home?",
+      "choices": [
+        "To grow spirulina faster",
+        "To cure osteoarthritis with one injection",
+        "To prove dark matter exists",
+        "To reduce dependence on other nations and strengthen security",
+        "To lower sardine prices"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Europe wants its own capacity for security and economic reasons."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much payload can the Spectrum rocket haul?",
+      "choices": [
+        "Zero point four percent",
+        "About one tonne",
+        "Two hundred forty-eight kiloelectronvolts",
+        "Thirty micrograms of B twelve",
+        "Eighty thousand dollars"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Payload capacity is about one tonne, not energy units or money."
+    }
+  ],
+  "youtube_url": ""
+}

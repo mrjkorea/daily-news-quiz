@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-08",
+  "date": "2026-09-08",
+  "title": "Daily News Quiz · 2026-09-08",
+  "headline": "Australia's economy grows two point one percent in the second quarter, beating forecasts",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who released the second-quarter GDP figures for Australia?",
+      "choices": [
+        "NASA",
+        "A sardine cannery",
+        "Isar Aerospace",
+        "The University at Buffalo",
+        "The Australian Bureau of Statistics"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The numbers came from Australia's official statistics agency."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What year-on-year growth rate did Australia's economy report?",
+      "choices": [
+        "Two point one percent",
+        "One thousand gigaelectronvolts",
+        "Two point five percent from the prior quarter only",
+        "Three point five percent",
+        "Zero point four percent"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Two point one percent was the annual growth rate, not the quarterly figure."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did some Reserve Bank board members consider additional tightening?",
+      "choices": [
+        "At the August meeting",
+        "During a Zurich hurdles race",
+        "When sardine shelves emptied",
+        "During the Middle Ages",
+        "On launch day in Norway"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The August board meeting discussed tighter policy because inflation stayed high."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did households cut spending because of elevated fuel prices?",
+      "choices": [
+        "On a Spectrum rocket",
+        "At a Sicilian monastery",
+        "On the moon",
+        "In Australia, trimming travel and fuel use",
+        "Inside a xenon tank"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Household caution showed up in Australian spending data."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why does stronger GDP matter for the Reserve Bank of Australia?",
+      "choices": [
+        "It ends the sardine shortage",
+        "It allows room to tighten policy while inflation remains high",
+        "It cures arthritis instantly",
+        "It launches satellites",
+        "It proves dark matter exists"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Growth affects how aggressively the central bank can fight inflation."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much did consumer spending rise in the quarter?",
+      "choices": [
+        "Three point five percent",
+        "Two point one percent",
+        "Thirty rockets per year",
+        "Two hundred forty-eight kiloelectronvolts",
+        "Zero point four percent"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Consumer spending increased zero point four percent, not two point one."
+    }
+  ],
+  "youtube_url": ""
+}

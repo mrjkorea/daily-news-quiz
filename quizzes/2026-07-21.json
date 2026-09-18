@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-21",
+  "date": "2026-07-21",
+  "title": "Daily News Quiz · 2026-07-21",
+  "headline": "2026 07 21",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the NTU research team that created optical skyrmions?",
+      "choices": [
+        "The French scientist Poisson",
+        "Assistant Professor Shen Yijie",
+        "The UN Secretary-General",
+        "A team from NASA",
+        "A group of Singapore students"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The article clearly names Professor Shen Yijie as the leader of the research team."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the Poisson spot?",
+      "choices": [
+        "A type of skyrmion",
+        "A disease found in hedgehogs",
+        "A bright point of light that appears at the center of a disc's shadow",
+        "A new type of laser",
+        "A planet discovered in the eighteen hundreds"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The Poisson spot is a classic optical phenomenon, not a disease, planet, or type of skyrmion."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where was this research conducted?",
+      "choices": [
+        "Nanyang Technological University in Singapore",
+        "The University of Paris in France",
+        "Harvard University in the United States",
+        "The University of Tokyo in Japan",
+        "Oxford University in the United Kingdom"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story clearly states the research happened at NTU in Singapore, not these other universities."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When was the Poisson spot phenomenon first debated?",
+      "choices": [
+        "In the nineteen fifties",
+        "In the year two thousand",
+        "About fifty years ago",
+        "In the early nineteenth century",
+        "During World War Two"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The Poisson spot debate took place in the early 1800s, about two hundred years ago."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are optical skyrmions important for future technology?",
+      "choices": [
+        "They can be used to make better light bulbs",
+        "They could be used to store information for faster computers and better communications",
+        "They can replace electricity entirely",
+        "They make lasers more colorful",
+        "They help grow plants faster"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The article focuses on information storage and computing applications, not lighting or agriculture."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the NTU team create the optical skyrmions?",
+      "choices": [
+        "By using expensive metamaterials",
+        "By building a new type of computer",
+        "By mixing chemicals in a laboratory",
+        "By using a powerful telescope",
+        "By shining a laser at a small circular disc to create a Poisson spot"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The key innovation was using a simple laser and disc setup, not expensive materials or complex equipment."
+    }
+  ],
+  "youtube_url": ""
+}

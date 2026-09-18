@@ -1,0 +1,80 @@
+{
+  "id": "2026-06-30",
+  "date": "2026-06-30",
+  "title": "Daily News Quiz · 2026-06-30",
+  "headline": "Boar Burials",
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Where is Tell Kom Aziza located?",
+      "choices": [
+        "Near the Pyramids of Giza",
+        "In the eastern desert of Egypt",
+        "In the western Nile Delta",
+        "Along the banks of the Euphrates River",
+        "In southern Sudan"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The site is in the western Nile Delta, not near the Pyramids or other locations mentioned."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What surprising discovery did archaeologists make beneath the human cemetery?",
+      "choices": [
+        "Complete burials of wild boars",
+        "Golden treasure from Greek rulers",
+        "A secret underground temple",
+        "Fossilized dinosaur bones",
+        "Ancient scrolls in metal boxes"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The discovery was wild boar burials, not treasure, temples, fossils, or scrolls."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Why are wild boar burials considered unusual in ancient Egyptian culture?",
+      "choices": [
+        "Boars were too small to be buried",
+        "Egyptians only buried cats and dogs",
+        "Boars were already extinct in Egypt",
+        "Pigs and boars were usually considered impure",
+        "Burial was reserved for royalty only"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The burials are unusual because pigs and boars were considered impure in ancient Egyptian culture."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Which Egyptian deity may the boar burials be connected to?",
+      "choices": [
+        "Ra, the sun god",
+        "Set, the god of storms and chaos",
+        "Osiris, the god of the dead",
+        "Horus, the sky god",
+        "Anubis, the god of mummification"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The burials may represent ritual sacrifice connected to Set, not Ra, Osiris, Horus, or Anubis."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "How many years of human occupation are preserved at Tell Kom Aziza?",
+      "choices": [
+        "About five hundred years",
+        "About one thousand years",
+        "About two thousand years",
+        "About two thousand five hundred years",
+        "Over three thousand years"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The site preserves over three thousand years — much longer than the other options."
+    }
+  ],
+  "youtube_url": ""
+}

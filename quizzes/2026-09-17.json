@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-17",
+  "date": "2026-09-17",
+  "title": "Daily News Quiz · 2026-09-17",
+  "headline": "The first World Athletics Ultimate Championship in Budapest pays out a record prize pot",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who won the men's pole vault on the opening night in Budapest?",
+      "choices": [
+        "Armand Duplantis of Sweden",
+        "A footballer from Brazil",
+        "A swimmer from Japan",
+        "The mayor of Budapest",
+        "A Finnish metal detectorist"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The pole vault winner was Armand Duplantis of Sweden."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the total prize money offered at the new championship?",
+      "choices": [
+        "One hundred million pounds",
+        "Ten million dollars",
+        "Ten dollars",
+        "One thousand dollars",
+        "No prize money at all"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The total prize pot was ten million dollars."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the first Ultimate Championship take place?",
+      "choices": [
+        "In twenty thirty",
+        "On the first of January",
+        "In nineteen fifty",
+        "Last winter",
+        "From the eleventh to the thirteenth of September"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The event took place over three days in the middle of September."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the championship held?",
+      "choices": [
+        "On the Moon",
+        "In Nairobi, Kenya",
+        "In Budapest, Hungary",
+        "In Washington, D.C.",
+        "In a small town in Finland"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Budapest in Hungary hosted the new championship."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why was Canada's Ethan Katzberg eliminated from the hammer throw final?",
+      "choices": [
+        "He fouled twice at the start and had no valid throw",
+        "He arrived late",
+        "He changed sports",
+        "He was injured in the long jump",
+        "He refused to compete"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Two opening fouls left him with no valid mark in the final."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did Ja'Kobe Tharp win the men's one hundred and ten metre hurdles?",
+      "choices": [
+        "He won by ten metres",
+        "He edged the world champion by one hundredth of a second",
+        "The race was cancelled",
+        "He ran alone",
+        "His rival fell before the race"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Tharp's victory came by the smallest possible margin, one hundredth of a second."
+    }
+  ],
+  "youtube_url": ""
+}

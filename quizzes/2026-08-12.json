@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-12",
+  "date": "2026-08-12",
+  "title": "Daily News Quiz · 2026-08-12",
+  "headline": "EasyJet agrees to five-point-seven-billion-pound takeover by US firm Apollo",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who agreed to take over EasyJet?",
+      "choices": [
+        "The American firm Apollo",
+        "The British government",
+        "A Japanese airline",
+        "The European Union",
+        "Sir Stelios Haji-Ioannou"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Apollo, an American firm, agreed to buy EasyJet."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did Apollo promise about jobs after the takeover?",
+      "choices": [
+        "It will double the number of pilots",
+        "It does not plan to cut any jobs in the first twelve months",
+        "It will fire all managers",
+        "It will move jobs to America",
+        "It will stop hiring new workers"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Apollo promised no job cuts in the first twelve months."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was EasyJet founded?",
+      "choices": [
+        "In nineteen ninety-five",
+        "In two thousand five",
+        "In nineteen eighty",
+        "In twenty twenty",
+        "In nineteen seventy"
+      ],
+      "answerIndex": 0,
+      "hintKo": "EasyJet started in nineteen ninety-five."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does EasyJet fly its routes?",
+      "choices": [
+        "Only inside the United Kingdom",
+        "Across thirty-five European countries",
+        "Only between America and Canada",
+        "Across Asia only",
+        "Only within Spain"
+      ],
+      "answerIndex": 1,
+      "hintKo": "EasyJet operates across Europe."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did Castlelake stop bidding for EasyJet?",
+      "choices": [
+        "It accused EasyJet of trying to be bought on the cheap and withdrew",
+        "It ran out of airplanes",
+        "It decided to buy a railway instead",
+        "The weather was too bad for flights",
+        "It lost its banking license"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Castlelake withdrew from the bidding battle."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much will EasyJet shareholders receive per share?",
+      "choices": [
+        "Seven pounds and fifteen pence",
+        "Three pounds and ten pence",
+        "Ten pounds exactly",
+        "One pound and one penny",
+        "Twenty pounds and fifty pence"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Shareholders get seven pounds and fifteen pence per share."
+    }
+  ],
+  "youtube_url": ""
+}

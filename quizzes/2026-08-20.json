@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-20",
+  "date": "2026-08-20",
+  "title": "Daily News Quiz · 2026-08-20",
+  "headline": "Vietnam proposes ending the death penalty for six offences, keeping it for only four crimes",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who told the National Assembly about the draft criminal code?",
+      "choices": [
+        "Luong Tam Quang",
+        "A Reuters editor",
+        "The mayor of Hanoi",
+        "A narcotics trader",
+        "The president of France"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The minister who presented the draft was Luong Tam Quang."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did Vietnam's government propose to abolish for six offences?",
+      "choices": [
+        "The death penalty",
+        "Prison sentences",
+        "The criminal code",
+        "Drug trafficking laws",
+        "The National Assembly"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The proposal was to end the death penalty for six offences."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When is the National Assembly expected to vote on the bill?",
+      "choices": [
+        "This Thursday morning",
+        "At its next session, which begins in October",
+        "In March twenty eleven",
+        "Next week only",
+        "Never"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Lawmakers are expected to vote at the next session in October."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the draft criminal code presented?",
+      "choices": [
+        "To parliament / the National Assembly",
+        "At a Hanoi hospital",
+        "At a United Nations court",
+        "On a television game show",
+        "At a police station in Paris"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The draft criminal code was presented to parliament."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why does the ministry say Vietnam wants to narrow the death penalty?",
+      "choices": [
+        "To match progressive legal trends and improve international legal cooperation",
+        "To increase the number of executions",
+        "To close all prisons",
+        "To copy a sports rule",
+        "To raise taxes"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Officials linked the change to legal trends and cooperation with other countries."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How would Vietnam carry out an execution if the death penalty remains?",
+      "choices": [
+        "By firing squad",
+        "By lethal injection",
+        "By exile",
+        "By public vote",
+        "By a fine only"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The only remaining method is lethal injection."
+    }
+  ],
+  "youtube_url": ""
+}

@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-13",
+  "date": "2026-07-13",
+  "title": "Daily News Quiz · 2026-07-13",
+  "headline": "2026 07 13",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who launched missiles and drones toward Gulf states?",
+      "choices": [
+        "The United States",
+        "Iran",
+        "Oman",
+        "South Korea",
+        "Australia"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The United States carried out strikes inside Iran, but Iran launched the missiles and drones toward Gulf states."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the United States say it had struck inside Iran?",
+      "choices": [
+        "Schools and hospitals",
+        "Only oil tankers",
+        "Military targets including launch sites and naval assets",
+        "Tourist beaches",
+        "Farms and fishing villages"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The story described strikes on military targets, not civilian places."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where is the Strait of Hormuz located?",
+      "choices": [
+        "Between Canada and Greenland",
+        "Between Spain and Morocco",
+        "Between Japan and South Korea",
+        "Between Iran and the Arabian Peninsula",
+        "Between Australia and New Zealand"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The story focused on the Gulf waterway between Iran and the Arabian Peninsula."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When did the reported Iranian attacks take place?",
+      "choices": [
+        "Sunday July twelfth",
+        "Monday July thirteenth",
+        "Friday July seventeenth",
+        "Last year",
+        "During winter"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The report identified Sunday, July twelfth as the date of the attacks."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is the Strait of Hormuz important to the world economy?",
+      "choices": [
+        "It is a popular tourist beach",
+        "It has the world’s largest airport",
+        "It is the capital of a Gulf state",
+        "It is used only by fishing boats",
+        "It is vital for global energy shipping"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Its importance in the story comes from energy shipping and global trade."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did some Gulf countries respond to incoming missiles and drones?",
+      "choices": [
+        "They closed every airport permanently",
+        "They used air-defence systems to intercept threats",
+        "They launched tourist ships",
+        "They stopped all diplomacy",
+        "They moved the Strait of Hormuz"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The report described air-defence systems responding to incoming threats."
+    }
+  ],
+  "youtube_url": ""
+}

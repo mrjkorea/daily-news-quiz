@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-02",
+  "date": "2026-07-02",
+  "title": "Daily News Quiz · 2026-07-02",
+  "headline": "2026 07 02",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who was most affected by the Venezuela earthquakes?",
+      "choices": [
+        "People in Yaracuy state and Caracas",
+        "People in Colombia",
+        "Only government officials",
+        "Tourists visiting Venezuela",
+        "People in Brazil"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The earthquakes specifically struck Venezuela, not neighboring countries. The victims were ordinary residents, not tourists or government officials."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What caused so many buildings to collapse in Caracas and La Guaira?",
+      "choices": [
+        "Heavy rain and flooding",
+        "A magnitude 7.5 earthquake and a second 7.2 quake",
+        "Poor construction only",
+        "A volcanic eruption",
+        "A large fire"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The disaster was caused by seismic activity, not weather, fire, or volcanoes. While construction quality may have been a factor, the primary cause was the earthquakes themselves."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where was the epicenter of the two earthquakes?",
+      "choices": [
+        "In the capital city of Caracas",
+        "In neighboring Colombia",
+        "In Yaracuy state, about 160 kilometers west of Caracas",
+        "Under the ocean near Venezuela",
+        "In the southern jungle region"
+      ],
+      "answerIndex": 2,
+      "hintKo": "While Caracas felt strong tremors, the epicenter was not in the capital itself. It was inland in Yaracuy state, not under the ocean or in another country."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When did the two earthquakes strike Venezuela?",
+      "choices": [
+        "July 2, 2026",
+        "June 24, 2026",
+        "June 1, 2026",
+        "May 15, 2026",
+        "July 1, 2026"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The earthquakes occurred on June 24, not in May, early June, or July."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the USGS predict such a high death toll from this disaster?",
+      "choices": [
+        "Because Venezuela has no hospitals",
+        "Because of high magnitude quakes, 130+ aftershocks, and widespread building collapse",
+        "Because the earthquake happened at night when people were sleeping",
+        "Because no international rescue teams arrived",
+        "Because the government ignored all warnings"
+      ],
+      "answerIndex": 1,
+      "hintKo": "While timing and response matter, the USGS prediction was based on seismic data — the magnitude, aftershocks, and structural damage — not on hospital availability or government response."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How are rescue teams searching for survivors in the rubble?",
+      "choices": [
+        "Only with helicopters from above",
+        "Using dogs, drones, and listening devices to detect signs of life",
+        "By digging with their bare hands",
+        "Using only satellite images from space",
+        "By waiting for survivors to call out"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Rescue teams employed multiple technologies — dogs, drones, and listening devices — not just helicopters, satellites, or manual digging."
+    }
+  ],
+  "youtube_url": ""
+}

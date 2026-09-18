@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-03",
+  "date": "2026-07-03",
+  "title": "Daily News Quiz · 2026-07-03",
+  "headline": "2026 07 03",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who helped carry messages between the U.S. and Iranian negotiators?",
+      "choices": [
+        "Qatari and Pakistani mediators",
+        "American diplomats",
+        "Iranian officials",
+        "United Nations observers",
+        "British negotiators"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The other options were not the mediators. Qatar and Pakistan served as intermediaries in the talks."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What narrow waterway is one of the biggest issues in the talks?",
+      "choices": [
+        "The Strait of Hormuz",
+        "The Panama Canal",
+        "The Suez Canal",
+        "The Strait of Gibraltar",
+        "The English Channel"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The other waterways are important but are not the focus of these U.S.-Iran discussions."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where did the separate U.S. and Iranian meetings take place?",
+      "choices": [
+        "Qatar",
+        "Pakistan",
+        "United Arab Emirates",
+        "Oman",
+        "Saudi Arabia"
+      ],
+      "answerIndex": 0,
+      "hintKo": "While Pakistan also helped as a mediator, the meetings themselves were held in Qatar."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When will the next round of discussions be scheduled?",
+      "choices": [
+        "Next month",
+        "Soon (as soon as possible)",
+        "In six months",
+        "Never",
+        "Next year"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The talks are ongoing with plans to continue soon — not delayed by months or cancelled."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is the Strait of Hormuz important to the world economy?",
+      "choices": [
+        "Because huge amounts of oil and natural gas move through it",
+        "Because it has many tourist attractions",
+        "Because it contains gold deposits",
+        "Because it is the longest strait in the world",
+        "Because it was recently discovered"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The strait's importance comes from energy shipping, not tourism, minerals, length, or recent discovery."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How has Iran used the strait as leverage in the negotiations?",
+      "choices": [
+        "By saying ships should follow Iranian-approved routes and may have to pay fees",
+        "By closing the strait completely",
+        "By building a bridge across the strait",
+        "By inviting international observers",
+        "By selling the strait to another country"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Iran has not closed the strait completely or built a bridge. Its leverage comes from controlling access and proposing fees."
+    }
+  ],
+  "youtube_url": ""
+}

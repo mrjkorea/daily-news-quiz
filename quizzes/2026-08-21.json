@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-21",
+  "date": "2026-08-21",
+  "title": "Daily News Quiz · 2026-08-21",
+  "headline": "Personalised mRNA vaccine stops high-risk melanoma returning in a phase-three trial",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who developed the personalised vaccine with Merck?",
+      "choices": [
+        "Moderna",
+        "Oxford University alone",
+        "A Hanoi hospital",
+        "The National Assembly",
+        "EasyJet"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Merck worked with Moderna on the vaccine."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the vaccine and drug combination do for melanoma patients?",
+      "choices": [
+        "It caused the cancer to spread faster",
+        "It extended the time patients stayed cancer free",
+        "It replaced surgery completely",
+        "It cured every cancer type",
+        "It only changed hair color"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The combination kept patients cancer free for longer than the drug alone."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was the vaccine given to patients in the trial?",
+      "choices": [
+        "After surgery",
+        "Before they were born",
+        "During a football match",
+        "Only in winter",
+        "Instead of any hospital visit"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Patients received the vaccine after surgery."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did researchers get the genetic information for each personalised vaccine?",
+      "choices": [
+        "From a weather report",
+        "From a small part of the patient's tumour DNA",
+        "From a library book",
+        "From river water",
+        "From a passport photo"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The genetic information came from the tumour DNA."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do doctors still want caution about the results?",
+      "choices": [
+        "The full results have not been released or peer-reviewed yet",
+        "The trial used only ten mice",
+        "The vaccine was never injected",
+        "The companies refused to name the drug",
+        "The story is about a typhoon"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Caution is needed because the full results are not yet fully reviewed."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does the personalised vaccine teach the immune system to fight cancer?",
+      "choices": [
+        "By cooling the whole body in ice",
+        "By instructing the immune system to recognise remaining tumour cells",
+        "By removing the entire immune system",
+        "By using only sunlight",
+        "By changing the weather"
+      ],
+      "answerIndex": 1,
+      "hintKo": "It trains the immune system to recognise leftover tumour cells."
+    }
+  ],
+  "youtube_url": ""
+}

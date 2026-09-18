@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-11",
+  "date": "2026-08-11",
+  "title": "Daily News Quiz · 2026-08-11",
+  "headline": "UCLA scientists discover how to guide heat like light at room temperature",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the research team at UCLA?",
+      "choices": [
+        "Professor Yongjie Hu",
+        "Professor Ana Martin",
+        "Doctor Leo Park",
+        "Doctor Sara Kim",
+        "Professor John Bell"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The lead researcher was Professor Yongjie Hu, not one of the other names listed."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the scientists discover about heat in boron arsenide?",
+      "choices": [
+        "Heat disappears completely",
+        "Heat moves in focused wave-like rays instead of spreading randomly",
+        "Heat only moves at night",
+        "Heat turns into light",
+        "Heat becomes solid"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Heat in boron arsenide moves in focused rays rather than spreading randomly."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was phonon focusing observed before this study?",
+      "choices": [
+        "Only in liquids",
+        "Only at extremely cold temperatures",
+        "Only in outer space",
+        "Only during the day",
+        "It was never observed before"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Earlier observations of phonon focusing happened only at very cold temperatures."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the researchers observe the heat patterns?",
+      "choices": [
+        "In boron arsenide crystals at UCLA",
+        "In a desert in Arizona",
+        "In ocean water",
+        "In an ice laboratory in Norway",
+        "In a volcano in Iceland"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The observations were made in boron arsenide crystals at UCLA."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is controlling heat important for electronic devices?",
+      "choices": [
+        "Because heat makes screens brighter",
+        "Because overheating can reduce performance and reliability",
+        "Because heat changes the color of devices",
+        "Because devices need heat to work",
+        "Because heat saves electricity"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Controlling heat matters because overheating hurts performance and reliability."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the researchers map temperature at the nanoscale?",
+      "choices": [
+        "They created a new technique for mapping temperature at the nanoscale",
+        "They used a regular kitchen thermometer",
+        "They guessed the temperatures",
+        "They asked the crystal to report its heat",
+        "They measured only the air outside"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A new nanoscale temperature-mapping technique was used to observe the heat patterns."
+    }
+  ],
+  "youtube_url": ""
+}

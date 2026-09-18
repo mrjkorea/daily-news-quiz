@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-03",
+  "date": "2026-08-03",
+  "title": "Daily News Quiz · 2026-08-03",
+  "headline": "2026 08 03",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who travelled to Ceuta to address the border crisis?",
+      "choices": [
+        "Spanish Prime Minister Pedro Sanchez",
+        "The King of Morocco",
+        "The President of France",
+        "The Italian Interior Minister",
+        "The United Nations Secretary-General"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story names Spanish Prime Minister Pedro Sanchez as the leader who visited Ceuta to address the crisis."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What happened to most of the people who crossed into Ceuta?",
+      "choices": [
+        "They stayed and found jobs",
+        "They were already heading back voluntarily",
+        "They were arrested by Spanish police",
+        "They moved to other European countries",
+        "They were sent to Melilla"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The story says most migrants were returning to Morocco on their own, not staying or being arrested."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the mass crossing of the border begin?",
+      "choices": [
+        "Wednesday night",
+        "Thursday morning",
+        "Friday evening",
+        "Saturday afternoon",
+        "Sunday at dawn"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The mass crossing began on Thursday morning, according to Spain's Interior Ministry."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the Spanish enclave of Ceuta located?",
+      "choices": [
+        "In North Africa, on the coast near Morocco",
+        "On the coast of France",
+        "On an island in the Atlantic Ocean",
+        "In southern Italy",
+        "On the border with Portugal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Ceuta is located in North Africa on the coast near Morocco, not in Europe or the Atlantic."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did many migrants decide to return to Morocco?",
+      "choices": [
+        "They found better jobs in Ceuta",
+        "They could not find food or shelter in Ceuta",
+        "They were forced back by Spanish police",
+        "The weather became too cold",
+        "They wanted to join family in Spain"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Lack of food and shelter in Ceuta drove many migrants to return to Morocco."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did Moroccan forces try to prevent more crossings?",
+      "choices": [
+        "They closed all border posts permanently",
+        "They beat back crowds with batons and tear gas at the gates",
+        "They built a new wall overnight",
+        "They used helicopters to patrol the sea",
+        "They negotiated with the migrants"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The story describes Moroccan forces using batons and tear gas at the gates to stop more crossings."
+    }
+  ],
+  "youtube_url": ""
+}

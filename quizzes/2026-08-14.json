@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-14",
+  "date": "2026-08-14",
+  "title": "Daily News Quiz · 2026-08-14",
+  "headline": "He's been frozen on Everest for thirty years, now 'Green Boots' may finally be coming home",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is the Indian climber known as Green Boots?",
+      "choices": [
+        "Dorje Morup",
+        "Tsewang Paljor",
+        "Sir Edmund Hillary",
+        "Tenzing Norgay",
+        "Auqib Nabi"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The body is believed to be Dorje Morup."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does India plan to do with the body?",
+      "choices": [
+        "Leave it on the mountain forever",
+        "Retrieve it and bring it home",
+        "Bury it in the snow",
+        "Turn it into a monument",
+        "Sell the green boots"
+      ],
+      "answerIndex": 1,
+      "hintKo": "India plans to recover the body and return it to the family."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the climber die on Everest?",
+      "choices": [
+        "In nineteen ninety-six",
+        "In two thousand ten",
+        "In nineteen eighty",
+        "In twenty twenty",
+        "In nineteen seventy-five"
+      ],
+      "answerIndex": 0,
+      "hintKo": "He died in nineteen ninety-six."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where has the body been lying for thirty years?",
+      "choices": [
+        "At the bottom of a crevasse",
+        "Under an overhanging rock near the summit",
+        "Inside a base camp tent",
+        "Beside a river valley",
+        "In a helicopter hangar"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The body rests under an overhanging rock near the summit."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do authorities believe the body belongs to Morup?",
+      "choices": [
+        "Because of testimony from survivors and the location of the last radio contact",
+        "Because of the color of the boots",
+        "Because of a passport found nearby",
+        "Because of a DNA test in a laboratory",
+        "Because his family climbed up to see it"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Survivor testimony and the last radio contact location support the identification."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How will the recovery team bring the body down?",
+      "choices": [
+        "They will fly a helicopter directly to the body",
+        "They will carry it down to an altitude where a helicopter or yaks can collect it",
+        "They will push it down the mountain",
+        "They will wait for the snow to melt",
+        "They will leave it for the next season"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The body must be carried down to a lower altitude for collection."
+    }
+  ],
+  "youtube_url": ""
+}

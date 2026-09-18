@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-03",
+  "date": "2026-09-03",
+  "title": "Daily News Quiz · 2026-09-03",
+  "headline": "Louisiana opens its first recreational alligator hunt in more than fifty years",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who may apply for a recreational alligator tag in Louisiana?",
+      "choices": [
+        "Licensed hunters through a lottery",
+        "Only museum guards",
+        "Only Olympic runners",
+        "Only phone buyers",
+        "Only algae farmers"
+      ],
+      "answerIndex": 0,
+      "hintKo": "It is a lottery for licensed hunters, not a museum or sports prize."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What kind of alligator hunt is opening for the first time in more than fifty years?",
+      "choices": [
+        "A recreational hunt",
+        "A space hunt",
+        "A painting hunt",
+        "A phone hunt",
+        "A track meet"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The new hunt is recreational, not commercial art or sport racing."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When does the new recreational alligator season take place?",
+      "choices": [
+        "Through October",
+        "On Ferragosto only",
+        "Every Monday at noon",
+        "During the Tokyo Olympics",
+        "On a Friday phone launch"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The season is October, not a one-day holiday."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where will the recreational alligator hunt happen?",
+      "choices": [
+        "In eight zones across Louisiana",
+        "In a Zurich stadium",
+        "In a Messina museum",
+        "In Iceland tanks",
+        "In a Samsung factory"
+      ],
+      "answerIndex": 0,
+      "hintKo": "It is a Louisiana swamp-and-wetland hunt, not a stadium event."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did Louisiana ban alligator hunting in the nineteen sixties?",
+      "choices": [
+        "Unregulated killing had dropped the wild population below one hundred thousand",
+        "The animals learned to use phones",
+        "The stadium was full",
+        "The museum was robbed",
+        "The algae died"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The ban was about a crashing wild population, not sports or art."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How are hunters allowed to catch an alligator in the new hunt?",
+      "choices": [
+        "Hook and line only",
+        "Poles linked to poaching",
+        "Shooting a free-swimming animal first",
+        "Using a pole vault",
+        "Buying a painting"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Hook and line is allowed; poaching methods are not."
+    }
+  ],
+  "youtube_url": ""
+}

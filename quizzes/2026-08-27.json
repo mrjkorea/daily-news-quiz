@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-27",
+  "date": "2026-08-27",
+  "title": "Daily News Quiz · 2026-08-27",
+  "headline": "Carbon pollution has fuelled 'massive expansion' of marine heatwaves in Europe, study finds",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who carried out the rapid analysis of Europe's marine heatwaves?",
+      "choices": [
+        "World Weather Attribution",
+        "NASA",
+        "A weather app company",
+        "Alibaba",
+        "Reuters"
+      ],
+      "answerIndex": 0,
+      "hintKo": "World Weather Attribution researchers did the study."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did carbon pollution do to marine heatwaves in Europe this summer?",
+      "choices": [
+        "It stopped them completely",
+        "It drove a massive expansion of them",
+        "It made the sea colder",
+        "It removed all fish",
+        "It had no effect"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Carbon pollution expanded the marine heatwaves."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When would this year's hottest sea fortnights have been virtually impossible?",
+      "choices": [
+        "In a preindustrial climate",
+        "Next summer",
+        "In twenty twenty-five",
+        "During winter storms",
+        "Never"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They would have been impossible before industrialization."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did marine heatwaves cover ninety percent of the region?",
+      "choices": [
+        "The Arctic Ocean",
+        "The Bay of Biscay and Iberian coast",
+        "The Pacific Ocean",
+        "The Red Sea",
+        "Lake Geneva"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Ninety percent of the Bay of Biscay and Iberian coast was hit."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why can hot seas still harm people who live on the coast?",
+      "choices": [
+        "They kill habitat-forming life and keep coastal nights hotter",
+        "They make the sand disappear",
+        "They turn the water purple",
+        "They stop all boats",
+        "They raise the price of umbrellas"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Hot seas damage marine life and make coastal nights warmer."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the scientists estimate the role of climate breakdown?",
+      "choices": [
+        "By asking swimmers",
+        "By comparing real temperatures with climate-model worlds",
+        "By reading old maps",
+        "By counting fish",
+        "By guessing"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The team compared real data with models."
+    }
+  ],
+  "youtube_url": ""
+}

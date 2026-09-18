@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-28",
+  "date": "2026-07-28",
+  "title": "Daily News Quiz · 2026-07-28",
+  "headline": "Venus is still geologically active",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the research team that studied Venus's rift valleys?",
+      "choices": [
+        "NASA scientists",
+        "Professor Taras Gerya at ETH Zurich",
+        "European Space Agency researchers",
+        "A team from Harvard University",
+        "Russian space scientists"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The research was led by Professor Gerya at ETH Zurich."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the computer simulations reveal about young rifts on Venus?",
+      "choices": [
+        "They develop broad, high flanks along their edges",
+        "They are completely flat with no features",
+        "They fill with water over time",
+        "They disappear after a few years",
+        "They are exactly the same as old rifts"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The key finding was about the broad, high flanks of young rifts."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When is the ESA's EnVision mission scheduled to launch?",
+      "choices": [
+        "2026",
+        "2028",
+        "2029",
+        "2031",
+        "Early 2030s"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The article specifically mentions early 2030s as the launch window."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where were the Venus surface images taken from in the nineteen-nineties?",
+      "choices": [
+        "The Hubble Space Telescope",
+        "Ground-based telescopes in Chile",
+        "NASA's Magellan probe",
+        "The International Space Station",
+        "The Soviet Venera landers"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The Magellan probe provided the surface images used for comparison."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do scientists now believe Venus is still geologically active?",
+      "choices": [
+        "Because Venus has volcanoes that erupt every day",
+        "Because the simulations match observed rift features that indicate recent activity",
+        "Because astronauts visited and measured the rifts",
+        "Because Venus has liquid water under its surface",
+        "Because telescopes can see the rifts moving"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The match between simulations and observed surface features is the key evidence."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How fast might the Venusian rifts be widening?",
+      "choices": [
+        "3 to 10 centimeters per year",
+        "1 to 2 millimeters per year",
+        "About 1 meter per day",
+        "They are not widening at all",
+        "Nobody can measure the speed"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The study found a rate of 3 to 10 centimeters per year."
+    }
+  ],
+  "youtube_url": ""
+}

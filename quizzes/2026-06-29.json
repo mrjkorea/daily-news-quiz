@@ -1,0 +1,80 @@
+{
+  "id": "2026-06-29",
+  "date": "2026-06-29",
+  "title": "Daily News Quiz · 2026-06-29",
+  "headline": "2026 06 29",
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "What did NASA's Perseverance rover discover on Mars?",
+      "choices": [
+        "A new crater",
+        "Organic carbon molecules in ancient mudstone",
+        "Flowing water on the surface",
+        "A fossilized dinosaur bone",
+        "An active volcano"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The discovery was organic molecules in rock, not a new crater, flowing water, dinosaur fossils (Mars has none), or volcanic activity."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Where did the rover find these potential biosignatures?",
+      "choices": [
+        "Cheyava Falls formation in Neretva Vallis canyon",
+        "Olympus Mons volcano",
+        "Valles Marineris canyon system",
+        "The north polar ice cap",
+        "Gale Crater"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The site was Cheyava Falls, not Olympus Mons, Valles Marineris, the polar cap, or Gale Crater (where Curiosity is)."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "What instrument did the rover use to detect carbon compounds?",
+      "choices": [
+        "A microscope camera",
+        "A drilling device",
+        "The SHERLOC ultraviolet laser instrument",
+        "A weather station",
+        "A radiation detector"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The detection was spectroscopic, not visual (microscope), mechanical (drill), meteorological (weather station), or radiological."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "What was Mars like billions of years ago according to the findings?",
+      "choices": [
+        "Always cold and dry",
+        "Covered entirely by ice",
+        "A gas giant like Jupiter",
+        "Warm, wet, and habitable with flowing water",
+        "Identical to Earth today"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The evidence shows past warmth and water, not eternal cold, complete ice cover, gas giant composition, or Earth-like conditions."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why can't scientists confirm these are signs of ancient life yet?",
+      "choices": [
+        "The rover broke down",
+        "The data was lost during transmission",
+        "The samples were contaminated by Earth microbes",
+        "The molecules are too small to study",
+        "The same carbon molecules can form without life through chemical reactions"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The uncertainty is scientific (abiotic formation is possible), not due to equipment failure, data loss, contamination, or molecule size."
+    }
+  ],
+  "youtube_url": ""
+}

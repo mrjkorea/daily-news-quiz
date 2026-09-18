@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-07",
+  "date": "2026-08-07",
+  "title": "Daily News Quiz · 2026-08-07",
+  "headline": "2026 08 07",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the research team at Nagoya University?",
+      "choices": [
+        "Yuki Miyai",
+        "Bill Chadwick",
+        "Prem Kumar",
+        "Gina Talcott",
+        "Adam Soule"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The lead author of the Nagoya University study is Yuki Miyai."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does local C three do inside tumors?",
+      "choices": [
+        "It kills cancer cells directly",
+        "It keeps immunosuppressive cells out of the tumor environment",
+        "It produces more blood cells",
+        "It shrinks the tumor with heat",
+        "It carries oxygen to the tumor"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Local C three limits immunosuppressive cells inside tumors rather than attacking cancer directly."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was the study published?",
+      "choices": [
+        "In twenty twenty-six",
+        "In twenty twenty-five",
+        "In twenty twenty-four",
+        "In twenty twenty-three",
+        "In twenty twenty"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The study appeared in Nature Communications in twenty twenty-six."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the research conducted?",
+      "choices": [
+        "Nagoya University in Japan",
+        "Harvard University in the United States",
+        "Oxford University in England",
+        "Seoul National University in South Korea",
+        "The Pasteur Institute in France"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The research team was based at Nagoya University in Japan."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did immunotherapy become less effective when fibroblasts stopped producing C three?",
+      "choices": [
+        "Because the drug lost its color",
+        "Because without local C three, immunosuppressive cells could enter the tumor and weaken the immune attack",
+        "Because the mice stopped eating",
+        "Because the liver stopped working",
+        "Because the tumor grew too large to treat"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Local C three keeps immunosuppressive cells out; without it, the immune attack is weakened."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the researchers test whether blood C three affected immunotherapy?",
+      "choices": [
+        "They removed the liver entirely",
+        "They reduced liver-derived C three by ninety percent and the immunotherapy drug still worked",
+        "They injected extra C three into the blood",
+        "They tested only in test tubes",
+        "They measured temperature changes"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Reducing blood C three did not weaken the treatment; only stopping local C three made it less effective."
+    }
+  ],
+  "youtube_url": ""
+}

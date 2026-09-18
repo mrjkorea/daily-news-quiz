@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-28",
+  "date": "2026-08-28",
+  "title": "Daily News Quiz · 2026-08-28",
+  "headline": "3D X-ray imaging unlocks the secrets of the narwhal's spiral tusk",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who helped lead the study of the narwhal tusk?",
+      "choices": [
+        "Henrik Birkedal",
+        "Prabal Saxena",
+        "Claire Bergin",
+        "Flash the robot",
+        "A medieval king"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Henrik Birkedal helped lead the tusk study."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the three-dimensional X-ray images show inside the tusk?",
+      "choices": [
+        "Tiny bones",
+        "Opposite spirals in the outer and inner layers",
+        "A hollow tube",
+        "Gold inside",
+        "Nothing at all"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The outer and inner layers twist in opposite ways."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When were narwhal tusks sold as unicorn horns?",
+      "choices": [
+        "In the Middle Ages",
+        "In the twenty-first century",
+        "In the nineteen-nineties",
+        "In ancient Egypt",
+        "Last month"
+      ],
+      "answerIndex": 0,
+      "hintKo": "That trade happened in the Middle Ages."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where do narwhals live?",
+      "choices": [
+        "In the Sahara Desert",
+        "In the cold Arctic Ocean",
+        "In the Amazon River",
+        "In the Mediterranean",
+        "In Lake Baikal"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Narwhals live in the Arctic Ocean."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do the researchers think the tusk grows straight?",
+      "choices": [
+        "The opposite spirals may balance each other",
+        "The moon pulls it straight",
+        "It is made of steel",
+        "It grows in a tube",
+        "It never grows"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The counter-spirals may keep the tusk straight."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the scientists study the inside of the tusk?",
+      "choices": [
+        "By cutting it in half",
+        "With advanced three-dimensional X-ray imaging",
+        "By asking sailors",
+        "By weighing it",
+        "By boiling it"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The team used three-dimensional X-ray imaging."
+    }
+  ],
+  "youtube_url": ""
+}

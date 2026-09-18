@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-14",
+  "date": "2026-07-14",
+  "title": "Daily News Quiz · 2026-07-14",
+  "headline": "2026 07 14",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who attended the meeting in Bangkok?",
+      "choices": [
+        "ASEAN foreign ministers and Myanmar's foreign minister",
+        "United Nations leaders",
+        "European Union diplomats",
+        "World Health Organization officials",
+        "World Trade Organization delegates"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The meeting was specifically between ASEAN foreign ministers and Myanmar's foreign minister, not UN, EU, WHO, or WTO officials."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the five-point consensus?",
+      "choices": [
+        "A trade agreement between ASEAN countries",
+        "ASEAN's peace plan for Myanmar calling for an end to violence and dialogue",
+        "A military alliance treaty",
+        "An economic sanctions package",
+        "A United Nations resolution"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The five-point consensus is ASEAN's peace framework for Myanmar, not a trade deal, military treaty, sanctions package, or UN resolution."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where did the ASEAN meeting with Myanmar's foreign minister take place?",
+      "choices": [
+        "Singapore",
+        "Manila",
+        "Bangkok, Thailand",
+        "Jakarta",
+        "Hanoi"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The meeting took place in Bangkok, Thailand — not in Singapore, Manila, Jakarta, or Hanoi."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When did ASEAN first ban Myanmar's military leaders from summits?",
+      "choices": [
+        "After the 2024 elections",
+        "After the military coup in 2021",
+        "After the COVID pandemic",
+        "After the civil war ended",
+        "After the 2026 elections"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The ban came after the 2021 military coup, not after elections, the pandemic, or the civil war ending."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are some groups criticizing the ASEAN meeting with Myanmar?",
+      "choices": [
+        "Because the meeting was too expensive",
+        "Because ASEAN is engaging with the junta without demanding real democratic change",
+        "Because Myanmar refused to attend",
+        "Because the meeting was held online",
+        "Because too few countries participated"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The criticism centers on ASEAN engaging the junta without demanding democratic change — not cost, attendance, format, or participation numbers."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many people have been affected by Myanmar's civil war?",
+      "choices": [
+        "About ten thousand killed",
+        "More than one hundred thousand killed and millions displaced",
+        "Less than one thousand killed",
+        "About fifty thousand killed",
+        "About five hundred thousand killed"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The correct figure is over 100,000 killed with millions displaced — far more than ten thousand or less than one thousand."
+    }
+  ],
+  "youtube_url": ""
+}

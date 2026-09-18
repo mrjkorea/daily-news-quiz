@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-23",
+  "date": "2026-07-23",
+  "title": "Daily News Quiz · 2026-07-23",
+  "headline": "2026 07 23",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the research team that discovered the fasting and gut bacterium connection?",
+      "choices": [
+        "Kunal Rai alone",
+        "Helen Piwnica-Worms and Kunal Rai",
+        "The University of Texas president",
+        "A team of graduate students",
+        "The National Cancer Institute"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The research was co-led by two professors — Piwnica-Worms and Rai — not a single researcher or other entity."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the name of the gut bacterium that helps heal the intestine after radiation?",
+      "choices": [
+        "Akkermansia muciniphila",
+        "Escherichia coli",
+        "Lactobacillus acidophilus",
+        "Staphylococcus aureus",
+        "Bifidobacterium longum"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The specific bacterium identified in the study is Akkermansia muciniphila, not these other common gut bacteria."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was this study published in the Proceedings of the National Academy of Sciences?",
+      "choices": [
+        "January twenty twenty-six",
+        "March twenty twenty-six",
+        "June twenty twenty-six",
+        "September twenty twenty-six",
+        "December twenty twenty-six"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The article states the study was published in June twenty twenty-six."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was this research conducted?",
+      "choices": [
+        "Harvard Medical School",
+        "Stanford University",
+        "The National Institutes of Health",
+        "The University of Texas MD Anderson Cancer Center",
+        "Johns Hopkins University"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The research took place at MD Anderson Cancer Center in Texas, not at these other institutions."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is fasting difficult or inappropriate for many cancer patients?",
+      "choices": [
+        "They may be physically weak or have medical conditions that make not eating unsafe",
+        "They do not believe in fasting",
+        "Fasting has been proven ineffective",
+        "Hospitals do not allow fasting",
+        "Fasting only works for healthy people"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The study acknowledges that fasting is not practical for many cancer patients due to their physical condition and medical needs."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does the A-K-K bacterium help prepare intestinal cells for repair?",
+      "choices": [
+        "It directly rebuilds damaged tissue",
+        "It kills cancer cells in the intestine",
+        "It produces propionate which modifies histones and opens up regeneration genes",
+        "It blocks radiation from reaching the intestine",
+        "It increases blood flow to the stomach"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The bacterium produces propionate, a metabolite that modifies histones — not by directly rebuilding tissue or blocking radiation."
+    }
+  ],
+  "youtube_url": ""
+}

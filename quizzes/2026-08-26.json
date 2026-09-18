@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-26",
+  "date": "2026-08-26",
+  "title": "Daily News Quiz · 2026-08-26",
+  "headline": "Alibaba proposes record $10.2 billion Hong Kong share placement to fund AI",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who announced the Hong Kong share placement?",
+      "choices": [
+        "Alibaba",
+        "Intel",
+        "Hong Kong government",
+        "A shopping mall",
+        "NASA"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Alibaba made the announcement."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does Alibaba want to do with the money from the placement?",
+      "choices": [
+        "Build a new shopping festival",
+        "Fund its AI work and infrastructure",
+        "Buy a football team",
+        "Pay a holiday bonus",
+        "Open a restaurant"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The cash is for AI capabilities and infrastructure."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Alibaba announce the proposed share sale?",
+      "choices": [
+        "On Sunday",
+        "On Monday",
+        "On Friday",
+        "In January",
+        "In December"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The announcement came on Sunday."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does Alibaba want to place the new shares?",
+      "choices": [
+        "In New York",
+        "In Hong Kong",
+        "In London",
+        "In Tokyo",
+        "In Sydney"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The placement is planned in Hong Kong."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is this placement being called a record in Hong Kong?",
+      "choices": [
+        "It would be the largest primary follow-on offering by a Hong Kong-listed company",
+        "It is the first stock sale ever",
+        "It is the smallest deal on record",
+        "It has no investors",
+        "It is a gift"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The deal is a record for Hong Kong-listed companies."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much money does Alibaba say the placement would raise?",
+      "choices": [
+        "One million dollars",
+        "About eighty billion Hong Kong dollars",
+        "One thousand dollars",
+        "Five dollars",
+        "No money"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The placement would raise about eighty billion Hong Kong dollars."
+    }
+  ],
+  "youtube_url": ""
+}

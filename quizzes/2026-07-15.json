@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-15",
+  "date": "2026-07-15",
+  "title": "Daily News Quiz · 2026-07-15",
+  "headline": "2026 07 15",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is Yoshua Bengio?",
+      "choices": [
+        "An AI researcher on the UN scientific panel",
+        "The president of Estonia",
+        "A Nobel Prize winner from Myanmar",
+        "The Secretary-General of ASEAN",
+        "The foreign minister of El Salvador"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Bengio is an AI scientist, not a politician or diplomat."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the UN hold in Geneva?",
+      "choices": [
+        "The World Cup final",
+        "A climate change conference",
+        "The Global Dialogue on AI Governance",
+        "A peace summit for Myanmar",
+        "The WHO cancer conference"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The article specifically states it was the Global Dialogue on AI Governance."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where did the meeting take place?",
+      "choices": [
+        "New York City",
+        "Geneva, Switzerland",
+        "Bangkok, Thailand",
+        "Seoul, South Korea",
+        "Jakarta, Indonesia"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The article clearly states the meeting was in Geneva."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When was the UN scientific panel's report published?",
+      "choices": [
+        "July fourteenth",
+        "June first",
+        "July seventh",
+        "July first",
+        "June thirtieth"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The article states the report was published on July first."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is international AI governance needed?",
+      "choices": [
+        "No single country can control AI on its own",
+        "AI is too expensive",
+        "Only the UN has AI experts",
+        "AI only works in English",
+        "Developing countries have too much AI"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The key reason is that AI crosses borders and cannot be controlled by any single nation."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many experts were on the UN's scientific panel?",
+      "choices": [
+        "Twenty",
+        "Forty",
+        "One hundred",
+        "Ten",
+        "Sixty"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The article clearly says forty experts."
+    }
+  ],
+  "youtube_url": ""
+}

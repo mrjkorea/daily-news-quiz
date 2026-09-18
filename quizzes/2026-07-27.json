@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-27",
+  "date": "2026-07-27",
+  "title": "Daily News Quiz · 2026-07-27",
+  "headline": "2026 07 27",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who announced the discovery of the new monkey species?",
+      "choices": [
+        "Florida Atlantic University",
+        "Harvard University",
+        "The United Nations",
+        "National Geographic",
+        "The World Wildlife Fund"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The announcement came from Florida Atlantic University, not these other organizations."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What makes the Likweli monkey's face distinctive?",
+      "choices": [
+        "It has blue eyes",
+        "It has no fur on its face",
+        "It has a vivid orange-cream colored patch around its mouth and nose",
+        "It has stripes on its cheeks",
+        "It has a very long nose"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The distinctive feature is the orange-cream facial patch, not these other characteristics."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was the discovery announced?",
+      "choices": [
+        "July first",
+        "July tenth",
+        "July twelfth",
+        "July fourteenth",
+        "July sixteenth"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The specific date given in the article is July sixteenth."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the new monkey species found?",
+      "choices": [
+        "Lomami National Park in the Democratic Republic of Congo",
+        "Amazon Rainforest in Brazil",
+        "Serengeti National Park in Tanzania",
+        "Kruger National Park in South Africa",
+        "Borneo Rainforest in Indonesia"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The discovery was specifically in Congo's Lomami National Park, not these other locations."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do researchers think the monkey may already be at risk?",
+      "choices": [
+        "Because it is too colorful",
+        "Because its range area is small and its population size appears limited",
+        "Because it cannot climb trees well",
+        "Because it has no natural predators",
+        "Because it only eats one type of food"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The risk comes from the limited range and population, not these other factors."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did scientists confirm the Likweli was a new species?",
+      "choices": [
+        "By measuring its weight",
+        "By counting how many they found",
+        "By analyzing its distinct acoustic roaring call and physical features",
+        "By testing its DNA in a laboratory only",
+        "By asking local villagers"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The combination of vocal analysis and physical examination confirmed the new species."
+    }
+  ],
+  "youtube_url": ""
+}

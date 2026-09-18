@@ -1,0 +1,80 @@
+{
+  "id": "2026-06-26",
+  "date": "2026-06-26",
+  "title": "Daily News Quiz · 2026-06-26",
+  "headline": "2026 06 26",
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who solved the 100-year mystery of France's Ice Age cave paintings?",
+      "choices": [
+        "A team of scientists",
+        "A group of local French farmers",
+        "A single archaeologist working alone",
+        "The French government",
+        "A museum curator"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The discovery was made by a scientific research team, not by farmers, a single person, the government, or a museum curator."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did scientists discover hidden inside the black cave pigments?",
+      "choices": [
+        "Iron oxide",
+        "Manganese minerals",
+        "Charcoal",
+        "Gold dust",
+        "Volcanic ash"
+      ],
+      "answerIndex": 2,
+      "hintKo": "While iron and manganese were known to be present, the hidden discovery was charcoal. Gold dust and volcanic ash were not found."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where is the Font-de-Gaume cave located?",
+      "choices": [
+        "Northern Spain",
+        "Southern Italy",
+        "Western Germany",
+        "Dordogne, southwestern France",
+        "Eastern Turkey"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The cave is in France, not in Spain, Italy, Germany, or Turkey."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When was the bison painting dated to?",
+      "choices": [
+        "About 5,000 years ago",
+        "About 13,300 years ago",
+        "About 25,000 years ago",
+        "About 2,000 years ago",
+        "About 50,000 years ago"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The radiocarbon dating placed the bison at about 13,300 years old, not the other time periods mentioned."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "How did non-invasive imaging help solve this mystery?",
+      "choices": [
+        "It found hidden charcoal that could be carbon-dated",
+        "It removed the paint from the cave wall",
+        "It translated ancient writing on the walls",
+        "It took high-resolution photographs for a museum",
+        "It measured the temperature inside the cave"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The imaging techniques were non-invasive — they did not touch or remove anything. They found charcoal, not writing, and were used for chemical analysis, not temperature measurement or simple photography."
+    }
+  ],
+  "youtube_url": ""
+}

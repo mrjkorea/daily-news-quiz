@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-06",
+  "date": "2026-08-06",
+  "title": "Daily News Quiz · 2026-08-06",
+  "headline": "2026 08 06",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is the volcanologist at Oregon State University who said the ocean hides everything?",
+      "choices": [
+        "Bill Chadwick",
+        "Adam Soule",
+        "Julie Bowles",
+        "Meghan Bartels",
+        "Lauren Dauphin"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The scientist who made that statement is Bill Chadwick of Oregon State University."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What floated on the ocean surface near the Admiralty Islands?",
+      "choices": [
+        "Fish eggs",
+        "Rafts of volcanic rock called pumice",
+        "Seaweed",
+        "Icebergs",
+        "Plastic waste"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The floating material was pumice, frothy volcanic rock produced by the eruption."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did scientists first notice the eruption?",
+      "choices": [
+        "In early May",
+        "In early June",
+        "In late July",
+        "In September",
+        "In November"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Scientists first noticed the eruption in early May through an earthquake swarm and satellite images."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the underwater eruption occur?",
+      "choices": [
+        "In the Atlantic Ocean",
+        "In the Bismarck Sea near Papua New Guinea",
+        "In the Mediterranean Sea",
+        "Near the coast of Japan",
+        "In the Arctic Ocean"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The eruption took place in the Bismarck Sea near Papua New Guinea."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why can pumice float to the ocean surface?",
+      "choices": [
+        "Because it is made of wood",
+        "Because gas-rich molten rock cools suddenly into frothy rock with trapped air",
+        "Because it is very light plastic",
+        "Because it is hollow metal",
+        "Because salt water pushes it up"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Pumice is frothy rock with trapped gas, which lets it float up to the ocean surface."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did scientists learn about the eruption hidden underwater?",
+      "choices": [
+        "Divers filmed it directly",
+        "A small swarm of earthquakes and NASA satellite images showed plumes and discolored water",
+        "Fishermen reported hot water",
+        "A submarine took photos",
+        "Sonar detected a new island"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Earthquake monitoring and NASA satellite observations revealed the hidden eruption."
+    }
+  ],
+  "youtube_url": ""
+}

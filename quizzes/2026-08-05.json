@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-05",
+  "date": "2026-08-05",
+  "title": "Daily News Quiz · 2026-08-05",
+  "headline": "2026 08 05",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the research team at Northwestern University?",
+      "choices": [
+        "Professor Prem Kumar",
+        "Dr. Gina Talcott",
+        "The Mayor of Chicago",
+        "Elon Musk",
+        "The CEO of Google"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The study's senior author is Professor Prem Kumar; Gina Talcott is the first author."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the quantum photons retain after traveling through the busy fiber?",
+      "choices": [
+        "Their original color",
+        "More than ninety-four percent fidelity",
+        "Their speed",
+        "Their temperature",
+        "Their electrical charge"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The key result was entanglement fidelity above ninety-four percent, confirming the connection survived."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Kumar's team first show quantum teleportation over a thirty-kilometer cable?",
+      "choices": [
+        "In twenty twenty-four",
+        "In twenty twenty-five",
+        "Earlier this year",
+        "In twenty twenty",
+        "They have not shown it yet"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The earlier thirty-kilometer teleportation demonstration came from the team's twenty twenty-four study."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the photon travel between?",
+      "choices": [
+        "Between New York and Boston",
+        "Between Northwestern University and downtown Chicago",
+        "Between Chicago and Los Angeles",
+        "Between London and Paris",
+        "Between Seoul and Tokyo"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The photon traveled from Northwestern University to downtown Chicago through installed fiber."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are quantum signals vulnerable to interference?",
+      "choices": [
+        "Because they are too fast",
+        "Because single photons can be overwhelmed by the millions of light particles in conventional signals",
+        "Because they need very cold temperatures",
+        "Because they are made of metal",
+        "Because they use radio waves"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Quantum signals are tiny compared with classical signals, so optical noise can easily overwhelm the individual photons."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the researchers protect the quantum photons from the internet noise?",
+      "choices": [
+        "They used a separate underground cable",
+        "They assigned the photons a quieter region of the optical spectrum and used a precise timing system",
+        "They increased the laser power",
+        "They shut down the internet traffic at night",
+        "They used radio frequencies"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Quieter spectrum regions plus precise timing kept the delicate photons safe from the noise."
+    }
+  ],
+  "youtube_url": ""
+}

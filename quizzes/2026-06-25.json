@@ -1,0 +1,80 @@
+{
+  "id": "2026-06-25",
+  "date": "2026-06-25",
+  "title": "Daily News Quiz · 2026-06-25",
+  "headline": "2026 06 25",
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who was included in the University of Pennsylvania study?",
+      "choices": [
+        "Only women under 30",
+        "Women ages 45 to 80 who used or did not use GLP-1 medications",
+        "Only teenagers taking Ozempic",
+        "Only men with diabetes",
+        "Only cancer doctors at one hospital"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The other choices describe groups that were not the study population."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What lower risk was linked to GLP-1 medications in the study?",
+      "choices": [
+        "A lower risk of catching a cold",
+        "A lower risk of breaking bones",
+        "A lower risk of developing breast cancer",
+        "A lower risk of needing glasses",
+        "A lower risk of allergies"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The study was about breast cancer risk, not colds, bones, glasses, or allergies."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where did researchers collect the data for this observational study?",
+      "choices": [
+        "From medical records",
+        "From student test scores",
+        "From a weather database",
+        "From a cooking website",
+        "From social media comments"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The researchers did not use school scores, weather data, recipes, or social media comments."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Why is the study promising but not proof yet?",
+      "choices": [
+        "Because the study was only about one person",
+        "Because the study was written in another language",
+        "Because the medicines are not real",
+        "Because it was observational and did not prove cause and effect",
+        "Because scientists already finished all clinical trials"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The study was large and real, but clinical trials are still needed to prove the effect."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "How will researchers test this idea more carefully in the future?",
+      "choices": [
+        "By checking movie reviews",
+        "By asking students to guess",
+        "By stopping all medical research",
+        "By comparing city weather reports",
+        "By planning clinical trials"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Movie reviews, guesses, weather reports, or stopping research would not test a medical hypothesis."
+    }
+  ],
+  "youtube_url": ""
+}

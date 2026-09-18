@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-15",
+  "date": "2026-09-15",
+  "title": "Daily News Quiz · 2026-09-15",
+  "headline": "One in nine migratory birds is threatened with extinction, a global report says",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who published the State of the World's Birds report?",
+      "choices": [
+        "One museum in Finland",
+        "A single fishing company",
+        "The World Health Organization",
+        "BirdLife International",
+        "A space agency"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The report comes from BirdLife International, a conservation science organization."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What share of migratory bird species are in decline, according to the report?",
+      "choices": [
+        "Nine percent",
+        "Seventy percent",
+        "One hundred percent",
+        "Two percent",
+        "Forty-five percent"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The decline figure in the report is forty-five percent."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was the slender-billed curlew declared extinct?",
+      "choices": [
+        "In nineteen fifty",
+        "It was never declared extinct",
+        "Last week only",
+        "Last year",
+        "Two hundred years ago"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The curlew was declared extinct last year, the first such loss in mainland Europe and Africa in recent centuries."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did governments and scientists sign the new flyways pledge?",
+      "choices": [
+        "At a summit in Nairobi, Kenya",
+        "In a laboratory on the Moon",
+        "In a Finnish forest",
+        "At a stadium in Budapest",
+        "Inside a shopping centre in Madrid"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The pledge was signed in Nairobi, Kenya."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are seabirds and shorebirds doing especially badly?",
+      "choices": [
+        "They depend on ocean habitats and coastal wetlands that are damaged",
+        "They eat only insects",
+        "They live in deserts",
+        "They avoid all water",
+        "They cannot fly"
+      ],
+      "answerIndex": 0,
+      "hintKo": "These birds suffer because their ocean and coastal habitats are damaged."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much money will the development banks put into protecting habitats along migration routes?",
+      "choices": [
+        "Nothing at all",
+        "Six hundred dollars",
+        "Six thousand dollars",
+        "About six billion dollars",
+        "One hundred million euros only"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The banking pledge is about six billion dollars."
+    }
+  ],
+  "youtube_url": ""
+}

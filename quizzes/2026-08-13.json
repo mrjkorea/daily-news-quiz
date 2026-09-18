@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-13",
+  "date": "2026-08-13",
+  "title": "Daily News Quiz · 2026-08-13",
+  "headline": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who became the first cricketer from Jammu and Kashmir to earn an India Test call-up?",
+      "choices": [
+        "Auqib Nabi",
+        "Parvez Rasool",
+        "Jasprit Bumrah",
+        "Ghulam Nabi Dar",
+        "Sir Stelios"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Auqib Nabi earned the historic Test call-up."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did Auqib Nabi achieve during the twenty twenty-four season?",
+      "choices": [
+        "He scored a century in every match",
+        "He claimed forty-four wickets and finished as the leading fast bowler",
+        "He retired from cricket",
+        "He became a coach",
+        "He moved to another country"
+      ],
+      "answerIndex": 1,
+      "hintKo": "He took forty-four wickets and led the competition in fast bowling."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Auqib make his Ranji Trophy debut?",
+      "choices": [
+        "In twenty twenty",
+        "In twenty fifteen",
+        "In twenty twenty-five",
+        "In nineteen ninety-five",
+        "In twenty ten"
+      ],
+      "answerIndex": 0,
+      "hintKo": "His Ranji Trophy debut came in twenty twenty."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did Auqib grow up?",
+      "choices": [
+        "In a small village in Baramulla district",
+        "In the city of Mumbai",
+        "In Sri Lanka",
+        "In Delhi",
+        "In London"
+      ],
+      "answerIndex": 0,
+      "hintKo": "He grew up in a village in Baramulla district."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did Auqib's father want him to focus on his studies?",
+      "choices": [
+        "Because he wanted him to become a doctor and saw no scope in cricket",
+        "Because cricket was too expensive",
+        "Because the family moved abroad",
+        "Because his school had no cricket team",
+        "Because he was too short for the sport"
+      ],
+      "answerIndex": 0,
+      "hintKo": "His father wanted him to study and become a doctor."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did Auqib practise when he was starting out?",
+      "choices": [
+        "He practised only at school",
+        "He travelled about seventy kilometres to Srinagar to practise on proper pitches",
+        "He practised inside his house",
+        "He never practised",
+        "He practised only in the winter"
+      ],
+      "answerIndex": 1,
+      "hintKo": "He travelled long distances to practise on proper pitches in Srinagar."
+    }
+  ],
+  "youtube_url": ""
+}

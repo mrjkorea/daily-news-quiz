@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-02",
+  "date": "2026-09-02",
+  "title": "Daily News Quiz · 2026-09-02",
+  "headline": "Four Renaissance paintings stolen from a museum in Sicily during a holiday",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who painted the Renaissance works stolen in Messina?",
+      "choices": [
+        "Antonello da Messina",
+        "Alison dos Santos",
+        "Samsung",
+        "A Louisiana ranger",
+        "A spirulina chef"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The painter was Antonello, not a runner or a phone company."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the thieves take from the museum?",
+      "choices": [
+        "Four Renaissance paintings, including three altarpiece panels",
+        "A world-record stopwatch",
+        "A Galaxy phone",
+        "An alligator tag",
+        "A tank of algae"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They stole paintings, not phones or sports gear."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When were the paintings stolen?",
+      "choices": [
+        "Saturday evening, August fifteenth, during Ferragosto",
+        "Monday morning in Seoul",
+        "During the Tokyo Olympics",
+        "In nineteen sixty-two",
+        "On a Friday phone launch"
+      ],
+      "answerIndex": 0,
+      "hintKo": "It happened on the Italian holiday, not during a sports meet."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where in Sicily were the paintings stolen?",
+      "choices": [
+        "The Regional Museum of Messina",
+        "Letzigrund Stadium",
+        "A Louisiana swamp",
+        "An Iceland algae hall",
+        "A Samsung store"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The theft was in a Messina museum, not a stadium."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why might the thieves have chosen a national holiday?",
+      "choices": [
+        "Attention was on the festival, not the galleries",
+        "The museum was closed forever",
+        "The paintings were already sold",
+        "The weather was snow",
+        "The track meet needed art"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The holiday pulled attention outside, not inside the galleries."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the thieves get the paintings out of the museum?",
+      "choices": [
+        "They bypassed alarms and broke into a security display",
+        "They bought tickets",
+        "They won a lottery",
+        "They used a pole vault",
+        "They grew algae"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They broke into a display; they did not buy tickets."
+    }
+  ],
+  "youtube_url": ""
+}

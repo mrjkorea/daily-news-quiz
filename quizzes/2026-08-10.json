@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-10",
+  "date": "2026-08-10",
+  "title": "Daily News Quiz · 2026-08-10",
+  "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China's east coast",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who was evacuated from their homes in eastern China?",
+      "choices": [
+        "More than one million people",
+        "About fifty thousand people",
+        "Exactly one hundred people",
+        "Only tourists in Shanghai",
+        "No one was evacuated"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Authorities evacuated more than one million people, not tourists or a small number of residents."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did Typhoon Dolphin do when it reached the coast?",
+      "choices": [
+        "It turned into a snowstorm",
+        "It made landfall with torrential rain and strong winds",
+        "It disappeared over the ocean",
+        "It only rained lightly",
+        "It changed direction back to Japan"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The storm made landfall with heavy rain and strong winds; it did not turn back or disappear."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Typhoon Dolphin make landfall in China?",
+      "choices": [
+        "On Sunday at about five thirty in the evening",
+        "On Friday morning",
+        "In the middle of the night on Monday",
+        "Last month",
+        "During the winter"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Landfall happened on Sunday evening, not on Friday or at another time."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did Typhoon Dolphin hit before reaching China?",
+      "choices": [
+        "Japan's southern Okinawa prefecture",
+        "South Korea's Jeju island",
+        "The Philippines",
+        "Vietnam",
+        "Taiwan"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Okinawa in Japan was hit before the storm reached China."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did authorities move vessels and workers before the storm?",
+      "choices": [
+        "To keep them safe from the typhoon's strong winds and flooding",
+        "Because the port was closing for holidays",
+        "To clean the harbor",
+        "Because the water was too cold",
+        "To catch more fish"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The moves were safety measures against the typhoon, not routine port work."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How strong were the winds when the typhoon made landfall?",
+      "choices": [
+        "About one hundred fifty-one kilometres per hour",
+        "About ten kilometres per hour",
+        "About fifty kilometres per hour",
+        "About three hundred kilometres per hour",
+        "The winds were calm"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The winds were about one hundred fifty-one kilometres per hour, equivalent to a Category one hurricane."
+    }
+  ],
+  "youtube_url": ""
+}

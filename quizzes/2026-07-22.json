@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-22",
+  "date": "2026-07-22",
+  "title": "Daily News Quiz · 2026-07-22",
+  "headline": "2026 07 22",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who conducted the research into synchronized droughts and ocean temperature patterns?",
+      "choices": [
+        "The Indian Institute of Technology Gandhinagar",
+        "NASA",
+        "The United Nations",
+        "Oxford University",
+        "The World Meteorological Organization"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story names the Indian Institute of Technology Gandhinagar as the research leader, not these other organizations."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What percentage of Earth's land was affected by synchronized droughts at the same time?",
+      "choices": [
+        "About ten to fifteen percent",
+        "About one point eight percent to six point five percent",
+        "About twenty percent",
+        "Nearly one-sixth of the planet",
+        "Less than one percent"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The correct range is about one point eight percent to six point five percent, not these other figures."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Australia often emerge as an important drought hub?",
+      "choices": [
+        "During winter months",
+        "Every ten years",
+        "During El Nino years",
+        "During La Nina years",
+        "During summer monsoons"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The study specifically mentions El Nino years, not these other time periods."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the researchers identify major drought hubs?",
+      "choices": [
+        "Europe and northern Asia",
+        "The Middle East only",
+        "North America and Central Africa only",
+        "Australia, South America, southern Africa, and parts of North America",
+        "The Arctic and Antarctic regions"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The study identified these four specific regions as important drought hubs, not these other areas."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do changing ocean temperature patterns make one planet-wide drought less likely?",
+      "choices": [
+        "They create a patchwork effect where some regions dry out while others stay wet",
+        "They make all regions equally dry",
+        "They eliminate all droughts permanently",
+        "They only affect small islands",
+        "They have no effect on drought patterns"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The patchwork effect means different regions respond differently, preventing a single connected global drought."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How can countries protect food supplies when a regional drought damages crops?",
+      "choices": [
+        "By ignoring drought warnings",
+        "By stopping all food imports",
+        "By planting only one type of crop",
+        "By waiting for international aid",
+        "By using trade, food storage, and flexible agricultural policies"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The story recommends trade diversification, emergency storage, and flexible agricultural planning, not these other approaches."
+    }
+  ],
+  "youtube_url": ""
+}

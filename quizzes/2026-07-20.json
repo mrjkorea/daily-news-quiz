@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-20",
+  "date": "2026-07-20",
+  "title": "Daily News Quiz · 2026-07-20",
+  "headline": "2026 07 20",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is leading NASA's Advanced Research and Technology Division?",
+      "choices": [
+        "Greg Stover",
+        "Bill Nelson",
+        "Elon Musk",
+        "Jeff Bezos",
+        "Pam Melroy"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story names Greg Stover, not any other NASA administrator."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the Announcement of Collaboration Opportunity, or ACO?",
+      "choices": [
+        "A NASA funding grant",
+        "A program where NASA provides facilities and expertise instead of money",
+        "A NASA rocket launch service",
+        "A space tourism program",
+        "A new moon landing mission"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The story explains that NASA does not pay companies with money under the ACO program."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where will Lockheed Martin's energy system be used?",
+      "choices": [
+        "On Mars",
+        "In low Earth orbit",
+        "In the Moon's permanently shadowed regions",
+        "On the International Space Station",
+        "In the Sahara Desert"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The story specifically mentions the Moon's permanently shadowed regions."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When did NASA start the ACO program?",
+      "choices": [
+        "2015",
+        "2010",
+        "2018",
+        "2020",
+        "2022"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story clearly states the program started in two thousand and fifteen."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is lunar dust a problem for space missions?",
+      "choices": [
+        "It smells bad",
+        "It is radioactive",
+        "It is too heavy",
+        "It is extremely fine, sharp, and abrasive, and it sticks to everything and damages equipment",
+        "It blocks radio signals"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The story describes lunar dust as abrasive and sticky, not radioactive or heavy."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does the Asteria system attach to satellites?",
+      "choices": [
+        "With magnets",
+        "With bolts and screws",
+        "With a special controlled-release adhesive that needs no pre-installed hardware",
+        "With welding equipment",
+        "With robotic arms"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The story describes a sticky adhesive system, not magnets, bolts, or welding."
+    }
+  ],
+  "youtube_url": ""
+}

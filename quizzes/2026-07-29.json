@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-29",
+  "date": "2026-07-29",
+  "title": "Daily News Quiz · 2026-07-29",
+  "headline": "First room-temperature quantum material sorts light by its quantum statistics",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the research team at Louisiana State University?",
+      "choices": [
+        "Louisiana State University physicists",
+        "Harvard University engineers",
+        "NASA scientists",
+        "University of Tokyo researchers",
+        "MIT quantum lab"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story specifically credits LSU physicists, not these other institutions."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does the metacrystal do to incoming light?",
+      "choices": [
+        "It changes the color of the light",
+        "It absorbs all light energy",
+        "It sorts photons based on their quantum behavior",
+        "It reflects light back to the source",
+        "It splits light into rainbow colors"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The sorting is based on quantum statistics, not simple optical properties."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was the study published in Nature?",
+      "choices": [
+        "July first",
+        "July fifteenth",
+        "August first",
+        "June thirtieth",
+        "July twenty-second"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The story specifies July fifteenth as the publication date."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does the light travel when it enters the chip?",
+      "choices": [
+        "Through a vacuum tube",
+        "Inside a fiber optic cable",
+        "Through a liquid solution",
+        "Along the gold surface of the chip",
+        "Through a series of mirrors"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The light travels along the gold surface, not through other mediums."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is room-temperature operation important for quantum technologies?",
+      "choices": [
+        "It eliminates the need for bulky cryogenic cooling",
+        "It makes quantum computers run faster",
+        "It reduces electricity costs by half",
+        "It allows quantum materials to be transparent",
+        "It increases the brightness of quantum light"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The main benefit is removing the need for expensive and bulky cooling systems."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the researchers build the metacrystal?",
+      "choices": [
+        "They grew it in a chemical solution",
+        "They coated glass with gold and cut microscopic slits with focused ion beams",
+        "They stacked layers of graphene",
+        "They used a 3D printer with quantum ink",
+        "They fused two crystals together under high pressure"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The construction method involved gold deposition followed by focused ion beam patterning."
+    }
+  ],
+  "youtube_url": ""
+}

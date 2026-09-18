@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-16",
+  "date": "2026-07-16",
+  "title": "Daily News Quiz · 2026-07-16",
+  "headline": "2026 07 16",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who released the new global report on cancer?",
+      "choices": [
+        "The United Nations",
+        "The World Health Organization",
+        "Doctors Without Borders",
+        "The American Cancer Society",
+        "The International Red Cross"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The report was released by the WHO, not these other organizations."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the projected number of cancer cases by the year 2050?",
+      "choices": [
+        "Ten million",
+        "Twenty point six million",
+        "Nearly thirty-five million",
+        "Fifty million",
+        "One hundred million"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Thirty-five million is the projected figure. The other numbers are either the current rate or incorrect."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where do cancer survival rates drop to just 42% for breast cancer patients?",
+      "choices": [
+        "High-income countries",
+        "Europe",
+        "Asia",
+        "North America",
+        "Low-income countries"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The 42% survival rate is in low-income countries, compared to 87% in high-income nations."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When did tobacco use begin to decline, according to the report?",
+      "choices": [
+        "2010",
+        "2020",
+        "2000",
+        "2015",
+        "2005"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The report uses 2010 as the reference point for the 27% decline in tobacco use."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are nearly 4 out of 10 cancer cases considered preventable?",
+      "choices": [
+        "Because cancer is always genetic",
+        "Because all cancers can be cured with medicine",
+        "Because chemotherapy has improved",
+        "Because they are linked to risk factors like tobacco, alcohol, obesity, and infections",
+        "Because most cancers are caused by air pollution alone"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The report specifically identifies lifestyle and infection-related factors as preventable causes."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many countries currently include cancer care in their universal health coverage?",
+      "choices": [
+        "More than half",
+        "Fewer than one in three",
+        "Almost all countries",
+        "Only high-income countries",
+        "Exactly 50%"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The WHO report found that fewer than one-third of countries cover cancer care in their basic health plans."
+    }
+  ],
+  "youtube_url": ""
+}

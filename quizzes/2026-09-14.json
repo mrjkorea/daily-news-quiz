@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-14",
+  "date": "2026-09-14",
+  "title": "Daily News Quiz · 2026-09-14",
+  "headline": "IBM and NASA release an open-source artificial intelligence model to map the Moon",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who released the new open-source model for studying the Moon?",
+      "choices": [
+        "A single university student",
+        "IBM and NASA",
+        "A Finnish museum team",
+        "A private airline in Europe",
+        "The World Health Organization"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The model came from IBM and NASA, not an airline or a museum."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What can the model help scientists find on the Moon?",
+      "choices": [
+        "Ice deposits, craters, and volcanic features",
+        "Restaurants and hotels",
+        "New oceans of liquid water",
+        "Underground cities",
+        "Weather reports for next week"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The model studies the Moon's surface features, not buildings or oceans."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did IBM and NASA announce the open-source release?",
+      "choices": [
+        "During the summer holidays",
+        "On the first of January",
+        "On the tenth of September, twenty twenty-six",
+        "In nineteen ninety-nine",
+        "Last Christmas"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The release was announced on the tenth of September."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where are the model and its code available for researchers?",
+      "choices": [
+        "Online, on sharing and code platforms such as Hugging Face and GitHub",
+        "Only inside one NASA office",
+        "In a printed book",
+        "At a museum in Finland",
+        "On a satellite in orbit"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The model is published online for anyone to use, not locked in an office."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is finding ice on the Moon important for future missions?",
+      "choices": [
+        "Ice is used to build roads",
+        "Ice provides water and oxygen for a Moon base and rocket fuel",
+        "Ice makes the Moon colder",
+        "Ice blocks radio signals",
+        "Ice is sold to museums"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Ice matters because it supports crew life and fuel, not because of museums."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much did the model reduce error when predicting areas with high potential for lunar ice?",
+      "choices": [
+        "By two hundred percent",
+        "By up to twenty-two percent compared with an older model",
+        "It did not change the error at all",
+        "By fifty percent on the ground",
+        "By exactly one hundred percent"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The improvement was up to twenty-two percent lower error, not a total fix."
+    }
+  ],
+  "youtube_url": ""
+}

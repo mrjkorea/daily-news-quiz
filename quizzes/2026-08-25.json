@@ -1,0 +1,94 @@
+{
+  "id": "2026-08-25",
+  "date": "2026-08-25",
+  "title": "Daily News Quiz · 2026-08-25",
+  "headline": "China's robot games: a decade from college sport to 'Robot Olympics' national showcase",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is collecting almost all the medals at China's robot games?",
+      "choices": [
+        "Chinese teams",
+        "American teams",
+        "German teams",
+        "Korean teams",
+        "No teams"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Chinese teams dominate the medals at these games."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What new hand tasks were added to the twenty twenty-six robot games?",
+      "choices": [
+        "Cooking meals",
+        "Tightening screws, opening bottles, and picking up beads",
+        "Painting walls",
+        "Playing piano",
+        "Folding clothes"
+      ],
+      "answerIndex": 1,
+      "hintKo": "New tests include tightening screws, opening bottles, and picking beads."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Beijing host the first World Robot Conference?",
+      "choices": [
+        "In twenty fifteen",
+        "In nineteen ninety-nine",
+        "In twenty twenty-three",
+        "In twenty twenty-five",
+        "In twenty twenty-six"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The first World Robot Conference was in twenty fifteen."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the World Humanoid Robot Games begin this year?",
+      "choices": [
+        "In Shanghai",
+        "In Beijing",
+        "In Shenzhen",
+        "In Hong Kong",
+        "In Seoul"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The games began in Beijing."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do analysts say robotic hands matter so much now?",
+      "choices": [
+        "A useful hand is the hardest job and must work in real life",
+        "Hands cost less than legs",
+        "Hands win all the medals",
+        "Hands are easy to build",
+        "Hands replace screens"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The hand is the hardest part to prove in real life."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did Honor's robot named Flash finish the half-marathon?",
+      "choices": [
+        "With a human pushing it",
+        "On its own in fifty minutes and twenty-six seconds",
+        "By riding a cart",
+        "It never finished",
+        "By using wings"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Flash finished autonomously in fifty minutes and twenty-six seconds."
+    }
+  ],
+  "youtube_url": ""
+}

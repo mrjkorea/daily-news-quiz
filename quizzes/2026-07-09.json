@@ -1,0 +1,94 @@
+{
+  "id": "2026-07-09",
+  "date": "2026-07-09",
+  "title": "Daily News Quiz · 2026-07-09",
+  "headline": "South Korea’s New “Fake News” Law Raises Press Freedom Concerns",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who reached a new uranium export deal?",
+      "choices": [
+        "Australia and India",
+        "Canada and Brazil",
+        "France and Germany",
+        "Japan and Mexico",
+        "Egypt and Spain"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The other country pairs were not part of this story."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What will Australia export to India under the new deal?",
+      "choices": [
+        "Green hydrogen",
+        "Uranium",
+        "Electric cars",
+        "Rice",
+        "Television cameras"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The story mentioned other energy cooperation, but uranium is the export in the deal."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Where will the uranium be used for nuclear energy?",
+      "choices": [
+        "Australia",
+        "South Korea",
+        "India",
+        "Canada",
+        "Thailand"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Australia is the exporting country; India is the country where the uranium will be used."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When does India want to reach its long-term nuclear energy goal?",
+      "choices": [
+        "Twenty twenty-six",
+        "Twenty thirty",
+        "Twenty forty",
+        "Twenty forty-seven",
+        "Twenty fifty-five"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The correct target year in the story is twenty forty-seven."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why does Australia want to diversify its trade relationships?",
+      "choices": [
+        "To depend less on one major trading partner",
+        "To stop all exports",
+        "To close its ports",
+        "To replace all solar panels",
+        "To end cooperation with India"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Diversifying trade means adding more markets, not ending trade."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How could this deal support India’s energy transition?",
+      "choices": [
+        "By reducing all electricity use",
+        "By replacing every road with rail",
+        "By stopping investment",
+        "By ending mineral cooperation",
+        "By supporting nuclear power and wider clean-energy cooperation"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The deal supports energy transition through power and clean-energy cooperation."
+    }
+  ],
+  "youtube_url": ""
+}
