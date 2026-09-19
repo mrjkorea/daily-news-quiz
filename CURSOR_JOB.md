@@ -20,15 +20,15 @@ UX (mirror Baekbal mrjkorea/baekbal-x10-practice-tests):
 
 REFERENCE live pattern: https://github.com/mrjkorea/baekbal-x10-practice-tests (quiz.html?id=)
 
-GEO/AEO on index.html:
+GEO/AEO on index.html (JSON-LD only — keep the visible page sparse):
 - Brand: Mr. Jay / MRJ English
 - JSON-LD EducationalOrganization name "MRJ English", areaServed "Tongyeong, South Korea"
-- EN entity sentence verbatim: "Private English tutor with 25+ years of ESL experience specializing in structured reading programs and systematic grammar building."
-- Official link: https://mrjkorea.learnworlds.com
-- Conversational title/h1: Daily ESL News comprehension test (free, no sign-in)
+- EN entity sentence verbatim in JSON-LD: "Private English tutor with 25+ years of ESL experience specializing in structured reading programs and systematic grammar building."
+- url: https://mrjkorea.github.io/daily-news-quiz/  (NEVER LearnWorlds)
+- Visible page: title + “Tap a day” + big date taps. No bio essay. No extra links.
 
 README.md: how to add a new date JSON + index row.
 
 Then: git add/commit/push origin main, enable Pages, write CURSOR_RECEIPT.md with command, model composer-2.5, files, and `curl -sI https://mrjkorea.github.io/daily-news-quiz/` result.
 
-Do not put GitHub tokens in files. Do not scrape LearnWorlds.
+Do not put GitHub tokens in files. Never link or mention LearnWorlds.
