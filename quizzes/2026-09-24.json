@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-24",
+  "date": "2026-09-24",
+  "title": "Daily News Quiz · 2026-09-24",
+  "headline": "People with type 1 diabetes can run marathons safely, a new study finds",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who carried out the new research on marathons and diabetes?",
+      "choices": [
+        "A car company",
+        "A shoe manufacturer",
+        "A team of medical researchers",
+        "A television broadcaster",
+        "A sports federation"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The work came from medical researchers, not from a company or broadcaster."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the researchers find?",
+      "choices": [
+        "Marathons are dangerous for everyone",
+        "Runners with diabetes always finish last",
+        "Exercise should be avoided by all patients",
+        "People with type one diabetes can complete a marathon safely",
+        "Only professional athletes can finish a marathon"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The finding is that marathon running can be safe for people with type one diabetes."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the researchers release their work?",
+      "choices": [
+        "Ten years ago",
+        "Ahead of the European Association for the Study of Diabetes annual meeting",
+        "After the Olympic Games",
+        "At the start of winter",
+        "In the middle of last century"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The work was released just before the European diabetes conference."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the glucose sensor worn?",
+      "choices": [
+        "On the body under the skin",
+        "Inside a running shoe",
+        "Around the wrist like a watch band only",
+        "On the outside of a hat",
+        "Inside a water bottle"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The continuous glucose sensor is worn on the body."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do the researchers say the study is only a first step?",
+      "choices": [
+        "Because marathons are not real sports",
+        "Because no one finished the race",
+        "Because the devices were too expensive to use",
+        "Because runners refused to take part",
+        "Because the study was small and the runners had strong medical support"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The authors caution that the study was small and heavily supported."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does continuous glucose monitoring help a runner?",
+      "choices": [
+        "It runs the race for them",
+        "It replaces the need for food",
+        "It measures glucose every few minutes and sends readings to a phone so the runner can react in real time",
+        "It makes muscles stronger overnight",
+        "It counts the steps taken during the day"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Monitoring gives live readings so a runner can respond before a problem develops."
+    }
+  ],
+  "youtube_url": ""
+}
