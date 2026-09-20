@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-25",
+  "date": "2026-09-25",
+  "title": "Daily News Quiz · 2026-09-25",
+  "headline": "The Los Angeles Dodgers clinch another division title and chase a three-peat",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who won the National League West division title?",
+      "choices": [
+        "The Los Angeles Dodgers",
+        "The Cincinnati Reds",
+        "The Atlanta Braves",
+        "The New York Yankees",
+        "The Boston Red Sox"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The Dodgers won the division, defeating the Reds."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the Dodgers achieve with their win?",
+      "choices": [
+        "Their first ever division title",
+        "A place in a different league",
+        "Their thirteenth National League West title in fourteen seasons",
+        "A new stadium",
+        "The end of the season"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The win gave the Dodgers a thirteenth division title in fourteen seasons."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Landon Knack pitch four scoreless innings in relief?",
+      "choices": [
+        "Two months earlier",
+        "The same day he was called up from the minor leagues",
+        "At the start of the season",
+        "In the middle of last year",
+        "He did not pitch at all"
+      ],
+      "answerIndex": 1,
+      "hintKo": "He was called up and pitched on the same day."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does the winner of each Major League Baseball division go?",
+      "choices": [
+        "Straight to a holiday",
+        "To a different sport",
+        "Into a training camp for next year",
+        "Into the playoffs",
+        "To a vote by fans"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Division winners advance into the playoffs."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is a three-peat difficult to achieve?",
+      "choices": [
+        "The rules forbid it",
+        "Teams are not allowed to try",
+        "It requires playing in three different cities",
+        "It can only happen in other sports",
+        "It means winning the championship three years in a row, and injuries and the short playoff series make that very hard"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Winning three years in a row is hard because of injuries and the unpredictable playoffs."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How is the champion of Major League Baseball finally decided?",
+      "choices": [
+        "By the number of home runs hit all year",
+        "By a vote of the coaches",
+        "By the postseason playoff tournament at the end of the year",
+        "By ticket sales",
+        "By the length of each game"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The playoffs at the end of the season determine the champion."
+    }
+  ],
+  "youtube_url": ""
+}
