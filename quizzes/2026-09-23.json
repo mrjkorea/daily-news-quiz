@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-23",
+  "date": "2026-09-23",
+  "title": "Daily News Quiz · 2026-09-23",
+  "headline": "OpenAI releases GPT-6, its biggest new artificial intelligence model in years",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who released the new artificial intelligence model called G P T six?",
+      "choices": [
+        "OpenAI",
+        "Google",
+        "Samsung",
+        "The European Union",
+        "A university research team"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story names OpenAI as the company behind the release."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the second name given to the new model?",
+      "choices": [
+        "Orion",
+        "Nova",
+        "Atlas",
+        "Astra",
+        "Vega"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The second name announced for the model was Astra."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the staged rollout begin?",
+      "choices": [
+        "In January",
+        "On the third of September",
+        "In the middle of December",
+        "Last year",
+        "It has not begun"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The rollout started on the third of September with limited access."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where do companies usually wait to test a new model before building products with it?",
+      "choices": [
+        "In a printed magazine",
+        "On a television programme",
+        "At the application programming interface",
+        "Inside a government office",
+        "At a shopping centre"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The A P I is the doorway developers use to send requests and receive answers."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do critics question benchmark scores?",
+      "choices": [
+        "The scores are written in another language",
+        "The tests are too cheap to run",
+        "The scores are always secret",
+        "Only students are allowed to see them",
+        "Tests can be gamed and rarely measure usefulness in daily work"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The concern is that benchmark tests can be gamed and do not capture daily usefulness."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did OpenAI decide to release the model to the public?",
+      "choices": [
+        "One single worldwide switch on day one",
+        "A staged rollout that widened access step by step",
+        "Only to schools",
+        "Only through printed manuals",
+        "By lottery among users"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The company widened access gradually rather than all at once."
+    }
+  ],
+  "youtube_url": ""
+}
