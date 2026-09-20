@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-21",
+  "date": "2026-09-21",
+  "title": "Daily News Quiz · 2026-09-21",
+  "headline": "Stanford Medicine finds the human brain is actually two separate organs",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the new research on the human brain?",
+      "choices": [
+        "Stanford Medicine",
+        "Harvard University",
+        "The University of Tokyo",
+        "Oxford University",
+        "The World Health Organization"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story names Stanford Medicine as the leader of this research."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does the new study say about the human brain?",
+      "choices": [
+        "It never changes after birth",
+        "It has only one region",
+        "It is actually two separate organs that evolved independently",
+        "It contains no stem cells",
+        "It stops growing at age twenty"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The central claim of the study is that the brain is two separate organs, not one."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When does the hindbrain follow its own separate developmental path?",
+      "choices": [
+        "In old age",
+        "During a very early stage of embryo development",
+        "After a serious injury",
+        "Only during sleep",
+        "At the moment of birth"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The separate path begins in the earliest stage of development, inside the embryo."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the hindbrain located?",
+      "choices": [
+        "At the back of the skull",
+        "In the center of the chest",
+        "At the top of the spine only",
+        "Inside the ear",
+        "Behind the eyes"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The story places the hindbrain at the back of the skull."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is this discovery important for medical research?",
+      "choices": [
+        "It proves the brain never gets sick",
+        "It ends the need for hospitals",
+        "It shows brains are identical in all animals",
+        "Scientists can now grow hindbrain neurons in the laboratory to study diseases",
+        "It reduces the cost of brain scans"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The value of the finding is that hindbrain neurons can now be grown and studied in the lab."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the researchers make their discovery?",
+      "choices": [
+        "By interviewing patients",
+        "By scanning adult volunteers",
+        "By studying ancient fossils",
+        "By testing new medicines",
+        "By studying the earliest moments of embryo development when the body first takes shape"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The evidence came from the earliest stage of embryo development."
+    }
+  ],
+  "youtube_url": ""
+}

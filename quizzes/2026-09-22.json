@@ -1,0 +1,94 @@
+{
+  "id": "2026-09-22",
+  "date": "2026-09-22",
+  "title": "Daily News Quiz · 2026-09-22",
+  "headline": "Scientists name the first new wild cat species in more than a century",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who formally named the new species of wild cat?",
+      "choices": [
+        "Local families in Bolivia",
+        "A team of scientists",
+        "The Bolivian government",
+        "A zoo in Brazil",
+        "A wildlife charity"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Scientists, not families or governments, formally named the cat."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is special about the tilcayo cat?",
+      "choices": [
+        "It is the largest cat ever found",
+        "It lives only in zoos",
+        "It has no fur",
+        "It is the first new living cat species named in more than a century",
+        "It can swim underwater"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The story highlights that this is the first new cat species in over a century."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the tilcayo lineage separate from the other tiger cats?",
+      "choices": [
+        "About one hundred years ago",
+        "About ten thousand years ago",
+        "About one and a half million years ago",
+        "Last year",
+        "About five hundred years ago"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The genetic split happened about one and a half million years ago."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does the tilcayo cat live?",
+      "choices": [
+        "In the cloud forests of Bolivia",
+        "In the deserts of Chile",
+        "On an island near Brazil",
+        "In the mountains of Mexico",
+        "Along the Amazon river bank"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The habitat is the cloud forest of Bolivia."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is the species considered at risk?",
+      "choices": [
+        "It is hunted for its fur",
+        "It cannot find enough mice",
+        "It is too large to hide",
+        "It has no natural habitat left in Bolivia",
+        "Its cloud forest habitat faces deforestation, farming, fires, and mining"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The threat comes from damage to the forest habitat, not hunting or food shortage."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did researchers prove the cat is a separate species?",
+      "choices": [
+        "By measuring its length",
+        "By watching it hunt at night",
+        "By analyzing DNA from thirty-eight cats",
+        "By asking local families",
+        "By comparing photographs online"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Genetic analysis of many cat samples proved it is a distinct species."
+    }
+  ],
+  "youtube_url": ""
+}

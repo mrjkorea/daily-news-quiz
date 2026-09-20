@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-09-22",
+    "date": "2026-09-22",
+    "title": "Daily News Quiz \u00b7 2026-09-22",
+    "questionCount": 6,
+    "data": "quizzes/2026-09-22.json"
+  },
+  {
+    "id": "2026-09-21",
+    "date": "2026-09-21",
+    "title": "Daily News Quiz \u00b7 2026-09-21",
+    "questionCount": 6,
+    "data": "quizzes/2026-09-21.json"
+  },
+  {
     "id": "2026-09-18",
     "date": "2026-09-18",
     "title": "Daily News Quiz \u00b7 2026-09-18",
