@@ -22,17 +22,8 @@
     if (window.speechSynthesis) speechSynthesis.cancel();
   };
 
-  const speakFallback = (text) => {
-    if (!window.speechSynthesis) return;
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = "en-US";
-    u.rate = 0.95;
-    u.pitch = 0.9;
-    const voices = speechSynthesis.getVoices();
-    const male = voices.find((v) => /en-US/i.test(v.lang) && /male|daniel|fred|david|guy/i.test(v.name)) ||
-      voices.find((v) => /en/i.test(v.lang));
-    if (male) u.voice = male;
-    speechSynthesis.speak(u);
+  const speakFallback = (_text) => {
+    // Never use the phone's built-in woman TTS. Quiz host = Fish mp3 only.
   };
 
   const playUrl = (url, fallbackText, el) => {
