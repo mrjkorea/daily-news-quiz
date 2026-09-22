@@ -28,3 +28,27 @@ curl -sI https://mrjkorea.github.io/daily-news-quiz/
 
 - Index lists dates (newest first) with weekday label.
 - Quiz loads `quizzes/YYYY-MM-DD.json`, submit shows `점수 n/m`, wrong items + `힌트`, `다시 풀기` increments `daily-news-quiz-attempts:{id}` in `localStorage`.
+
+---
+
+## English-only student UI (2026-09-22)
+
+| Field | Value |
+|-------|--------|
+| **Command** | Jay HARD 22 Sep 2026: Daily ESL News QUIZ English-only — no Hangul on student quiz |
+| **Model** | composer-2.5 |
+
+### Files updated
+
+- `quiz.html` — reset button `Try again`; drop Noto Sans KR font link (Nunito only)
+- `js/quiz.js` — results copy `Nice try — tap Try again.`
+- `css/app.css` — `font-family: Nunito, -apple-system, sans-serif`
+- `README.md` — flow text uses Try again
+
+### Hangul grep test (student-facing: html / js / css / quizzes/*.json)
+
+```bash
+cd /Users/andreclouthier/.hermes/projects/mrj-daily-news-quiz
+rg -n '[\x{ac00}-\x{d7a3}]' quiz.html index.html js css quizzes/*.json
+# (no output — exit 1 = zero matches)
+```

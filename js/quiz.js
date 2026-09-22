@@ -116,7 +116,7 @@
       .join("");
     box.innerHTML = `<p class="confetti">${perfect ? "🎉🎉🎉" : "⭐"}</p>
       <p class="score">${right} / ${data.questions.length}</p>
-      <p>${perfect ? "Perfect round!" : "Nice try — tap 다시 풀기."} · Attempt ${rec.attempts}</p>
+      <p>${perfect ? "Perfect round!" : "Nice try — tap Try again."} · Attempt ${rec.attempts}</p>
       ${missHtml}`;
     box.scrollIntoView({ behavior: "smooth", block: "start" });
     speakFallback(

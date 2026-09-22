@@ -2,7 +2,7 @@
 
 Live: https://mrjkorea.github.io/daily-news-quiz/
 
-Static GitHub Pages. No sign-in. Date index → multiple choice → score → 다시 풀기.
+Static GitHub Pages. No sign-in. Date index → multiple choice → score → Try again.
 
 ## Add a weekday
 

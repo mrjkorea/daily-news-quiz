@@ -16,7 +16,7 @@ html, body {
   margin: 0; padding: 0;
   min-height: 100%;
   color: var(--ink);
-  font-family: Nunito, "Noto Sans KR", -apple-system, sans-serif;
+  font-family: Nunito, -apple-system, sans-serif;
   background:
     radial-gradient(1200px 600px at 10% -10%, #5b1dbd 0%, transparent 55%),
     radial-gradient(900px 500px at 110% 10%, #ff4fd833 0%, transparent 50%),
