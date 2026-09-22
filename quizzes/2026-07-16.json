@@ -17,7 +17,24 @@
         "The International Red Cross"
       ],
       "answerIndex": 1,
-      "hintKo": "The report was released by the WHO, not these other organizations."
+      "hintKo": "The report was released by the WHO, not these other organizations.",
+      "hintI18n": {
+        "en": "The report was released by the WHO, not these other organizations.",
+        "ko": "이 보고서는 다른 기관이 아니라 WHO(세계보건기구)가 발표했습니다.",
+        "zh-Hans": "这份报告是由世界卫生组织（WHO）发布的，不是其他这些组织。",
+        "ja": "この報告書を発表したのは、これらの他の組織ではなくWHOです。",
+        "es": "El informe fue publicado por la OMS, no por esas otras organizaciones.",
+        "hi": "यह रिपोर्ट WHO ने जारी की थी, इन अन्य संगठनों ने नहीं।",
+        "de": "Der Bericht wurde von der WHO veröffentlicht, nicht von diesen anderen Organisationen.",
+        "vi": "Báo cáo được WHO công bố, không phải các tổ chức khác này.",
+        "pt-BR": "O relatório foi divulgado pela OMS, não por essas outras organizações.",
+        "id": "Laporan itu dirilis oleh WHO, bukan oleh organisasi lain ini.",
+        "fr": "Le rapport a été publié par l'OMS, pas par ces autres organisations.",
+        "ar": "أصدرت منظمة الصحة العالمية التقرير، وليس هذه المنظمات الأخرى.",
+        "tr": "Rapor bu diğer kuruluşlar tarafından değil, WHO tarafından yayımlandı.",
+        "it": "Il rapporto è stato pubblicato dall'OMS, non da queste altre organizzazioni.",
+        "pl": "Raport został opublikowany przez WHO, a nie przez te inne organizacje."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "One hundred million"
       ],
       "answerIndex": 2,
-      "hintKo": "Thirty-five million is the projected figure. The other numbers are either the current rate or incorrect."
+      "hintKo": "Thirty-five million is the projected figure. The other numbers are either the current rate or incorrect.",
+      "hintI18n": {
+        "en": "Thirty-five million is the projected figure. The other numbers are either the current rate or incorrect.",
+        "ko": "예상 수치는 3,500만 명입니다. 다른 숫자들은 현재 수치이거나 잘못된 것입니다.",
+        "zh-Hans": "预计数字是三千五百万。其他数字要么是当前数字，要么是错误的。",
+        "ja": "予測される数字は3500万人です。他の数字は現在の数値か、誤りです。",
+        "es": "La cifra proyectada es treinta y cinco millones. Los otros números son la tasa actual o son incorrectos.",
+        "hi": "अनुमानित संख्या पैंतीस मिलियन है। बाकी संख्याएँ या तो मौजूदा दर हैं या गलत हैं।",
+        "de": "Die prognostizierte Zahl ist fünfunddreißig Millionen. Die anderen Zahlen sind entweder der aktuelle Wert oder falsch.",
+        "vi": "Con số dự báo là ba mươi lăm triệu. Những con số khác là tỷ lệ hiện tại hoặc không chính xác.",
+        "pt-BR": "O número projetado é trinta e cinco milhões. Os outros números são a taxa atual ou estão incorretos.",
+        "id": "Angka yang diproyeksikan adalah tiga puluh lima juta. Angka lainnya adalah angka saat ini atau salah.",
+        "fr": "Le chiffre projeté est de trente-cinq millions. Les autres nombres sont soit le taux actuel, soit incorrects.",
+        "ar": "العدد المتوقع هو خمسة وثلاثون مليونًا. الأرقام الأخرى هي إما المعدل الحالي أو غير صحيحة.",
+        "tr": "Öngörülen sayı otuz beş milyondur. Diğer sayılar ya mevcut orandır ya da yanlıştır.",
+        "it": "La cifra prevista è trentacinque milioni. Gli altri numeri sono il tasso attuale oppure sono errati.",
+        "pl": "Prognozowana liczba to trzydzieści pięć milionów. Pozostałe liczby to obecny wskaźnik albo są błędne."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Low-income countries"
       ],
       "answerIndex": 4,
-      "hintKo": "The 42% survival rate is in low-income countries, compared to 87% in high-income nations."
+      "hintKo": "The 42% survival rate is in low-income countries, compared to 87% in high-income nations.",
+      "hintI18n": {
+        "en": "The 42% survival rate is in low-income countries, compared to 87% in high-income nations.",
+        "ko": "42% 생존율은 저소득 국가의 수치이며, 고소득 국가에서는 87%입니다.",
+        "zh-Hans": "42%的存活率出现在低收入国家，而高收入国家为87%。",
+        "ja": "42%という生存率は低所得国でのもので、高所得国では87%です。",
+        "es": "La tasa de supervivencia del 42% corresponde a países de bajos ingresos, frente al 87% en países de altos ingresos.",
+        "hi": "42% की उत्तरजीविता दर निम्न-आय वाले देशों में है, जबकि उच्च-आय वाले देशों में यह 87% है।",
+        "de": "Die Überlebensrate von 42 % gilt in Ländern mit niedrigem Einkommen, verglichen mit 87 % in Ländern mit hohem Einkommen.",
+        "vi": "Tỷ lệ sống sót 42% là ở các nước thu nhập thấp, so với 87% ở các nước thu nhập cao.",
+        "pt-BR": "A taxa de sobrevivência de 42% é em países de baixa renda, em comparação com 87% em países de alta renda.",
+        "id": "Tingkat kelangsungan hidup 42% ada di negara berpenghasilan rendah, dibandingkan 87% di negara berpenghasilan tinggi.",
+        "fr": "Le taux de survie de 42 % concerne les pays à faible revenu, contre 87 % dans les pays à revenu élevé.",
+        "ar": "معدل البقاء على قيد الحياة البالغ 42% موجود في البلدان منخفضة الدخل، مقابل 87% في البلدان مرتفعة الدخل.",
+        "tr": "%42'lik hayatta kalma oranı düşük gelirli ülkelerde, yüksek gelirli ülkelerde ise %87'dir.",
+        "it": "Il tasso di sopravvivenza del 42% si registra nei paesi a basso reddito, rispetto all'87% nei paesi ad alto reddito.",
+        "pl": "Wskaźnik przeżycia 42% dotyczy krajów o niskim dochodzie, w porównaniu z 87% w krajach o wysokim dochodzie."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "2005"
       ],
       "answerIndex": 0,
-      "hintKo": "The report uses 2010 as the reference point for the 27% decline in tobacco use."
+      "hintKo": "The report uses 2010 as the reference point for the 27% decline in tobacco use.",
+      "hintI18n": {
+        "en": "The report uses 2010 as the reference point for the 27% decline in tobacco use.",
+        "ko": "이 보고서는 담배 사용이 27% 감소한 기준 시점으로 2010년을 사용합니다.",
+        "zh-Hans": "这份报告以2010年作为烟草使用下降27%的基准点。",
+        "ja": "この報告書は、たばこ使用の27%減少の基準時点として2010年を用いています。",
+        "es": "El informe usa 2010 como punto de referencia para la disminución del 27% en el consumo de tabaco.",
+        "hi": "रिपोर्ट तंबाकू उपयोग में 27% कमी के संदर्भ बिंदु के रूप में 2010 का उपयोग करती है।",
+        "de": "Der Bericht verwendet 2010 als Bezugspunkt für den Rückgang des Tabakkonsums um 27 %.",
+        "vi": "Báo cáo lấy năm 2010 làm mốc tham chiếu cho mức giảm 27% trong việc sử dụng thuốc lá.",
+        "pt-BR": "O relatório usa 2010 como ponto de referência para a queda de 27% no uso de tabaco.",
+        "id": "Laporan itu menggunakan 2010 sebagai titik acuan untuk penurunan 27% dalam penggunaan tembakau.",
+        "fr": "Le rapport utilise 2010 comme point de référence pour la baisse de 27 % de l'usage du tabac.",
+        "ar": "يستخدم التقرير عام 2010 كنقطة مرجعية لانخفاض استخدام التبغ بنسبة 27%.",
+        "tr": "Rapor, tütün kullanımındaki %27'lik düşüş için referans noktası olarak 2010'u kullanıyor.",
+        "it": "Il rapporto usa il 2010 come punto di riferimento per il calo del 27% nell'uso di tabacco.",
+        "pl": "W raporcie rok 2010 jest punktem odniesienia dla spadku użycia tytoniu o 27%."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because most cancers are caused by air pollution alone"
       ],
       "answerIndex": 3,
-      "hintKo": "The report specifically identifies lifestyle and infection-related factors as preventable causes."
+      "hintKo": "The report specifically identifies lifestyle and infection-related factors as preventable causes.",
+      "hintI18n": {
+        "en": "The report specifically identifies lifestyle and infection-related factors as preventable causes.",
+        "ko": "이 보고서는 생활 방식과 감염 관련 요인을 예방 가능한 원인으로 구체적으로 지목합니다.",
+        "zh-Hans": "这份报告明确指出，生活方式和感染相关因素是可预防的原因。",
+        "ja": "この報告書は、生活習慣と感染関連の要因を予防可能な原因として具体的に挙げています。",
+        "es": "El informe identifica específicamente el estilo de vida y los factores relacionados con infecciones como causas prevenibles.",
+        "hi": "रिपोर्ट विशेष रूप से जीवनशैली और संक्रमण संबंधी कारकों को रोकथाम योग्य कारणों के रूप में बताती है।",
+        "de": "Der Bericht nennt ausdrücklich Lebensstil und infektionsbedingte Faktoren als vermeidbare Ursachen.",
+        "vi": "Báo cáo chỉ rõ lối sống và các yếu tố liên quan đến nhiễm trùng là nguyên nhân có thể phòng ngừa.",
+        "pt-BR": "O relatório identifica especificamente o estilo de vida e fatores relacionados a infecções como causas preveníveis.",
+        "id": "Laporan itu secara khusus mengidentifikasi gaya hidup dan faktor terkait infeksi sebagai penyebab yang dapat dicegah.",
+        "fr": "Le rapport identifie spécifiquement le mode de vie et les facteurs liés aux infections comme causes évitables.",
+        "ar": "يحدد التقرير على وجه التحديد نمط الحياة والعوامل المرتبطة بالعدوى كأسباب يمكن الوقاية منها.",
+        "tr": "Rapor, yaşam tarzı ve enfeksiyonla ilgili faktörleri önlenebilir nedenler olarak özellikle belirtiyor.",
+        "it": "Il rapporto identifica specificamente lo stile di vita e i fattori legati alle infezioni come cause prevenibili.",
+        "pl": "W raporcie wskazano konkretnie styl życia i czynniki związane z infekcjami jako przyczyny, którym można zapobiec."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Exactly 50%"
       ],
       "answerIndex": 1,
-      "hintKo": "The WHO report found that fewer than one-third of countries cover cancer care in their basic health plans."
+      "hintKo": "The WHO report found that fewer than one-third of countries cover cancer care in their basic health plans.",
+      "hintI18n": {
+        "en": "The WHO report found that fewer than one-third of countries cover cancer care in their basic health plans.",
+        "ko": "WHO 보고서는 기본 의료 보장 계획에 암 치료를 포함하는 국가가 3분의 1도 안 된다고 밝혔습니다.",
+        "zh-Hans": "WHO报告发现，不到三分之一的国家将癌症护理纳入其基本卫生计划。",
+        "ja": "WHOの報告書は、基本的な医療制度でがん治療を対象としている国は3分の1未満だと述べています。",
+        "es": "El informe de la OMS encontró que menos de un tercio de los países cubren la atención oncológica en sus planes básicos de salud.",
+        "hi": "WHO की रिपोर्ट में पाया गया कि एक-तिहाई से भी कम देश अपनी बुनियादी स्वास्थ्य योजनाओं में कैंसर देखभाल को शामिल करते हैं।",
+        "de": "Der WHO-Bericht stellte fest, dass weniger als ein Drittel der Länder die Krebsversorgung in ihre grundlegenden Gesundheitspläne aufnimmt.",
+        "vi": "Báo cáo của WHO cho thấy chưa đến một phần ba quốc gia đưa chăm sóc ung thư vào kế hoạch y tế cơ bản của họ.",
+        "pt-BR": "O relatório da OMS descobriu que menos de um terço dos países cobre o tratamento do câncer em seus planos básicos de saúde.",
+        "id": "Laporan WHO menemukan bahwa kurang dari sepertiga negara memasukkan perawatan kanker ke dalam rencana kesehatan dasar mereka.",
+        "fr": "Le rapport de l'OMS a constaté que moins d'un tiers des pays couvrent les soins contre le cancer dans leurs plans de santé de base.",
+        "ar": "وجد تقرير منظمة الصحة العالمية أن أقل من ثلث الدول تدرج رعاية السرطان في خططها الصحية الأساسية.",
+        "tr": "WHO raporu, ülkelerin üçte birinden azının temel sağlık planlarında kanser bakımına yer verdiğini buldu.",
+        "it": "Il rapporto dell'OMS ha rilevato che meno di un terzo dei paesi copre le cure oncologiche nei propri piani sanitari di base.",
+        "pl": "Raport WHO wykazał, że mniej niż jedna trzecia krajów obejmuje opiekę onkologiczną w podstawowych planach zdrowotnych."
+      }
     }
   ],
   "youtube_url": ""

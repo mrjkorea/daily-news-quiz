@@ -17,7 +17,24 @@
         "The brain shrinks to reduce the damaged area"
       ],
       "answerIndex": 2,
-      "hintKo": "Not quite. The brain actually produces new neurons that migrate to damaged areas to help with repair."
+      "hintKo": "Not quite. The brain actually produces new neurons that migrate to damaged areas to help with repair.",
+      "hintI18n": {
+        "en": "Not quite. The brain actually produces new neurons that migrate to damaged areas to help with repair.",
+        "ko": "정확하지 않아요. 뇌는 실제로 새로운 뉴런을 만들어 손상된 부위로 이동시켜 회복을 돕습니다.",
+        "zh-Hans": "不完全对。大脑实际上会产生新的神经元，它们会迁移到受损区域帮助修复。",
+        "ja": "正確ではありません。脳は実際に新しいニューロンを作り、損傷した領域へ移動して修復を助けます。",
+        "es": "No exactamente. El cerebro produce nuevas neuronas que migran a las áreas dañadas para ayudar en la reparación.",
+        "hi": "बिल्कुल सही नहीं। मस्तिष्क वास्तव में नए न्यूरॉन बनाता है जो क्षतिग्रस्त क्षेत्रों में जाकर मरम्मत में मदद करते हैं।",
+        "de": "Nicht ganz. Das Gehirn bildet tatsächlich neue Neuronen, die in geschädigte Bereiche wandern und bei der Reparatur helfen.",
+        "vi": "Không hẳn. Não thực sự tạo ra các nơ-ron mới di chuyển đến vùng bị tổn thương để hỗ trợ sửa chữa.",
+        "pt-BR": "Não exatamente. O cérebro na verdade produz novos neurônios que migram para áreas danificadas para ajudar no reparo.",
+        "id": "Tidak juga. Otak sebenarnya menghasilkan neuron baru yang bermigrasi ke area yang rusak untuk membantu perbaikan.",
+        "fr": "Pas tout à fait. Le cerveau produit en fait de nouveaux neurones qui migrent vers les zones endommagées pour aider à la réparation.",
+        "ar": "ليس تمامًا. ينتج الدماغ في الواقع خلايا عصبية جديدة تهاجر إلى المناطق المتضررة للمساعدة في الإصلاح.",
+        "tr": "Pek değil. Beyin aslında hasarlı bölgelere göç ederek onarıma yardımcı olan yeni nöronlar üretir.",
+        "it": "Non proprio. Il cervello produce effettivamente nuovi neuroni che migrano verso le aree danneggiate per aiutare la riparazione.",
+        "pl": "Nie do końca. Mózg faktycznie wytwarza nowe neurony, które migrują do uszkodzonych obszarów, aby pomóc w naprawie."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "The neuron"
       ],
       "answerIndex": 1,
-      "hintKo": "The answer is the cortex. It's the wrinkled outer surface of the brain."
+      "hintKo": "The answer is the cortex. It's the wrinkled outer surface of the brain.",
+      "hintI18n": {
+        "en": "The answer is the cortex. It's the wrinkled outer surface of the brain.",
+        "ko": "정답은 피질이에요. 피질은 뇌의 주름진 겉표면입니다.",
+        "zh-Hans": "答案是皮层。它是大脑表面布满皱纹的外层。",
+        "ja": "答えは皮質です。それは脳のしわのある外表面です。",
+        "es": "La respuesta es la corteza. Es la superficie exterior arrugada del cerebro.",
+        "hi": "उत्तर कॉर्टेक्स है। यह मस्तिष्क की झुर्रीदार बाहरी सतह है।",
+        "de": "Die Antwort ist der Cortex. Er ist die gefaltete äußere Oberfläche des Gehirns.",
+        "vi": "Câu trả lời là vỏ não. Đó là bề mặt ngoài nhăn nheo của não.",
+        "pt-BR": "A resposta é o córtex. É a superfície externa enrugada do cérebro.",
+        "id": "Jawabannya adalah korteks. Itu adalah permukaan luar otak yang berkerut.",
+        "fr": "La réponse est le cortex. C'est la surface extérieure ridée du cerveau.",
+        "ar": "الإجابة هي القشرة. إنها السطح الخارجي المتجعد للدماغ.",
+        "tr": "Cevap kortekstir. Beynin kırışık dış yüzeyidir.",
+        "it": "La risposta è la corteccia. È la superficie esterna rugosa del cervello.",
+        "pl": "Odpowiedź to kora. To pofałdowana zewnętrzna powierzchnia mózgu."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "A measurement of genetic diversity"
       ],
       "answerIndex": 0,
-      "hintKo": "A mutation refers to a change in DNA sequence — not a cell type or reaction."
+      "hintKo": "A mutation refers to a change in DNA sequence — not a cell type or reaction.",
+      "hintI18n": {
+        "en": "A mutation refers to a change in DNA sequence — not a cell type or reaction.",
+        "ko": "돌연변이는 DNA 서열의 변화를 뜻해요. 세포 유형이나 반응이 아닙니다.",
+        "zh-Hans": "突变是指DNA序列的改变，而不是细胞类型或反应。",
+        "ja": "突然変異とはDNA配列の変化を指します。細胞の種類や反応ではありません。",
+        "es": "Una mutación se refiere a un cambio en la secuencia del ADN, no a un tipo de célula o una reacción.",
+        "hi": "म्यूटेशन का अर्थ DNA अनुक्रम में परिवर्तन है — कोशिका प्रकार या प्रतिक्रिया नहीं।",
+        "de": "Eine Mutation bezeichnet eine Veränderung der DNA-Sequenz – nicht einen Zelltyp oder eine Reaktion.",
+        "vi": "Đột biến là sự thay đổi trong trình tự DNA — không phải loại tế bào hay phản ứng.",
+        "pt-BR": "Uma mutação se refere a uma mudança na sequência de DNA — não a um tipo de célula ou reação.",
+        "id": "Mutasi mengacu pada perubahan urutan DNA — bukan jenis sel atau reaksi.",
+        "fr": "Une mutation désigne un changement dans la séquence d'ADN — pas un type de cellule ni une réaction.",
+        "ar": "الطفرة تشير إلى تغير في تسلسل الحمض النووي DNA — وليس نوع خلية أو تفاعل.",
+        "tr": "Mutasyon, DNA dizisindeki bir değişikliği ifade eder — bir hücre türü veya tepki değil.",
+        "it": "Una mutazione si riferisce a un cambiamento nella sequenza del DNA, non a un tipo di cellula o una reazione.",
+        "pl": "Mutacja oznacza zmianę w sekwencji DNA — nie typ komórki ani reakcję."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "A spiral staircase"
       ],
       "answerIndex": 3,
-      "hintKo": "DNA is shaped like a twisted ladder, known as a double helix."
+      "hintKo": "DNA is shaped like a twisted ladder, known as a double helix.",
+      "hintI18n": {
+        "en": "DNA is shaped like a twisted ladder, known as a double helix.",
+        "ko": "DNA는 꼬인 사다리 모양이며, 이를 이중 나선이라고 해요.",
+        "zh-Hans": "DNA的形状像一架扭曲的梯子，称为双螺旋。",
+        "ja": "DNAはねじれたはしごのような形をしており、二重らせんと呼ばれます。",
+        "es": "El ADN tiene forma de escalera retorcida, conocida como doble hélice.",
+        "hi": "DNA एक मुड़ी हुई सीढ़ी के आकार का होता है, जिसे डबल हेलिक्स कहते हैं।",
+        "de": "DNA hat die Form einer verdrehten Leiter, die als Doppelhelix bekannt ist.",
+        "vi": "DNA có hình dạng như một chiếc thang xoắn, được gọi là chuỗi xoắn kép.",
+        "pt-BR": "O DNA tem a forma de uma escada torcida, conhecida como dupla hélice.",
+        "id": "DNA berbentuk seperti tangga terpilin, yang dikenal sebagai heliks ganda.",
+        "fr": "L'ADN a la forme d'une échelle torsadée, appelée double hélice.",
+        "ar": "الحمض النووي DNA على شكل سلم ملتوٍ، يُعرف باللولب المزدوج.",
+        "tr": "DNA, çift sarmal olarak bilinen bükülmüş bir merdiven şeklindedir.",
+        "it": "Il DNA ha la forma di una scala attorcigliata, nota come doppia elica.",
+        "pl": "DNA ma kształt skręconej drabiny, znanej jako podwójna helisa."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It helps a species survive changes in the environment"
       ],
       "answerIndex": 4,
-      "hintKo": "Genetic diversity is important because it helps a species adapt and survive when conditions change."
+      "hintKo": "Genetic diversity is important because it helps a species adapt and survive when conditions change.",
+      "hintI18n": {
+        "en": "Genetic diversity is important because it helps a species adapt and survive when conditions change.",
+        "ko": "유전적 다양성은 조건이 변할 때 종이 적응하고 생존하도록 도와주기 때문에 중요해요.",
+        "zh-Hans": "遗传多样性很重要，因为它有助于物种在条件变化时适应并生存下来。",
+        "ja": "遺伝的多様性は、環境が変化したときに種が適応して生き残るのを助けるため重要です。",
+        "es": "La diversidad genética es importante porque ayuda a una especie a adaptarse y sobrevivir cuando cambian las condiciones.",
+        "hi": "आनुवंशिक विविधता महत्वपूर्ण है क्योंकि यह परिस्थितियों बदलने पर प्रजाति को अनुकूलित होने और जीवित रहने में मदद करती है।",
+        "de": "Genetische Vielfalt ist wichtig, weil sie einer Art hilft, sich anzupassen und zu überleben, wenn sich die Bedingungen ändern.",
+        "vi": "Đa dạng di truyền rất quan trọng vì nó giúp loài thích nghi và tồn tại khi điều kiện thay đổi.",
+        "pt-BR": "A diversidade genética é importante porque ajuda uma espécie a se adaptar e sobreviver quando as condições mudam.",
+        "id": "Keanekaragaman genetik penting karena membantu spesies beradaptasi dan bertahan saat kondisi berubah.",
+        "fr": "La diversité génétique est importante car elle aide une espèce à s'adapter et à survivre lorsque les conditions changent.",
+        "ar": "التنوع الجيني مهم لأنه يساعد النوع على التكيف والبقاء عندما تتغير الظروف.",
+        "tr": "Genetik çeşitlilik önemlidir çünkü koşullar değiştiğinde bir türün uyum sağlamasına ve hayatta kalmasına yardımcı olur.",
+        "it": "La diversità genetica è importante perché aiuta una specie ad adattarsi e sopravvivere quando le condizioni cambiano.",
+        "pl": "Różnorodność genetyczna jest ważna, ponieważ pomaga gatunkowi przystosować się i przetrwać, gdy warunki się zmieniają."
+      }
     }
   ]
 }

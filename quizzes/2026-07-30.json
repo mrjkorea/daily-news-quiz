@@ -17,7 +17,24 @@
         "The FDA commissioner"
       ],
       "answerIndex": 1,
-      "hintKo": "Dr. Kim of Cedars-Sinai Medical Center was the first study author."
+      "hintKo": "Dr. Kim of Cedars-Sinai Medical Center was the first study author.",
+      "hintI18n": {
+        "en": "Dr. Kim of Cedars-Sinai Medical Center was the first study author.",
+        "ko": "시더스-사이나이 의료센터의 김 박사가 이 연구의 제1저자였습니다.",
+        "zh-Hans": "西达赛奈医疗中心的金博士是该研究的第一作者。",
+        "ja": "シーダーズ・サイナイ医療センターのキム博士がこの研究の筆頭著者でした。",
+        "es": "El Dr. Kim del Centro Médico Cedars-Sinai fue el primer autor del estudio.",
+        "hi": "सीडर्स-सिनाई मेडिकल सेंटर के डॉ. किम अध्ययन के पहले लेखक थे।",
+        "de": "Dr. Kim vom Cedars-Sinai Medical Center war der Erstautor der Studie.",
+        "vi": "Bác sĩ Kim của Trung tâm Y tế Cedars-Sinai là tác giả đầu tiên của nghiên cứu.",
+        "pt-BR": "O Dr. Kim do Cedars-Sinai Medical Center foi o primeiro autor do estudo.",
+        "id": "Dr. Kim dari Cedars-Sinai Medical Center adalah penulis pertama studi tersebut.",
+        "fr": "Le Dr Kim du Cedars-Sinai Medical Center était le premier auteur de l’étude.",
+        "ar": "كان الدكتور كيم من مركز سيدارس-سايناي الطبي المؤلف الأول للدراسة.",
+        "tr": "Cedars-Sinai Tıp Merkezi’nden Dr. Kim çalışmanın ilk yazarıydı.",
+        "it": "Il dottor Kim del Cedars-Sinai Medical Center è stato il primo autore dello studio.",
+        "pl": "Dr Kim z Cedars-Sinai Medical Center był pierwszym autorem badania."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Lung cancer and asthma"
       ],
       "answerIndex": 2,
-      "hintKo": "The study specifically looked at liver conditions: cirrhosis, liver cancer, and liver-related death."
+      "hintKo": "The study specifically looked at liver conditions: cirrhosis, liver cancer, and liver-related death.",
+      "hintI18n": {
+        "en": "The study specifically looked at liver conditions: cirrhosis, liver cancer, and liver-related death.",
+        "ko": "이 연구는 간 질환, 즉 간경변, 간암, 간 관련 사망을 구체적으로 조사했습니다.",
+        "zh-Hans": "该研究专门考察了肝脏疾病：肝硬化、肝癌和肝脏相关死亡。",
+        "ja": "この研究は肝疾患、具体的には肝硬変、肝がん、肝関連死を調べました。",
+        "es": "El estudio examinó específicamente enfermedades hepáticas: cirrosis, cáncer de hígado y muerte relacionada con el hígado.",
+        "hi": "अध्ययन ने विशेष रूप से यकृत रोगों को देखा: सिरोसिस, यकृत कैंसर और यकृत-संबंधी मृत्यु।",
+        "de": "Die Studie untersuchte speziell Lebererkrankungen: Zirrhose, Leberkrebs und leberbedingten Tod.",
+        "vi": "Nghiên cứu đặc biệt xem xét các bệnh về gan: xơ gan, ung thư gan và tử vong liên quan đến gan.",
+        "pt-BR": "O estudo analisou especificamente condições hepáticas: cirrose, câncer de fígado e morte relacionada ao fígado.",
+        "id": "Studi ini secara khusus meneliti kondisi hati: sirosis, kanker hati, dan kematian terkait hati.",
+        "fr": "L’étude a examiné spécifiquement les maladies du foie : cirrhose, cancer du foie et décès lié au foie.",
+        "ar": "بحثت الدراسة تحديدًا في أمراض الكبد: تليف الكبد، وسرطان الكبد، والوفاة المرتبطة بالكبد.",
+        "tr": "Çalışma özellikle karaciğer hastalıklarına baktı: siroz, karaciğer kanseri ve karaciğerle ilişkili ölüm.",
+        "it": "Lo studio ha esaminato specificamente le condizioni del fegato: cirrosi, cancro al fegato e morte correlata al fegato.",
+        "pl": "Badanie dotyczyło konkretnie chorób wątroby: marskości, raka wątroby i zgonu związanego z wątrobą."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "July first"
       ],
       "answerIndex": 4,
-      "hintKo": "CNN published the article on July first, twenty twenty-six."
+      "hintKo": "CNN published the article on July first, twenty twenty-six.",
+      "hintI18n": {
+        "en": "CNN published the article on July first, twenty twenty-six.",
+        "ko": "CNN은 2026년 7월 1일에 그 기사를 게재했습니다.",
+        "zh-Hans": "CNN于2026年7月1日发表了这篇文章。",
+        "ja": "CNNは2026年7月1日にこの記事を公開しました。",
+        "es": "CNN publicó el artículo el 1 de julio de 2026.",
+        "hi": "CNN ने यह लेख 1 जुलाई 2026 को प्रकाशित किया।",
+        "de": "CNN veröffentlichte den Artikel am 1. Juli 2026.",
+        "vi": "CNN đã đăng bài viết vào ngày 1 tháng 7 năm 2026.",
+        "pt-BR": "A CNN publicou o artigo em 1º de julho de 2026.",
+        "id": "CNN menerbitkan artikel itu pada 1 Juli 2026.",
+        "fr": "CNN a publié l’article le 1er juillet 2026.",
+        "ar": "نشرت CNN المقال في الأول من يوليو عام 2026.",
+        "tr": "CNN makaleyi 1 Temmuz 2026’da yayımladı.",
+        "it": "CNN ha pubblicato l’articolo il 1° luglio 2026.",
+        "pl": "CNN opublikowało artykuł 1 lipca 2026 r."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Multiple hospitals worldwide"
       ],
       "answerIndex": 0,
-      "hintKo": "The research was based on the UK Biobank study population."
+      "hintKo": "The research was based on the UK Biobank study population.",
+      "hintI18n": {
+        "en": "The research was based on the UK Biobank study population.",
+        "ko": "이 연구는 UK Biobank 연구 인구를 기반으로 했습니다.",
+        "zh-Hans": "这项研究基于英国生物样本库（UK Biobank）研究人群。",
+        "ja": "この研究はUKバイオバンクの研究対象集団に基づいていました。",
+        "es": "La investigación se basó en la población del estudio UK Biobank.",
+        "hi": "यह शोध यूके बायोबैंक अध्ययन आबादी पर आधारित था।",
+        "de": "Die Forschung basierte auf der Studienpopulation des UK Biobank.",
+        "vi": "Nghiên cứu dựa trên dân số nghiên cứu của UK Biobank.",
+        "pt-BR": "A pesquisa foi baseada na população do estudo UK Biobank.",
+        "id": "Penelitian ini didasarkan pada populasi studi UK Biobank.",
+        "fr": "La recherche était fondée sur la population de l’étude UK Biobank.",
+        "ar": "استند البحث إلى مجموعة دراسة UK Biobank.",
+        "tr": "Araştırma, UK Biobank çalışma popülasyonuna dayanıyordu.",
+        "it": "La ricerca si basava sulla popolazione dello studio UK Biobank.",
+        "pl": "Badanie opierało się na populacji badania UK Biobank."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because caffeine was proven harmful to the liver"
       ],
       "answerIndex": 3,
-      "hintKo": "The similar results in decaf drinkers point to antioxidants as the source of the benefits."
+      "hintKo": "The similar results in decaf drinkers point to antioxidants as the source of the benefits.",
+      "hintI18n": {
+        "en": "The similar results in decaf drinkers point to antioxidants as the source of the benefits.",
+        "ko": "디카페인 커피를 마신 사람들에게서 비슷한 결과가 나온 것은 항산화제가 이점의 원천임을 보여줍니다.",
+        "zh-Hans": "无咖啡因饮用者也有类似结果，这说明益处来自抗氧化剂。",
+        "ja": "デカフェを飲む人でも同様の結果が出たことは、利益の源が抗酸化物質であることを示しています。",
+        "es": "Los resultados similares en quienes beben descafeinado indican que los antioxidantes son la fuente de los beneficios.",
+        "hi": "डिकैफ़ पीने वालों में समान परिणाम बताते हैं कि लाभ के स्रोत एंटीऑक्सिडेंट हैं।",
+        "de": "Die ähnlichen Ergebnisse bei Entkoffeiniert-Trinkern deuten darauf hin, dass Antioxidantien die Quelle der Vorteile sind.",
+        "vi": "Kết quả tương tự ở người uống cà phê không caffeine cho thấy chất chống oxy hóa là nguồn mang lại lợi ích.",
+        "pt-BR": "Os resultados semelhantes em quem bebe descafeinado indicam que os antioxidantes são a fonte dos benefícios.",
+        "id": "Hasil serupa pada peminum kopi tanpa kafein menunjukkan antioksidan sebagai sumber manfaatnya.",
+        "fr": "Les résultats similaires chez les buveurs de déca pointent vers les antioxydants comme source des bienfaits.",
+        "ar": "تشير النتائج المماثلة لدى شاربي القهوة منزوعة الكافيين إلى أن مضادات الأكسدة هي مصدر الفوائد.",
+        "tr": "Kafeinsiz içenlerdeki benzer sonuçlar, faydaların kaynağının antioksidanlar olduğuna işaret ediyor.",
+        "it": "I risultati simili in chi beve decaffeinato indicano che gli antiossidanti sono la fonte dei benefici.",
+        "pl": "Podobne wyniki u pijących kawę bezkofeinową wskazują, że źródłem korzyści są przeciwutleniacze."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Exactly 1 million"
       ],
       "answerIndex": 2,
-      "hintKo": "The study followed more than 354,000 participants."
+      "hintKo": "The study followed more than 354,000 participants.",
+      "hintI18n": {
+        "en": "The study followed more than 354,000 participants.",
+        "ko": "연구는 354,000명이 넘는 참가자를 추적 관찰했습니다.",
+        "zh-Hans": "该研究追踪了超过354,000名参与者。",
+        "ja": "この研究は354,000人を超える参加者を追跡調査しました。",
+        "es": "El estudio siguió a más de 354.000 participantes.",
+        "hi": "अध्ययन में 354,000 से अधिक प्रतिभागियों का अनुसरण किया गया।",
+        "de": "Die Studie begleitete mehr als 354.000 Teilnehmer.",
+        "vi": "Nghiên cứu đã theo dõi hơn 354.000 người tham gia.",
+        "pt-BR": "O estudo acompanhou mais de 354.000 participantes.",
+        "id": "Studi ini mengikuti lebih dari 354.000 peserta.",
+        "fr": "L’étude a suivi plus de 354 000 participants.",
+        "ar": "تابعت الدراسة أكثر من 354,000 مشارك.",
+        "tr": "Çalışma 354.000'den fazla katılımcıyı takip etti.",
+        "it": "Lo studio ha seguito più di 354.000 partecipanti.",
+        "pl": "Badanie objęło obserwacją ponad 354 000 uczestników."
+      }
     }
   ],
   "youtube_url": ""

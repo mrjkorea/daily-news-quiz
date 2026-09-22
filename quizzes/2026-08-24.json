@@ -17,7 +17,24 @@
         "A news anchor"
       ],
       "answerIndex": 0,
-      "hintKo": "The lead scientist was Prabal Saxena of NASA's Goddard center."
+      "hintKo": "The lead scientist was Prabal Saxena of NASA's Goddard center.",
+      "hintI18n": {
+        "en": "The lead scientist was Prabal Saxena of NASA's Goddard center.",
+        "ko": "연구를 이끈 과학자는 NASA 고다드 센터의 프라발 삭세나였습니다.",
+        "zh-Hans": "这项研究的首席科学家是NASA戈达德中心的普拉巴尔·萨克塞纳。",
+        "ja": "研究を率いた科学者は、NASAゴダードセンターのプラバル・サクセナでした。",
+        "es": "El científico principal fue Prabal Saxena, del centro Goddard de la NASA.",
+        "hi": "अध्ययन का नेतृत्व NASA के गोडार्ड केंद्र के प्रबल सक्सेना ने किया।",
+        "de": "Der leitende Wissenschaftler war Prabal Saxena vom Goddard-Zentrum der NASA.",
+        "vi": "Nhà khoa học chính là Prabal Saxena thuộc trung tâm Goddard của NASA.",
+        "pt-BR": "O cientista líder foi Prabal Saxena, do centro Goddard da NASA.",
+        "id": "Ilmuwan utama adalah Prabal Saxena dari pusat Goddard NASA.",
+        "fr": "Le scientifique principal était Prabal Saxena, du centre Goddard de la NASA.",
+        "ar": "كان العالم الرئيسي برابال ساكسينا من مركز غودارد التابع لناسا.",
+        "tr": "Araştırmayı yöneten bilim insanı NASA Goddard merkezinden Prabal Saxena'ydı.",
+        "it": "Lo scienziato principale era Prabal Saxena del centro Goddard della NASA.",
+        "pl": "Głównym naukowcem był Prabal Saxena z centrum Goddard NASA."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Make oxygen"
       ],
       "answerIndex": 1,
-      "hintKo": "The finding was that some microbes could survive for weeks to months."
+      "hintKo": "The finding was that some microbes could survive for weeks to months.",
+      "hintI18n": {
+        "en": "The finding was that some microbes could survive for weeks to months.",
+        "ko": "일부 미생물이 몇 주에서 몇 달까지 생존할 수 있다는 것이 그 발견이었습니다.",
+        "zh-Hans": "发现是，一些微生物可以存活数周到数月。",
+        "ja": "一部の微生物が数週間から数か月生き残る可能性があるというのがその発見でした。",
+        "es": "El hallazgo fue que algunos microbios podían sobrevivir de semanas a meses.",
+        "hi": "निष्कर्ष यह था कि कुछ सूक्ष्मजीव कुछ हफ्तों से लेकर कुछ महीनों तक जीवित रह सकते हैं।",
+        "de": "Das Ergebnis war, dass einige Mikroben wochen- bis monatelang überleben könnten.",
+        "vi": "Phát hiện là một số vi khuẩn có thể sống sót từ vài tuần đến vài tháng.",
+        "pt-BR": "A descoberta foi que alguns micróbios podiam sobreviver de semanas a meses.",
+        "id": "Temuannya adalah bahwa beberapa mikroba dapat bertahan hidup dari minggu hingga bulan.",
+        "fr": "La découverte était que certains microbes pouvaient survivre de quelques semaines à quelques mois.",
+        "ar": "كانت النتيجة أن بعض الميكروبات قد تبقى على قيد الحياة من أسابيع إلى أشهر.",
+        "tr": "Bulgu, bazı mikropların haftalarca hatta aylarca hayatta kalabileceğiydi.",
+        "it": "La scoperta è stata che alcuni microbi potevano sopravvivere da settimane a mesi.",
+        "pl": "Odkryciem było to, że niektóre drobnoustroje mogą przetrwać od tygodni do miesięcy."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Never"
       ],
       "answerIndex": 0,
-      "hintKo": "The models favored autumn and winter for survival."
+      "hintKo": "The models favored autumn and winter for survival.",
+      "hintI18n": {
+        "en": "The models favored autumn and winter for survival.",
+        "ko": "모델은 생존에 가을과 겨울이 유리하다고 보았습니다.",
+        "zh-Hans": "模型显示，秋季和冬季更有利于生存。",
+        "ja": "モデルでは、生存には秋と冬が有利とされました。",
+        "es": "Los modelos favorecían el otoño y el invierno para la supervivencia.",
+        "hi": "मॉडलों के अनुसार जीवित रहने के लिए शरद ऋतु और सर्दी अधिक अनुकूल थीं।",
+        "de": "Die Modelle begünstigten Herbst und Winter für das Überleben.",
+        "vi": "Các mô hình cho thấy mùa thu và mùa đông có lợi hơn cho sự sống sót.",
+        "pt-BR": "Os modelos favoreceram o outono e o inverno para a sobrevivência.",
+        "id": "Model tersebut menunjukkan musim gugur dan musim dingin lebih mendukung kelangsungan hidup.",
+        "fr": "Les modèles favorisaient l’automne et l’hiver pour la survie.",
+        "ar": "فضّلت النماذج الخريف والشتاء للبقاء على قيد الحياة.",
+        "tr": "Modeller hayatta kalmak için sonbahar ve kışı daha uygun buldu.",
+        "it": "I modelli favorivano l'autunno e l'inverno per la sopravvivenza.",
+        "pl": "Modele wskazywały, że jesień i zima sprzyjają przetrwaniu."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "At the equator"
       ],
       "answerIndex": 1,
-      "hintKo": "Permanently shadowed craters offered the best survival chances."
+      "hintKo": "Permanently shadowed craters offered the best survival chances.",
+      "hintI18n": {
+        "en": "Permanently shadowed craters offered the best survival chances.",
+        "ko": "영구적으로 그늘진 분화구가 가장 좋은 생존 가능성을 제공했습니다.",
+        "zh-Hans": "永久阴影的陨石坑提供了最佳的生存机会。",
+        "ja": "永久に影になっているクレーターが最も高い生存可能性を示しました。",
+        "es": "Los cráteres permanentemente en sombra ofrecían las mejores posibilidades de supervivencia.",
+        "hi": "स्थायी रूप से छाया में रहने वाले गड्ढे सबसे अच्छी जीवित रहने की संभावना देते थे।",
+        "de": "Permanent beschattete Krater boten die besten Überlebenschancen.",
+        "vi": "Các hố va chạm bị che khuất vĩnh viễn mang lại cơ hội sống sót tốt nhất.",
+        "pt-BR": "Crateras permanentemente sombreadas ofereciam as melhores chances de sobrevivência.",
+        "id": "Kawah yang selalu tertutup bayangan menawarkan peluang bertahan hidup terbaik.",
+        "fr": "Les cratères constamment à l’ombre offraient les meilleures chances de survie.",
+        "ar": "وفّرت الفوهات المظللة بشكل دائم أفضل فرص البقاء على قيد الحياة.",
+        "tr": "Kalıcı olarak gölgede kalan kraterler en iyi hayatta kalma şansını sundu.",
+        "it": "I crateri permanentemente in ombra offrivano le migliori possibilità di sopravvivenza.",
+        "pl": "Stale zacienione kratery dawały najlepsze szanse na przetrwanie."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "They cannot survive at all"
       ],
       "answerIndex": 0,
-      "hintKo": "The worry is contamination of ice, soil, and samples."
+      "hintKo": "The worry is contamination of ice, soil, and samples.",
+      "hintI18n": {
+        "en": "The worry is contamination of ice, soil, and samples.",
+        "ko": "걱정은 얼음, 토양, 샘플의 오염입니다.",
+        "zh-Hans": "担忧在于冰、土壤和样本受到污染。",
+        "ja": "懸念は、氷や土壌、サンプルの汚染です。",
+        "es": "La preocupación es la contaminación del hielo, el suelo y las muestras.",
+        "hi": "चिंता बर्फ, मिट्टी और नमूनों के संदूषण की है।",
+        "de": "Die Sorge ist die Kontamination von Eis, Boden und Proben.",
+        "vi": "Mối lo là sự nhiễm bẩn băng, đất và các mẫu vật.",
+        "pt-BR": "A preocupação é a contaminação do gelo, do solo e das amostras.",
+        "id": "Kekhawatirannya adalah kontaminasi es, tanah, dan sampel.",
+        "fr": "L’inquiétude est la contamination de la glace, du sol et des échantillons.",
+        "ar": "القلق هو تلوث الجليد والتربة والعينات.",
+        "tr": "Endişe buz, toprak ve örneklerin kirlenmesidir.",
+        "it": "La preoccupazione è la contaminazione di ghiaccio, suolo e campioni.",
+        "pl": "Obawą jest zanieczyszczenie lodu, gleby i próbek."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By feeding them moon dust"
       ],
       "answerIndex": 1,
-      "hintKo": "They used models based on lunar observations and data."
+      "hintKo": "They used models based on lunar observations and data.",
+      "hintI18n": {
+        "en": "They used models based on lunar observations and data.",
+        "ko": "그들은 달 관측과 데이터에 기반한 모델을 사용했습니다.",
+        "zh-Hans": "他们使用了基于月球观测和数据的模型。",
+        "ja": "彼らは月の観測とデータに基づくモデルを使った。",
+        "es": "Usaron modelos basados en observaciones y datos lunares.",
+        "hi": "उन्होंने चंद्र अवलोकनों और डेटा पर आधारित मॉडलों का उपयोग किया।",
+        "de": "Sie verwendeten Modelle, die auf Mondbeobachtungen und Daten basierten.",
+        "vi": "Họ đã dùng các mô hình dựa trên quan sát và dữ liệu về Mặt Trăng.",
+        "pt-BR": "Eles usaram modelos baseados em observações e dados lunares.",
+        "id": "Mereka menggunakan model berdasarkan pengamatan dan data bulan.",
+        "fr": "Ils ont utilisé des modèles fondés sur des observations et des données lunaires.",
+        "ar": "استخدموا نماذج مبنية على أرصاد القمر وبياناته.",
+        "tr": "Ay gözlemlerine ve verilerine dayanan modeller kullandılar.",
+        "it": "Hanno usato modelli basati su osservazioni e dati lunari.",
+        "pl": "Użyli modeli opartych na obserwacjach Księżyca i danych."
+      }
     }
   ],
   "youtube_url": ""

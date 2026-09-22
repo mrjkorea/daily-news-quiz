@@ -17,7 +17,24 @@
         "Only algae farmers"
       ],
       "answerIndex": 0,
-      "hintKo": "It is a lottery for licensed hunters, not a museum or sports prize."
+      "hintKo": "It is a lottery for licensed hunters, not a museum or sports prize.",
+      "hintI18n": {
+        "en": "It is a lottery for licensed hunters, not a museum or sports prize.",
+        "ko": "면허를 가진 사냥꾼을 위한 추첨이며, 박물관이나 스포츠 상이 아닙니다.",
+        "zh-Hans": "这是针对持证猎人的抽签，不是博物馆或体育奖品。",
+        "ja": "これは許可を受けた狩猟者向けの抽選で、博物館やスポーツの賞品ではありません。",
+        "es": "Es una lotería para cazadores con licencia, no un premio de museo o deportivo.",
+        "hi": "यह लाइसेंस प्राप्त शिकारियों के लिए लॉटरी है, संग्रहालय या खेल पुरस्कार नहीं।",
+        "de": "Es ist eine Lotterie für lizenzierte Jäger, kein Museums- oder Sportpreis.",
+        "vi": "Đây là cuộc xổ số cho thợ săn có giấy phép, không phải giải thưởng bảo tàng hay thể thao.",
+        "pt-BR": "É uma loteria para caçadores licenciados, não um prêmio de museu ou esportivo.",
+        "id": "Ini lotre untuk pemburu berlisensi, bukan hadiah museum atau olahraga.",
+        "fr": "C'est une loterie pour les chasseurs titulaires d'un permis, pas un prix de musée ou de sport.",
+        "ar": "إنها قرعة للصيادين المرخصين، وليست جائزة متحف أو رياضة.",
+        "tr": "Bu, ruhsatlı avcılar için bir piyango; müze ya da spor ödülü değil.",
+        "it": "È una lotteria per cacciatori autorizzati, non un premio museale o sportivo.",
+        "pl": "To loteria dla licencjonowanych myśliwych, a nie nagroda muzealna ani sportowa."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "A track meet"
       ],
       "answerIndex": 0,
-      "hintKo": "The new hunt is recreational, not commercial art or sport racing."
+      "hintKo": "The new hunt is recreational, not commercial art or sport racing.",
+      "hintI18n": {
+        "en": "The new hunt is recreational, not commercial art or sport racing.",
+        "ko": "새로운 사냥은 레크리에이션용이며, 상업 예술이나 스포츠 경주가 아닙니다.",
+        "zh-Hans": "这项新狩猎是休闲性质的，不是商业艺术或体育竞速。",
+        "ja": "新しい狩猟はレクリエーション用で、商業芸術やスポーツレースではありません。",
+        "es": "La nueva caza es recreativa, no arte comercial ni carrera deportiva.",
+        "hi": "नया शिकार मनोरंजनात्मक है, व्यावसायिक कला या खेल दौड़ नहीं।",
+        "de": "Die neue Jagd ist Freizeitjagd, keine kommerzielle Kunst oder Sportrennen.",
+        "vi": "Cuộc săn mới là để giải trí, không phải nghệ thuật thương mại hay đua thể thao.",
+        "pt-BR": "A nova caça é recreativa, não arte comercial ou corrida esportiva.",
+        "id": "Perburuan baru ini bersifat rekreasi, bukan seni komersial atau balap olahraga.",
+        "fr": "La nouvelle chasse est récréative, pas de l'art commercial ni une course sportive.",
+        "ar": "الصيد الجديد ترفيهي، وليس فنًا تجاريًا أو سباقًا رياضيًا.",
+        "tr": "Yeni av eğlence amaçlıdır; ticari sanat veya spor yarışı değildir.",
+        "it": "La nuova caccia è ricreativa, non arte commerciale o corsa sportiva.",
+        "pl": "Nowe polowanie jest rekreacyjne, a nie sztuką komercyjną ani wyścigiem sportowym."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "On a Friday phone launch"
       ],
       "answerIndex": 0,
-      "hintKo": "The season is October, not a one-day holiday."
+      "hintKo": "The season is October, not a one-day holiday.",
+      "hintI18n": {
+        "en": "The season is October, not a one-day holiday.",
+        "ko": "시즌은 10월이며, 하루짜리 휴일이 아닙니다.",
+        "zh-Hans": "季节是十月，不是一天的假日。",
+        "ja": "シーズンは10月で、1日の祝日ではありません。",
+        "es": "La temporada es en octubre, no un día festivo de un solo día.",
+        "hi": "मौसम अक्टूबर है, एक दिन की छुट्टी नहीं।",
+        "de": "Die Saison ist im Oktober, kein eintägiger Feiertag.",
+        "vi": "Mùa là tháng Mười, không phải ngày lễ một ngày.",
+        "pt-BR": "A temporada é em outubro, não um feriado de um dia.",
+        "id": "Musimnya adalah Oktober, bukan hari libur satu hari.",
+        "fr": "La saison est en octobre, pas un jour férié d'une journée.",
+        "ar": "الموسم في أكتوبر، وليس عطلة ليوم واحد.",
+        "tr": "Sezon ekimdir, bir günlük tatil değildir.",
+        "it": "La stagione è a ottobre, non una festività di un giorno.",
+        "pl": "Sezon jest w październiku, a nie jednodniowym świętem."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a Samsung factory"
       ],
       "answerIndex": 0,
-      "hintKo": "It is a Louisiana swamp-and-wetland hunt, not a stadium event."
+      "hintKo": "It is a Louisiana swamp-and-wetland hunt, not a stadium event.",
+      "hintI18n": {
+        "en": "It is a Louisiana swamp-and-wetland hunt, not a stadium event.",
+        "ko": "루이지애나의 늪과 습지에서 하는 사냥이며, 경기장 행사가 아닙니다.",
+        "zh-Hans": "这是路易斯安那州的沼泽和湿地狩猎，不是体育场活动。",
+        "ja": "ルイジアナの沼地と湿地での狩猟で、スタジアムのイベントではありません。",
+        "es": "Es una caza en pantanos y humedales de Luisiana, no un evento de estadio.",
+        "hi": "यह लुइसियाना की दलदल और आर्द्रभूमि में शिकार है, स्टेडियम का कार्यक्रम नहीं।",
+        "de": "Es ist eine Jagd in den Sümpfen und Feuchtgebieten von Louisiana, keine Stadionveranstaltung.",
+        "vi": "Đây là cuộc săn ở đầm lầy và vùng đất ngập nước Louisiana, không phải sự kiện ở sân vận động.",
+        "pt-BR": "É uma caça em pântanos e áreas úmidas da Louisiana, não um evento de estádio.",
+        "id": "Ini perburuan di rawa dan lahan basah Louisiana, bukan acara stadion.",
+        "fr": "C'est une chasse dans les marais et zones humides de Louisiane, pas un événement de stade.",
+        "ar": "إنه صيد في مستنقعات وأراضٍ رطبة في لويزيانا، وليس حدثًا في ملعب.",
+        "tr": "Bu, Louisiana'daki bataklık ve sulak alan avıdır; stadyum etkinliği değildir.",
+        "it": "È una caccia nelle paludi e nelle zone umide della Louisiana, non un evento allo stadio.",
+        "pl": "To polowanie na bagnach i terenach podmokłych Luizjany, a nie wydarzenie na stadionie."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The algae died"
       ],
       "answerIndex": 0,
-      "hintKo": "The ban was about a crashing wild population, not sports or art."
+      "hintKo": "The ban was about a crashing wild population, not sports or art.",
+      "hintI18n": {
+        "en": "The ban was about a crashing wild population, not sports or art.",
+        "ko": "그 금지는 급감하는 야생 개체군 때문이었고, 스포츠나 예술 때문이 아닙니다.",
+        "zh-Hans": "这项禁令是因为野生种群数量锐减，不是体育或艺术。",
+        "ja": "その禁止は野生個体数の激減が理由で、スポーツや芸術のためではありません。",
+        "es": "La prohibición se debió a una población silvestre en desplome, no a deportes o arte.",
+        "hi": "यह प्रतिबंध जंगली आबादी में भारी गिरावट के कारण था, खेल या कला के कारण नहीं।",
+        "de": "Das Verbot ging um eine einbrechende Wildpopulation, nicht um Sport oder Kunst.",
+        "vi": "Lệnh cấm là vì quần thể hoang dã suy giảm mạnh, không phải vì thể thao hay nghệ thuật.",
+        "pt-BR": "A proibição foi por causa de uma população selvagem em queda, não por esportes ou arte.",
+        "id": "Larangan itu karena populasi liar yang merosot, bukan karena olahraga atau seni.",
+        "fr": "L'interdiction visait une population sauvage en chute, pas le sport ou l'art.",
+        "ar": "كان الحظر بسبب انهيار أعداد الحيوانات البرية، وليس بسبب الرياضة أو الفن.",
+        "tr": "Yasak, yabani popülasyonun çöküşüyle ilgiliydi; spor ya da sanatla değil.",
+        "it": "Il divieto riguardava una popolazione selvatica in crollo, non lo sport o l'arte.",
+        "pl": "Zakaz dotyczył gwałtownie malejącej populacji dzikich zwierząt, a nie sportu czy sztuki."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Buying a painting"
       ],
       "answerIndex": 0,
-      "hintKo": "Hook and line is allowed; poaching methods are not."
+      "hintKo": "Hook and line is allowed; poaching methods are not.",
+      "hintI18n": {
+        "en": "Hook and line is allowed; poaching methods are not.",
+        "ko": "낚시바늘과 줄을 사용하는 것은 허용되지만, 밀렵 방법은 허용되지 않습니다.",
+        "zh-Hans": "允许使用钩子和钓线；盗猎方法不允许。",
+        "ja": "釣り針と糸を使うことは許可されていますが、密猟の方法は許可されていません。",
+        "es": "Se permite el anzuelo y la cuerda; los métodos de caza furtiva no.",
+        "hi": "हुक और लाइन की अनुमति है; अवैध शिकार के तरीके नहीं।",
+        "de": "Haken und Leine sind erlaubt; Wilderei-Methoden nicht.",
+        "vi": "Được phép dùng lưỡi câu và dây; các cách săn trộm thì không.",
+        "pt-BR": "Anzol e linha são permitidos; métodos de caça ilegal não.",
+        "id": "Kail dan tali diizinkan; cara berburu ilegal tidak.",
+        "fr": "L'hameçon et la ligne sont autorisés ; les méthodes de braconnage ne le sont pas.",
+        "ar": "يُسمح بالخطاف والخيط؛ أما طرق الصيد الجائر فغير مسموحة.",
+        "tr": "Kanca ve olta izinlidir; kaçak avlanma yöntemleri değildir.",
+        "it": "Amo e lenza sono consentiti; i metodi di bracconaggio no.",
+        "pl": "Hak i żyłka są dozwolone; metody kłusownictwa nie."
+      }
     }
   ],
   "youtube_url": ""

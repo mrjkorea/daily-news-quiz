@@ -17,7 +17,24 @@
         "The foreign minister of El Salvador"
       ],
       "answerIndex": 0,
-      "hintKo": "Bengio is an AI scientist, not a politician or diplomat."
+      "hintKo": "Bengio is an AI scientist, not a politician or diplomat.",
+      "hintI18n": {
+        "en": "Bengio is an AI scientist, not a politician or diplomat.",
+        "ko": "벤지오는 인공지능 과학자이며, 정치인이나 외교관이 아닙니다.",
+        "zh-Hans": "Bengio 是一位人工智能科学家，不是政治家或外交官。",
+        "ja": "ベンジオはAI科学者であり、政治家や外交官ではありません。",
+        "es": "Bengio es un científico de IA, no un político ni un diplomático.",
+        "hi": "बेंजियो एक एआई वैज्ञानिक हैं, राजनेता या राजनयिक नहीं।",
+        "de": "Bengio ist ein KI-Wissenschaftler, kein Politiker oder Diplomat.",
+        "vi": "Bengio là một nhà khoa học AI, không phải chính trị gia hay nhà ngoại giao.",
+        "pt-BR": "Bengio é um cientista de IA, não um político ou diplomata.",
+        "id": "Bengio adalah ilmuwan AI, bukan politikus atau diplomat.",
+        "fr": "Bengio est un scientifique de l'IA, pas un politicien ni un diplomate.",
+        "ar": "بنجيو عالم ذكاء اصطناعي، وليس سياسيًا أو دبلوماسيًا.",
+        "tr": "Bengio bir yapay zeka bilim insanıdır, politikacı veya diplomat değildir.",
+        "it": "Bengio è uno scienziato dell'IA, non un politico o un diplomatico.",
+        "pl": "Bengio jest naukowcem zajmującym się AI, a nie politykiem czy dyplomatą."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "The WHO cancer conference"
       ],
       "answerIndex": 2,
-      "hintKo": "The article specifically states it was the Global Dialogue on AI Governance."
+      "hintKo": "The article specifically states it was the Global Dialogue on AI Governance.",
+      "hintI18n": {
+        "en": "The article specifically states it was the Global Dialogue on AI Governance.",
+        "ko": "기사에서는 그것이 인공지능 거버넌스에 관한 글로벌 대화였다고 분명히 밝힙니다.",
+        "zh-Hans": "文章明确指出，那是“人工智能治理全球对话”。",
+        "ja": "記事は、それが「AIガバナンスに関するグローバル対話」だったと明記しています。",
+        "es": "El artículo afirma específicamente que fue el Diálogo Global sobre la Gobernanza de la IA.",
+        "hi": "लेख विशेष रूप से बताता है कि यह एआई गवर्नेंस पर वैश्विक संवाद था।",
+        "de": "Der Artikel sagt ausdrücklich, dass es der Globale Dialog über KI-Governance war.",
+        "vi": "Bài báo nói rõ rằng đó là Đối thoại Toàn cầu về Quản trị AI.",
+        "pt-BR": "O artigo afirma especificamente que foi o Diálogo Global sobre Governança de IA.",
+        "id": "Artikel itu secara spesifik menyebutkan bahwa itu adalah Dialog Global tentang Tata Kelola AI.",
+        "fr": "L'article précise qu'il s'agissait du Dialogue mondial sur la gouvernance de l'IA.",
+        "ar": "يذكر المقال تحديدًا أنه كان الحوار العالمي حول حوكمة الذكاء الاصطناعي.",
+        "tr": "Makale bunun Yapay Zeka Yönetişimi Küresel Diyaloğu olduğunu özellikle belirtiyor.",
+        "it": "L'articolo afferma specificamente che era il Dialogo globale sulla governance dell'IA.",
+        "pl": "Artykuł wyraźnie podaje, że był to Globalny Dialog na temat Zarządzania AI."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Jakarta, Indonesia"
       ],
       "answerIndex": 1,
-      "hintKo": "The article clearly states the meeting was in Geneva."
+      "hintKo": "The article clearly states the meeting was in Geneva.",
+      "hintI18n": {
+        "en": "The article clearly states the meeting was in Geneva.",
+        "ko": "기사에서는 회의가 제네바에서 열렸다고 분명히 밝힙니다.",
+        "zh-Hans": "文章明确指出会议在日内瓦举行。",
+        "ja": "記事は、会議がジュネーブで行われたと明確に述べています。",
+        "es": "El artículo dice claramente que la reunión fue en Ginebra.",
+        "hi": "लेख स्पष्ट रूप से बताता है कि बैठक जिनेवा में हुई थी।",
+        "de": "Der Artikel sagt klar, dass das Treffen in Genf war.",
+        "vi": "Bài báo nói rõ rằng cuộc họp diễn ra ở Geneva.",
+        "pt-BR": "O artigo afirma claramente que a reunião foi em Genebra.",
+        "id": "Artikel itu dengan jelas menyatakan bahwa pertemuan itu di Jenewa.",
+        "fr": "L'article indique clairement que la réunion avait lieu à Genève.",
+        "ar": "يذكر المقال بوضوح أن الاجتماع كان في جنيف.",
+        "tr": "Makale toplantının Cenevre'de olduğunu açıkça belirtiyor.",
+        "it": "L'articolo afferma chiaramente che l'incontro era a Ginevra.",
+        "pl": "Artykuł wyraźnie podaje, że spotkanie odbyło się w Genewie."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "June thirtieth"
       ],
       "answerIndex": 3,
-      "hintKo": "The article states the report was published on July first."
+      "hintKo": "The article states the report was published on July first.",
+      "hintI18n": {
+        "en": "The article states the report was published on July first.",
+        "ko": "기사에서는 보고서가 7월 1일에 발표되었다고 밝힙니다.",
+        "zh-Hans": "文章称该报告于7月1日发布。",
+        "ja": "記事は、報告書が7月1日に公表されたと述べています。",
+        "es": "El artículo dice que el informe se publicó el primero de julio.",
+        "hi": "लेख कहता है कि रिपोर्ट 1 जुलाई को प्रकाशित हुई थी।",
+        "de": "Der Artikel sagt, dass der Bericht am ersten Juli veröffentlicht wurde.",
+        "vi": "Bài báo cho biết báo cáo được công bố vào ngày 1 tháng 7.",
+        "pt-BR": "O artigo afirma que o relatório foi publicado em primeiro de julho.",
+        "id": "Artikel itu menyatakan laporan tersebut diterbitkan pada 1 Juli.",
+        "fr": "L'article indique que le rapport a été publié le premier juillet.",
+        "ar": "يذكر المقال أن التقرير نُشر في الأول من يوليو.",
+        "tr": "Makale, raporun 1 Temmuz'da yayımlandığını belirtiyor.",
+        "it": "L'articolo afferma che il rapporto è stato pubblicato il primo luglio.",
+        "pl": "Artykuł podaje, że raport opublikowano pierwszego lipca."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Developing countries have too much AI"
       ],
       "answerIndex": 0,
-      "hintKo": "The key reason is that AI crosses borders and cannot be controlled by any single nation."
+      "hintKo": "The key reason is that AI crosses borders and cannot be controlled by any single nation.",
+      "hintI18n": {
+        "en": "The key reason is that AI crosses borders and cannot be controlled by any single nation.",
+        "ko": "핵심 이유는 인공지능이 국경을 넘기 때문에 어느 한 나라만으로는 통제할 수 없다는 점입니다.",
+        "zh-Hans": "关键原因是人工智能跨越国界，任何单一国家都无法控制。",
+        "ja": "主な理由は、AIが国境を越えるため、どの一国だけでも制御できないからです。",
+        "es": "La razón clave es que la IA cruza fronteras y ninguna nación puede controlarla por sí sola.",
+        "hi": "मुख्य कारण यह है कि एआई सीमाओं के पार जाता है और किसी एक देश द्वारा नियंत्रित नहीं किया जा सकता।",
+        "de": "Der Hauptgrund ist, dass KI Grenzen überschreitet und nicht von einer einzelnen Nation kontrolliert werden kann.",
+        "vi": "Lý do chính là AI vượt qua biên giới và không một quốc gia nào có thể kiểm soát nó một mình.",
+        "pt-BR": "A razão principal é que a IA atravessa fronteiras e não pode ser controlada por uma única nação.",
+        "id": "Alasan utamanya adalah AI melintasi batas negara dan tidak dapat dikendalikan oleh satu negara pun.",
+        "fr": "La raison principale est que l'IA franchit les frontières et ne peut pas être contrôlée par une seule nation.",
+        "ar": "السبب الرئيسي هو أن الذكاء الاصطناعي يعبر الحدود ولا يمكن أن تتحكم فيه دولة واحدة بمفردها.",
+        "tr": "Temel neden, yapay zekanın sınırları aşması ve tek bir ulus tarafından kontrol edilememesidir.",
+        "it": "Il motivo principale è che l'IA supera i confini e non può essere controllata da una singola nazione.",
+        "pl": "Główny powód jest taki, że AI przekracza granice i nie może być kontrolowana przez pojedynczy kraj."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Sixty"
       ],
       "answerIndex": 1,
-      "hintKo": "The article clearly says forty experts."
+      "hintKo": "The article clearly says forty experts.",
+      "hintI18n": {
+        "en": "The article clearly says forty experts.",
+        "ko": "기사에는 전문가 40명이라고 분명히 나와 있습니다.",
+        "zh-Hans": "文章明确说有四十位专家。",
+        "ja": "記事には専門家が40人とはっきり書かれています。",
+        "es": "El artículo dice claramente que fueron cuarenta expertos.",
+        "hi": "लेख में स्पष्ट रूप से कहा गया है कि चालीस विशेषज्ञ थे।",
+        "de": "Der Artikel sagt eindeutig, dass es vierzig Experten waren.",
+        "vi": "Bài báo nói rõ rằng có bốn mươi chuyên gia.",
+        "pt-BR": "O artigo diz claramente que eram quarenta especialistas.",
+        "id": "Artikel itu dengan jelas mengatakan ada empat puluh ahli.",
+        "fr": "L'article dit clairement qu'il y avait quarante experts.",
+        "ar": "تذكر المقال بوضوح أن هناك أربعين خبيرًا.",
+        "tr": "Makale açıkça kırk uzman olduğunu söylüyor.",
+        "it": "L'articolo dice chiaramente che c'erano quaranta esperti.",
+        "pl": "W artykule wyraźnie napisano, że było czterdziestu ekspertów."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "Gen Z shoppers and social media food trends"
       ],
       "answerIndex": 4,
-      "hintKo": "Younger shoppers and social media trends are boosting sardine demand."
+      "hintKo": "Younger shoppers and social media trends are boosting sardine demand.",
+      "hintI18n": {
+        "en": "Younger shoppers and social media trends are boosting sardine demand.",
+        "ko": "젊은 소비자들과 소셜 미디어 트렌드가 정어리 수요를 끌어올리고 있습니다.",
+        "zh-Hans": "年轻消费者和社交媒体趋势正在推高沙丁鱼需求。",
+        "ja": "若い買い物客とソーシャルメディアのトレンドが、イワシの需要を押し上げています。",
+        "es": "Los compradores más jóvenes y las tendencias en redes sociales están impulsando la demanda de sardinas.",
+        "hi": "युवा खरीदार और सोशल मीडिया के रुझान सार्डिन की मांग बढ़ा रहे हैं।",
+        "de": "Jüngere Käufer und Social-Media-Trends steigern die Nachfrage nach Sardinen.",
+        "vi": "Người mua trẻ hơn và xu hướng mạng xã hội đang thúc đẩy nhu cầu cá mòi.",
+        "pt-BR": "Compradores mais jovens e tendências nas redes sociais estão impulsionando a demanda por sardinhas.",
+        "id": "Pembeli yang lebih muda dan tren media sosial meningkatkan permintaan sarden.",
+        "fr": "Les jeunes acheteurs et les tendances des réseaux sociaux stimulent la demande de sardines.",
+        "ar": "يزيد المتسوقون الأصغر سنًا واتجاهات وسائل التواصل الاجتماعي الطلب على السردين.",
+        "tr": "Daha genç alışveriş yapanlar ve sosyal medya trendleri sardalya talebini artırıyor.",
+        "it": "Gli acquirenti più giovani e le tendenze sui social media stanno aumentando la domanda di sardine.",
+        "pl": "Młodsi kupujący i trendy w mediach społecznościowych zwiększają popyt na sardynki."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Rocket fuel and satellite parts"
       ],
       "answerIndex": 2,
-      "hintKo": "Sardines are valued for nutrients, not rocket or physics terms."
+      "hintKo": "Sardines are valued for nutrients, not rocket or physics terms.",
+      "hintI18n": {
+        "en": "Sardines are valued for nutrients, not rocket or physics terms.",
+        "ko": "정어리는 영양소 때문에 가치가 있지, 로켓이나 물리학 용어 때문이 아닙니다.",
+        "zh-Hans": "沙丁鱼因营养而受重视，不是因为火箭或物理学术语。",
+        "ja": "イワシはロケットや物理学の用語ではなく、栄養素のため重宝されています。",
+        "es": "Las sardinas son valoradas por sus nutrientes, no por términos de cohetes o física.",
+        "hi": "सार्डिन को पोषक तत्वों के लिए महत्व दिया जाता है, रॉकेट या भौतिकी शब्दों के लिए नहीं।",
+        "de": "Sardinen werden wegen ihrer Nährstoffe geschätzt, nicht wegen Raketen- oder Physikbegriffen.",
+        "vi": "Cá mòi được coi trọng nhờ chất dinh dưỡng, không phải vì thuật ngữ tên lửa hay vật lý.",
+        "pt-BR": "As sardinhas são valorizadas por seus nutrientes, não por termos de foguetes ou física.",
+        "id": "Sarden dihargai karena nutrisinya, bukan karena istilah roket atau fisika.",
+        "fr": "Les sardines sont appréciées pour leurs nutriments, pas pour des termes de fusée ou de physique.",
+        "ar": "يُقدَّر السردين بفضل عناصره الغذائية، وليس بسبب مصطلحات الصواريخ أو الفيزياء.",
+        "tr": "Sardalyalar roket veya fizik terimleriyle değil, besin değerleriyle değer görür.",
+        "it": "Le sardine sono apprezzate per i loro nutrienti, non per termini di razzi o fisica.",
+        "pl": "Sardynki są cenione za wartości odżywcze, a nie za terminy rakietowe czy fizyczne."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "When arthritis gels fail trials"
       ],
       "answerIndex": 0,
-      "hintKo": "Empty shelves are a current supply-demand problem, not ancient history."
+      "hintKo": "Empty shelves are a current supply-demand problem, not ancient history.",
+      "hintI18n": {
+        "en": "Empty shelves are a current supply-demand problem, not ancient history.",
+        "ko": "텅 빈 진열대는 고대 역사가 아니라 현재의 수요-공급 문제입니다.",
+        "zh-Hans": "空货架是当前的供需问题，不是古代历史。",
+        "ja": "空の棚は古代史ではなく、現在の需要と供給の問題です。",
+        "es": "Los estantes vacíos son un problema actual de oferta y demanda, no historia antigua.",
+        "hi": "खाली शेल्फ़ वर्तमान आपूर्ति-मांग की समस्या हैं, प्राचीन इतिहास नहीं।",
+        "de": "Leere Regale sind ein aktuelles Angebots- und Nachfrageproblem, keine antike Geschichte.",
+        "vi": "Kệ trống là vấn đề cung-cầu hiện tại, không phải chuyện cổ xưa.",
+        "pt-BR": "Prateleiras vazias são um problema atual de oferta e demanda, não história antiga.",
+        "id": "Rak yang kosong adalah masalah pasokan-permintaan saat ini, bukan sejarah kuno.",
+        "fr": "Les rayons vides sont un problème actuel d'offre et de demande, pas de l'histoire ancienne.",
+        "ar": "الرفوف الفارغة مشكلة حالية في العرض والطلب، وليست تاريخًا قديمًا.",
+        "tr": "Boş raflar güncel bir arz-talep sorunudur, antik tarih değil.",
+        "it": "Gli scaffali vuoti sono un problema attuale di domanda e offerta, non storia antica.",
+        "pl": "Puste półki to obecny problem podaży i popytu, a nie starożytna historia."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a Buffalo lab"
       ],
       "answerIndex": 1,
-      "hintKo": "The shortage shows up at retail shelves, not labs or launch pads."
+      "hintKo": "The shortage shows up at retail shelves, not labs or launch pads.",
+      "hintI18n": {
+        "en": "The shortage shows up at retail shelves, not labs or launch pads.",
+        "ko": "부족 현상은 실험실이나 발사대가 아니라 소매 진열대에서 나타납니다.",
+        "zh-Hans": "短缺出现在零售货架上，而不是实验室或发射台。",
+        "ja": "不足は実験室や発射台ではなく、小売店の棚に現れます。",
+        "es": "La escasez aparece en los estantes minoristas, no en laboratorios o plataformas de lanzamiento.",
+        "hi": "कमी प्रयोगशालाओं या लॉन्च पैड पर नहीं, बल्कि खुदरा दुकानों की शेल्फ़ पर दिखती है।",
+        "de": "Der Mangel zeigt sich in den Regalen des Einzelhandels, nicht in Labors oder auf Startrampen.",
+        "vi": "Sự thiếu hụt xuất hiện trên kệ bán lẻ, không phải trong phòng thí nghiệm hay bệ phóng.",
+        "pt-BR": "A escassez aparece nas prateleiras do varejo, não em laboratórios ou plataformas de lançamento.",
+        "id": "Kelangkaan muncul di rak ritel, bukan di laboratorium atau landasan peluncuran.",
+        "fr": "La pénurie se voit dans les rayons des commerces, pas dans les laboratoires ou les pas de tir.",
+        "ar": "يظهر النقص على رفوف التجزئة، وليس في المختبرات أو منصات الإطلاق.",
+        "tr": "Kıtlık laboratuvarlarda veya fırlatma rampalarında değil, perakende raflarında görülür.",
+        "it": "La scarsità si manifesta sugli scaffali dei negozi, non nei laboratori o sulle rampe di lancio.",
+        "pl": "Niedobór widać na półkach sklepowych, a nie w laboratoriach czy na platformach startowych."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Dark matter hides the fish"
       ],
       "answerIndex": 2,
-      "hintKo": "Shrinking catches plus higher demand create shortages."
+      "hintKo": "Shrinking catches plus higher demand create shortages.",
+      "hintI18n": {
+        "en": "Shrinking catches plus higher demand create shortages.",
+        "ko": "어획량 감소와 수요 증가가 부족 현상을 만듭니다.",
+        "zh-Hans": "捕捞量减少加上需求增加，造成了短缺。",
+        "ja": "漁獲量の減少と需要の増加が不足を生み出します。",
+        "es": "La disminución de capturas y la mayor demanda crean escasez.",
+        "hi": "घटती पकड़ और बढ़ती मांग कमी पैदा करती हैं।",
+        "de": "Schrumpfende Fänge und höhere Nachfrage führen zu Engpässen.",
+        "vi": "Sản lượng đánh bắt giảm và nhu cầu tăng cao tạo ra tình trạng thiếu hụt.",
+        "pt-BR": "Capturas menores e maior demanda criam escassez.",
+        "id": "Hasil tangkapan yang menyusut dan permintaan yang lebih tinggi menciptakan kelangkaan.",
+        "fr": "La baisse des captures et la hausse de la demande créent des pénuries.",
+        "ar": "يؤدي انخفاض المصيد وارتفاع الطلب إلى نقص.",
+        "tr": "Azalan av miktarı ve artan talep kıtlık yaratır.",
+        "it": "Catture in calo e domanda più alta creano carenze.",
+        "pl": "Malejące połowy i wyższy popyt tworzą niedobory."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They raise central-bank rates"
       ],
       "answerIndex": 0,
-      "hintKo": "Cooks substitute other fish when sardine tins are unavailable."
+      "hintKo": "Cooks substitute other fish when sardine tins are unavailable.",
+      "hintI18n": {
+        "en": "Cooks substitute other fish when sardine tins are unavailable.",
+        "ko": "정어리 통조림이 없을 때 요리사들은 다른 생선으로 대체합니다.",
+        "zh-Hans": "当沙丁鱼罐头买不到时，厨师会用其他鱼来代替。",
+        "ja": "イワシの缶詰が手に入らないとき、料理人は他の魚で代用します。",
+        "es": "Cuando no hay latas de sardinas, los cocineros las sustituyen por otros pescados.",
+        "hi": "सार्डीन की डिब्बियाँ उपलब्ध न होने पर रसोइए दूसरी मछलियों का उपयोग करते हैं।",
+        "de": "Wenn keine Sardinenbüchsen verfügbar sind, verwenden Köche anderen Fisch als Ersatz.",
+        "vi": "Khi không có hộp cá mòi, đầu bếp thay thế bằng cá khác.",
+        "pt-BR": "Quando não há latas de sardinha, os cozinheiros as substituem por outros peixes.",
+        "id": "Saat kaleng sarden tidak tersedia, koki menggantinya dengan ikan lain.",
+        "fr": "Quand il n’y a plus de boîtes de sardines, les cuisiniers les remplacent par d’autres poissons.",
+        "ar": "عندما لا تتوفر علب السردين، يستبدل الطهاة السردين بأسماك أخرى.",
+        "tr": "Sardalya konservesi bulunmadığında aşçılar başka balıklarla yerine koyar.",
+        "it": "Quando le scatolette di sardine non ci sono, i cuochi le sostituiscono con altri pesci.",
+        "pl": "Gdy brakuje puszek z sardynkami, kucharze zastępują je innymi rybami."
+      }
     }
   ],
   "youtube_url": ""

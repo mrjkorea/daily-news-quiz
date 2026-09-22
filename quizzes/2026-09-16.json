@@ -17,7 +17,24 @@
         "A national space agency"
       ],
       "answerIndex": 1,
-      "hintKo": "The company behind the study is Insilico Medicine."
+      "hintKo": "The company behind the study is Insilico Medicine.",
+      "hintI18n": {
+        "en": "The company behind the study is Insilico Medicine.",
+        "ko": "이 연구를 진행한 회사는 인실리코 메디신입니다.",
+        "zh-Hans": "这项研究背后的公司是英矽智能。",
+        "ja": "この研究を手がけた企業はインシリコ・メディスンです。",
+        "es": "La empresa detrás del estudio es Insilico Medicine.",
+        "hi": "अध्ययन करने वाली कंपनी इनसिलिको मेडिसिन है।",
+        "de": "Das Unternehmen hinter der Studie ist Insilico Medicine.",
+        "vi": "Công ty đứng sau nghiên cứu là Insilico Medicine.",
+        "pt-BR": "A empresa por trás do estudo é a Insilico Medicine.",
+        "id": "Perusahaan di balik penelitian ini adalah Insilico Medicine.",
+        "fr": "L'entreprise à l'origine de l'étude est Insilico Medicine.",
+        "ar": "الشركة التي تقف وراء الدراسة هي إنسيليكو ميديسين.",
+        "tr": "Çalışmanın arkasındaki şirket Insilico Medicine.",
+        "it": "L'azienda dietro lo studio è Insilico Medicine.",
+        "pl": "Firmą stojącą za badaniem jest Insilico Medicine."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "An older predicted biological age"
       ],
       "answerIndex": 2,
-      "hintKo": "Every clock pointed toward a younger predicted biological age."
+      "hintKo": "Every clock pointed toward a younger predicted biological age.",
+      "hintI18n": {
+        "en": "Every clock pointed toward a younger predicted biological age.",
+        "ko": "모든 시계는 더 젊은 예측 생물학적 나이를 가리켰습니다.",
+        "zh-Hans": "每个时钟都显示更年轻的预测生物年龄。",
+        "ja": "すべてのクロックが、より若い予測生物学的年齢を示しました。",
+        "es": "Todos los relojes apuntaron a una edad biológica prevista más joven.",
+        "hi": "हर घड़ी ने अनुमानित जैविक आयु को और युवा दिखाया।",
+        "de": "Jede Uhr wies auf ein jüngeres vorhergesagtes biologisches Alter hin.",
+        "vi": "Mọi đồng hồ đều cho thấy tuổi sinh học dự đoán trẻ hơn.",
+        "pt-BR": "Todos os relógios apontaram para uma idade biológica prevista mais jovem.",
+        "id": "Setiap jam menunjukkan usia biologis yang diprediksi lebih muda.",
+        "fr": "Toutes les horloges indiquaient un âge biologique prédit plus jeune.",
+        "ar": "أشارت كل ساعة إلى عمر بيولوجي متوقع أصغر.",
+        "tr": "Her saat daha genç bir tahmini biyolojik yaşa işaret etti.",
+        "it": "Ogni orologio indicava un'età biologica prevista più giovane.",
+        "pl": "Każdy zegar wskazywał na młodszy przewidywany wiek biologiczny."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Twenty years ago"
       ],
       "answerIndex": 0,
-      "hintKo": "The study was published and announced in early September, twenty twenty-six."
+      "hintKo": "The study was published and announced in early September, twenty twenty-six.",
+      "hintI18n": {
+        "en": "The study was published and announced in early September, twenty twenty-six.",
+        "ko": "이 연구는 2026년 9월 초에 발표되고 공개되었습니다.",
+        "zh-Hans": "这项研究于2026年9月初发表并公布。",
+        "ja": "この研究は2026年9月上旬に発表され、公表されました。",
+        "es": "El estudio se publicó y anunció a principios de septiembre de 2026.",
+        "hi": "अध्ययन 2026 के सितंबर की शुरुआत में प्रकाशित और घोषित हुआ।",
+        "de": "Die Studie wurde Anfang September 2026 veröffentlicht und bekannt gegeben.",
+        "vi": "Nghiên cứu được công bố và thông báo vào đầu tháng 9 năm 2026.",
+        "pt-BR": "O estudo foi publicado e anunciado no início de setembro de 2026.",
+        "id": "Penelitian ini diterbitkan dan diumumkan pada awal September 2026.",
+        "fr": "L'étude a été publiée et annoncée début septembre 2026.",
+        "ar": "نُشرت الدراسة وأُعلنت في أوائل سبتمبر 2026.",
+        "tr": "Çalışma 2026 Eylül başında yayımlandı ve duyuruldu.",
+        "it": "Lo studio è stato pubblicato e annunciato all'inizio di settembre 2026.",
+        "pl": "Badanie opublikowano i ogłoszono na początku września 2026 roku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a Finnish forest"
       ],
       "answerIndex": 3,
-      "hintKo": "The presentation took place in Paris at Sorbonne University."
+      "hintKo": "The presentation took place in Paris at Sorbonne University.",
+      "hintI18n": {
+        "en": "The presentation took place in Paris at Sorbonne University.",
+        "ko": "발표는 파리 소르본 대학에서 열렸습니다.",
+        "zh-Hans": "发布会在巴黎索邦大学举行。",
+        "ja": "発表はパリのソルボンヌ大学で行われました。",
+        "es": "La presentación tuvo lugar en París, en la Universidad de la Sorbona.",
+        "hi": "प्रस्तुति पेरिस में सोरबोन विश्वविद्यालय में हुई।",
+        "de": "Die Präsentation fand in Paris an der Sorbonne-Universität statt.",
+        "vi": "Buổi trình bày diễn ra tại Paris, ở Đại học Sorbonne.",
+        "pt-BR": "A apresentação ocorreu em Paris, na Universidade Sorbonne.",
+        "id": "Presentasi berlangsung di Paris di Universitas Sorbonne.",
+        "fr": "La présentation a eu lieu à Paris, à l'université Sorbonne.",
+        "ar": "أُقيم العرض في باريس في جامعة السوربون.",
+        "tr": "Sunum Paris'te Sorbonne Üniversitesi'nde gerçekleşti.",
+        "it": "La presentazione si è tenuta a Parigi, alla Sorbona.",
+        "pl": "Prezentacja odbyła się w Paryżu na Uniwersytecie Sorbony."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The drug does not exist"
       ],
       "answerIndex": 3,
-      "hintKo": "The caution comes from the small size of the study and the treated lung, not from missing data."
+      "hintKo": "The caution comes from the small size of the study and the treated lung, not from missing data.",
+      "hintI18n": {
+        "en": "The caution comes from the small size of the study and the treated lung, not from missing data.",
+        "ko": "주의는 연구의 작은 규모와 치료한 폐 때문이지, 누락된 데이터 때문이 아닙니다.",
+        "zh-Hans": "谨慎是因为研究规模小和接受治疗的肺，而不是因为数据缺失。",
+        "ja": "注意が必要なのは研究の規模が小さく、治療した肺に関することによるもので、データ欠損によるものではありません。",
+        "es": "La cautela se debe al pequeño tamaño del estudio y al pulmón tratado, no a datos faltantes.",
+        "hi": "सावधानी अध्ययन के छोटे आकार और इलाज किए गए फेफड़े के कारण है, न कि गायब डेटा के कारण।",
+        "de": "Die Vorsicht rührt von der kleinen Studiengröße und der behandelten Lunge her, nicht von fehlenden Daten.",
+        "vi": "Sự thận trọng đến từ quy mô nhỏ của nghiên cứu và lá phổi được điều trị, không phải từ dữ liệu thiếu.",
+        "pt-BR": "A cautela vem do pequeno tamanho do estudo e do pulmão tratado, não de dados ausentes.",
+        "id": "Kehati-hatian berasal dari ukuran penelitian yang kecil dan paru-paru yang dirawat, bukan dari data yang hilang.",
+        "fr": "La prudence vient de la petite taille de l'étude et du poumon traité, non de données manquantes.",
+        "ar": "يأتي الحذر من صغر حجم الدراسة والرئة المعالجة، وليس من بيانات مفقودة.",
+        "tr": "Tedbir, eksik verilerden değil, çalışmanın küçük olmasından ve tedavi edilen akciğerden kaynaklanıyor.",
+        "it": "La cautela deriva dalle piccole dimensioni dello studio e dal polmone trattato, non da dati mancanti.",
+        "pl": "Ostrożność wynika z małego rozmiaru badania i leczonego płuca, a nie z brakujących danych."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "About fifty years"
       ],
       "answerIndex": 1,
-      "hintKo": "The timeline quoted by the company is about eighteen months."
+      "hintKo": "The timeline quoted by the company is about eighteen months.",
+      "hintI18n": {
+        "en": "The timeline quoted by the company is about eighteen months.",
+        "ko": "회사가 밝힌 일정은 약 18개월입니다.",
+        "zh-Hans": "公司给出的时间表大约是十八个月。",
+        "ja": "会社が示した期間は約18か月です。",
+        "es": "El plazo indicado por la empresa es de unos dieciocho meses.",
+        "hi": "कंपनी ने बताया कि समयसीमा लगभग अठारह महीने की थी।",
+        "de": "Der vom Unternehmen genannte Zeitrahmen beträgt etwa achtzehn Monate.",
+        "vi": "Thời gian công ty đưa ra là khoảng mười tám tháng.",
+        "pt-BR": "O prazo citado pela empresa é de cerca de dezoito meses.",
+        "id": "Jangka waktu yang disebutkan perusahaan adalah sekitar delapan belas bulan.",
+        "fr": "Le délai indiqué par l'entreprise est d'environ dix-huit mois.",
+        "ar": "الجدول الزمني الذي ذكرته الشركة هو حوالي ثمانية عشر شهرًا.",
+        "tr": "Şirketin belirttiği süre yaklaşık on sekiz aydır.",
+        "it": "La tempistica indicata dall'azienda è di circa diciotto mesi.",
+        "pl": "Podany przez firmę termin to około osiemnastu miesięcy."
+      }
     }
   ],
   "youtube_url": ""

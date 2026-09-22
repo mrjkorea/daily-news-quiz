@@ -17,7 +17,24 @@
         "A museum guard in Lahti"
       ],
       "answerIndex": 0,
-      "hintKo": "The find was made by a hobby metal detectorist, Kalle Lappinen."
+      "hintKo": "The find was made by a hobby metal detectorist, Kalle Lappinen.",
+      "hintI18n": {
+        "en": "The find was made by a hobby metal detectorist, Kalle Lappinen.",
+        "ko": "이 발견은 취미로 금속 탐지기를 사용하는 칼레 라피넨에 의해 이루어졌습니다.",
+        "zh-Hans": "这一发现是由业余金属探测爱好者卡勒·拉皮宁做出的。",
+        "ja": "この発見は、趣味で金属探知機を使うカッレ・ラッピネンによるものでした。",
+        "es": "El hallazgo fue realizado por un aficionado al detector de metales, Kalle Lappinen.",
+        "hi": "यह खोज शौकिया धातु डिटेक्टरिस्ट कैले लैपिनेन ने की थी।",
+        "de": "Der Fund wurde von einem Hobby-Metalldetektor-Sucher, Kalle Lappinen, gemacht.",
+        "vi": "Phát hiện này được thực hiện bởi một người dùng máy dò kim loại nghiệp dư, Kalle Lappinen.",
+        "pt-BR": "A descoberta foi feita por um detectorista de metais amador, Kalle Lappinen.",
+        "id": "Penemuan itu dilakukan oleh seorang pendeteksi logam hobi, Kalle Lappinen.",
+        "fr": "La découverte a été faite par un détectoriste de métaux amateur, Kalle Lappinen.",
+        "ar": "قام بالاكتشاف هاوٍ في استخدام أجهزة الكشف عن المعادن، اسمه كالي لابينن.",
+        "tr": "Keşif, amatör bir metal dedektörü kullanıcısı olan Kalle Lappinen tarafından yapıldı.",
+        "it": "La scoperta è stata fatta da un appassionato di metal detector, Kalle Lappinen.",
+        "pl": "Odkrycia dokonał hobbysta poszukiwacz metali, Kalle Lappinen."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Ancient paper documents"
       ],
       "answerIndex": 1,
-      "hintKo": "The hoard was mostly silver coins, with some jewelry and cut silver."
+      "hintKo": "The hoard was mostly silver coins, with some jewelry and cut silver.",
+      "hintI18n": {
+        "en": "The hoard was mostly silver coins, with some jewelry and cut silver.",
+        "ko": "이 보물은 대부분 은화였고, 일부 장신구와 잘린 은이 섞여 있었습니다.",
+        "zh-Hans": "这批宝藏主要是银币，还有一些珠宝和切割过的银块。",
+        "ja": "この埋蔵品は主に銀貨で、一部に装身具と切断された銀がありました。",
+        "es": "El tesoro consistía principalmente en monedas de plata, con algunas joyas y plata cortada.",
+        "hi": "इस खजाने में ज्यादातर चांदी के सिक्के थे, साथ में कुछ गहने और कटी हुई चांदी थी।",
+        "de": "Der Schatz bestand hauptsächlich aus Silbermünzen, dazu etwas Schmuck und zerschnittenes Silber.",
+        "vi": "Kho báu chủ yếu là tiền xu bạc, cùng một số đồ trang sức và bạc bị cắt.",
+        "pt-BR": "O tesouro era composto principalmente por moedas de prata, com algumas joias e prata cortada.",
+        "id": "Harta karun itu sebagian besar berupa koin perak, dengan beberapa perhiasan dan perak potong.",
+        "fr": "Le trésor était principalement composé de pièces d'argent, avec quelques bijoux et de l'argent découpé.",
+        "ar": "كان الكنز في معظمه عملات فضية، مع بعض المجوهرات وفضة مقطعة.",
+        "tr": "Hazine çoğunlukla gümüş sikkelerden, biraz takı ve kesilmiş gümüşten oluşuyordu.",
+        "it": "Il tesoro era composto principalmente da monete d'argento, con alcuni gioielli e argento tagliato.",
+        "pl": "Skarb składał się głównie ze srebrnych monet, z pewną ilością biżuterii i pociętego srebra."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "About five hundred years ago"
       ],
       "answerIndex": 3,
-      "hintKo": "The silver was buried about a thousand years ago, at the end of the Viking Age."
+      "hintKo": "The silver was buried about a thousand years ago, at the end of the Viking Age.",
+      "hintI18n": {
+        "en": "The silver was buried about a thousand years ago, at the end of the Viking Age.",
+        "ko": "이 은은 약 천 년 전, 바이킹 시대 말기에 묻혔습니다.",
+        "zh-Hans": "这些银器大约在一千年前，也就是维京时代末期被埋藏。",
+        "ja": "銀は約千年前、ヴァイキング時代の終わりに埋められました。",
+        "es": "La plata fue enterrada hace unos mil años, al final de la era vikinga.",
+        "hi": "चांदी लगभग एक हजार साल पहले, वाइकिंग युग के अंत में दफन की गई थी।",
+        "de": "Das Silber wurde vor etwa tausend Jahren vergraben, am Ende der Wikingerzeit.",
+        "vi": "Số bạc được chôn khoảng một nghìn năm trước, vào cuối thời đại Viking.",
+        "pt-BR": "A prata foi enterrada há cerca de mil anos, no fim da Era Viking.",
+        "id": "Perak itu dikubur sekitar seribu tahun lalu, pada akhir Zaman Viking.",
+        "fr": "L'argent a été enterré il y a environ mille ans, à la fin de l'ère viking.",
+        "ar": "دُفنت الفضة منذ حوالي ألف عام، في نهاية عصر الفايكنغ.",
+        "tr": "Gümüş yaklaşık bin yıl önce, Viking Çağı'nın sonunda gömüldü.",
+        "it": "L'argento fu sepolto circa mille anni fa, alla fine dell'era vichinga.",
+        "pl": "Srebro zakopano około tysiąca lat temu, pod koniec epoki wikingów."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a city park in Budapest"
       ],
       "answerIndex": 0,
-      "hintKo": "The find was made in southern Finland."
+      "hintKo": "The find was made in southern Finland.",
+      "hintI18n": {
+        "en": "The find was made in southern Finland.",
+        "ko": "이 발견은 핀란드 남부에서 이루어졌습니다.",
+        "zh-Hans": "这一发现是在芬兰南部做出的。",
+        "ja": "この発見はフィンランド南部でなされました。",
+        "es": "El hallazgo se produjo en el sur de Finlandia.",
+        "hi": "यह खोज दक्षिणी फ़िनलैंड में की गई थी।",
+        "de": "Der Fund wurde in Südfinnland gemacht.",
+        "vi": "Phát hiện này được thực hiện ở miền nam Phần Lan.",
+        "pt-BR": "A descoberta foi feita no sul da Finlândia.",
+        "id": "Penemuan itu dilakukan di Finlandia selatan.",
+        "fr": "La découverte a été faite dans le sud de la Finlande.",
+        "ar": "تم الاكتشاف في جنوب فنلندا.",
+        "tr": "Keşif Güney Finlandiya'da yapıldı.",
+        "it": "La scoperta è stata fatta nella Finlandia meridionale.",
+        "pl": "Odkrycie miało miejsce w południowej Finlandii."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The coins were made of plastic"
       ],
       "answerIndex": 3,
-      "hintKo": "Unrest and rushing to hide the silver best explain why nobody came back."
+      "hintKo": "Unrest and rushing to hide the silver best explain why nobody came back.",
+      "hintI18n": {
+        "en": "Unrest and rushing to hide the silver best explain why nobody came back.",
+        "ko": "불안과 은을 숨기려는 급함이 아무도 돌아오지 않은 이유를 가장 잘 설명해 줍니다.",
+        "zh-Hans": "动荡不安以及匆忙藏银，最能解释为什么没有人回来。",
+        "ja": "不安と銀を隠すための慌ただしさが、誰も戻ってこなかった理由を最もよく説明します。",
+        "es": "La agitación y la prisa por esconder la plata explican mejor por qué nadie volvió.",
+        "hi": "अशांति और चांदी छिपाने की जल्दबाजी ही सबसे अच्छे से बताती है कि कोई वापस क्यों नहीं आया।",
+        "de": "Unruhen und die Eile, das Silber zu verstecken, erklären am besten, warum niemand zurückkam.",
+        "vi": "Bất ổn và việc vội vàng giấu số bạc giải thích rõ nhất vì sao không ai quay lại.",
+        "pt-BR": "A instabilidade e a pressa de esconder a prata explicam melhor por que ninguém voltou.",
+        "id": "Kerusuhan dan ketergesaan untuk menyembunyikan perak paling menjelaskan mengapa tidak ada yang kembali.",
+        "fr": "Les troubles et la précipitation à cacher l'argent expliquent le mieux pourquoi personne n'est revenu.",
+        "ar": "الاضطراب والعجلة في إخفاء الفضة يفسران على أفضل وجه لماذا لم يعد أحد.",
+        "tr": "Huzursuzluk ve gümüşü saklama telaşı, kimsenin neden geri dönmediğini en iyi açıklar.",
+        "it": "I disordini e la fretta di nascondere l'argento spiegano meglio perché nessuno è tornato.",
+        "pl": "Niepokój i pośpiech w ukrywaniu srebra najlepiej wyjaśniają, dlaczego nikt nie wrócił."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "About one hundred kilograms"
       ],
       "answerIndex": 3,
-      "hintKo": "The coins weigh just under ten pounds, roughly four and a half kilograms."
+      "hintKo": "The coins weigh just under ten pounds, roughly four and a half kilograms.",
+      "hintI18n": {
+        "en": "The coins weigh just under ten pounds, roughly four and a half kilograms.",
+        "ko": "동전의 무게는 10파운드에 조금 못 미치며, 약 4.5킬로그램입니다.",
+        "zh-Hans": "这些硬币重不到十磅，大约4.5公斤。",
+        "ja": "硬貨の重さは10ポンドを少し下回り、およそ4.5キログラムです。",
+        "es": "Las monedas pesan justo por debajo de diez libras, aproximadamente cuatro kilos y medio.",
+        "hi": "सिक्कों का वज़न दस पाउंड से थोड़ा कम है, लगभग साढ़े चार किलोग्राम।",
+        "de": "Die Münzen wiegen knapp unter zehn Pfund, etwa viereinhalb Kilogramm.",
+        "vi": "Số tiền xu nặng chưa đầy mười pound, khoảng bốn ký rưỡi.",
+        "pt-BR": "As moedas pesam pouco menos de dez libras, cerca de quatro quilos e meio.",
+        "id": "Koin-koin itu beratnya sedikit di bawah sepuluh pon, sekitar empat setengah kilogram.",
+        "fr": "Les pièces pèsent un peu moins de dix livres, environ quatre kilos et demi.",
+        "ar": "تزن العملات المعدنية أقل بقليل من عشرة أرطال، أي حوالي أربعة كيلوغرامات ونصف.",
+        "tr": "Madeni paralar on poundun hemen altında, yaklaşık dört buçuk kilogram ağırlığında.",
+        "it": "Le monete pesano poco meno di dieci libbre, circa quattro chili e mezzo.",
+        "pl": "Monety ważą nieco poniżej dziesięciu funtów, około czterech i pół kilograma."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "A spirulina chef"
       ],
       "answerIndex": 0,
-      "hintKo": "The painter was Antonello, not a runner or a phone company."
+      "hintKo": "The painter was Antonello, not a runner or a phone company.",
+      "hintI18n": {
+        "en": "The painter was Antonello, not a runner or a phone company.",
+        "ko": "그 화가는 안토넬로였고, 달리기 선수나 전화 회사가 아니었습니다.",
+        "zh-Hans": "画家是安东内洛，不是赛跑者或电话公司。",
+        "ja": "画家はアントネッロで、走者や電話会社ではありません。",
+        "es": "El pintor era Antonello, no un corredor ni una compañía telefónica.",
+        "hi": "चित्रकार एंटोनेलो थे, कोई धावक या फ़ोन कंपनी नहीं।",
+        "de": "Der Maler war Antonello, kein Läufer und keine Telefongesellschaft.",
+        "vi": "Họa sĩ là Antonello, không phải vận động viên chạy hay công ty điện thoại.",
+        "pt-BR": "O pintor era Antonello, não um corredor nem uma empresa de telefonia.",
+        "id": "Pelukisnya adalah Antonello, bukan pelari atau perusahaan telepon.",
+        "fr": "Le peintre était Antonello, pas un coureur ni une société de téléphone.",
+        "ar": "كان الرسام أنتونيلو، وليس عدّاءً أو شركة هاتف.",
+        "tr": "Ressam Antonello'ydu, bir koşucu ya da telefon şirketi değil.",
+        "it": "Il pittore era Antonello, non un corridore né una compagnia telefonica.",
+        "pl": "Malarzem był Antonello, nie biegacz ani firma telefoniczna."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "A tank of algae"
       ],
       "answerIndex": 0,
-      "hintKo": "They stole paintings, not phones or sports gear."
+      "hintKo": "They stole paintings, not phones or sports gear.",
+      "hintI18n": {
+        "en": "They stole paintings, not phones or sports gear.",
+        "ko": "그들은 그림을 훔쳤고, 휴대폰이나 운동 장비를 훔친 게 아닙니다.",
+        "zh-Hans": "他们偷的是画，不是手机或运动装备。",
+        "ja": "彼らが盗んだのは絵画で、携帯電話やスポーツ用品ではありません。",
+        "es": "Robaron cuadros, no teléfonos ni equipo deportivo.",
+        "hi": "उन्होंने पेंटिंग चुराईं, फ़ोन या खेल उपकरण नहीं।",
+        "de": "Sie stahlen Gemälde, keine Telefone oder Sportausrüstung.",
+        "vi": "Họ đã trộm tranh, không phải điện thoại hay đồ thể thao.",
+        "pt-BR": "Eles roubaram pinturas, não telefones nem equipamentos esportivos.",
+        "id": "Mereka mencuri lukisan, bukan ponsel atau perlengkapan olahraga.",
+        "fr": "Ils ont volé des tableaux, pas des téléphones ni du matériel de sport.",
+        "ar": "سرقوا لوحات، لا هواتف ولا معدات رياضية.",
+        "tr": "Resimleri çaldılar, telefonları veya spor malzemelerini değil.",
+        "it": "Hanno rubato dipinti, non telefoni o attrezzature sportive.",
+        "pl": "Ukradli obrazy, a nie telefony czy sprzęt sportowy."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "On a Friday phone launch"
       ],
       "answerIndex": 0,
-      "hintKo": "It happened on the Italian holiday, not during a sports meet."
+      "hintKo": "It happened on the Italian holiday, not during a sports meet.",
+      "hintI18n": {
+        "en": "It happened on the Italian holiday, not during a sports meet.",
+        "ko": "그 일은 이탈리아 공휴일에 일어났고, 운동 경기 중이 아니었습니다.",
+        "zh-Hans": "事情发生在意大利假日，而不是体育比赛期间。",
+        "ja": "それはイタリアの祝日に起き、スポーツ大会の最中ではありませんでした。",
+        "es": "Ocurrió en el feriado italiano, no durante una competencia deportiva.",
+        "hi": "यह इतालवी छुट्टी पर हुआ, खेल प्रतियोगिता के दौरान नहीं।",
+        "de": "Es geschah am italienischen Feiertag, nicht während eines Sportwettkampfs.",
+        "vi": "Chuyện xảy ra vào ngày lễ của Ý, không phải trong một cuộc thi thể thao.",
+        "pt-BR": "Aconteceu no feriado italiano, não durante uma competição esportiva.",
+        "id": "Itu terjadi pada hari libur Italia, bukan saat pertandingan olahraga.",
+        "fr": "Cela s'est produit pendant le jour férié italien, pas lors d'une compétition sportive.",
+        "ar": "حدث ذلك في عطلة إيطالية، وليس خلال مسابقة رياضية.",
+        "tr": "İtalyan tatilinde oldu, bir spor müsabakası sırasında değil.",
+        "it": "È accaduto durante la festività italiana, non durante una gara sportiva.",
+        "pl": "Stało się to w święto włoskie, a nie podczas zawodów sportowych."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "A Samsung store"
       ],
       "answerIndex": 0,
-      "hintKo": "The theft was in a Messina museum, not a stadium."
+      "hintKo": "The theft was in a Messina museum, not a stadium.",
+      "hintI18n": {
+        "en": "The theft was in a Messina museum, not a stadium.",
+        "ko": "도난은 메시나의 박물관에서 일어났고, 경기장이 아니었습니다.",
+        "zh-Hans": "盗窃发生在墨西拿的一家博物馆，不是体育场。",
+        "ja": "盗難はメッシーナの博物館で起き、競技場ではありませんでした。",
+        "es": "El robo fue en un museo de Mesina, no en un estadio.",
+        "hi": "चोरी मेसिना के एक संग्रहालय में हुई, स्टेडियम में नहीं।",
+        "de": "Der Diebstahl war in einem Museum in Messina, nicht in einem Stadion.",
+        "vi": "Vụ trộm xảy ra ở một bảo tàng tại Messina, không phải sân vận động.",
+        "pt-BR": "O roubo foi em um museu de Messina, não em um estádio.",
+        "id": "Pencurian terjadi di museum di Messina, bukan di stadion.",
+        "fr": "Le vol a eu lieu dans un musée de Messine, pas dans un stade.",
+        "ar": "كانت السرقة في متحف في ميسينا، وليس في ملعب.",
+        "tr": "Hırsızlık Messina'daki bir müzede oldu, stadyumda değil.",
+        "it": "Il furto è avvenuto in un museo di Messina, non in uno stadio.",
+        "pl": "Kradzież miała miejsce w muzeum w Messynie, a nie na stadionie."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The track meet needed art"
       ],
       "answerIndex": 0,
-      "hintKo": "The holiday pulled attention outside, not inside the galleries."
+      "hintKo": "The holiday pulled attention outside, not inside the galleries.",
+      "hintI18n": {
+        "en": "The holiday pulled attention outside, not inside the galleries.",
+        "ko": "공휴일은 사람들의 관심을 갤러리 안이 아니라 밖으로 돌렸습니다.",
+        "zh-Hans": "假日把注意力吸引到了外面，而不是画廊里面。",
+        "ja": "祝日は注意をギャラリーの中ではなく外へ向けました。",
+        "es": "El feriado atrajo la atención hacia afuera, no hacia el interior de las galerías.",
+        "hi": "छुट्टी ने ध्यान बाहर खींचा, गैलरी के अंदर नहीं।",
+        "de": "Der Feiertag lenkte die Aufmerksamkeit nach draußen, nicht in die Galerien.",
+        "vi": "Ngày lễ thu hút sự chú ý ra bên ngoài, không phải bên trong các phòng trưng bày.",
+        "pt-BR": "O feriado atraiu a atenção para fora, não para dentro das galerias.",
+        "id": "Hari libur menarik perhatian ke luar, bukan ke dalam galeri.",
+        "fr": "Le jour férié a attiré l'attention vers l'extérieur, pas à l'intérieur des galeries.",
+        "ar": "جذبت العطلة الانتباه إلى الخارج، وليس داخل صالات العرض.",
+        "tr": "Tatil dikkatleri galerilerin içine değil, dışarıya çekti.",
+        "it": "La festività ha attirato l'attenzione all'esterno, non dentro le gallerie.",
+        "pl": "Święto przyciągnęło uwagę na zewnątrz, a nie do wnętrza galerii."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They grew algae"
       ],
       "answerIndex": 0,
-      "hintKo": "They broke into a display; they did not buy tickets."
+      "hintKo": "They broke into a display; they did not buy tickets.",
+      "hintI18n": {
+        "en": "They broke into a display; they did not buy tickets.",
+        "ko": "그들은 전시품에 침입했으며, 표를 산 것이 아닙니다.",
+        "zh-Hans": "他们闯入了展区；他们并没有买票。",
+        "ja": "彼らは展示品に押し入ったのであり、チケットを買ったのではありません。",
+        "es": "Entraron por la fuerza en una vitrina; no compraron entradas.",
+        "hi": "उन्होंने एक प्रदर्शनी में सेंध लगाई; उन्होंने टिकट नहीं खरीदे।",
+        "de": "Sie brachen in eine Vitrine ein; sie kauften keine Tickets.",
+        "vi": "Họ đột nhập vào một khu trưng bày; họ không mua vé.",
+        "pt-BR": "Eles invadiram uma vitrine; não compraram ingressos.",
+        "id": "Mereka membobol sebuah pajangan; mereka tidak membeli tiket.",
+        "fr": "Ils sont entrés par effraction dans une vitrine ; ils n'ont pas acheté de billets.",
+        "ar": "اقتحموا واجهة عرض؛ ولم يشتروا تذاكر.",
+        "tr": "Bir vitrine zorla girdiler; bilet satın almadılar.",
+        "it": "Hanno sfondato una vetrina; non hanno comprato i biglietti.",
+        "pl": "Włamali się do gabloty; nie kupili biletów."
+      }
     }
   ],
   "youtube_url": ""

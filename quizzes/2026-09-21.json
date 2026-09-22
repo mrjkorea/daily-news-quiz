@@ -17,7 +17,24 @@
         "The World Health Organization"
       ],
       "answerIndex": 0,
-      "hintKo": "The story names Stanford Medicine as the leader of this research."
+      "hintKo": "The story names Stanford Medicine as the leader of this research.",
+      "hintI18n": {
+        "en": "The story names Stanford Medicine as the leader of this research.",
+        "ko": "이 기사는 이 연구를 주도한 곳으로 스탠퍼드 메디신을 꼽습니다.",
+        "zh-Hans": "报道指出，这项研究由斯坦福医学院主导。",
+        "ja": "この記事は、この研究を主導したのはスタンフォード・メディシンだと伝えています。",
+        "es": "El artículo señala a Stanford Medicine como líder de esta investigación.",
+        "hi": "यह खबर इस शोध का नेतृत्व स्टैनफोर्ड मेडिसिन को बताती है।",
+        "de": "Der Bericht nennt Stanford Medicine als Leiter dieser Forschung.",
+        "vi": "Bài báo cho biết Stanford Medicine là đơn vị dẫn đầu nghiên cứu này.",
+        "pt-BR": "A reportagem aponta a Stanford Medicine como líder desta pesquisa.",
+        "id": "Artikel itu menyebut Stanford Medicine sebagai pemimpin riset ini.",
+        "fr": "L'article désigne Stanford Medicine comme le chef de file de cette recherche.",
+        "ar": "يذكر التقرير أن ستانفورد ميديسين هي الجهة التي قادت هذا البحث.",
+        "tr": "Haber, bu araştırmaya Stanford Medicine'ın öncülük ettiğini belirtiyor.",
+        "it": "L'articolo indica Stanford Medicine come guida di questa ricerca.",
+        "pl": "Artykuł wskazuje Stanford Medicine jako lidera tych badań."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It stops growing at age twenty"
       ],
       "answerIndex": 2,
-      "hintKo": "The central claim of the study is that the brain is two separate organs, not one."
+      "hintKo": "The central claim of the study is that the brain is two separate organs, not one.",
+      "hintI18n": {
+        "en": "The central claim of the study is that the brain is two separate organs, not one.",
+        "ko": "이 연구의 핵심 주장은 뇌가 하나가 아니라 두 개의 별개 기관이라는 것입니다.",
+        "zh-Hans": "这项研究的核心主张是，大脑不是单一器官，而是两个独立的器官。",
+        "ja": "この研究の中心的な主張は、脳は一つではなく二つの別個の器官だというものです。",
+        "es": "La afirmación central del estudio es que el cerebro está formado por dos órganos separados, no uno.",
+        "hi": "अध्ययन का मुख्य दावा यह है कि मस्तिष्क एक नहीं, बल्कि दो अलग अंग हैं।",
+        "de": "Die zentrale Behauptung der Studie ist, dass das Gehirn zwei getrennte Organe und nicht eines ist.",
+        "vi": "Khẳng định trung tâm của nghiên cứu là não bộ gồm hai cơ quan riêng biệt, không phải một.",
+        "pt-BR": "A afirmação central do estudo é que o cérebro é formado por dois órgãos separados, e não um.",
+        "id": "Klaim utama studi ini adalah bahwa otak merupakan dua organ terpisah, bukan satu.",
+        "fr": "L'affirmation centrale de l'étude est que le cerveau est constitué de deux organes distincts, et non d'un seul.",
+        "ar": "الادعاء الرئيسي للدراسة هو أن الدماغ عضوان منفصلان، وليس عضواً واحداً.",
+        "tr": "Çalışmanın ana iddiası, beynin bir değil iki ayrı organ olduğudur.",
+        "it": "L'affermazione centrale dello studio è che il cervello è formato da due organi separati, non da uno.",
+        "pl": "Główna teza badania mówi, że mózg to dwa oddzielne narządy, a nie jeden."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "At the moment of birth"
       ],
       "answerIndex": 1,
-      "hintKo": "The separate path begins in the earliest stage of development, inside the embryo."
+      "hintKo": "The separate path begins in the earliest stage of development, inside the embryo.",
+      "hintI18n": {
+        "en": "The separate path begins in the earliest stage of development, inside the embryo.",
+        "ko": "이 별개의 경로는 배아 안에서 발달의 가장 이른 단계에서 시작됩니다.",
+        "zh-Hans": "这条独立路径始于胚胎内发育的最早阶段。",
+        "ja": "この別個の経路は、胚の中での発達の最も早い段階で始まります。",
+        "es": "Esta vía separada comienza en la etapa más temprana del desarrollo, dentro del embrión.",
+        "hi": "यह अलग मार्ग भ्रूण के भीतर विकास की सबसे प्रारंभिक अवस्था में शुरू होता है।",
+        "de": "Dieser getrennte Weg beginnt im frühesten Entwicklungsstadium, im Embryo.",
+        "vi": "Con đường riêng biệt này bắt đầu ở giai đoạn phát triển sớm nhất, bên trong phôi thai.",
+        "pt-BR": "Esse caminho separado começa no estágio mais inicial do desenvolvimento, dentro do embrião.",
+        "id": "Jalur terpisah ini dimulai pada tahap perkembangan paling awal, di dalam embrio.",
+        "fr": "Cette voie distincte commence au tout premier stade du développement, à l'intérieur de l'embryon.",
+        "ar": "يبدأ هذا المسار المنفصل في أبكر مرحلة من مراحل النمو، داخل الجنين.",
+        "tr": "Bu ayrı yol, gelişimin en erken aşamasında, embriyonun içinde başlar.",
+        "it": "Questo percorso separato inizia nella fase più precoce dello sviluppo, dentro l'embrione.",
+        "pl": "Ta odrębna ścieżka zaczyna się na najwcześniejszym etapie rozwoju, wewnątrz zarodka."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Behind the eyes"
       ],
       "answerIndex": 0,
-      "hintKo": "The story places the hindbrain at the back of the skull."
+      "hintKo": "The story places the hindbrain at the back of the skull.",
+      "hintI18n": {
+        "en": "The story places the hindbrain at the back of the skull.",
+        "ko": "이 기사는 후뇌가 두개골 뒤쪽에 있다고 설명합니다.",
+        "zh-Hans": "报道称后脑位于头骨后部。",
+        "ja": "この記事は、後脳が頭蓋骨の後ろ側にあるとしています。",
+        "es": "El artículo sitúa el rombencéfalo en la parte posterior del cráneo.",
+        "hi": "यह खबर हाइंडब्रेन को खोपड़ी के पिछले हिस्से में बताती है।",
+        "de": "Der Bericht verortet das Hinterhirn hinten im Schädel.",
+        "vi": "Bài báo đặt phần não sau ở phía sau hộp sọ.",
+        "pt-BR": "A reportagem situa o rombencéfalo na parte de trás do crânio.",
+        "id": "Artikel itu menempatkan otak belakang di bagian belakang tengkorak.",
+        "fr": "L'article situe le rhombencéphale à l'arrière du crâne.",
+        "ar": "يضع التقرير الدماغ الخلفي في الجزء الخلفي من الجمجمة.",
+        "tr": "Haber, arka beyni kafatasının arka kısmına yerleştiriyor.",
+        "it": "L'articolo colloca il rombencefalo nella parte posteriore del cranio.",
+        "pl": "Artykuł umieszcza tyłomózgowie z tyłu czaszki."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It reduces the cost of brain scans"
       ],
       "answerIndex": 3,
-      "hintKo": "The value of the finding is that hindbrain neurons can now be grown and studied in the lab."
+      "hintKo": "The value of the finding is that hindbrain neurons can now be grown and studied in the lab.",
+      "hintI18n": {
+        "en": "The value of the finding is that hindbrain neurons can now be grown and studied in the lab.",
+        "ko": "이 발견의 가치는 후뇌 뉴런을 이제 실험실에서 배양하고 연구할 수 있다는 점입니다.",
+        "zh-Hans": "这一发现的价值在于，后脑神经元现在可以在实验室中培养和研究。",
+        "ja": "この発見の価値は、後脳のニューロンを今や実験室で培養し研究できることです。",
+        "es": "El valor del hallazgo es que ahora se pueden cultivar y estudiar neuronas del rombencéfalo en el laboratorio.",
+        "hi": "इस खोज का महत्व यह है कि अब हाइंडब्रेन के न्यूरॉन्स को प्रयोगशाला में उगाया और अध्ययन किया जा सकता है।",
+        "de": "Der Wert dieses Fundes liegt darin, dass Hinterhirn-Neuronen jetzt im Labor gezüchtet und untersucht werden können.",
+        "vi": "Giá trị của phát hiện này là các nơ-ron ở não sau giờ đây có thể được nuôi cấy và nghiên cứu trong phòng thí nghiệm.",
+        "pt-BR": "O valor da descoberta é que agora os neurônios do rombencéfalo podem ser cultivados e estudados em laboratório.",
+        "id": "Nilai dari temuan ini adalah neuron otak belakang kini dapat ditumbuhkan dan diteliti di laboratorium.",
+        "fr": "L'intérêt de cette découverte est que les neurones du rhombencéphale peuvent désormais être cultivés et étudiés en laboratoire.",
+        "ar": "تكمن قيمة هذا الاكتشاف في أنه أصبح من الممكن الآن زراعة الخلايا العصبية للدماغ الخلفي ودراستها في المختبر.",
+        "tr": "Bu bulgunun değeri, arka beyin nöronlarının artık laboratuvarda yetiştirilip incelenebilmesidir.",
+        "it": "Il valore della scoperta è che ora i neuroni del rombencefalo possono essere coltivati e studiati in laboratorio.",
+        "pl": "Wartość tego odkrycia polega na tym, że neurony tyłomózgowia można teraz hodować i badać w laboratorium."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By studying the earliest moments of embryo development when the body first takes shape"
       ],
       "answerIndex": 4,
-      "hintKo": "The evidence came from the earliest stage of embryo development."
+      "hintKo": "The evidence came from the earliest stage of embryo development.",
+      "hintI18n": {
+        "en": "The evidence came from the earliest stage of embryo development.",
+        "ko": "증거는 배아 발달의 가장 이른 단계에서 나왔습니다.",
+        "zh-Hans": "证据来自胚胎发育的最早阶段。",
+        "ja": "証拠は胚発生の最も早い段階から得られました。",
+        "es": "La evidencia provino de la etapa más temprana del desarrollo embrionario.",
+        "hi": "साक्ष्य भ्रूण विकास की सबसे प्रारंभिक अवस्था से मिला।",
+        "de": "Der Beweis stammte aus dem frühesten Stadium der Embryonalentwicklung.",
+        "vi": "Bằng chứng đến từ giai đoạn sớm nhất của quá trình phát triển phôi.",
+        "pt-BR": "A evidência veio do estágio mais inicial do desenvolvimento embrionário.",
+        "id": "Bukti berasal dari tahap paling awal perkembangan embrio.",
+        "fr": "La preuve provenait du tout premier stade du développement embryonnaire.",
+        "ar": "جاء الدليل من المرحلة الأولى من تطور الجنين.",
+        "tr": "Kanıt, embriyo gelişiminin en erken aşamasından geldi.",
+        "it": "Le prove provenivano dalla fase più precoce dello sviluppo embrionale.",
+        "pl": "Dowód pochodził z najwcześniejszego etapu rozwoju embrionalnego."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "The United Nations"
       ],
       "answerIndex": 1,
-      "hintKo": "The Vesuvius Challenge was launched by Brent Seales and his team at the University of Kentucky."
+      "hintKo": "The Vesuvius Challenge was launched by Brent Seales and his team at the University of Kentucky.",
+      "hintI18n": {
+        "en": "The Vesuvius Challenge was launched by Brent Seales and his team at the University of Kentucky.",
+        "ko": "켄터키 대학교의 브렌트 실스와 그의 팀이 베수비오 챌린지를 시작했습니다.",
+        "zh-Hans": "维苏威挑战赛由肯塔基大学的布伦特·西尔斯及其团队发起。",
+        "ja": "ヴェスヴィオ・チャレンジは、ケンタッキー大学のブレント・シールズと彼のチームによって開始されました。",
+        "es": "El Desafío del Vesubio fue lanzado por Brent Seales y su equipo de la Universidad de Kentucky.",
+        "hi": "वेसुवियस चैलेंज को केंटकी विश्वविद्यालय के ब्रेंट सील्स और उनकी टीम ने शुरू किया था।",
+        "de": "Die Vesuvius Challenge wurde von Brent Seales und seinem Team an der Universität Kentucky ins Leben gerufen.",
+        "vi": "Thử thách Vesuvius được khởi xướng bởi Brent Seales và nhóm của ông tại Đại học Kentucky.",
+        "pt-BR": "O Desafio Vesúvio foi lançado por Brent Seales e sua equipe da Universidade de Kentucky.",
+        "id": "Tantangan Vesuvius diluncurkan oleh Brent Seales dan timnya di Universitas Kentucky.",
+        "fr": "Le Défi du Vésuve a été lancé par Brent Seales et son équipe de l’Université du Kentucky.",
+        "ar": "أطلق برنت سيلز وفريقه في جامعة كنتاكي تحدي فيزوف.",
+        "tr": "Vesuvius Mücadelesi, Kentucky Üniversitesi'nden Brent Seales ve ekibi tarafından başlatıldı.",
+        "it": "La Sfida del Vesuvio è stata lanciata da Brent Seales e dal suo team dell’Università del Kentucky.",
+        "pl": "Wyzwanie Wezuwiusza zostało zapoczątkowane przez Brenta Sealesa i jego zespół z Uniwersytetu Kentucky."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Mathematical formulas"
       ],
       "answerIndex": 2,
-      "hintKo": "The AI identified twenty columns of continuous text on the papyrus."
+      "hintKo": "The AI identified twenty columns of continuous text on the papyrus.",
+      "hintI18n": {
+        "en": "The AI identified twenty columns of continuous text on the papyrus.",
+        "ko": "인공지능은 파피루스에서 연속된 텍스트 20단을 식별했습니다.",
+        "zh-Hans": "人工智能在纸莎草上识别出二十栏连续文本。",
+        "ja": "人工知能はパピルス上に20欄の連続したテキストを識別しました。",
+        "es": "La IA identificó veinte columnas de texto continuo en el papiro.",
+        "hi": "एआई ने पपीरस पर लगातार पाठ के बीस स्तंभों की पहचान की।",
+        "de": "Die KI erkannte zwanzig Spalten fortlaufenden Textes auf dem Papyrus.",
+        "vi": "Trí tuệ nhân tạo đã nhận diện được hai mươi cột văn bản liên tục trên giấy papyrus.",
+        "pt-BR": "A IA identificou vinte colunas de texto contínuo no papiro.",
+        "id": "Kecerdasan buatan mengidentifikasi dua puluh kolom teks berkelanjutan pada papirus.",
+        "fr": "L’IA a identifié vingt colonnes de texte continu sur le papyrus.",
+        "ar": "حدد الذكاء الاصطناعي عشرين عمودًا من النص المتواصل على البردي.",
+        "tr": "Yapay zeka, papirüste yirmi sütun kesintisiz metin tespit etti.",
+        "it": "L’IA ha identificato venti colonne di testo continuo sul papiro.",
+        "pl": "SI zidentyfikowała dwadzieścia kolumn ciągłego tekstu na papirusie."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "79 AD"
       ],
       "answerIndex": 4,
-      "hintKo": "The famous eruption occurred in 79 AD."
+      "hintKo": "The famous eruption occurred in 79 AD.",
+      "hintI18n": {
+        "en": "The famous eruption occurred in 79 AD.",
+        "ko": "유명한 분화는 서기 79년에 일어났습니다.",
+        "zh-Hans": "那次著名的喷发发生在公元79年。",
+        "ja": "その有名な噴火は西暦79年に起こりました。",
+        "es": "La famosa erupción ocurrió en el año 79 d. C.",
+        "hi": "वह प्रसिद्ध विस्फोट ईस्वी सन् 79 में हुआ था।",
+        "de": "Der berühmte Ausbruch ereignete sich im Jahr 79 n. Chr.",
+        "vi": "Vụ phun trào nổi tiếng xảy ra vào năm 79 sau Công nguyên.",
+        "pt-BR": "A famosa erupção ocorreu em 79 d.C.",
+        "id": "Letusan terkenal itu terjadi pada tahun 79 Masehi.",
+        "fr": "La célèbre éruption a eu lieu en 79 apr. J.-C.",
+        "ar": "وقع الثوران الشهير عام 79 ميلادي.",
+        "tr": "Ünlü patlama MS 79'da meydana geldi.",
+        "it": "La famosa eruzione avvenne nel 79 d.C.",
+        "pl": "Słynny wybuch nastąpił w 79 r. n.e."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a temple in Turkey"
       ],
       "answerIndex": 0,
-      "hintKo": "The scroll was part of a library found at a villa in Herculaneum."
+      "hintKo": "The scroll was part of a library found at a villa in Herculaneum.",
+      "hintI18n": {
+        "en": "The scroll was part of a library found at a villa in Herculaneum.",
+        "ko": "그 두루마리는 헤르쿨라네움의 한 빌라에서 발견된 도서관의 일부였습니다.",
+        "zh-Hans": "这卷纸莎草是赫库兰尼姆一座别墅中发现的图书馆的一部分。",
+        "ja": "その巻物はヘルクラネウムの別荘で見つかった図書館の一部でした。",
+        "es": "El rollo formaba parte de una biblioteca encontrada en una villa de Herculano.",
+        "hi": "वह स्क्रॉल हरकुलेनियम के एक विला में मिली पुस्तकालय का हिस्सा था।",
+        "de": "Die Schriftrolle war Teil einer Bibliothek, die in einer Villa in Herculaneum gefunden wurde.",
+        "vi": "Cuộn giấy là một phần của thư viện được tìm thấy tại một biệt thự ở Herculaneum.",
+        "pt-BR": "O rolo fazia parte de uma biblioteca encontrada em uma vila em Herculano.",
+        "id": "Gulungan itu adalah bagian dari perpustakaan yang ditemukan di sebuah vila di Herculaneum.",
+        "fr": "Le rouleau faisait partie d’une bibliothèque trouvée dans une villa à Herculanum.",
+        "ar": "كانت اللفيفة جزءًا من مكتبة وُجدت في فيلا في هركولانيوم.",
+        "tr": "Tomar, Herculaneum'daki bir villada bulunan bir kütüphanenin parçasıydı.",
+        "it": "Il rotolo faceva parte di una biblioteca trovata in una villa a Ercolano.",
+        "pl": "Zwój był częścią biblioteki znalezionej w willi w Herkulanum."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It was locked in a vault nobody could open"
       ],
       "answerIndex": 3,
-      "hintKo": "The carbonization from the eruption and damage from physical unfurling attempts made it seem impossible to read."
+      "hintKo": "The carbonization from the eruption and damage from physical unfurling attempts made it seem impossible to read.",
+      "hintI18n": {
+        "en": "The carbonization from the eruption and damage from physical unfurling attempts made it seem impossible to read.",
+        "ko": "분화로 인한 탄화와 물리적으로 펼치려는 시도로 인한 손상 때문에 읽는 것이 불가능해 보였습니다.",
+        "zh-Hans": "火山喷发造成的碳化以及物理展开尝试造成的损坏，使它看起来无法阅读。",
+        "ja": "噴火による炭化と、物理的に開こうとした試みによる損傷のため、読むことは不可能に見えました。",
+        "es": "La carbonización por la erupción y los daños de los intentos de desenrollarlo físicamente hicieron que pareciera imposible de leer.",
+        "hi": "विस्फोट से हुए कार्बनीकरण और भौतिक रूप से खोलने के प्रयासों से हुए नुकसान के कारण इसे पढ़ना असंभव लगता था।",
+        "de": "Die Verkohlung durch den Ausbruch und Schäden durch physische Entrollungsversuche ließen es unmöglich erscheinen, es zu lesen.",
+        "vi": "Việc hóa than do vụ phun trào và hư hại do các nỗ lực mở cuộn bằng tay khiến nó dường như không thể đọc được.",
+        "pt-BR": "A carbonização causada pela erupção e os danos das tentativas de desenrolá-lo fisicamente faziam parecer impossível lê-lo.",
+        "id": "Karbonisasi akibat letusan dan kerusakan akibat upaya membuka gulungan secara fisik membuatnya tampak mustahil dibaca.",
+        "fr": "La carbonisation due à l’éruption et les dommages causés par les tentatives de déroulement physique le rendaient apparemment illisible.",
+        "ar": "جعلت الكربنة الناتجة عن الثوران والأضرار الناجمة عن محاولات فتحه ماديًا يبدو من المستحيل قراءته.",
+        "tr": "Patlamadan kaynaklanan karbonlaşma ve fiziksel olarak açma girişimlerinin verdiği hasar, okunmasını imkânsız gibi gösteriyordu.",
+        "it": "La carbonizzazione dovuta all’eruzione e i danni dei tentativi di srotolamento fisico lo facevano sembrare impossibile da leggere.",
+        "pl": "Zwęglenie spowodowane wybuchem i uszkodzenia powstałe przy próbach fizycznego rozwijania sprawiały, że wydawał się niemożliwy do odczytania."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By using X-ray vision technology"
       ],
       "answerIndex": 1,
-      "hintKo": "The combination of CT scanning and AI ink detection allowed virtual unwrapping without physical contact."
+      "hintKo": "The combination of CT scanning and AI ink detection allowed virtual unwrapping without physical contact.",
+      "hintI18n": {
+        "en": "The combination of CT scanning and AI ink detection allowed virtual unwrapping without physical contact.",
+        "ko": "CT 스캔과 AI 잉크 감지를 결합해 물리적 접촉 없이 가상으로 펼칠 수 있었다.",
+        "zh-Hans": "CT扫描与AI墨水检测相结合，使得无需物理接触即可虚拟展开。",
+        "ja": "CTスキャンとAIによるインク検出を組み合わせることで、物理的に触れずに仮想的に巻物を開くことができた。",
+        "es": "La combinación de tomografía computarizada y detección de tinta con IA permitió desplegar el rollo virtualmente sin contacto físico.",
+        "hi": "CT स्कैनिंग और AI स्याही पहचान के संयोजन से बिना भौतिक संपर्क के आभासी रूप से खोलना संभव हुआ।",
+        "de": "Die Kombination aus CT-Scan und KI-Tintenerkennung ermöglichte ein virtuelles Entrollen ohne physischen Kontakt.",
+        "vi": "Việc kết hợp quét CT và phát hiện mực bằng AI cho phép mở cuộn giấy ảo mà không cần tiếp xúc vật lý.",
+        "pt-BR": "A combinação de tomografia computadorizada e detecção de tinta por IA permitiu desenrolar o rolo virtualmente, sem contato físico.",
+        "id": "Kombinasi pemindaian CT dan deteksi tinta AI memungkinkan pembukaan gulungan secara virtual tanpa kontak fisik.",
+        "fr": "La combinaison de la tomodensitométrie et de la détection d’encre par IA a permis un déroulement virtuel sans contact physique.",
+        "ar": "سمح الجمع بين التصوير المقطعي المحوسب وكشف الحبر بالذكاء الاصطناعي بفك اللفافة افتراضيًا دون لمس مادي.",
+        "tr": "BT taraması ile yapay zekâ mürekkep algılamasının birleşimi, fiziksel temas olmadan sanal açmayı mümkün kıldı.",
+        "it": "La combinazione di scansione TC e rilevamento dell’inchiostro tramite IA ha consentito l’apertura virtuale senza contatto fisico.",
+        "pl": "Połączenie skanowania CT i wykrywania atramentu przez AI pozwoliło na wirtualne rozwinięcie bez kontaktu fizycznego."
+      }
     }
   ],
   "youtube_url": ""

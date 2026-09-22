@@ -17,7 +17,24 @@
         "The Australian Bureau of Statistics"
       ],
       "answerIndex": 4,
-      "hintKo": "The numbers came from Australia's official statistics agency."
+      "hintKo": "The numbers came from Australia's official statistics agency.",
+      "hintI18n": {
+        "en": "The numbers came from Australia's official statistics agency.",
+        "ko": "그 수치는 호주의 공식 통계 기관에서 나왔습니다.",
+        "zh-Hans": "这些数字来自澳大利亚官方统计机构。",
+        "ja": "その数字はオーストラリアの公式統計機関から出ました。",
+        "es": "Las cifras provinieron de la agencia oficial de estadísticas de Australia.",
+        "hi": "ये आंकड़े ऑस्ट्रेलिया की आधिकारिक सांख्यिकी एजेंसी से आए।",
+        "de": "Die Zahlen stammten von Australiens offizieller Statistikbehörde.",
+        "vi": "Những con số đến từ cơ quan thống kê chính thức của Úc.",
+        "pt-BR": "Os números vieram da agência oficial de estatísticas da Austrália.",
+        "id": "Angka-angka itu berasal dari badan statistik resmi Australia.",
+        "fr": "Les chiffres provenaient de l'agence officielle de statistiques australienne.",
+        "ar": "جاءت الأرقام من وكالة الإحصاء الرسمية الأسترالية.",
+        "tr": "Rakamlar Avustralya'nın resmi istatistik kurumundan geldi.",
+        "it": "I numeri provenivano dall'agenzia ufficiale di statistica australiana.",
+        "pl": "Liczby pochodziły od oficjalnej agencji statystycznej Australii."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Zero point four percent"
       ],
       "answerIndex": 0,
-      "hintKo": "Two point one percent was the annual growth rate, not the quarterly figure."
+      "hintKo": "Two point one percent was the annual growth rate, not the quarterly figure.",
+      "hintI18n": {
+        "en": "Two point one percent was the annual growth rate, not the quarterly figure.",
+        "ko": "연간 성장률은 2.1퍼센트였고, 분기 수치가 아니었습니다.",
+        "zh-Hans": "年增长率为2.1%，不是季度数字。",
+        "ja": "年間成長率は2.1%で、四半期の数字ではありませんでした。",
+        "es": "El dos coma uno por ciento era la tasa de crecimiento anual, no la cifra trimestral.",
+        "hi": "दो दशमलव एक प्रतिशत वार्षिक वृद्धि दर थी, न कि त्रैमासिक आंकड़ा।",
+        "de": "Zwei Komma eins Prozent war die jährliche Wachstumsrate, nicht die Quartalszahl.",
+        "vi": "Hai phẩy một phần trăm là tốc độ tăng trưởng hàng năm, không phải con số hàng quý.",
+        "pt-BR": "Dois vírgula um por cento era a taxa de crescimento anual, não o número trimestral.",
+        "id": "Dua koma satu persen adalah tingkat pertumbuhan tahunan, bukan angka kuartalan.",
+        "fr": "Deux virgule un pour cent était le taux de croissance annuel, pas le chiffre trimestriel.",
+        "ar": "كان اثنان فاصلة واحد بالمئة هو معدل النمو السنوي، وليس الرقم الربع سنوي.",
+        "tr": "Yıllık büyüme oranı yüzde iki nokta birdi; çeyreklik rakam değildi.",
+        "it": "Il due virgola uno per cento era il tasso di crescita annuale, non il dato trimestrale.",
+        "pl": "Dwa przecinek jeden procent to roczna stopa wzrostu, a nie wynik kwartalny."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "On launch day in Norway"
       ],
       "answerIndex": 0,
-      "hintKo": "The August board meeting discussed tighter policy because inflation stayed high."
+      "hintKo": "The August board meeting discussed tighter policy because inflation stayed high.",
+      "hintI18n": {
+        "en": "The August board meeting discussed tighter policy because inflation stayed high.",
+        "ko": "8월 이사회 회의에서는 인플레이션이 높게 유지되어 더 긴축적인 정책을 논의했습니다.",
+        "zh-Hans": "8月的董事会会议讨论了收紧政策，因为通胀居高不下。",
+        "ja": "8月の理事会会合では、インフレが高止まりしたため、より引き締めた政策が議論されました。",
+        "es": "La reunión del consejo de agosto discutió una política más estricta porque la inflación seguía alta.",
+        "hi": "अगस्त की बोर्ड बैठक में सख्त नीति पर चर्चा हुई क्योंकि मुद्रास्फीति ऊँची बनी रही।",
+        "de": "In der Vorstandssitzung im August wurde eine straffere Politik erörtert, weil die Inflation hoch blieb.",
+        "vi": "Cuộc họp hội đồng tháng Tám đã thảo luận về chính sách thắt chặt hơn vì lạm phát vẫn cao.",
+        "pt-BR": "A reunião do conselho de agosto discutiu uma política mais rígida porque a inflação permaneceu alta.",
+        "id": "Rapat dewan Agustus membahas kebijakan yang lebih ketat karena inflasi tetap tinggi.",
+        "fr": "La réunion du conseil d'août a discuté d'une politique plus stricte car l'inflation restait élevée.",
+        "ar": "ناقش اجتماع مجلس أغسطس سياسة أكثر تشديدًا لأن التضخم بقي مرتفعًا.",
+        "tr": "Ağustos kurul toplantısı, enflasyon yüksek kaldığı için daha sıkı politikayı görüştü.",
+        "it": "La riunione del consiglio di agosto ha discusso una politica più restrittiva perché l'inflazione è rimasta alta.",
+        "pl": "Sierpniowe posiedzenie zarządu omawiało zaostrzenie polityki, ponieważ inflacja pozostawała wysoka."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Inside a xenon tank"
       ],
       "answerIndex": 3,
-      "hintKo": "Household caution showed up in Australian spending data."
+      "hintKo": "Household caution showed up in Australian spending data.",
+      "hintI18n": {
+        "en": "Household caution showed up in Australian spending data.",
+        "ko": "가계의 신중한 태도는 호주 지출 데이터에 나타났습니다.",
+        "zh-Hans": "家庭的谨慎体现在澳大利亚的支出数据中。",
+        "ja": "家計の慎重さはオーストラリアの支出データに表れました。",
+        "es": "La cautela de los hogares se reflejó en los datos de gasto australianos.",
+        "hi": "परिवारों की सतर्कता ऑस्ट्रेलियाई खर्च के आंकड़ों में दिखी।",
+        "de": "Die Vorsicht der Haushalte zeigte sich in den australischen Ausgabendaten.",
+        "vi": "Sự thận trọng của hộ gia đình thể hiện trong dữ liệu chi tiêu của Úc.",
+        "pt-BR": "A cautela das famílias apareceu nos dados de gastos australianos.",
+        "id": "Kehati-hatian rumah tangga terlihat dalam data belanja Australia.",
+        "fr": "La prudence des ménages est apparue dans les données de dépenses australiennes.",
+        "ar": "ظهر حذر الأسر في بيانات الإنفاق الأسترالية.",
+        "tr": "Hanehalkı ihtiyatı Avustralya harcama verilerinde görüldü.",
+        "it": "La cautela delle famiglie è emersa nei dati sulla spesa australiani.",
+        "pl": "Ostrożność gospodarstw domowych uwidoczniła się w australijskich danych o wydatkach."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It proves dark matter exists"
       ],
       "answerIndex": 1,
-      "hintKo": "Growth affects how aggressively the central bank can fight inflation."
+      "hintKo": "Growth affects how aggressively the central bank can fight inflation.",
+      "hintI18n": {
+        "en": "Growth affects how aggressively the central bank can fight inflation.",
+        "ko": "성장률은 중앙은행이 인플레이션과 얼마나 적극적으로 싸울 수 있는지에 영향을 줍니다.",
+        "zh-Hans": "增长会影响央行能以多大力度对抗通胀。",
+        "ja": "成長は、中央銀行がどれだけ積極的にインフレと戦えるかに影響します。",
+        "es": "El crecimiento afecta con qué agresividad el banco central puede combatir la inflación.",
+        "hi": "वृद्धि इस बात को प्रभावित करती है कि केंद्रीय बैंक कितनी आक्रामकता से मुद्रास्फीति से लड़ सकता है।",
+        "de": "Das Wachstum beeinflusst, wie aggressiv die Zentralbank die Inflation bekämpfen kann.",
+        "vi": "Tăng trưởng ảnh hưởng đến mức độ quyết liệt mà ngân hàng trung ương có thể chống lạm phát.",
+        "pt-BR": "O crescimento afeta quão agressivamente o banco central pode combater a inflação.",
+        "id": "Pertumbuhan memengaruhi seberapa agresif bank sentral dapat melawan inflasi.",
+        "fr": "La croissance influence l'agressivité avec laquelle la banque centrale peut lutter contre l'inflation.",
+        "ar": "يؤثر النمو في مدى شراسة قدرة البنك المركزي على مكافحة التضخم.",
+        "tr": "Büyüme, merkez bankasının enflasyonla ne kadar agresif mücadele edebileceğini etkiler.",
+        "it": "La crescita influisce su quanto aggressivamente la banca centrale può combattere l'inflazione.",
+        "pl": "Wzrost wpływa na to, jak agresywnie bank centralny może zwalczać inflację."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Zero point four percent"
       ],
       "answerIndex": 4,
-      "hintKo": "Consumer spending increased zero point four percent, not two point one."
+      "hintKo": "Consumer spending increased zero point four percent, not two point one.",
+      "hintI18n": {
+        "en": "Consumer spending increased zero point four percent, not two point one.",
+        "ko": "소비자 지출은 0.4퍼센트 증가했으며, 2.1퍼센트가 아닙니다.",
+        "zh-Hans": "消费者支出增长了0.4%，而不是2.1%。",
+        "ja": "消費者支出は0.4％増加しましたが、2.1％ではありません。",
+        "es": "El gasto de los consumidores aumentó un 0,4 %, no un 2,1 %.",
+        "hi": "उपभोक्ता खर्च 0.4 प्रतिशत बढ़ा, 2.1 प्रतिशत नहीं।",
+        "de": "Die Konsumausgaben stiegen um 0,4 Prozent, nicht um 2,1 Prozent.",
+        "vi": "Chi tiêu tiêu dùng tăng 0,4%, không phải 2,1%.",
+        "pt-BR": "Os gastos do consumidor aumentaram 0,4%, não 2,1%.",
+        "id": "Belanja konsumen naik 0,4 persen, bukan 2,1 persen.",
+        "fr": "Les dépenses de consommation ont augmenté de 0,4 %, pas de 2,1 %.",
+        "ar": "ارتفع إنفاق المستهلكين بنسبة 0.4 بالمئة، وليس 2.1 بالمئة.",
+        "tr": "Tüketici harcamaları yüzde 0,4 arttı, yüzde 2,1 değil.",
+        "it": "La spesa dei consumatori è aumentata dello 0,4%, non del 2,1%.",
+        "pl": "Wydatki konsumentów wzrosły o 0,4 procent, a nie o 2,1 procent."
+      }
     }
   ],
   "youtube_url": ""

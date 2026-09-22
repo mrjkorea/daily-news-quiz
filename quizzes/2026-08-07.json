@@ -17,7 +17,24 @@
         "Adam Soule"
       ],
       "answerIndex": 0,
-      "hintKo": "The lead author of the Nagoya University study is Yuki Miyai."
+      "hintKo": "The lead author of the Nagoya University study is Yuki Miyai.",
+      "hintI18n": {
+        "en": "The lead author of the Nagoya University study is Yuki Miyai.",
+        "ko": "나고야 대학 연구의 주저자는 미야이 유키입니다.",
+        "zh-Hans": "名古屋大学这项研究的第一作者是 Yuki Miyai。",
+        "ja": "名古屋大学の研究の筆頭著者は宮井悠希氏です。",
+        "es": "El autor principal del estudio de la Universidad de Nagoya es Yuki Miyai.",
+        "hi": "नागोया विश्वविद्यालय के अध्ययन के प्रमुख लेखक युकी मियाई हैं।",
+        "de": "Der Hauptautor der Studie der Universität Nagoya ist Yuki Miyai.",
+        "vi": "Tác giả chính của nghiên cứu tại Đại học Nagoya là Yuki Miyai.",
+        "pt-BR": "O autor principal do estudo da Universidade de Nagoya é Yuki Miyai.",
+        "id": "Penulis utama studi Universitas Nagoya adalah Yuki Miyai.",
+        "fr": "L'auteur principal de l'étude de l'université de Nagoya est Yuki Miyai.",
+        "ar": "المؤلف الرئيسي لدراسة جامعة ناغويا هو يوكي مياي.",
+        "tr": "Nagoya Üniversitesi çalışmasının baş yazarı Yuki Miyai'dir.",
+        "it": "L'autore principale dello studio dell'Università di Nagoya è Yuki Miyai.",
+        "pl": "Głównym autorem badania na Uniwersytecie Nagoya jest Yuki Miyai."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It carries oxygen to the tumor"
       ],
       "answerIndex": 1,
-      "hintKo": "Local C three limits immunosuppressive cells inside tumors rather than attacking cancer directly."
+      "hintKo": "Local C three limits immunosuppressive cells inside tumors rather than attacking cancer directly.",
+      "hintI18n": {
+        "en": "Local C three limits immunosuppressive cells inside tumors rather than attacking cancer directly.",
+        "ko": "국소 C3는 암을 직접 공격하기보다 종양 내부의 면역 억제 세포를 제한합니다.",
+        "zh-Hans": "局部C3限制肿瘤内的免疫抑制细胞，而不是直接攻击癌细胞。",
+        "ja": "局所C3は、がんを直接攻撃するのではなく、腫瘍内の免疫抑制細胞を制限します。",
+        "es": "La C3 local limita las células inmunosupresoras dentro de los tumores en lugar de atacar el cáncer directamente.",
+        "hi": "स्थानीय C3 कैंसर पर सीधे हमला करने के बजाय ट्यूमर के भीतर प्रतिरक्षा-दमनकारी कोशिकाओं को सीमित करता है।",
+        "de": "Lokales C3 begrenzt immunsuppressive Zellen in Tumoren, statt Krebs direkt anzugreifen.",
+        "vi": "C3 cục bộ hạn chế các tế bào ức chế miễn dịch bên trong khối u thay vì tấn công ung thư trực tiếp.",
+        "pt-BR": "A C3 local limita as células imunossupressoras dentro dos tumores em vez de atacar o câncer diretamente.",
+        "id": "C3 lokal membatasi sel imunosupresif di dalam tumor, bukan menyerang kanker secara langsung.",
+        "fr": "La C3 locale limite les cellules immunosuppressives dans les tumeurs au lieu d'attaquer directement le cancer.",
+        "ar": "يحد C3 الموضعي من الخلايا المثبطة للمناعة داخل الأورام بدلاً من مهاجمة السرطان مباشرة.",
+        "tr": "Yerel C3, kansere doğrudan saldırmak yerine tümör içindeki bağışıklık baskılayıcı hücreleri sınırlar.",
+        "it": "Il C3 locale limita le cellule immunosoppressive all'interno dei tumori invece di attaccare direttamente il cancro.",
+        "pl": "Lokalny C3 ogranicza komórki immunosupresyjne wewnątrz guzów, zamiast bezpośrednio atakować nowotwór."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In twenty twenty"
       ],
       "answerIndex": 0,
-      "hintKo": "The study appeared in Nature Communications in twenty twenty-six."
+      "hintKo": "The study appeared in Nature Communications in twenty twenty-six.",
+      "hintI18n": {
+        "en": "The study appeared in Nature Communications in twenty twenty-six.",
+        "ko": "이 연구는 2026년 Nature Communications에 실렸습니다.",
+        "zh-Hans": "这项研究于2026年发表在《Nature Communications》上。",
+        "ja": "この研究は2026年にNature Communicationsに掲載されました。",
+        "es": "El estudio apareció en Nature Communications en 2026.",
+        "hi": "यह अध्ययन 2026 में Nature Communications में प्रकाशित हुआ।",
+        "de": "Die Studie erschien 2026 in Nature Communications.",
+        "vi": "Nghiên cứu đã xuất hiện trên Nature Communications vào năm 2026.",
+        "pt-BR": "O estudo foi publicado na Nature Communications em 2026.",
+        "id": "Studi tersebut terbit di Nature Communications pada 2026.",
+        "fr": "L'étude est parue dans Nature Communications en 2026.",
+        "ar": "نُشرت الدراسة في Nature Communications في عام 2026.",
+        "tr": "Çalışma 2026'da Nature Communications'ta yayımlandı.",
+        "it": "Lo studio è apparso su Nature Communications nel 2026.",
+        "pl": "Badanie ukazało się w Nature Communications w 2026 roku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "The Pasteur Institute in France"
       ],
       "answerIndex": 0,
-      "hintKo": "The research team was based at Nagoya University in Japan."
+      "hintKo": "The research team was based at Nagoya University in Japan.",
+      "hintI18n": {
+        "en": "The research team was based at Nagoya University in Japan.",
+        "ko": "연구팀은 일본 나고야 대학에 소속되어 있었습니다.",
+        "zh-Hans": "该研究团队位于日本名古屋大学。",
+        "ja": "研究チームは日本の名古屋大学に所属していました。",
+        "es": "El equipo de investigación tenía su sede en la Universidad de Nagoya, en Japón.",
+        "hi": "शोध दल जापान के नागोया विश्वविद्यालय में स्थित था।",
+        "de": "Das Forschungsteam war an der Universität Nagoya in Japan ansässig.",
+        "vi": "Nhóm nghiên cứu đặt tại Đại học Nagoya ở Nhật Bản.",
+        "pt-BR": "A equipe de pesquisa estava sediada na Universidade de Nagoya, no Japão.",
+        "id": "Tim riset tersebut berbasis di Universitas Nagoya di Jepang.",
+        "fr": "L'équipe de recherche était basée à l'université de Nagoya, au Japon.",
+        "ar": "كان فريق البحث مقره في جامعة ناغويا في اليابان.",
+        "tr": "Araştırma ekibi Japonya'daki Nagoya Üniversitesi'nde bulunuyordu.",
+        "it": "Il team di ricerca aveva sede presso l'Università di Nagoya, in Giappone.",
+        "pl": "Zespół badawczy miał siedzibę na Uniwersytecie Nagoya w Japonii."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because the tumor grew too large to treat"
       ],
       "answerIndex": 1,
-      "hintKo": "Local C three keeps immunosuppressive cells out; without it, the immune attack is weakened."
+      "hintKo": "Local C three keeps immunosuppressive cells out; without it, the immune attack is weakened.",
+      "hintI18n": {
+        "en": "Local C three keeps immunosuppressive cells out; without it, the immune attack is weakened.",
+        "ko": "국소 C3는 면역 억제 세포를 차단합니다. 그것이 없으면 면역 공격이 약화됩니다.",
+        "zh-Hans": "局部C3能将免疫抑制细胞挡在外面；没有它，免疫攻击就会减弱。",
+        "ja": "局所C3は免疫抑制細胞を追い出します。それがなければ、免疫攻撃は弱まります。",
+        "es": "La C3 local mantiene fuera las células inmunosupresoras; sin ella, el ataque inmunitario se debilita.",
+        "hi": "स्थानीय C3 प्रतिरक्षा-दमनकारी कोशिकाओं को बाहर रखता है; इसके बिना, प्रतिरक्षा हमला कमजोर हो जाता है।",
+        "de": "Lokales C3 hält immunsuppressive Zellen fern; ohne es wird der Immunangriff geschwächt.",
+        "vi": "C3 cục bộ giữ các tế bào ức chế miễn dịch ở ngoài; nếu không có nó, cuộc tấn công miễn dịch sẽ yếu đi.",
+        "pt-BR": "A C3 local mantém as células imunossupressoras do lado de fora; sem ela, o ataque imunológico fica enfraquecido.",
+        "id": "C3 lokal menahan sel imunosupresif agar tidak masuk; tanpanya, serangan imun melemah.",
+        "fr": "La C3 locale tient à l'écart les cellules immunosuppressives ; sans elle, l'attaque immunitaire est affaiblie.",
+        "ar": "يبقي C3 الموضعي الخلايا المثبطة للمناعة خارجًا؛ وبدونه، يضعف الهجوم المناعي.",
+        "tr": "Yerel C3, bağışıklık baskılayıcı hücreleri dışarıda tutar; o olmadan bağışıklık saldırısı zayıflar.",
+        "it": "Il C3 locale tiene fuori le cellule immunosoppressive; senza di esso, l'attacco immunitario si indebolisce.",
+        "pl": "Lokalny C3 powstrzymuje komórki immunosupresyjne przed wnikaniem; bez niego atak immunologiczny słabnie."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They measured temperature changes"
       ],
       "answerIndex": 1,
-      "hintKo": "Reducing blood C three did not weaken the treatment; only stopping local C three made it less effective."
+      "hintKo": "Reducing blood C three did not weaken the treatment; only stopping local C three made it less effective.",
+      "hintI18n": {
+        "en": "Reducing blood C three did not weaken the treatment; only stopping local C three made it less effective.",
+        "ko": "혈액 내 C3를 줄여도 치료 효과는 약해지지 않았고, 국소 C3를 차단했을 때만 덜 효과적이게 되었다.",
+        "zh-Hans": "减少血液中的 C3 并没有削弱治疗效果；只有阻止局部 C3 才使其效果变差。",
+        "ja": "血中のC3を減らしても治療は弱まらなかった。局所のC3を止めたときだけ効果が低下した。",
+        "es": "Reducir el C3 en sangre no debilitó el tratamiento; solo detener el C3 local hizo que fuera menos eficaz.",
+        "hi": "रक्त में C3 कम करने से इलाज कमज़ोर नहीं हुआ; केवल स्थानीय C3 रोकने पर ही यह कम प्रभावी हुआ।",
+        "de": "Die Reduzierung von C3 im Blut schwächte die Behandlung nicht; nur das Stoppen des lokalen C3 machte sie weniger wirksam.",
+        "vi": "Giảm C3 trong máu không làm suy yếu liệu pháp; chỉ khi chặn C3 cục bộ thì nó mới kém hiệu quả hơn.",
+        "pt-BR": "Reduzir o C3 no sangue não enfraqueceu o tratamento; apenas bloquear o C3 local o tornou menos eficaz.",
+        "id": "Mengurangi C3 dalam darah tidak melemahkan pengobatan; hanya menghentikan C3 lokal yang membuatnya kurang efektif.",
+        "fr": "Réduire le C3 sanguin n'a pas affaibli le traitement ; seul le blocage du C3 local l'a rendu moins efficace.",
+        "ar": "تقليل C3 في الدم لم يُضعف العلاج؛ فقط إيقاف C3 الموضعي جعله أقل فعالية.",
+        "tr": "Kandaki C3'ü azaltmak tedaviyi zayıflatmadı; yalnızca yerel C3'ü durdurmak onu daha az etkili yaptı.",
+        "it": "Ridurre il C3 nel sangue non ha indebolito il trattamento; solo bloccare il C3 locale lo ha reso meno efficace.",
+        "pl": "Zmniejszenie C3 we krwi nie osłabiło leczenia; tylko zatrzymanie miejscowego C3 sprawiło, że stało się mniej skuteczne."
+      }
     }
   ],
   "youtube_url": ""

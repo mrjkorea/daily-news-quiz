@@ -17,7 +17,24 @@
         "The World Health Organization"
       ],
       "answerIndex": 1,
-      "hintKo": "The model came from IBM and NASA, not an airline or a museum."
+      "hintKo": "The model came from IBM and NASA, not an airline or a museum.",
+      "hintI18n": {
+        "en": "The model came from IBM and NASA, not an airline or a museum.",
+        "ko": "이 모델은 항공사나 박물관이 아니라 IBM과 NASA에서 나왔습니다.",
+        "zh-Hans": "这个模型来自IBM和NASA，而不是航空公司或博物馆。",
+        "ja": "このモデルは航空会社や博物館ではなく、IBMとNASAから提供されました。",
+        "es": "El modelo proviene de IBM y NASA, no de una aerolínea ni de un museo.",
+        "hi": "यह मॉडल किसी एयरलाइन या संग्रहालय से नहीं, बल्कि IBM और NASA से आया है।",
+        "de": "Das Modell stammt von IBM und NASA, nicht von einer Fluggesellschaft oder einem Museum.",
+        "vi": "Mô hình này đến từ IBM và NASA, không phải từ một hãng hàng không hay bảo tàng.",
+        "pt-BR": "O modelo veio da IBM e da NASA, não de uma companhia aérea ou de um museu.",
+        "id": "Model ini berasal dari IBM dan NASA, bukan dari maskapai penerbangan atau museum.",
+        "fr": "Le modèle vient d’IBM et de la NASA, pas d’une compagnie aérienne ni d’un musée.",
+        "ar": "جاء النموذج من IBM وNASA، وليس من شركة طيران أو متحف.",
+        "tr": "Model bir havayolundan veya müzeden değil, IBM ve NASA'dan geldi.",
+        "it": "Il modello proviene da IBM e NASA, non da una compagnia aerea o un museo.",
+        "pl": "Model pochodzi od IBM i NASA, a nie od linii lotniczej czy muzeum."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Weather reports for next week"
       ],
       "answerIndex": 0,
-      "hintKo": "The model studies the Moon's surface features, not buildings or oceans."
+      "hintKo": "The model studies the Moon's surface features, not buildings or oceans.",
+      "hintI18n": {
+        "en": "The model studies the Moon's surface features, not buildings or oceans.",
+        "ko": "이 모델은 달의 표면 특징을 연구하며, 건물이나 바다를 연구하지는 않습니다.",
+        "zh-Hans": "该模型研究月球表面特征，而不是建筑物或海洋。",
+        "ja": "このモデルは月の表面の特徴を調べるもので、建物や海を研究するものではありません。",
+        "es": "El modelo estudia las características de la superficie lunar, no edificios ni océanos.",
+        "hi": "यह मॉडल चंद्रमा की सतह की विशेषताओं का अध्ययन करता है, इमारतों या महासागरों का नहीं।",
+        "de": "Das Modell untersucht Oberflächenmerkmale des Mondes, nicht Gebäude oder Ozeane.",
+        "vi": "Mô hình nghiên cứu các đặc điểm bề mặt Mặt Trăng, không phải tòa nhà hay đại dương.",
+        "pt-BR": "O modelo estuda características da superfície lunar, não edifícios ou oceanos.",
+        "id": "Model ini mempelajari ciri permukaan Bulan, bukan bangunan atau samudra.",
+        "fr": "Le modèle étudie les caractéristiques de la surface lunaire, pas les bâtiments ni les océans.",
+        "ar": "يدرس النموذج معالم سطح القمر، وليس المباني أو المحيطات.",
+        "tr": "Model, binaları veya okyanusları değil, Ay'ın yüzey özelliklerini inceler.",
+        "it": "Il modello studia le caratteristiche della superficie lunare, non edifici o oceani.",
+        "pl": "Model bada cechy powierzchni Księżyca, a nie budynki czy oceany."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Last Christmas"
       ],
       "answerIndex": 2,
-      "hintKo": "The release was announced on the tenth of September."
+      "hintKo": "The release was announced on the tenth of September.",
+      "hintI18n": {
+        "en": "The release was announced on the tenth of September.",
+        "ko": "이 공개는 9월 10일에 발표되었습니다.",
+        "zh-Hans": "该发布是在9月10日宣布的。",
+        "ja": "この公開は9月10日に発表されました。",
+        "es": "El lanzamiento se anunció el 10 de septiembre.",
+        "hi": "इसके जारी होने की घोषणा 10 सितंबर को की गई थी।",
+        "de": "Die Veröffentlichung wurde am 10. September angekündigt.",
+        "vi": "Bản phát hành được công bố vào ngày 10 tháng 9.",
+        "pt-BR": "O lançamento foi anunciado em 10 de setembro.",
+        "id": "Rilis ini diumumkan pada 10 September.",
+        "fr": "La publication a été annoncée le 10 septembre.",
+        "ar": "أُعلن عن الإصدار في العاشر من سبتمبر.",
+        "tr": "Sürüm 10 Eylül'de duyuruldu.",
+        "it": "Il rilascio è stato annunciato il 10 settembre.",
+        "pl": "Wydanie zostało ogłoszone 10 września."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "On a satellite in orbit"
       ],
       "answerIndex": 0,
-      "hintKo": "The model is published online for anyone to use, not locked in an office."
+      "hintKo": "The model is published online for anyone to use, not locked in an office.",
+      "hintI18n": {
+        "en": "The model is published online for anyone to use, not locked in an office.",
+        "ko": "이 모델은 사무실에 갇혀 있는 것이 아니라 누구나 사용할 수 있도록 온라인에 공개되어 있습니다.",
+        "zh-Hans": "该模型发布在网上供任何人使用，而不是锁在办公室里。",
+        "ja": "このモデルはオフィスにしまわれているのではなく、誰でも使えるようにオンラインで公開されています。",
+        "es": "El modelo está publicado en línea para que cualquiera lo use, no encerrado en una oficina.",
+        "hi": "यह मॉडल किसी दफ़्तर में बंद नहीं है, बल्कि इंटरनेट पर प्रकाशित है ताकि कोई भी इसका उपयोग कर सके।",
+        "de": "Das Modell ist im Internet veröffentlicht, damit es jeder nutzen kann, nicht in einem Büro eingeschlossen.",
+        "vi": "Mô hình được công bố trực tuyến để mọi người sử dụng, không bị khóa trong văn phòng.",
+        "pt-BR": "O modelo está publicado na internet para qualquer pessoa usar, não trancado em um escritório.",
+        "id": "Model ini dipublikasikan secara daring agar siapa pun dapat menggunakannya, bukan terkunci di kantor.",
+        "fr": "Le modèle est publié en ligne pour que tout le monde puisse l’utiliser, pas enfermé dans un bureau.",
+        "ar": "النموذج منشور على الإنترنت ليستخدمه أي شخص، وليس محبوسًا في مكتب.",
+        "tr": "Model bir ofiste kilitli değil, herkesin kullanması için çevrimiçi yayımlandı.",
+        "it": "Il modello è pubblicato in rete perché chiunque possa usarlo, non è chiuso in un ufficio.",
+        "pl": "Model jest opublikowany w internecie, aby każdy mógł z niego korzystać, a nie zamknięty w biurze."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Ice is sold to museums"
       ],
       "answerIndex": 1,
-      "hintKo": "Ice matters because it supports crew life and fuel, not because of museums."
+      "hintKo": "Ice matters because it supports crew life and fuel, not because of museums.",
+      "hintI18n": {
+        "en": "Ice matters because it supports crew life and fuel, not because of museums.",
+        "ko": "얼음은 박물관 때문이 아니라 승무원의 생명과 연료를 지원하기 때문에 중요합니다.",
+        "zh-Hans": "冰很重要，因为它能维持乘员生命并为燃料提供支持，而不是因为博物馆。",
+        "ja": "氷は博物館のためではなく、乗員の生活と燃料を支えるため重要です。",
+        "es": "El hielo es importante porque sustenta la vida de la tripulación y el combustible, no por los museos.",
+        "hi": "बर्फ़ महत्वपूर्ण है क्योंकि यह चालक दल के जीवन और ईंधन में सहायता करती है, संग्रहालयों के कारण नहीं।",
+        "de": "Eis ist wichtig, weil es das Leben der Besatzung und Treibstoff unterstützt, nicht wegen Museen.",
+        "vi": "Băng quan trọng vì nó hỗ trợ sự sống của phi hành đoàn và nhiên liệu, không phải vì bảo tàng.",
+        "pt-BR": "O gelo é importante porque sustenta a vida da tripulação e o combustível, não por causa de museus.",
+        "id": "Es penting karena mendukung kehidupan awak dan bahan bakar, bukan karena museum.",
+        "fr": "La glace est importante parce qu’elle soutient la vie de l’équipage et le carburant, pas à cause des musées.",
+        "ar": "الجليد مهم لأنه يدعم حياة الطاقم والوقود، وليس بسبب المتاحف.",
+        "tr": "Buz, müzeler yüzünden değil, mürettebat yaşamını ve yakıtı desteklediği için önemlidir.",
+        "it": "Il ghiaccio è importante perché sostiene la vita dell’equipaggio e il carburante, non per i musei.",
+        "pl": "Lód jest ważny, bo podtrzymuje życie załogi i paliwo, a nie z powodu muzeów."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By exactly one hundred percent"
       ],
       "answerIndex": 1,
-      "hintKo": "The improvement was up to twenty-two percent lower error, not a total fix."
+      "hintKo": "The improvement was up to twenty-two percent lower error, not a total fix.",
+      "hintI18n": {
+        "en": "The improvement was up to twenty-two percent lower error, not a total fix.",
+        "ko": "개선 효과는 최대 22% 오류 감소였으며, 완전한 해결은 아니었습니다.",
+        "zh-Hans": "改进是误差降低了最多22%，并非完全修复。",
+        "ja": "改善は最大22%の誤差減少で、完全な修正ではありませんでした。",
+        "es": "La mejora fue de hasta un veintidós por ciento menos de error, no una solución total.",
+        "hi": "सुधार त्रुटि में बाईस प्रतिशत तक की कमी थी, पूर्ण समाधान नहीं।",
+        "de": "Die Verbesserung war bis zu zweiundzwanzig Prozent weniger Fehler, keine vollständige Lösung.",
+        "vi": "Cải thiện là giảm lỗi tối đa hai mươi hai phần trăm, không phải là sửa chữa hoàn toàn.",
+        "pt-BR": "A melhoria foi de até vinte e dois por cento menos erro, não uma correção total.",
+        "id": "Peningkatan tersebut adalah hingga dua puluh dua persen lebih sedikit kesalahan, bukan perbaikan total.",
+        "fr": "L'amélioration était jusqu'à vingt-deux pour cent d'erreur en moins, pas une solution totale.",
+        "ar": "كان التحسين هو تقليل الخطأ بنسبة تصل إلى اثنين وعشرين في المئة، وليس إصلاحًا كاملاً.",
+        "tr": "İyileştirme, yüzde yirmi ikiye kadar daha az hata sağladı, tam bir düzeltme değil.",
+        "it": "Il miglioramento è stato fino a un ventidue per cento di errore in meno, non una soluzione totale.",
+        "pl": "Poprawa polegała na zmniejszeniu błędu nawet o dwadzieścia dwa procent, a nie na całkowitym rozwiązaniu."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "Australia"
       ],
       "answerIndex": 1,
-      "hintKo": "The United States carried out strikes inside Iran, but Iran launched the missiles and drones toward Gulf states."
+      "hintKo": "The United States carried out strikes inside Iran, but Iran launched the missiles and drones toward Gulf states.",
+      "hintI18n": {
+        "en": "The United States carried out strikes inside Iran, but Iran launched the missiles and drones toward Gulf states.",
+        "ko": "미국은 이란 내부에서 공격을 감행했지만, 미사일과 드론을 걸프 국가들을 향해 발사한 것은 이란이었습니다.",
+        "zh-Hans": "美国在伊朗境内实施了打击，但向海湾国家发射导弹和无人机的是伊朗。",
+        "ja": "米国はイラン国内で攻撃を行ったが、湾岸諸国に向けてミサイルとドローンを発射したのはイランだった。",
+        "es": "Estados Unidos llevó a cabo ataques dentro de Irán, pero fue Irán quien lanzó los misiles y drones hacia los países del Golfo.",
+        "hi": "संयुक्त राज्य अमेरिका ने ईरान के अंदर हमले किए, लेकिन खाड़ी देशों की ओर मिसाइलें और ड्रोन ईरान ने दागे।",
+        "de": "Die Vereinigten Staaten führten Angriffe im Iran aus, doch der Iran feuerte die Raketen und Drohnen auf Golfstaaten ab.",
+        "vi": "Hoa Kỳ đã tiến hành các cuộc không kích bên trong Iran, nhưng chính Iran đã phóng tên lửa và drone về phía các quốc gia vùng Vịnh.",
+        "pt-BR": "Os Estados Unidos realizaram ataques dentro do Irã, mas foi o Irã que lançou os mísseis e drones contra os países do Golfo.",
+        "id": "Amerika Serikat melakukan serangan di dalam Iran, tetapi Iran-lah yang meluncurkan misil dan drone ke arah negara-negara Teluk.",
+        "fr": "Les États-Unis ont mené des frappes à l’intérieur de l’Iran, mais c’est l’Iran qui a lancé les missiles et les drones vers les pays du Golfe.",
+        "ar": "نفذت الولايات المتحدة ضربات داخل إيران، لكن إيران هي التي أطلقت الصواريخ والطائرات المسيّرة باتجاه دول الخليج.",
+        "tr": "ABD İran içinde saldırılar düzenledi, ancak Körfez ülkelerine füzeleri ve insansız hava araçlarını İran fırlattı.",
+        "it": "Gli Stati Uniti hanno effettuato attacchi all’interno dell’Iran, ma è stato l’Iran a lanciare i missili e i droni verso gli Stati del Golfo.",
+        "pl": "Stany Zjednoczone przeprowadziły ataki wewnątrz Iranu, ale to Iran wystrzelił pociski i drony w kierunku państw Zatoki."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Farms and fishing villages"
       ],
       "answerIndex": 2,
-      "hintKo": "The story described strikes on military targets, not civilian places."
+      "hintKo": "The story described strikes on military targets, not civilian places.",
+      "hintI18n": {
+        "en": "The story described strikes on military targets, not civilian places.",
+        "ko": "이 기사는 민간 시설이 아니라 군사 목표물에 대한 공격을 설명했습니다.",
+        "zh-Hans": "报道描述的是对军事目标的打击，而不是民用场所。",
+        "ja": "その記事は民間施設ではなく軍事目標への攻撃を伝えていた。",
+        "es": "La noticia describió ataques contra objetivos militares, no contra lugares civiles.",
+        "hi": "रिपोर्ट में नागरिक स्थानों पर नहीं, बल्कि सैन्य ठिकानों पर हमलों का जिक्र था।",
+        "de": "Der Bericht beschrieb Angriffe auf militärische Ziele, nicht auf zivile Orte.",
+        "vi": "Bài viết mô tả các cuộc tấn công nhằm vào mục tiêu quân sự, không phải địa điểm dân sự.",
+        "pt-BR": "A reportagem descreveu ataques a alvos militares, não a locais civis.",
+        "id": "Laporan itu menggambarkan serangan terhadap sasaran militer, bukan tempat sipil.",
+        "fr": "Le reportage décrivait des frappes sur des cibles militaires, pas sur des lieux civils.",
+        "ar": "وصفت القصة ضربات على أهداف عسكرية، لا على أماكن مدنية.",
+        "tr": "Haber, sivil yerlere değil askeri hedeflere yapılan saldırıları anlatıyordu.",
+        "it": "Il servizio descriveva attacchi a obiettivi militari, non a luoghi civili.",
+        "pl": "Relacja opisywała ataki na cele wojskowe, a nie na miejsca cywilne."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Between Australia and New Zealand"
       ],
       "answerIndex": 3,
-      "hintKo": "The story focused on the Gulf waterway between Iran and the Arabian Peninsula."
+      "hintKo": "The story focused on the Gulf waterway between Iran and the Arabian Peninsula.",
+      "hintI18n": {
+        "en": "The story focused on the Gulf waterway between Iran and the Arabian Peninsula.",
+        "ko": "이 기사는 이란과 아라비아반도 사이의 걸프 해로에 초점을 맞췄습니다.",
+        "zh-Hans": "报道聚焦于伊朗和阿拉伯半岛之间的海湾水道。",
+        "ja": "その記事はイランとアラビア半島の間の湾岸水路に焦点を当てていた。",
+        "es": "La noticia se centró en la vía marítima del Golfo entre Irán y la península arábiga.",
+        "hi": "रिपोर्ट ईरान और अरब प्रायद्वीप के बीच की खाड़ी जलमार्ग पर केंद्रित थी।",
+        "de": "Der Bericht konzentrierte sich auf die Golfwasserstraße zwischen Iran und der Arabischen Halbinsel.",
+        "vi": "Bài viết tập trung vào tuyến đường thủy vùng Vịnh giữa Iran và bán đảo Ả Rập.",
+        "pt-BR": "A reportagem focou na via navegável do Golfo entre o Irã e a Península Arábica.",
+        "id": "Laporan itu berfokus pada jalur air Teluk antara Iran dan Semenanjung Arab.",
+        "fr": "Le reportage portait sur la voie navigable du Golfe entre l’Iran et la péninsule Arabique.",
+        "ar": "ركّزت القصة على الممر المائي في الخليج بين إيران وشبه الجزيرة العربية.",
+        "tr": "Haber, İran ile Arap Yarımadası arasındaki Körfez su yoluna odaklanmıştı.",
+        "it": "Il servizio si concentrava sulla via d’acqua del Golfo tra l’Iran e la penisola arabica.",
+        "pl": "Relacja skupiała się na szlaku wodnym Zatoki między Iranem a Półwyspem Arabskim."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "During winter"
       ],
       "answerIndex": 0,
-      "hintKo": "The report identified Sunday, July twelfth as the date of the attacks."
+      "hintKo": "The report identified Sunday, July twelfth as the date of the attacks.",
+      "hintI18n": {
+        "en": "The report identified Sunday, July twelfth as the date of the attacks.",
+        "ko": "그 보고서는 7월 12일 일요일을 공격 날짜로 밝혔습니다.",
+        "zh-Hans": "报道确认袭击发生在7月12日星期日。",
+        "ja": "その報道は7月12日日曜日を攻撃の日付と特定した。",
+        "es": "El informe identificó el domingo 12 de julio como la fecha de los ataques.",
+        "hi": "रिपोर्ट ने हमलों की तारीख 12 जुलाई, रविवार बताई।",
+        "de": "Der Bericht nannte Sonntag, den 12. Juli, als Datum der Angriffe.",
+        "vi": "Báo cáo xác định Chủ nhật, ngày 12 tháng 7 là ngày xảy ra các cuộc tấn công.",
+        "pt-BR": "O relatório identificou domingo, 12 de julho, como a data dos ataques.",
+        "id": "Laporan itu menyebut Minggu, 12 Juli sebagai tanggal serangan.",
+        "fr": "Le rapport a identifié le dimanche 12 juillet comme date des attaques.",
+        "ar": "حدّد التقرير يوم الأحد 12 يوليو موعدًا للهجمات.",
+        "tr": "Rapor, saldırıların tarihini 12 Temmuz Pazar olarak belirtti.",
+        "it": "Il rapporto indicava domenica 12 luglio come data degli attacchi.",
+        "pl": "Raport podał niedzielę 12 lipca jako datę ataków."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It is vital for global energy shipping"
       ],
       "answerIndex": 4,
-      "hintKo": "Its importance in the story comes from energy shipping and global trade."
+      "hintKo": "Its importance in the story comes from energy shipping and global trade.",
+      "hintI18n": {
+        "en": "Its importance in the story comes from energy shipping and global trade.",
+        "ko": "이 기사에서 이 해로의 중요성은 에너지 수송과 세계 무역에서 비롯됩니다.",
+        "zh-Hans": "其在报道中的重要性来自能源运输和全球贸易。",
+        "ja": "その記事での重要性は、エネルギー輸送と世界貿易によるものだ。",
+        "es": "Su importancia en la noticia se debe al transporte de energía y al comercio mundial.",
+        "hi": "कहानी में इसका महत्व ऊर्जा ढुलाई और वैश्विक व्यापार से आता है।",
+        "de": "Seine Bedeutung in dem Bericht ergibt sich aus dem Energietransport und dem Welthandel.",
+        "vi": "Tầm quan trọng của nó trong bài viết đến từ việc vận chuyển năng lượng và thương mại toàn cầu.",
+        "pt-BR": "Sua importância na reportagem vem do transporte de energia e do comércio global.",
+        "id": "Kepentingannya dalam laporan itu berasal dari transportasi energi dan perdagangan global.",
+        "fr": "Son importance dans le reportage vient du transport d’énergie et du commerce mondial.",
+        "ar": "تأتي أهميته في القصة من نقل الطاقة والتجارة العالمية.",
+        "tr": "Haberdeki önemi, enerji taşımacılığı ve küresel ticaretten geliyor.",
+        "it": "La sua importanza nel servizio deriva dal trasporto di energia e dal commercio globale.",
+        "pl": "Jego znaczenie w relacji wynika z transportu energii i handlu światowego."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They moved the Strait of Hormuz"
       ],
       "answerIndex": 1,
-      "hintKo": "The report described air-defence systems responding to incoming threats."
+      "hintKo": "The report described air-defence systems responding to incoming threats.",
+      "hintI18n": {
+        "en": "The report described air-defence systems responding to incoming threats.",
+        "ko": "보고서는 방공 시스템이 들어오는 위협에 대응했다고 설명했습니다.",
+        "zh-Hans": "报道称，防空系统对来袭威胁作出了反应。",
+        "ja": "報告は、防空システムが飛来する脅威に対応したと述べている。",
+        "es": "El informe describió sistemas de defensa aérea respondiendo a amenazas entrantes.",
+        "hi": "रिपोर्ट में कहा गया कि वायु रक्षा प्रणालियों ने आने वाली धमकियों का जवाब दिया।",
+        "de": "Der Bericht beschrieb Luftverteidigungssysteme, die auf eingehende Bedrohungen reagierten.",
+        "vi": "Báo cáo mô tả các hệ thống phòng không phản ứng với các mối đe dọa bay tới.",
+        "pt-BR": "O relatório descreveu sistemas de defesa aérea respondendo a ameaças que se aproximavam.",
+        "id": "Laporan itu menggambarkan sistem pertahanan udara merespons ancaman yang datang.",
+        "fr": "Le rapport décrivait des systèmes de défense aérienne réagissant à des menaces entrantes.",
+        "ar": "وصف التقرير أنظمة الدفاع الجوي وهي تتصدى للتهديدات القادمة.",
+        "tr": "Rapor, hava savunma sistemlerinin gelen tehditlere karşılık verdiğini anlatıyordu.",
+        "it": "Il rapporto descriveva sistemi di difesa aerea che rispondevano a minacce in arrivo.",
+        "pl": "W raporcie opisano systemy obrony powietrznej reagujące na nadchodzące zagrożenia."
+      }
     }
   ],
   "youtube_url": ""

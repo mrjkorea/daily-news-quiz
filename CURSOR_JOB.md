@@ -8,14 +8,15 @@ DATA (already here — do not invent questions):
 - quizzes/index.json = date catalog
 - quizzes/YYYY-MM-DD.json = questions
 Schema: id, date, title, headline, questionCount, youtube_url,
-questions: [{id, type:"MC", prompt, choices:[], answerIndex (0-based), hintKo}]
+questions: [{id, type:"MC", prompt, choices:[], answerIndex (0-based), hintKo (English fallback), hintI18n: {en, ko, zh-Hans, ja, es, hi, de, vi, pt-BR, id, fr, ar, tr, it, pl}}]
+Prompt + choices stay English. hintI18n holds wrong-answer explanations in 15 languages.
 
 UX (mirror Baekbal mrjkorea/baekbal-x10-practice-tests):
 - index.html date list newest first. Tap a day.
 - quiz.html?id=YYYY-MM-DD (or ?date=) loads JSON, grades 100% client-side.
-- Answer all → Submit → score + missed items + hintKo.
-- 다시 풀기 resets answers, increments attempt count in localStorage.
-- No sign-in. Mobile-first. Korean + English UI ok.
+- Answer all → Submit → score + missed items + hintI18n in the chosen language.
+- Try again resets answers, increments attempt count in localStorage.
+- No sign-in. Mobile-first. Questions stay English. Language picker (15 Word Master locales) translates chrome + explanations only.
 - Optional YouTube watch link if youtube_url is non-empty.
 
 REFERENCE live pattern: https://github.com/mrjkorea/baekbal-x10-practice-tests (quiz.html?id=)

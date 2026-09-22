@@ -17,7 +17,24 @@
         "World Trade Organization delegates"
       ],
       "answerIndex": 0,
-      "hintKo": "The meeting was specifically between ASEAN foreign ministers and Myanmar's foreign minister, not UN, EU, WHO, or WTO officials."
+      "hintKo": "The meeting was specifically between ASEAN foreign ministers and Myanmar's foreign minister, not UN, EU, WHO, or WTO officials.",
+      "hintI18n": {
+        "en": "The meeting was specifically between ASEAN foreign ministers and Myanmar's foreign minister, not UN, EU, WHO, or WTO officials.",
+        "ko": "이 회의는 구체적으로 아세안 외교장관들과 미얀마 외교장관 간의 회의였으며, 유엔, EU, WHO, WTO 관리들과의 회의가 아니었습니다.",
+        "zh-Hans": "这次会议具体是东盟外长与缅甸外长之间的会议，而不是与联合国、欧盟、世卫组织或世贸组织官员的会议。",
+        "ja": "この会議は具体的にはASEAN外相とミャンマー外相の間で行われたもので、国連、EU、WHO、WTOの当局者ではありません。",
+        "es": "La reunión fue específicamente entre los ministros de Asuntos Exteriores de la ASEAN y el ministro de Asuntos Exteriores de Myanmar, no funcionarios de la ONU, la UE, la OMS ni la OMC.",
+        "hi": "यह बैठक विशेष रूप से आसियान विदेश मंत्रियों और म्यांमार के विदेश मंत्री के बीच थी, न कि संयुक्त राष्ट्र, यूरोपीय संघ, WHO या WTO के अधिकारियों के बीच।",
+        "de": "Das Treffen fand speziell zwischen den Außenministern der ASEAN und dem Außenminister Myanmars statt, nicht mit Vertretern der UN, EU, WHO oder WTO.",
+        "vi": "Cuộc họp cụ thể là giữa các ngoại trưởng ASEAN và ngoại trưởng Myanmar, không phải với các quan chức LHQ, EU, WHO hay WTO.",
+        "pt-BR": "A reunião foi especificamente entre os ministros das Relações Exteriores da ASEAN e o ministro das Relações Exteriores de Mianmar, não com funcionários da ONU, UE, OMS ou OMC.",
+        "id": "Pertemuan itu secara khusus berlangsung antara para menteri luar negeri ASEAN dan menteri luar negeri Myanmar, bukan pejabat PBB, Uni Eropa, WHO, atau WTO.",
+        "fr": "La réunion a eu lieu spécifiquement entre les ministres des Affaires étrangères de l'ASEAN et le ministre des Affaires étrangères du Myanmar, et non avec des responsables de l'ONU, de l'UE, de l'OMS ou de l'OMC.",
+        "ar": "كان الاجتماع على وجه التحديد بين وزراء خارجية رابطة آسيان ووزير خارجية ميانمار، وليس مسؤولي الأمم المتحدة أو الاتحاد الأوروبي أو منظمة الصحة العالمية أو منظمة التجارة العالمية.",
+        "tr": "Toplantı özellikle ASEAN dışişleri bakanları ile Myanmar dışişleri bakanı arasındaydı; BM, AB, WHO veya DTÖ yetkilileriyle değil.",
+        "it": "L'incontro è stato specificamente tra i ministri degli Esteri dell'ASEAN e il ministro degli Esteri del Myanmar, non funzionari di ONU, UE, OMS o WTO.",
+        "pl": "Spotkanie odbyło się konkretnie między ministrami spraw zagranicznych ASEAN a ministrem spraw zagranicznych Mjanmy, a nie z przedstawicielami ONZ, UE, WHO lub WTO."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "A United Nations resolution"
       ],
       "answerIndex": 1,
-      "hintKo": "The five-point consensus is ASEAN's peace framework for Myanmar, not a trade deal, military treaty, sanctions package, or UN resolution."
+      "hintKo": "The five-point consensus is ASEAN's peace framework for Myanmar, not a trade deal, military treaty, sanctions package, or UN resolution.",
+      "hintI18n": {
+        "en": "The five-point consensus is ASEAN's peace framework for Myanmar, not a trade deal, military treaty, sanctions package, or UN resolution.",
+        "ko": "5개 항목 합의는 미얀마를 위한 아세안의 평화 프레임워크이며, 무역 협정, 군사 조약, 제재 패키지, 유엔 결의안이 아닙니다.",
+        "zh-Hans": "五点共识是东盟针对缅甸的和平框架，而不是贸易协议、军事条约、制裁方案或联合国决议。",
+        "ja": "5項目のコンセンサスは、ミャンマーに関するASEANの平和枠組みであり、貿易協定、軍事条約、制裁パッケージ、国連決議ではありません。",
+        "es": "El consenso de cinco puntos es el marco de paz de la ASEAN para Myanmar, no un acuerdo comercial, un tratado militar, un paquete de sanciones ni una resolución de la ONU.",
+        "hi": "पाँच-सूत्री सहमति म्यांमार के लिए आसियान की शांति रूपरेखा है, न कि व्यापार समझौता, सैन्य संधि, प्रतिबंध पैकेज या संयुक्त राष्ट्र प्रस्ताव।",
+        "de": "Der Fünf-Punkte-Konsens ist der Friedensrahmen der ASEAN für Myanmar, kein Handelsabkommen, Militärvertrag, Sanktionspaket oder eine UN-Resolution.",
+        "vi": "Đồng thuận năm điểm là khuôn khổ hòa bình của ASEAN cho Myanmar, không phải thỏa thuận thương mại, hiệp ước quân sự, gói trừng phạt hay nghị quyết của Liên Hợp Quốc.",
+        "pt-BR": "O consenso de cinco pontos é o marco de paz da ASEAN para Mianmar, não um acordo comercial, tratado militar, pacote de sanções ou resolução da ONU.",
+        "id": "Konsensus lima poin adalah kerangka perdamaian ASEAN untuk Myanmar, bukan perjanjian dagang, traktat militer, paket sanksi, atau resolusi PBB.",
+        "fr": "Le consensus en cinq points est le cadre de paix de l'ASEAN pour le Myanmar, et non un accord commercial, un traité militaire, un paquet de sanctions ou une résolution de l'ONU.",
+        "ar": "توافق النقاط الخمس هو إطار السلام التابع لآسيان من أجل ميانمار، وليس اتفاقية تجارية أو معاهدة عسكرية أو حزمة عقوبات أو قرارًا أمميًا.",
+        "tr": "Beş maddelik uzlaşı, ASEAN'ın Myanmar için barış çerçevesidir; bir ticaret anlaşması, askeri antlaşma, yaptırım paketi veya BM kararı değildir.",
+        "it": "Il consenso in cinque punti è il quadro di pace dell'ASEAN per il Myanmar, non un accordo commerciale, un trattato militare, un pacchetto di sanzioni o una risoluzione ONU.",
+        "pl": "Pięciopunktowy konsensus to ramy pokojowe ASEAN dla Mjanmy, a nie umowa handlowa, traktat wojskowy, pakiet sankcji ani rezolucja ONZ."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Hanoi"
       ],
       "answerIndex": 2,
-      "hintKo": "The meeting took place in Bangkok, Thailand — not in Singapore, Manila, Jakarta, or Hanoi."
+      "hintKo": "The meeting took place in Bangkok, Thailand — not in Singapore, Manila, Jakarta, or Hanoi.",
+      "hintI18n": {
+        "en": "The meeting took place in Bangkok, Thailand — not in Singapore, Manila, Jakarta, or Hanoi.",
+        "ko": "회의는 태국 방콕에서 열렸으며, 싱가포르, 마닐라, 자카르타, 하노이에서 열린 것이 아닙니다.",
+        "zh-Hans": "会议在泰国曼谷举行，而不是在新加坡、马尼拉、雅加达或河内。",
+        "ja": "会議はタイのバンコクで行われ、シンガポール、マニラ、ジャカルタ、ハノイではありませんでした。",
+        "es": "La reunión tuvo lugar en Bangkok, Tailandia, no en Singapur, Manila, Yakarta o Hanói.",
+        "hi": "बैठक थाईलैंड के बैंकॉक में हुई, सिंगापुर, मनीला, जकार्ता या हनोई में नहीं।",
+        "de": "Das Treffen fand in Bangkok, Thailand, statt – nicht in Singapur, Manila, Jakarta oder Hanoi.",
+        "vi": "Cuộc họp diễn ra tại Bangkok, Thái Lan — không phải ở Singapore, Manila, Jakarta hay Hà Nội.",
+        "pt-BR": "A reunião ocorreu em Bangkok, na Tailândia — não em Singapura, Manila, Jacarta ou Hanói.",
+        "id": "Pertemuan berlangsung di Bangkok, Thailand — bukan di Singapura, Manila, Jakarta, atau Hanoi.",
+        "fr": "La réunion a eu lieu à Bangkok, en Thaïlande — pas à Singapour, Manille, Jakarta ou Hanoï.",
+        "ar": "عُقد الاجتماع في بانكوك، تايلاند — وليس في سنغافورة أو مانيلا أو جاكرتا أو هانوي.",
+        "tr": "Toplantı Tayland'ın Bangkok kentinde yapıldı; Singapur, Manila, Cakarta veya Hanoi'de değil.",
+        "it": "L'incontro si è svolto a Bangkok, in Thailandia, non a Singapore, Manila, Giacarta o Hanoi.",
+        "pl": "Spotkanie odbyło się w Bangkoku w Tajlandii, a nie w Singapurze, Manili, Dżakarcie ani Hanoi."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "After the 2026 elections"
       ],
       "answerIndex": 1,
-      "hintKo": "The ban came after the 2021 military coup, not after elections, the pandemic, or the civil war ending."
+      "hintKo": "The ban came after the 2021 military coup, not after elections, the pandemic, or the civil war ending.",
+      "hintI18n": {
+        "en": "The ban came after the 2021 military coup, not after elections, the pandemic, or the civil war ending.",
+        "ko": "이 금지 조치는 2021년 군사 쿠데타 이후에 나온 것이며, 선거, 팬데믹, 내전 종료 이후가 아닙니다.",
+        "zh-Hans": "这项禁令是在2021年军事政变之后出台的，而不是在选举、疫情或内战结束之后。",
+        "ja": "この禁止措置は2021年の軍事クーデター後に出され、選挙、パンデミック、内戦終結後のものではありません。",
+        "es": "La prohibición se produjo tras el golpe militar de 2021, no después de las elecciones, la pandemia ni el fin de la guerra civil.",
+        "hi": "यह प्रतिबंध 2021 के सैन्य तख्तापलट के बाद आया, न कि चुनाव, महामारी या गृहयुद्ध खत्म होने के बाद।",
+        "de": "Das Verbot erfolgte nach dem Militärputsch von 2021, nicht nach Wahlen, der Pandemie oder dem Ende des Bürgerkriegs.",
+        "vi": "Lệnh cấm được đưa ra sau cuộc đảo chính quân sự năm 2021, không phải sau bầu cử, đại dịch hay khi nội chiến kết thúc.",
+        "pt-BR": "A proibição veio após o golpe militar de 2021, não depois das eleições, da pandemia ou do fim da guerra civil.",
+        "id": "Larangan itu muncul setelah kudeta militer 2021, bukan setelah pemilu, pandemi, atau berakhirnya perang saudara.",
+        "fr": "L'interdiction est intervenue après le coup d'État militaire de 2021, et non après les élections, la pandémie ou la fin de la guerre civile.",
+        "ar": "جاء الحظر بعد الانقلاب العسكري عام 2021، وليس بعد الانتخابات أو الجائحة أو انتهاء الحرب الأهلية.",
+        "tr": "Yasak, 2021 askeri darbesinden sonra geldi; seçimlerden, pandemiden veya iç savaşın bitmesinden sonra değil.",
+        "it": "Il divieto è arrivato dopo il colpo di Stato militare del 2021, non dopo le elezioni, la pandemia o la fine della guerra civile.",
+        "pl": "Zakaz wprowadzono po wojskowym zamachu stanu w 2021 r., a nie po wyborach, pandemii czy zakończeniu wojny domowej."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because too few countries participated"
       ],
       "answerIndex": 1,
-      "hintKo": "The criticism centers on ASEAN engaging the junta without demanding democratic change — not cost, attendance, format, or participation numbers."
+      "hintKo": "The criticism centers on ASEAN engaging the junta without demanding democratic change — not cost, attendance, format, or participation numbers.",
+      "hintI18n": {
+        "en": "The criticism centers on ASEAN engaging the junta without demanding democratic change — not cost, attendance, format, or participation numbers.",
+        "ko": "비판의 핵심은 아세안이 민주적 변화를 요구하지 않고 군사 정권과 접촉한다는 점이며, 비용, 참석 여부, 형식, 참가자 수 때문이 아닙니다.",
+        "zh-Hans": "批评的焦点在于东盟与军政府接触却没有要求民主变革，而不是费用、出席情况、形式或参与人数。",
+        "ja": "批判の中心は、ASEANが民主的変化を求めずに軍事政権と接触している点であり、費用、出席、形式、参加人数ではありません。",
+        "es": "La crítica se centra en que la ASEAN se relaciona con la junta sin exigir un cambio democrático, no en el costo, la asistencia, el formato o el número de participantes.",
+        "hi": "आलोचना का केंद्र यह है कि आसियान लोकतांत्रिक बदलाव की मांग किए बिना सैन्य शासन से जुड़ रहा है — लागत, उपस्थिति, प्रारूप या भागीदारी संख्या नहीं।",
+        "de": "Die Kritik richtet sich darauf, dass die ASEAN Kontakt zur Junta pflegt, ohne demokratischen Wandel zu fordern – nicht auf Kosten, Teilnahme, Format oder Teilnehmerzahl.",
+        "vi": "Chỉ trích tập trung vào việc ASEAN tiếp xúc với chính quyền quân sự mà không yêu cầu thay đổi dân chủ — không phải chi phí, sự tham dự, hình thức hay số người tham gia.",
+        "pt-BR": "A crítica se concentra no fato de a ASEAN se envolver com a junta sem exigir mudança democrática — não no custo, na presença, no formato ou no número de participantes.",
+        "id": "Kritik berfokus pada ASEAN yang berhubungan dengan junta tanpa menuntut perubahan demokratis — bukan pada biaya, kehadiran, format, atau jumlah peserta.",
+        "fr": "La critique porte sur le fait que l'ASEAN dialogue avec la junte sans exiger de changement démocratique — et non sur le coût, la présence, le format ou le nombre de participants.",
+        "ar": "يتركز الانتقاد على تفاعل رابطة آسيان مع المجلس العسكري دون المطالبة بتغيير ديمقراطي — وليس على التكلفة أو الحضور أو الشكل أو عدد المشاركين.",
+        "tr": "Eleştiri, ASEAN'ın demokratik değişim talep etmeden cuntayla temas kurmasına odaklanıyor — maliyet, katılım, format veya katılımcı sayısına değil.",
+        "it": "La critica si concentra sul fatto che l'ASEAN si rapporta alla giunta senza chiedere un cambiamento democratico, non sui costi, sulla presenza, sul formato o sul numero di partecipanti.",
+        "pl": "Krytyka dotyczy tego, że ASEAN kontaktuje się z juntą, nie żądając zmian demokratycznych — a nie kosztów, obecności, formatu czy liczby uczestników."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "About five hundred thousand killed"
       ],
       "answerIndex": 1,
-      "hintKo": "The correct figure is over 100,000 killed with millions displaced — far more than ten thousand or less than one thousand."
+      "hintKo": "The correct figure is over 100,000 killed with millions displaced — far more than ten thousand or less than one thousand.",
+      "hintI18n": {
+        "en": "The correct figure is over 100,000 killed with millions displaced — far more than ten thousand or less than one thousand.",
+        "ko": "정확한 수치는 10만 명 이상 사망하고 수백만 명이 실향한 것입니다. 이는 1만 명보다 훨씬 많고, 1천 명보다 적지 않습니다.",
+        "zh-Hans": "正确的数字是超过10万人死亡、数百万人流离失所。这远多于1万人，也绝不是少于1千人。",
+        "ja": "正しい数字は10万人以上が死亡し、数百万人が避難したというものです。これは1万人よりはるかに多く、1000人未満どころではありません。",
+        "es": "La cifra correcta es más de 100.000 muertos y millones de desplazados. Es mucho más que diez mil y no menos de mil.",
+        "hi": "सही आंकड़ा 100,000 से अधिक मारे गए और लाखों विस्थापित लोगों का है। यह दस हजार से कहीं अधिक है, और एक हजार से कम नहीं।",
+        "de": "Die richtige Zahl ist über 100.000 Getötete und Millionen Vertriebene. Das ist weit mehr als zehntausend und nicht weniger als eintausend.",
+        "vi": "Con số đúng là hơn 100.000 người thiệt mạng và hàng triệu người phải rời bỏ nhà cửa. Con số này cao hơn hẳn một vạn, chứ không phải dưới một nghìn.",
+        "pt-BR": "O número correto é mais de 100 mil mortos e milhões de deslocados. É muito mais que dez mil, e não menos de mil.",
+        "id": "Angka yang benar adalah lebih dari 100.000 tewas dan jutaan orang mengungsi. Ini jauh lebih banyak dari sepuluh ribu, bukan kurang dari seribu.",
+        "fr": "Le chiffre correct est plus de 100 000 morts et des millions de déplacés. C'est bien plus que dix mille, et non moins de mille.",
+        "ar": "الرقم الصحيح هو أكثر من 100,000 قتيل وملايين النازحين. هذا أكثر بكثير من عشرة آلاف، وليس أقل من ألف.",
+        "tr": "Doğru rakam 100.000'den fazla ölü ve milyonlarca yerinden edilmiş kişidir. Bu, on binden çok daha fazladır ve binin altında değildir.",
+        "it": "Il numero corretto è oltre 100.000 morti e milioni di sfollati. È molto più di diecimila, non meno di mille.",
+        "pl": "Prawidłowa liczba to ponad 100 000 zabitych i miliony przesiedlonych. To znacznie więcej niż dziesięć tysięcy, a nie mniej niż tysiąc."
+      }
     }
   ],
   "youtube_url": ""

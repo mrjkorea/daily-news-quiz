@@ -17,7 +17,24 @@
         "Pam Melroy"
       ],
       "answerIndex": 0,
-      "hintKo": "The story names Greg Stover, not any other NASA administrator."
+      "hintKo": "The story names Greg Stover, not any other NASA administrator.",
+      "hintI18n": {
+        "en": "The story names Greg Stover, not any other NASA administrator.",
+        "ko": "이 기사는 다른 NASA 관리자가 아니라 그렉 스토버를 지목합니다.",
+        "zh-Hans": "报道提到的是Greg Stover，而不是其他NASA管理者。",
+        "ja": "この記事は他のNASA管理者ではなく、グレッグ・ストーバーの名前を挙げています。",
+        "es": "La historia nombra a Greg Stover, no a ningún otro administrador de la NASA.",
+        "hi": "यह खबर किसी अन्य NASA प्रशासक का नहीं, बल्कि ग्रेग स्टोवर का नाम लेती है।",
+        "de": "Die Geschichte nennt Greg Stover, nicht einen anderen NASA-Administrator.",
+        "vi": "Câu chuyện nêu tên Greg Stover, không phải bất kỳ quản trị viên NASA nào khác.",
+        "pt-BR": "A matéria nomeia Greg Stover, não qualquer outro administrador da NASA.",
+        "id": "Kisah itu menyebut Greg Stover, bukan administrator NASA lainnya.",
+        "fr": "L'article nomme Greg Stover, et non un autre administrateur de la NASA.",
+        "ar": "تذكر القصة غريغ ستوفر، وليس أي مسؤول آخر في ناسا.",
+        "tr": "Haber, başka bir NASA yöneticisini değil Greg Stover'ı adlandırıyor.",
+        "it": "L'articolo nomina Greg Stover, non un altro amministratore della NASA.",
+        "pl": "Artykuł wymienia Grega Stovera, a nie innego administratora NASA."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "A new moon landing mission"
       ],
       "answerIndex": 1,
-      "hintKo": "The story explains that NASA does not pay companies with money under the ACO program."
+      "hintKo": "The story explains that NASA does not pay companies with money under the ACO program.",
+      "hintI18n": {
+        "en": "The story explains that NASA does not pay companies with money under the ACO program.",
+        "ko": "이 기사는 NASA가 ACO 프로그램 아래에서 기업에 돈을 지급하지 않는다고 설명합니다.",
+        "zh-Hans": "报道解释说，在ACO项目下，NASA不会用资金支付给公司。",
+        "ja": "この記事は、ACOプログラムの下でNASAが企業にお金を支払わないと説明しています。",
+        "es": "La historia explica que la NASA no paga dinero a las empresas bajo el programa ACO.",
+        "hi": "यह खबर बताती है कि ACO कार्यक्रम के तहत NASA कंपनियों को पैसा नहीं देता।",
+        "de": "Die Geschichte erklärt, dass die NASA im Rahmen des ACO-Programms keine Geldzahlungen an Unternehmen leistet.",
+        "vi": "Câu chuyện giải thích rằng NASA không trả tiền cho các công ty theo chương trình ACO.",
+        "pt-BR": "A matéria explica que a NASA não paga empresas com dinheiro no âmbito do programa ACO.",
+        "id": "Kisah itu menjelaskan bahwa NASA tidak membayar perusahaan dengan uang di bawah program ACO.",
+        "fr": "L'article explique que la NASA ne paie pas les entreprises avec de l'argent dans le cadre du programme ACO.",
+        "ar": "تشرح القصة أن ناسا لا تدفع أموالاً للشركات في إطار برنامج ACO.",
+        "tr": "Haber, NASA'nın ACO programı kapsamında şirketlere para ödemediğini açıklıyor.",
+        "it": "L'articolo spiega che la NASA non paga le aziende con denaro nell'ambito del programma ACO.",
+        "pl": "Artykuł wyjaśnia, że NASA nie płaci firmom pieniędzy w ramach programu ACO."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In the Sahara Desert"
       ],
       "answerIndex": 2,
-      "hintKo": "The story specifically mentions the Moon's permanently shadowed regions."
+      "hintKo": "The story specifically mentions the Moon's permanently shadowed regions.",
+      "hintI18n": {
+        "en": "The story specifically mentions the Moon's permanently shadowed regions.",
+        "ko": "이 기사는 달의 영구 음영 지역을 구체적으로 언급합니다.",
+        "zh-Hans": "报道特别提到了月球上永久阴影区。",
+        "ja": "この記事は月の永久影領域に特に言及しています。",
+        "es": "La historia menciona específicamente las regiones permanentemente sombreadas de la Luna.",
+        "hi": "यह खबर चंद्रमा के स्थायी रूप से छाया वाले क्षेत्रों का विशेष रूप से जिक्र करती है।",
+        "de": "Die Geschichte erwähnt ausdrücklich die permanent beschatteten Regionen des Mondes.",
+        "vi": "Câu chuyện đề cập cụ thể đến các vùng tối vĩnh viễn của Mặt Trăng.",
+        "pt-BR": "A matéria menciona especificamente as regiões permanentemente sombreadas da Lua.",
+        "id": "Kisah itu secara khusus menyebutkan wilayah bayangan permanen di Bulan.",
+        "fr": "L'article mentionne spécifiquement les régions ombragées en permanence de la Lune.",
+        "ar": "تذكر القصة تحديدًا المناطق المظللة بشكل دائم على القمر.",
+        "tr": "Haber özellikle Ay'ın kalıcı olarak gölgede kalan bölgelerinden bahsediyor.",
+        "it": "L'articolo menziona specificamente le regioni permanentemente in ombra della Luna.",
+        "pl": "Artykuł konkretnie wspomina o stale zacienionych regionach Księżyca."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "2022"
       ],
       "answerIndex": 0,
-      "hintKo": "The story clearly states the program started in two thousand and fifteen."
+      "hintKo": "The story clearly states the program started in two thousand and fifteen.",
+      "hintI18n": {
+        "en": "The story clearly states the program started in two thousand and fifteen.",
+        "ko": "이 기사는 그 프로그램이 2015년에 시작되었다고 분명히 밝힙니다.",
+        "zh-Hans": "报道明确表示该项目始于2015年。",
+        "ja": "この記事は、そのプログラムが2015年に始まったと明確に述べています。",
+        "es": "La historia afirma claramente que el programa comenzó en dos mil quince.",
+        "hi": "यह खबर स्पष्ट रूप से बताती है कि कार्यक्रम दो हज़ार पंद्रह में शुरू हुआ था।",
+        "de": "Die Geschichte stellt klar, dass das Programm im Jahr zweitausendfünfzehn begann.",
+        "vi": "Câu chuyện nói rõ rằng chương trình bắt đầu vào năm hai nghìn không trăm mười lăm.",
+        "pt-BR": "A matéria afirma claramente que o programa começou em dois mil e quinze.",
+        "id": "Kisah itu dengan jelas menyatakan bahwa program tersebut dimulai pada tahun dua ribu lima belas.",
+        "fr": "L'article indique clairement que le programme a commencé en deux mille quinze.",
+        "ar": "تذكر القصة بوضوح أن البرنامج بدأ في عام ألفين وخمسة عشر.",
+        "tr": "Haber, programın iki bin on beş yılında başladığını açıkça belirtiyor.",
+        "it": "L'articolo afferma chiaramente che il programma è iniziato nel duemilaquindici.",
+        "pl": "Artykuł wyraźnie stwierdza, że program rozpoczął się w dwa tysiące piętnastym roku."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It blocks radio signals"
       ],
       "answerIndex": 3,
-      "hintKo": "The story describes lunar dust as abrasive and sticky, not radioactive or heavy."
+      "hintKo": "The story describes lunar dust as abrasive and sticky, not radioactive or heavy.",
+      "hintI18n": {
+        "en": "The story describes lunar dust as abrasive and sticky, not radioactive or heavy.",
+        "ko": "이 기사는 달 먼지를 방사성이나 무겁다기보다는 연마성이고 끈적하다고 묘사합니다.",
+        "zh-Hans": "报道将月球尘埃描述为具有磨蚀性且黏，而不是放射性或沉重。",
+        "ja": "この記事は、月の塵を放射性や重いものではなく、研磨性があり粘着性があると説明しています。",
+        "es": "La historia describe el polvo lunar como abrasivo y pegajoso, no radiactivo ni pesado.",
+        "hi": "यह खबर चंद्र धूल को रेडियोधर्मी या भारी नहीं, बल्कि अपघर्षक और चिपचिपा बताती है।",
+        "de": "Die Geschichte beschreibt Mondstaub als abrasiv und klebrig, nicht radioaktiv oder schwer.",
+        "vi": "Câu chuyện mô tả bụi Mặt Trăng là có tính mài mòn và dính, không phải phóng xạ hay nặng.",
+        "pt-BR": "A matéria descreve a poeira lunar como abrasiva e pegajosa, não radioativa ou pesada.",
+        "id": "Kisah itu menggambarkan debu Bulan sebagai abrasif dan lengket, bukan radioaktif atau berat.",
+        "fr": "L'article décrit la poussière lunaire comme abrasive et collante, non radioactive ou lourde.",
+        "ar": "تصف القصة الغبار القمري بأنه كاشط ولزج، وليس مشعًا أو ثقيلًا.",
+        "tr": "Haber, Ay tozunu radyoaktif veya ağır değil, aşındırıcı ve yapışkan olarak tanımlıyor.",
+        "it": "L'articolo descrive la polvere lunare come abrasiva e appiccicosa, non radioattiva o pesante.",
+        "pl": "Artykuł opisuje pył księżycowy jako ścierny i lepki, a nie radioaktywny czy ciężki."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "With robotic arms"
       ],
       "answerIndex": 2,
-      "hintKo": "The story describes a sticky adhesive system, not magnets, bolts, or welding."
+      "hintKo": "The story describes a sticky adhesive system, not magnets, bolts, or welding.",
+      "hintI18n": {
+        "en": "The story describes a sticky adhesive system, not magnets, bolts, or welding.",
+        "ko": "이 이야기는 자석이나 볼트, 용접이 아니라 끈적이는 접착제 시스템을 설명합니다.",
+        "zh-Hans": "故事描述的是粘性粘合剂系统，而不是磁铁、螺栓或焊接。",
+        "ja": "この話では、磁石やボルト、溶接ではなく、粘着性のある接着剤システムが説明されています。",
+        "es": "La historia describe un sistema adhesivo pegajoso, no imanes, pernos ni soldadura.",
+        "hi": "यह कहानी चुम्बक, बोल्ट या वेल्डिंग नहीं, बल्कि चिपचिपी चिपकने वाली प्रणाली का वर्णन करती है।",
+        "de": "Die Geschichte beschreibt ein klebriges Haftsystem, nicht Magnete, Bolzen oder Schweißen.",
+        "vi": "Câu chuyện mô tả một hệ thống keo dính, không phải nam châm, bu lông hay hàn.",
+        "pt-BR": "A história descreve um sistema adesivo pegajoso, não ímãs, parafusos ou solda.",
+        "id": "Kisah ini menjelaskan sistem perekat yang lengket, bukan magnet, baut, atau pengelasan.",
+        "fr": "L'histoire décrit un système adhésif collant, pas des aimants, des boulons ou de la soudure.",
+        "ar": "تشرح القصة نظامًا لاصقًا دبِقًا، وليس مغناطيسات أو براغي أو لحامًا.",
+        "tr": "Hikâye yapışkan bir yapıştırıcı sistemi anlatıyor; mıknatıslar, cıvatalar veya kaynak değil.",
+        "it": "La storia descrive un sistema adesivo appiccicoso, non magneti, bulloni o saldatura.",
+        "pl": "Historia opisuje lepki system klejowy, a nie magnesy, śruby czy spawanie."
+      }
     }
   ],
   "youtube_url": ""

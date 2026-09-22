@@ -17,7 +17,24 @@
         "The LUX-ZEPLIN collaboration"
       ],
       "answerIndex": 3,
-      "hintKo": "Isar Aerospace is the German company behind Spectrum."
+      "hintKo": "Isar Aerospace is the German company behind Spectrum.",
+      "hintI18n": {
+        "en": "Isar Aerospace is the German company behind Spectrum.",
+        "ko": "이자르 에어로스페이스는 스펙트럼을 개발한 독일 회사입니다.",
+        "zh-Hans": "伊萨尔航空航天公司是“光谱”火箭背后的德国公司。",
+        "ja": "アイザール・エアロスペースはスペクトラムを手がけるドイツ企業です。",
+        "es": "Isar Aerospace es la empresa alemana detrás del Spectrum.",
+        "hi": "इसार एयरोस्पेस स्पेक्ट्रम बनाने वाली जर्मन कंपनी है।",
+        "de": "Isar Aerospace ist das deutsche Unternehmen hinter Spectrum.",
+        "vi": "Isar Aerospace là công ty Đức đứng sau Spectrum.",
+        "pt-BR": "A Isar Aerospace é a empresa alemã por trás do Spectrum.",
+        "id": "Isar Aerospace adalah perusahaan Jerman di balik Spectrum.",
+        "fr": "Isar Aerospace est l’entreprise allemande derrière Spectrum.",
+        "ar": "إيسار إيروسبيس هي الشركة الألمانية وراء سبيكتروم.",
+        "tr": "Isar Aerospace, Spectrum'un arkasındaki Alman şirketidir.",
+        "it": "Isar Aerospace è l'azienda tedesca dietro Spectrum.",
+        "pl": "Isar Aerospace to niemiecka firma stojąca za Spectrum."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Spirulina algae under LED lights"
       ],
       "answerIndex": 1,
-      "hintKo": "Its payload is satellites, not food or physics samples."
+      "hintKo": "Its payload is satellites, not food or physics samples.",
+      "hintI18n": {
+        "en": "Its payload is satellites, not food or physics samples.",
+        "ko": "스펙트럼의 탑재물은 위성이지, 식량이나 물리 샘플이 아닙니다.",
+        "zh-Hans": "它的有效载荷是卫星，不是食物或物理样本。",
+        "ja": "そのペイロードは衛星であり、食料や物理サンプルではありません。",
+        "es": "Su carga útil son satélites, no alimentos ni muestras de física.",
+        "hi": "इसका पेलोड उपग्रह है, भोजन या भौतिकी के नमूने नहीं।",
+        "de": "Seine Nutzlast sind Satelliten, nicht Lebensmittel oder Physikproben.",
+        "vi": "Tải trọng của nó là vệ tinh, không phải thực phẩm hay mẫu vật lý.",
+        "pt-BR": "Sua carga útil são satélites, não alimentos ou amostras de física.",
+        "id": "Muatannya adalah satelit, bukan makanan atau sampel fisika.",
+        "fr": "Sa charge utile est constituée de satellites, pas de nourriture ni d'échantillons de physique.",
+        "ar": "حمولته هي أقمار صناعية، وليس طعامًا أو عينات فيزيائية.",
+        "tr": "Taşıdığı yük uydulardır; yiyecek ya da fizik örnekleri değildir.",
+        "it": "Il suo carico utile sono satelliti, non cibo o campioni di fisica.",
+        "pl": "Jego ładunkiem są satelity, a nie żywność czy próbki fizyczne."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "At the Tokyo Olympics"
       ],
       "answerIndex": 0,
-      "hintKo": "The earlier failure came roughly eighteen months before this orbit success."
+      "hintKo": "The earlier failure came roughly eighteen months before this orbit success.",
+      "hintI18n": {
+        "en": "The earlier failure came roughly eighteen months before this orbit success.",
+        "ko": "이전 실패는 이번 궤도 성공보다 약 18개월 전에 일어났습니다.",
+        "zh-Hans": "早先的失败发生在大约十八个月前，也就是这次成功入轨之前。",
+        "ja": "以前の失敗は、今回の軌道投入成功のおよそ18か月前に起きました。",
+        "es": "El fallo anterior ocurrió aproximadamente dieciocho meses antes de este éxito orbital.",
+        "hi": "पिछली विफलता इस कक्षा-सफलता से लगभग अठारह महीने पहले हुई थी।",
+        "de": "Der frühere Fehlschlag ereignete sich etwa achtzehn Monate vor diesem Orbiterfolg.",
+        "vi": "Thất bại trước đó xảy ra khoảng mười tám tháng trước thành công phóng lên quỹ đạo này.",
+        "pt-BR": "A falha anterior ocorreu cerca de dezoito meses antes deste sucesso orbital.",
+        "id": "Kegagalan sebelumnya terjadi sekitar delapan belas bulan sebelum keberhasilan orbit ini.",
+        "fr": "L’échec précédent a eu lieu environ dix-huit mois avant ce succès en orbite.",
+        "ar": "وقع الفشل السابق قبل نحو ثمانية عشر شهرًا من هذا النجاح في المدار.",
+        "tr": "Önceki başarısızlık, bu yörünge başarısından yaklaşık on sekiz ay önceydi.",
+        "it": "Il fallimento precedente è avvenuto circa diciotto mesi prima di questo successo orbitale.",
+        "pl": "Wcześniejsza porażka miała miejsce około osiemnastu miesięcy przed tym sukcesem na orbicie."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Lead, South Dakota"
       ],
       "answerIndex": 0,
-      "hintKo": "Andoya in Norway was the launch site, not South Dakota or Sydney."
+      "hintKo": "Andoya in Norway was the launch site, not South Dakota or Sydney.",
+      "hintI18n": {
+        "en": "Andoya in Norway was the launch site, not South Dakota or Sydney.",
+        "ko": "노르웨이의 안되야가 발사 장소였으며, 사우스다코타나 시드니가 아닙니다.",
+        "zh-Hans": "发射地点是挪威的安多亚，不是南达科他州或悉尼。",
+        "ja": "打ち上げ場所はノルウェーのアンドーヤで、サウスダコタやシドニーではありません。",
+        "es": "El lugar de lanzamiento fue Andøya, en Noruega, no Dakota del Sur ni Sídney.",
+        "hi": "प्रक्षेपण स्थल नॉर्वे का एंडोया था, साउथ डकोटा या सिडनी नहीं।",
+        "de": "Andøya in Norwegen war der Startplatz, nicht South Dakota oder Sydney.",
+        "vi": "Địa điểm phóng là Andøya ở Na Uy, không phải Nam Dakota hay Sydney.",
+        "pt-BR": "O local de lançamento foi Andøya, na Noruega, não Dakota do Sul ou Sydney.",
+        "id": "Lokasi peluncurannya adalah Andøya di Norwegia, bukan South Dakota atau Sydney.",
+        "fr": "Le site de lancement était Andøya, en Norvège, pas le Dakota du Sud ni Sydney.",
+        "ar": "كان موقع الإطلاق أندويا في النرويج، وليس داكوتا الجنوبية أو سيدني.",
+        "tr": "Fırlatma yeri Norveç'teki Andøya'ydı; Güney Dakota ya da Sidney değil.",
+        "it": "Il sito di lancio era Andøya, in Norvegia, non il South Dakota o Sydney.",
+        "pl": "Miejscem startu było Andøya w Norwegii, a nie Dakota Południowa czy Sydney."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "To lower sardine prices"
       ],
       "answerIndex": 3,
-      "hintKo": "Europe wants its own capacity for security and economic reasons."
+      "hintKo": "Europe wants its own capacity for security and economic reasons.",
+      "hintI18n": {
+        "en": "Europe wants its own capacity for security and economic reasons.",
+        "ko": "유럽은 안보와 경제적 이유로 자체 발사 능력을 원합니다.",
+        "zh-Hans": "出于安全和经济的考虑，欧洲希望拥有自己的发射能力。",
+        "ja": "ヨーロッパは安全保障と経済上の理由から、自前の打ち上げ能力を望んでいます。",
+        "es": "Europa quiere su propia capacidad por razones de seguridad y económicas.",
+        "hi": "यूरोप सुरक्षा और आर्थिक कारणों से अपनी स्वयं की क्षमता चाहता है।",
+        "de": "Europa will aus Sicherheits- und Wirtschaftsgründen eigene Kapazitäten.",
+        "vi": "Châu Âu muốn có năng lực phóng của riêng mình vì lý do an ninh và kinh tế.",
+        "pt-BR": "A Europa quer capacidade própria por razões de segurança e econômicas.",
+        "id": "Eropa ingin memiliki kapasitas sendiri untuk alasan keamanan dan ekonomi.",
+        "fr": "L’Europe veut sa propre capacité pour des raisons de sécurité et d’économie.",
+        "ar": "تريد أوروبا قدرة إطلاق خاصة بها لأسباب أمنية واقتصادية.",
+        "tr": "Avrupa, güvenlik ve ekonomik nedenlerle kendi kapasitesini istiyor.",
+        "it": "L'Europa vuole una capacità propria per ragioni di sicurezza ed economiche.",
+        "pl": "Europa chce własnych zdolności ze względów bezpieczeństwa i gospodarki."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Eighty thousand dollars"
       ],
       "answerIndex": 1,
-      "hintKo": "Payload capacity is about one tonne, not energy units or money."
+      "hintKo": "Payload capacity is about one tonne, not energy units or money.",
+      "hintI18n": {
+        "en": "Payload capacity is about one tonne, not energy units or money.",
+        "ko": "탑재량은 약 1톤이며, 에너지 단위나 돈이 아닙니다.",
+        "zh-Hans": "有效载荷能力约为1吨，不是能量单位或金钱。",
+        "ja": "ペイロード容量は約1トンで、エネルギー単位やお金ではありません。",
+        "es": "La capacidad de carga útil es de alrededor de una tonelada, no unidades de energía ni dinero.",
+        "hi": "पेलोड क्षमता लगभग एक टन है, ऊर्जा इकाइयाँ या पैसा नहीं।",
+        "de": "Die Nutzlastkapazität beträgt etwa eine Tonne, nicht Energieeinheiten oder Geld.",
+        "vi": "Sức chứa tải trọng khoảng một tấn, không phải đơn vị năng lượng hay tiền.",
+        "pt-BR": "A capacidade de carga útil é de cerca de uma tonelada, não unidades de energia ou dinheiro.",
+        "id": "Kapasitas muatan sekitar satu ton, bukan satuan energi atau uang.",
+        "fr": "La capacité de charge utile est d'environ une tonne, pas des unités d'énergie ou de l'argent.",
+        "ar": "سعة الحمولة حوالي طن واحد، وليست وحدات طاقة أو مال.",
+        "tr": "Yük kapasitesi yaklaşık bir tondur; enerji birimi veya para değildir.",
+        "it": "La capacità di carico utile è di circa una tonnellata, non unità di energia o denaro.",
+        "pl": "Ładowność wynosi około jednej tony, a nie jednostki energii czy pieniądze."
+      }
     }
   ],
   "youtube_url": ""

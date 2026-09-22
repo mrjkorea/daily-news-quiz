@@ -17,7 +17,24 @@
         "A Finnish metal detectorist"
       ],
       "answerIndex": 0,
-      "hintKo": "The pole vault winner was Armand Duplantis of Sweden."
+      "hintKo": "The pole vault winner was Armand Duplantis of Sweden.",
+      "hintI18n": {
+        "en": "The pole vault winner was Armand Duplantis of Sweden.",
+        "ko": "남자 장대높이뛰기 우승자는 스웨덴의 아르만드 뒤플란티스였습니다.",
+        "zh-Hans": "男子撑杆跳高冠军是瑞典的阿曼德·杜普兰蒂斯。",
+        "ja": "男子棒高跳びの勝者はスウェーデンのアルマンド・デュプランティスでした。",
+        "es": "El ganador de salto con pértiga fue Armand Duplantis, de Suecia.",
+        "hi": "पुरुष पोल वॉल्ट के विजेता स्वीडन के आर्मंड डुप्लांटिस थे।",
+        "de": "Der Sieger im Stabhochsprung war Armand Duplantis aus Schweden.",
+        "vi": "Người thắng nội dung nhảy sào nam là Armand Duplantis của Thụy Điển.",
+        "pt-BR": "O vencedor do salto com vara foi Armand Duplantis, da Suécia.",
+        "id": "Pemenang lompat galah putra adalah Armand Duplantis dari Swedia.",
+        "fr": "Le vainqueur du saut à la perche était Armand Duplantis, de Suède.",
+        "ar": "الفائز في القفز بالزانة كان أرمند دوبلانتيس من السويد.",
+        "tr": "Erkekler sırıkla atlama kazananı İsveç'ten Armand Duplantis'ti.",
+        "it": "Il vincitore del salto con l'asta è stato Armand Duplantis, svedese.",
+        "pl": "Zwycięzcą skoku o tyczce był Armand Duplantis ze Szwecji."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "No prize money at all"
       ],
       "answerIndex": 1,
-      "hintKo": "The total prize pot was ten million dollars."
+      "hintKo": "The total prize pot was ten million dollars.",
+      "hintI18n": {
+        "en": "The total prize pot was ten million dollars.",
+        "ko": "총 상금은 천만 달러였습니다.",
+        "zh-Hans": "总奖金为一千万美元。",
+        "ja": "賞金総額は1,000万ドルでした。",
+        "es": "El total de premios fue de diez millones de dólares.",
+        "hi": "कुल पुरस्कार राशि दस मिलियन डॉलर थी।",
+        "de": "Der gesamte Preispool betrug zehn Millionen Dollar.",
+        "vi": "Tổng giải thưởng là mười triệu đô la.",
+        "pt-BR": "O prêmio total foi de dez milhões de dólares.",
+        "id": "Total hadiahnya adalah sepuluh juta dolar.",
+        "fr": "La cagnotte totale s'élevait à dix millions de dollars.",
+        "ar": "بلغ مجموع الجوائز عشرة ملايين دولار.",
+        "tr": "Toplam ödül havuzu on milyon dolardı.",
+        "it": "Il montepremi totale era di dieci milioni di dollari.",
+        "pl": "Łączna pula nagród wynosiła dziesięć milionów dolarów."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "From the eleventh to the thirteenth of September"
       ],
       "answerIndex": 4,
-      "hintKo": "The event took place over three days in the middle of September."
+      "hintKo": "The event took place over three days in the middle of September.",
+      "hintI18n": {
+        "en": "The event took place over three days in the middle of September.",
+        "ko": "그 행사는 9월 중순에 사흘 동안 열렸습니다.",
+        "zh-Hans": "该赛事在九月中旬持续了三天。",
+        "ja": "その大会は9月中旬に3日間行われました。",
+        "es": "El evento se celebró durante tres días a mediados de septiembre.",
+        "hi": "यह आयोजन सितंबर के मध्य में तीन दिनों तक चला।",
+        "de": "Die Veranstaltung fand Mitte September über drei Tage statt.",
+        "vi": "Sự kiện diễn ra trong ba ngày vào giữa tháng Chín.",
+        "pt-BR": "O evento ocorreu ao longo de três dias em meados de setembro.",
+        "id": "Acara itu berlangsung selama tiga hari pada pertengahan September.",
+        "fr": "L'événement s'est déroulé sur trois jours à la mi-septembre.",
+        "ar": "أقيم الحدث على مدى ثلاثة أيام في منتصف سبتمبر.",
+        "tr": "Etkinlik Eylül ortasında üç gün boyunca gerçekleşti.",
+        "it": "L'evento si è svolto nell'arco di tre giorni a metà settembre.",
+        "pl": "Wydarzenie odbyło się przez trzy dni w połowie września."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a small town in Finland"
       ],
       "answerIndex": 2,
-      "hintKo": "Budapest in Hungary hosted the new championship."
+      "hintKo": "Budapest in Hungary hosted the new championship.",
+      "hintI18n": {
+        "en": "Budapest in Hungary hosted the new championship.",
+        "ko": "헝가리 부다페스트가 새 챔피언십을 개최했습니다.",
+        "zh-Hans": "匈牙利布达佩斯主办了这项新锦标赛。",
+        "ja": "ハンガリーのブダペストが新しい選手権大会を開催しました。",
+        "es": "Budapest, en Hungría, acogió el nuevo campeonato.",
+        "hi": "हंगरी के बुडापेस्ट ने नई चैंपियनशिप की मेजबानी की।",
+        "de": "Budapest in Ungarn war Gastgeber der neuen Meisterschaft.",
+        "vi": "Budapest, Hungary đã đăng cai giải vô địch mới.",
+        "pt-BR": "Budapeste, na Hungria, sediou o novo campeonato.",
+        "id": "Budapest di Hongaria menjadi tuan rumah kejuaraan baru.",
+        "fr": "Budapest, en Hongrie, a accueilli le nouveau championnat.",
+        "ar": "استضافت بودابست في المجر البطولة الجديدة.",
+        "tr": "Macaristan'ın Budapeşte kenti yeni şampiyonaya ev sahipliği yaptı.",
+        "it": "Budapest, in Ungheria, ha ospitato il nuovo campionato.",
+        "pl": "Budapeszt na Węgrzech był gospodarzem nowych mistrzostw."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "He refused to compete"
       ],
       "answerIndex": 0,
-      "hintKo": "Two opening fouls left him with no valid mark in the final."
+      "hintKo": "Two opening fouls left him with no valid mark in the final.",
+      "hintI18n": {
+        "en": "Two opening fouls left him with no valid mark in the final.",
+        "ko": "첫 두 번의 파울로 그는 결승에서 유효 기록을 남기지 못했습니다.",
+        "zh-Hans": "开场的两次犯规使他在决赛中没有有效成绩。",
+        "ja": "最初の2回のファウルにより、彼は決勝で有効な記録を残せませんでした。",
+        "es": "Dos faltas iniciales lo dejaron sin marca válida en la final.",
+        "hi": "शुरुआती दो फाउल के कारण फाइनल में उसका कोई मान्य रिकॉर्ड नहीं रहा।",
+        "de": "Zwei Fouls zu Beginn ließen ihn im Finale ohne gültige Weite dastehen.",
+        "vi": "Hai lần phạm lỗi đầu tiên khiến anh ấy không có thành tích hợp lệ trong trận chung kết.",
+        "pt-BR": "Duas faltas iniciais o deixaram sem marca válida na final.",
+        "id": "Dua pelanggaran di awal membuatnya tidak memiliki catatan sah di final.",
+        "fr": "Deux fautes d'entrée l'ont laissé sans marque valide en finale.",
+        "ar": "تركت خطأان في البداية دون نتيجة صحيحة في النهائي.",
+        "tr": "Başlangıçtaki iki faul, finalde geçerli bir derece yapmasını engelledi.",
+        "it": "Due falli iniziali lo hanno lasciato senza una misura valida in finale.",
+        "pl": "Dwa faule na początku sprawiły, że w finale nie miał ważnego wyniku."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "His rival fell before the race"
       ],
       "answerIndex": 1,
-      "hintKo": "Tharp's victory came by the smallest possible margin, one hundredth of a second."
+      "hintKo": "Tharp's victory came by the smallest possible margin, one hundredth of a second.",
+      "hintI18n": {
+        "en": "Tharp's victory came by the smallest possible margin, one hundredth of a second.",
+        "ko": "타프의 승리는 가능한 가장 작은 차이인 100분의 1초 차이로 이뤄졌습니다.",
+        "zh-Hans": "塔普的胜利优势是最小可能的差距——百分之一秒。",
+        "ja": "タープの勝利は、可能な限り最小の差である100分の1秒差でした。",
+        "es": "La victoria de Tharp se decidió por el margen más pequeño posible: una centésima de segundo.",
+        "hi": "थार्प की जीत सबसे छोटे संभव अंतर, एक सौवें सेकंड से हुई।",
+        "de": "Tharps Sieg erfolgte mit dem kleinstmöglichen Vorsprung: einer Hundertstelsekunde.",
+        "vi": "Chiến thắng của Tharp đến với khoảng cách nhỏ nhất có thể: một phần trăm giây.",
+        "pt-BR": "A vitória de Tharp veio pela menor margem possível: um centésimo de segundo.",
+        "id": "Kemenangan Tharp terjadi dengan selisih terkecil yang mungkin, yaitu seperseratus detik.",
+        "fr": "La victoire de Tharp s'est jouée avec la plus petite marge possible : un centième de seconde.",
+        "ar": "جاء فوز ثارب بأصغر فارق ممكن، وهو جزء من مئة من الثانية.",
+        "tr": "Tharp'ın zaferi mümkün olan en küçük farkla, saniyenin yüzde biriyle geldi.",
+        "it": "La vittoria di Tharp è arrivata con il margine più piccolo possibile: un centesimo di secondo.",
+        "pl": "Zwycięstwo Tharpa przyszło najmniejszą możliwą różnicą: jedną setną sekundy."
+      }
     }
   ],
   "youtube_url": ""

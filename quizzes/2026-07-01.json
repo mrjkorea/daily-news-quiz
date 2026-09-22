@@ -17,7 +17,24 @@
         "Yan Diomandé"
       ],
       "answerIndex": 0,
-      "hintKo": "The video says Kylian Mbappé already has four goals and is chasing the Golden Boot."
+      "hintKo": "The video says Kylian Mbappé already has four goals and is chasing the Golden Boot.",
+      "hintI18n": {
+        "en": "The video says Kylian Mbappé already has four goals and is chasing the Golden Boot.",
+        "ko": "영상에 따르면 킬리안 음바페는 이미 4골을 넣었고 골든 부트를 노리고 있습니다.",
+        "zh-Hans": "视频称，基利安·姆巴佩已经打进四球，正在追逐金靴奖。",
+        "ja": "動画によると、キリアン・エムバペはすでに4得点しており、ゴールデンブーツを狙っています。",
+        "es": "El video dice que Kylian Mbappé ya tiene cuatro goles y va por la Bota de Oro.",
+        "hi": "वीडियो कहता है कि किलियन एमबाप्पे के पहले ही चार गोल हैं और वह गोल्डन बूट की दौड़ में हैं।",
+        "de": "Das Video sagt, Kylian Mbappé hat bereits vier Tore und jagt den Goldenen Schuh.",
+        "vi": "Video cho biết Kylian Mbappé đã có bốn bàn thắng và đang theo đuổi Chiếc giày vàng.",
+        "pt-BR": "O vídeo diz que Kylian Mbappé já tem quatro gols e está em busca da Chuteira de Ouro.",
+        "id": "Video mengatakan Kylian Mbappé sudah mencetak empat gol dan sedang mengejar Sepatu Emas.",
+        "fr": "La vidéo dit que Kylian Mbappé a déjà quatre buts et court après le Soulier d'or.",
+        "ar": "يقول الفيديو إن كيليان مبابي سجل أربعة أهداف بالفعل ويسعى للفوز بالحذاء الذهبي.",
+        "tr": "Video, Kylian Mbappé'nin şimdiden dört golü olduğunu ve Altın Krampon'un peşinde olduğunu söylüyor.",
+        "it": "Il video dice che Kylian Mbappé ha già quattro gol e sta inseguendo la Scarpa d'Oro.",
+        "pl": "Wideo mówi, że Kylian Mbappé ma już cztery gole i walczy o Złotego Buta."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Final"
       ],
       "answerIndex": 2,
-      "hintKo": "The video says the World Cup has entered the Round of 32."
+      "hintKo": "The video says the World Cup has entered the Round of 32.",
+      "hintI18n": {
+        "en": "The video says the World Cup has entered the Round of 32.",
+        "ko": "영상에 따르면 월드컵이 32강에 진입했습니다.",
+        "zh-Hans": "视频称，世界杯已进入32强赛。",
+        "ja": "動画によると、ワールドカップは32強に進みました。",
+        "es": "El video dice que el Mundial ha entrado en la ronda de 32.",
+        "hi": "वीडियो कहता है कि विश्व कप 32 के दौर में पहुंच गया है।",
+        "de": "Das Video sagt, die Weltmeisterschaft ist in die Runde der letzten 32 eingetreten.",
+        "vi": "Video cho biết World Cup đã bước vào vòng 32 đội.",
+        "pt-BR": "O vídeo diz que a Copa do Mundo entrou na fase de 32.",
+        "id": "Video mengatakan Piala Dunia telah memasuki babak 32 besar.",
+        "fr": "La vidéo dit que la Coupe du monde est entrée dans les seizièmes de finale.",
+        "ar": "يقول الفيديو إن كأس العالم دخل دور الـ32.",
+        "tr": "Video, Dünya Kupası'nın son 32 turuna girildiğini söylüyor.",
+        "it": "Il video dice che il Mondiale è entrato nella fase a 32 squadre.",
+        "pl": "Wideo mówi, że mundial wszedł do rundy 32 drużyn."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Los Angeles Stadium"
       ],
       "answerIndex": 3,
-      "hintKo": "The video says Mexico faces Ecuador at the sold-out Mexico City Stadium."
+      "hintKo": "The video says Mexico faces Ecuador at the sold-out Mexico City Stadium.",
+      "hintI18n": {
+        "en": "The video says Mexico faces Ecuador at the sold-out Mexico City Stadium.",
+        "ko": "영상에 따르면 멕시코는 매진된 멕시코시티 경기장에서 에콰도르와 맞붙습니다.",
+        "zh-Hans": "视频称，墨西哥将在座无虚席的墨西哥城体育场对阵厄瓜多尔。",
+        "ja": "動画によると、メキシコは満員のメキシコシティ競技場でエクアドルと対戦します。",
+        "es": "El video dice que México se enfrenta a Ecuador en el Estadio Ciudad de México, con entradas agotadas.",
+        "hi": "वीडियो कहता है कि मेक्सिको का सामना टिकटों से भरे मेक्सिको सिटी स्टेडियम में इक्वाडोर से होगा।",
+        "de": "Das Video sagt, Mexiko trifft im ausverkauften Mexico-City-Stadion auf Ecuador.",
+        "vi": "Video cho biết Mexico gặp Ecuador tại Sân vận động Mexico City đã cháy vé.",
+        "pt-BR": "O vídeo diz que o México enfrenta o Equador no Estádio da Cidade do México, com ingressos esgotados.",
+        "id": "Video mengatakan Meksiko menghadapi Ekuador di Stadion Mexico City yang sudah sold out.",
+        "fr": "La vidéo dit que le Mexique affronte l'Équateur au stade de Mexico, à guichets fermés.",
+        "ar": "يقول الفيديو إن المكسيك تواجه الإكوادور في ملعب مكسيكو سيتي الذي بيعت تذاكره بالكامل.",
+        "tr": "Video, Meksika'nın dolu tribünler önünde Mexico City Stadyumu'nda Ekvador'la karşılaşacağını söylüyor.",
+        "it": "Il video dice che il Messico affronta l'Ecuador allo stadio di Città del Messico, tutto esaurito.",
+        "pl": "Wideo mówi, że Meksyk zmierzy się z Ekwadorem na wyprzedanym stadionie w mieście Meksyk."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "2022"
       ],
       "answerIndex": 1,
-      "hintKo": "The video says Norway is back in this round for the first time since 1998."
+      "hintKo": "The video says Norway is back in this round for the first time since 1998.",
+      "hintI18n": {
+        "en": "The video says Norway is back in this round for the first time since 1998.",
+        "ko": "영상에 따르면 노르웨이는 1998년 이후 처음으로 이 라운드에 돌아왔습니다.",
+        "zh-Hans": "视频称，挪威自1998年以来首次重返这一轮。",
+        "ja": "動画によると、ノルウェーは1998年以来初めてこのラウンドに戻ってきました。",
+        "es": "El video dice que Noruega vuelve a esta ronda por primera vez desde 1998.",
+        "hi": "वीडियो कहता है कि नॉर्वे 1998 के बाद पहली बार इस दौर में वापस आया है।",
+        "de": "Das Video sagt, Norwegen ist seit 1998 zum ersten Mal wieder in dieser Runde.",
+        "vi": "Video cho biết Na Uy trở lại vòng này lần đầu tiên kể từ năm 1998.",
+        "pt-BR": "O vídeo diz que a Noruega está de volta a esta fase pela primeira vez desde 1998.",
+        "id": "Video mengatakan Norwegia kembali ke babak ini untuk pertama kalinya sejak 1998.",
+        "fr": "La vidéo dit que la Norvège revient dans ce tour pour la première fois depuis 1998.",
+        "ar": "يقول الفيديو إن النرويج عادت إلى هذا الدور للمرة الأولى منذ عام 1998.",
+        "tr": "Video, Norveç'in 1998'den bu yana ilk kez bu tura döndüğünü söylüyor.",
+        "it": "Il video dice che la Norvegia torna in questo turno per la prima volta dal 1998.",
+        "pl": "Wideo mówi, że Norwegia wraca do tej rundy po raz pierwszy od 1998 roku."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It is their first time reaching this stage"
       ],
       "answerIndex": 4,
-      "hintKo": "The video says Ivory Coast are through to the knockout stage for the first time in their nation's history."
+      "hintKo": "The video says Ivory Coast are through to the knockout stage for the first time in their nation's history.",
+      "hintI18n": {
+        "en": "The video says Ivory Coast are through to the knockout stage for the first time in their nation's history.",
+        "ko": "영상에 따르면 코트디부아르는 국가 역사상 처음으로 녹아웃 스테이지에 진출했습니다.",
+        "zh-Hans": "视频称，科特迪瓦历史上首次晋级淘汰赛阶段。",
+        "ja": "動画によると、コートジボワールは国の歴史で初めて決勝トーナメントに進みました。",
+        "es": "El video dice que Costa de Marfil pasa a la fase eliminatoria por primera vez en la historia de su país.",
+        "hi": "वीडियो कहता है कि आइवरी कोस्ट अपने देश के इतिहास में पहली बार नॉकआउट चरण में पहुंचा है।",
+        "de": "Das Video sagt, die Elfenbeinküste steht zum ersten Mal in der Geschichte des Landes in der K.-o.-Runde.",
+        "vi": "Video cho biết Bờ Biển Ngà lần đầu tiên trong lịch sử quốc gia lọt vào vòng loại trực tiếp.",
+        "pt-BR": "O vídeo diz que a Costa do Marfim está na fase eliminatória pela primeira vez na história do país.",
+        "id": "Video mengatakan Pantai Gading lolos ke babak gugur untuk pertama kalinya dalam sejarah negara mereka.",
+        "fr": "La vidéo dit que la Côte d'Ivoire atteint les phases à élimination directe pour la première fois de l'histoire de son pays.",
+        "ar": "يقول الفيديو إن ساحل العاج تأهل إلى دور خروج المغلوب للمرة الأولى في تاريخ بلاده.",
+        "tr": "Video, Fildişi Sahili'nin ülke tarihinde ilk kez eleme aşamasına geçtiğini söylüyor.",
+        "it": "Il video dice che la Costa d'Avorio è passata alla fase a eliminazione diretta per la prima volta nella storia del suo paese.",
+        "pl": "Wideo mówi, że Wybrzeże Kości Słoniowej po raz pierwszy w historii kraju awansowało do fazy pucharowej."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Seven"
       ],
       "answerIndex": 4,
-      "hintKo": "The video says seven matches remain until one nation lifts the trophy."
+      "hintKo": "The video says seven matches remain until one nation lifts the trophy.",
+      "hintI18n": {
+        "en": "The video says seven matches remain until one nation lifts the trophy.",
+        "ko": "영상에서는 한 국가가 트로피를 들어 올릴 때까지 7경기가 남았다고 합니다.",
+        "zh-Hans": "视频中说，距离一个国家举起奖杯还有七场比赛。",
+        "ja": "ビデオでは、ある国がトロフィーを掲げるまでに7試合が残っていると述べています。",
+        "es": "El video dice que quedan siete partidos hasta que una nación levante el trofeo.",
+        "hi": "वीडियो में कहा गया है कि एक राष्ट्र के ट्रॉफी उठाने तक सात मैच बाकी हैं।",
+        "de": "Das Video sagt, dass noch sieben Spiele übrig sind, bis eine Nation die Trophäe hebt.",
+        "vi": "Video nói rằng còn bảy trận đấu nữa cho đến khi một quốc gia nâng cao chiếc cúp.",
+        "pt-BR": "O vídeo diz que restam sete partidas até que uma nação levante a taça.",
+        "id": "Video tersebut mengatakan bahwa tersisa tujuh pertandingan sampai satu negara mengangkat trofi.",
+        "fr": "La vidéo dit qu'il reste sept matchs avant qu'une nation ne soulève le trophée.",
+        "ar": "يقول الفيديو إنه تبقى سبع مباريات حتى ترفع دولة ما الكأس.",
+        "tr": "Video, bir ulusun kupayı kaldırmasına kadar yedi maç kaldığını söylüyor.",
+        "it": "Il video dice che rimangono sette partite prima che una nazione sollevi il trofeo.",
+        "pl": "Film mówi, że pozostało siedem meczów, zanim jeden naród podniesie trofeum."
+      }
     }
   ],
   "youtube_url": ""

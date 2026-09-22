@@ -17,7 +17,24 @@
         "Samuel Eriksen of the University of Bristol"
       ],
       "answerIndex": 4,
-      "hintKo": "The presenter was a particle physicist on the LZ team, not a chef or designer."
+      "hintKo": "The presenter was a particle physicist on the LZ team, not a chef or designer.",
+      "hintI18n": {
+        "en": "The presenter was a particle physicist on the LZ team, not a chef or designer.",
+        "ko": "발표자는 LZ 팀의 입자 물리학자였으며, 요리사나 디자이너가 아니었습니다.",
+        "zh-Hans": "演讲者是LZ团队的粒子物理学家，不是厨师或设计师。",
+        "ja": "発表者はLZチームの素粒子物理学者で、シェフやデザイナーではありません。",
+        "es": "El presentador era un físico de partículas del equipo LZ, no un chef ni un diseñador.",
+        "hi": "प्रस्तुतकर्ता LZ टीम के कण भौतिक विज्ञानी थे, कोई शेफ या डिज़ाइनर नहीं।",
+        "de": "Der Vortragende war ein Teilchenphysiker im LZ-Team, kein Koch oder Designer.",
+        "vi": "Người trình bày là một nhà vật lý hạt trong nhóm LZ, không phải đầu bếp hay nhà thiết kế.",
+        "pt-BR": "O apresentador era um físico de partículas da equipe LZ, não um chef ou designer.",
+        "id": "Presenternya adalah fisikawan partikel di tim LZ, bukan koki atau desainer.",
+        "fr": "Le présentateur était un physicien des particules de l'équipe LZ, pas un chef ni un designer.",
+        "ar": "كان المتحدث فيزيائي جسيمات في فريق LZ، وليس طاهياً أو مصمماً.",
+        "tr": "Sunucu, LZ ekibinden bir parçacık fizikçisiydi; şef ya da tasarımcı değildi.",
+        "it": "Il presentatore era un fisico delle particelle del team LZ, non uno chef o un designer.",
+        "pl": "Prelegentem był fizyk cząstek z zespołu LZ, a nie szef kuchni ani projektant."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Algae paste"
       ],
       "answerIndex": 1,
-      "hintKo": "The tank holds xenon, not food or fuel."
+      "hintKo": "The tank holds xenon, not food or fuel.",
+      "hintI18n": {
+        "en": "The tank holds xenon, not food or fuel.",
+        "ko": "탱크에는 제논이 들어 있으며, 음식이나 연료가 아닙니다.",
+        "zh-Hans": "罐内装的是氙，不是食物或燃料。",
+        "ja": "タンクにはキセノンが入っており、食べ物や燃料ではありません。",
+        "es": "El tanque contiene xenón, no comida ni combustible.",
+        "hi": "टैंक में ज़ेनॉन है, भोजन या ईंधन नहीं।",
+        "de": "Der Tank enthält Xenon, kein Essen oder Treibstoff.",
+        "vi": "Bồn chứa xenon, không phải thức ăn hay nhiên liệu.",
+        "pt-BR": "O tanque contém xenônio, não comida ou combustível.",
+        "id": "Tangki berisi xenon, bukan makanan atau bahan bakar.",
+        "fr": "Le réservoir contient du xénon, pas de la nourriture ou du carburant.",
+        "ar": "الخزان يحتوي على الزينون، وليس طعاماً أو وقوداً.",
+        "tr": "Tankta xenon var, yiyecek veya yakıt yok.",
+        "it": "Il serbatoio contiene xeno, non cibo o carburante.",
+        "pl": "Zbiornik zawiera ksenon, a nie jedzenie czy paliwo."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "On August fifteenth during Ferragosto"
       ],
       "answerIndex": 0,
-      "hintKo": "The data window was in twenty twenty-three and twenty twenty-four, not a holiday."
+      "hintKo": "The data window was in twenty twenty-three and twenty twenty-four, not a holiday.",
+      "hintI18n": {
+        "en": "The data window was in twenty twenty-three and twenty twenty-four, not a holiday.",
+        "ko": "데이터 기간은 2023년과 2024년이었으며, 휴일이 아니었습니다.",
+        "zh-Hans": "数据窗口期是2023年和2024年，不是假期。",
+        "ja": "データの期間は2023年と2024年で、休日ではありません。",
+        "es": "La ventana de datos fue en 2023 y 2024, no unas vacaciones.",
+        "hi": "डेटा विंडो 2023 और 2024 में थी, कोई छुट्टी नहीं।",
+        "de": "Das Datenfenster lag in 2023 und 2024, nicht in einem Urlaub.",
+        "vi": "Khoảng thời gian dữ liệu là vào năm 2023 và 2024, không phải kỳ nghỉ.",
+        "pt-BR": "A janela de dados foi em 2023 e 2024, não em um feriado.",
+        "id": "Jendela datanya pada tahun 2023 dan 2024, bukan hari libur.",
+        "fr": "La fenêtre de données se situait en 2023 et 2024, pas pendant des vacances.",
+        "ar": "كانت نافذة البيانات في عامي 2023 و2024، وليس في عطلة.",
+        "tr": "Veri penceresi 2023 ve 2024 yıllarındaydı, bir tatil değil.",
+        "it": "La finestra dei dati era nel 2023 e nel 2024, non una vacanza.",
+        "pl": "Okno danych obejmowało lata 2023 i 2024, a nie święto."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a Zurich stadium"
       ],
       "answerIndex": 0,
-      "hintKo": "The experiment is underground in South Dakota, not on the moon."
+      "hintKo": "The experiment is underground in South Dakota, not on the moon.",
+      "hintI18n": {
+        "en": "The experiment is underground in South Dakota, not on the moon.",
+        "ko": "실험은 사우스다코타의 지하에 있으며, 달 위가 아닙니다.",
+        "zh-Hans": "实验位于南达科他州地下，不是在月球上。",
+        "ja": "実験はサウスダコタ州の地下にあり、月の上ではありません。",
+        "es": "El experimento está bajo tierra en Dakota del Sur, no en la Luna.",
+        "hi": "प्रयोग दक्षिण डकोटा में भूमिगत है, चंद्रमा पर नहीं।",
+        "de": "Das Experiment befindet sich unterirdisch in South Dakota, nicht auf dem Mond.",
+        "vi": "Thí nghiệm nằm dưới lòng đất ở South Dakota, không phải trên mặt trăng.",
+        "pt-BR": "O experimento fica no subsolo da Dakota do Sul, não na Lua.",
+        "id": "Eksperimennya berada di bawah tanah di South Dakota, bukan di bulan.",
+        "fr": "L'expérience est souterraine dans le Dakota du Sud, pas sur la Lune.",
+        "ar": "التجربة تحت الأرض في داكوتا الجنوبية، وليس على القمر.",
+        "tr": "Deney Güney Dakota'da yer altında, Ay'da değil.",
+        "it": "L'esperimento è sotterraneo nel South Dakota, non sulla Luna.",
+        "pl": "Eksperyment znajduje się pod ziemią w Dakocie Południowej, a nie na Księżycu."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The detector has no xenon"
       ],
       "answerIndex": 2,
-      "hintKo": "Caution comes from history and the need for replication, not missing equipment."
+      "hintKo": "Caution comes from history and the need for replication, not missing equipment.",
+      "hintI18n": {
+        "en": "Caution comes from history and the need for replication, not missing equipment.",
+        "ko": "신중함은 역사와 재현의 필요성에서 비롯된 것이지, 장비 부족 때문이 아닙니다.",
+        "zh-Hans": "谨慎源于历史和复现的需要，而不是缺少设备。",
+        "ja": "慎重さは歴史と再現の必要性から来るもので、装置の不足によるものではありません。",
+        "es": "La cautela proviene de la historia y de la necesidad de replicación, no de equipo faltante.",
+        "hi": "सावधानी इतिहास और प्रतिकृति की आवश्यकता से आती है, न कि गायब उपकरण से।",
+        "de": "Die Vorsicht kommt aus der Geschichte und der Notwendigkeit der Reproduktion, nicht aus fehlender Ausrüstung.",
+        "vi": "Sự thận trọng đến từ lịch sử và nhu cầu tái lập, không phải thiếu thiết bị.",
+        "pt-BR": "A cautela vem do histórico e da necessidade de replicação, não de equipamento faltando.",
+        "id": "Kehati-hatian berasal dari sejarah dan kebutuhan replikasi, bukan dari peralatan yang hilang.",
+        "fr": "La prudence vient de l'histoire et du besoin de réplication, pas d'un équipement manquant.",
+        "ar": "الحذر ينبع من التاريخ والحاجة إلى التكرار، وليس من نقص المعدات.",
+        "tr": "Tedbir, tarihten ve tekrarlama ihtiyacından geliyor; eksik ekipmandan değil.",
+        "it": "La cautela deriva dalla storia e dalla necessità di replicazione, non da attrezzature mancanti.",
+        "pl": "Ostrożność wynika z historii i potrzeby replikacji, a nie z brakującego sprzętu."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "One tonne of payload"
       ],
       "answerIndex": 0,
-      "hintKo": "The measured energy was two hundred forty-eight kiloelectronvolts, not money or weight."
+      "hintKo": "The measured energy was two hundred forty-eight kiloelectronvolts, not money or weight.",
+      "hintI18n": {
+        "en": "The measured energy was two hundred forty-eight kiloelectronvolts, not money or weight.",
+        "ko": "측정된 에너지는 248킬로전자볼트였고, 돈이나 무게가 아니었습니다.",
+        "zh-Hans": "测得的能量是248千电子伏特，不是金钱或重量。",
+        "ja": "測定されたエネルギーは248キロ電子ボルトで、お金や重さではありませんでした。",
+        "es": "La energía medida fue de doscientos cuarenta y ocho kiloelectronvoltios, no dinero ni peso.",
+        "hi": "मापी गई ऊर्जा 248 किलोइलेक्ट्रॉनवोल्ट थी, न कि धन या वजन।",
+        "de": "Die gemessene Energie betrug 248 Kiloelektronenvolt, nicht Geld oder Gewicht.",
+        "vi": "Năng lượng đo được là 248 kiloelectronvolt, không phải tiền hay cân nặng.",
+        "pt-BR": "A energia medida foi de 248 quiloeletronvolts, não dinheiro ou peso.",
+        "id": "Energi yang terukur adalah 248 kiloelektronvolt, bukan uang atau berat.",
+        "fr": "L'énergie mesurée était de 248 kilélectronvolts, pas de l'argent ni un poids.",
+        "ar": "كانت الطاقة المقيسة 248 كيلوإلكترون فولت، وليست مالًا أو وزنًا.",
+        "tr": "Ölçülen enerji 248 kiloelektronvolttu; para veya ağırlık değildi.",
+        "it": "L'energia misurata era di 248 chiloelettronvolt, non denaro o peso.",
+        "pl": "Zmierzona energia wynosiła 248 kiloelektronowoltów, a nie pieniądze czy waga."
+      }
     }
   ],
   "youtube_url": ""

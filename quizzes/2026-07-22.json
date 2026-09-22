@@ -17,7 +17,24 @@
         "The World Meteorological Organization"
       ],
       "answerIndex": 0,
-      "hintKo": "The story names the Indian Institute of Technology Gandhinagar as the research leader, not these other organizations."
+      "hintKo": "The story names the Indian Institute of Technology Gandhinagar as the research leader, not these other organizations.",
+      "hintI18n": {
+        "en": "The story names the Indian Institute of Technology Gandhinagar as the research leader, not these other organizations.",
+        "ko": "이 이야기는 인도 공과대학 간디나가르를 연구 주도 기관으로 지목하며, 다른 기관들이 아닙니다.",
+        "zh-Hans": "报道指出印度理工学院甘地讷格尔分校是这项研究的牵头机构，而不是其他这些组织。",
+        "ja": "この記事は研究を主導したのはインド工科大学ガンディーナガル校であり、他のこれらの組織ではないと述べています。",
+        "es": "La historia nombra al Instituto Indio de Tecnología de Gandhinagar como líder de la investigación, no a estas otras organizaciones.",
+        "hi": "यह कहानी भारतीय प्रौद्योगिकी संस्थान गांधीनगर को शोध का नेतृत्वकर्ता बताती है, इन अन्य संगठनों को नहीं।",
+        "de": "Der Bericht nennt das Indische Institut für Technologie Gandhinagar als führende Forschungseinrichtung, nicht diese anderen Organisationen.",
+        "vi": "Câu chuyện nêu Viện Công nghệ Ấn Độ Gandhinagar là đơn vị dẫn đầu nghiên cứu, không phải các tổ chức khác này.",
+        "pt-BR": "A reportagem nomeia o Instituto Indiano de Tecnologia de Gandhinagar como líder da pesquisa, não estas outras organizações.",
+        "id": "Kisah ini menyebut Institut Teknologi India Gandhinagar sebagai pemimpin penelitian, bukan organisasi lain ini.",
+        "fr": "L’article désigne l’Institut indien de technologie de Gandhinagar comme chef de file de la recherche, pas ces autres organisations.",
+        "ar": "تذكر القصة معهد التكنولوجيا الهندي في غانديناغار كقائد للبحث، وليس هذه المنظمات الأخرى.",
+        "tr": "Haber, araştırmaya liderlik edenin Hindistan Teknoloji Enstitüsü Gandhinagar olduğunu söylüyor; bu diğer kuruluşlar değil.",
+        "it": "L’articolo indica l’Istituto Indiano di Tecnologia di Gandhinagar come leader della ricerca, non queste altre organizzazioni.",
+        "pl": "Artykuł wskazuje Indian Institute of Technology w Gandhinagar jako lidera badań, a nie te inne organizacje."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Less than one percent"
       ],
       "answerIndex": 1,
-      "hintKo": "The correct range is about one point eight percent to six point five percent, not these other figures."
+      "hintKo": "The correct range is about one point eight percent to six point five percent, not these other figures.",
+      "hintI18n": {
+        "en": "The correct range is about one point eight percent to six point five percent, not these other figures.",
+        "ko": "올바른 범위는 약 1.8퍼센트에서 6.5퍼센트이며, 다른 수치가 아닙니다.",
+        "zh-Hans": "正确的范围约为 1.8% 到 6.5%，而不是这些其他数字。",
+        "ja": "正しい範囲は約1.8パーセントから6.5パーセントで、これらの他の数字ではありません。",
+        "es": "El rango correcto es de aproximadamente 1,8 por ciento a 6,5 por ciento, no estas otras cifras.",
+        "hi": "सही सीमा लगभग 1.8 प्रतिशत से 6.5 प्रतिशत है, इन अन्य आंकड़ों में नहीं।",
+        "de": "Der richtige Bereich liegt bei etwa 1,8 Prozent bis 6,5 Prozent, nicht bei diesen anderen Zahlen.",
+        "vi": "Phạm vi đúng là khoảng 1,8 phần trăm đến 6,5 phần trăm, không phải những con số khác này.",
+        "pt-BR": "A faixa correta é de cerca de 1,8 por cento a 6,5 por cento, não estes outros números.",
+        "id": "Kisaran yang benar adalah sekitar 1,8 persen hingga 6,5 persen, bukan angka lain ini.",
+        "fr": "La bonne plage est d’environ 1,8 pour cent à 6,5 pour cent, pas ces autres chiffres.",
+        "ar": "النطاق الصحيح هو حوالي 1.8 بالمئة إلى 6.5 بالمئة، وليس هذه الأرقام الأخرى.",
+        "tr": "Doğru aralık yaklaşık yüzde 1,8 ile yüzde 6,5 arasındadır; bu diğer rakamlar değil.",
+        "it": "L’intervallo corretto è circa dall’1,8 per cento al 6,5 per cento, non queste altre cifre.",
+        "pl": "Prawidłowy zakres to około od 1,8 procenta do 6,5 procenta, a nie te inne liczby."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "During summer monsoons"
       ],
       "answerIndex": 2,
-      "hintKo": "The study specifically mentions El Nino years, not these other time periods."
+      "hintKo": "The study specifically mentions El Nino years, not these other time periods.",
+      "hintI18n": {
+        "en": "The study specifically mentions El Nino years, not these other time periods.",
+        "ko": "이 연구는 특히 엘니뇨가 발생한 해를 언급하며, 다른 시기가 아닙니다.",
+        "zh-Hans": "这项研究特别提到厄尔尼诺年份，而不是这些其他时期。",
+        "ja": "この研究は特にエルニーニョの年について述べており、これらの他の時期ではありません。",
+        "es": "El estudio menciona específicamente los años de El Niño, no estos otros períodos.",
+        "hi": "अध्ययन विशेष रूप से अल नीनो वर्षों का उल्लेख करता है, इन अन्य समय अवधियों का नहीं।",
+        "de": "Die Studie erwähnt ausdrücklich El-Niño-Jahre, nicht diese anderen Zeiträume.",
+        "vi": "Nghiên cứu đề cập cụ thể đến các năm El Niño, không phải những giai đoạn khác này.",
+        "pt-BR": "O estudo menciona especificamente os anos de El Niño, não estes outros períodos.",
+        "id": "Studi ini secara khusus menyebut tahun-tahun El Niño, bukan periode waktu lain ini.",
+        "fr": "L’étude mentionne spécifiquement les années El Niño, pas ces autres périodes.",
+        "ar": "تذكر الدراسة تحديدًا سنوات إل نينيو، وليس هذه الفترات الزمنية الأخرى.",
+        "tr": "Çalışma özellikle El Niño yıllarından söz ediyor; bu diğer zaman dönemlerinden değil.",
+        "it": "Lo studio menziona specificamente gli anni di El Niño, non questi altri periodi.",
+        "pl": "Badanie wspomina konkretnie lata El Niño, a nie te inne okresy."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "The Arctic and Antarctic regions"
       ],
       "answerIndex": 3,
-      "hintKo": "The study identified these four specific regions as important drought hubs, not these other areas."
+      "hintKo": "The study identified these four specific regions as important drought hubs, not these other areas.",
+      "hintI18n": {
+        "en": "The study identified these four specific regions as important drought hubs, not these other areas.",
+        "ko": "이 연구는 이 네 특정 지역을 중요한 가뭄 중심지로 확인했으며, 다른 지역이 아닙니다.",
+        "zh-Hans": "该研究确定这四个特定地区是重要的干旱中心，而不是这些其他地区。",
+        "ja": "この研究はこれら4つの特定地域を重要な干ばつハブとして特定しましたが、これらの他の地域ではありません。",
+        "es": "El estudio identificó estas cuatro regiones específicas como importantes centros de sequía, no estas otras zonas.",
+        "hi": "अध्ययन ने इन चार विशिष्ट क्षेत्रों को महत्वपूर्ण सूखा केंद्र बताया, इन अन्य क्षेत्रों को नहीं।",
+        "de": "Die Studie identifizierte diese vier spezifischen Regionen als wichtige Dürrezentren, nicht diese anderen Gebiete.",
+        "vi": "Nghiên cứu xác định bốn khu vực cụ thể này là trung tâm hạn hán quan trọng, không phải những vùng khác này.",
+        "pt-BR": "O estudo identificou estas quatro regiões específicas como importantes centros de seca, não estas outras áreas.",
+        "id": "Studi ini mengidentifikasi empat wilayah spesifik ini sebagai pusat kekeringan penting, bukan area lain ini.",
+        "fr": "L’étude a identifié ces quatre régions précises comme d’importants foyers de sécheresse, pas ces autres zones.",
+        "ar": "حددت الدراسة هذه المناطق الأربع المحددة كمراكز مهمة للجفاف، وليس هذه المناطق الأخرى.",
+        "tr": "Çalışma bu dört belirli bölgeyi önemli kuraklık merkezleri olarak belirledi; bu diğer alanlar değil.",
+        "it": "Lo studio ha identificato queste quattro regioni specifiche come importanti centri della siccità, non queste altre aree.",
+        "pl": "Badanie wskazało te cztery konkretne regiony jako ważne ośrodki suszy, a nie te inne obszary."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "They have no effect on drought patterns"
       ],
       "answerIndex": 0,
-      "hintKo": "The patchwork effect means different regions respond differently, preventing a single connected global drought."
+      "hintKo": "The patchwork effect means different regions respond differently, preventing a single connected global drought.",
+      "hintI18n": {
+        "en": "The patchwork effect means different regions respond differently, preventing a single connected global drought.",
+        "ko": "패치워크 효과는 지역마다 다르게 반응한다는 뜻이며, 하나로 연결된 전 지구적 가뭄을 막습니다.",
+        "zh-Hans": "拼布效应意味着不同地区的反应各不相同，从而防止形成一场相互关联的全球性干旱。",
+        "ja": "パッチワーク効果とは地域ごとに反応が異なるということで、一つにつながった地球規模の干ばつを防ぎます。",
+        "es": "El efecto de mosaico significa que las distintas regiones responden de manera diferente, lo que evita una única sequía global conectada.",
+        "hi": "पैचवर्क प्रभाव का अर्थ है कि अलग-अलग क्षेत्र अलग-अलग प्रतिक्रिया देते हैं, जिससे एक जुड़ी हुई वैश्विक सूखा रोकी जाती है।",
+        "de": "Der Flickenteppich-Effekt bedeutet, dass verschiedene Regionen unterschiedlich reagieren, was eine einzelne zusammenhängende globale Dürre verhindert.",
+        "vi": "Hiệu ứng chắp ghép nghĩa là các vùng khác nhau phản ứng khác nhau, ngăn chặn một đợt hạn hán toàn cầu liên kết duy nhất.",
+        "pt-BR": "O efeito de mosaico significa que regiões diferentes respondem de modo diferente, impedindo uma única seca global conectada.",
+        "id": "Efek tambal sulam berarti wilayah berbeda merespons secara berbeda, mencegah satu kekeringan global yang saling terhubung.",
+        "fr": "L’effet de mosaïque signifie que différentes régions réagissent différemment, ce qui empêche une seule sécheresse mondiale connectée.",
+        "ar": "يعني تأثير الرقع أن المناطق المختلفة تستجيب بشكل مختلف، مما يمنع حدوث جفاف عالمي واحد متصل.",
+        "tr": "Yamalı etki, farklı bölgelerin farklı tepki vermesi anlamına gelir ve tek bir bağlantılı küresel kuraklığı önler.",
+        "it": "L’effetto mosaico significa che regioni diverse reagiscono in modo diverso, impedendo un’unica siccità globale collegata.",
+        "pl": "Efekt mozaiki oznacza, że różne regiony reagują inaczej, co zapobiega jednej połączonej globalnej suszy."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By using trade, food storage, and flexible agricultural policies"
       ],
       "answerIndex": 4,
-      "hintKo": "The story recommends trade diversification, emergency storage, and flexible agricultural planning, not these other approaches."
+      "hintKo": "The story recommends trade diversification, emergency storage, and flexible agricultural planning, not these other approaches.",
+      "hintI18n": {
+        "en": "The story recommends trade diversification, emergency storage, and flexible agricultural planning, not these other approaches.",
+        "ko": "이 이야기는 무역 다변화, 비상 저장, 유연한 농업 계획을 권장하며, 다른 접근법은 권장하지 않습니다.",
+        "zh-Hans": "该报道建议贸易多元化、应急储备和灵活的农业规划，而不是这些其他做法。",
+        "ja": "この記事は、貿易の多様化、緊急備蓄、柔軟な農業計画を勧めており、これらの他の方法ではありません。",
+        "es": "La historia recomienda diversificación comercial, almacenamiento de emergencia y planificación agrícola flexible, no estos otros enfoques.",
+        "hi": "यह रिपोर्ट व्यापार विविधीकरण, आपातकालीन भंडारण और लचीली कृषि योजना की सिफारिश करती है, इन अन्य तरीकों की नहीं।",
+        "de": "Der Bericht empfiehlt Handelsdiversifizierung, Notfalllagerung und flexible landwirtschaftliche Planung, nicht diese anderen Ansätze.",
+        "vi": "Câu chuyện khuyến nghị đa dạng hóa thương mại, dự trữ khẩn cấp và quy hoạch nông nghiệp linh hoạt, không phải những cách tiếp cận khác này.",
+        "pt-BR": "A reportagem recomenda diversificação comercial, armazenamento de emergência e planejamento agrícola flexível, não essas outras abordagens.",
+        "id": "Kisah ini merekomendasikan diversifikasi perdagangan, penyimpanan darurat, dan perencanaan pertanian yang fleksibel, bukan pendekatan-pendekatan lain ini.",
+        "fr": "Le reportage recommande la diversification commerciale, le stockage d’urgence et une planification agricole flexible, et non ces autres approches.",
+        "ar": "توصي القصة بتنويع التجارة والتخزين الطارئ والتخطيط الزراعي المرن، وليس هذه الأساليب الأخرى.",
+        "tr": "Hikâye ticaret çeşitlendirmesi, acil depolama ve esnek tarımsal planlamayı öneriyor; bu diğer yaklaşımları değil.",
+        "it": "Il servizio consiglia diversificazione commerciale, stoccaggio d’emergenza e pianificazione agricola flessibile, non questi altri approcci.",
+        "pl": "Tekst zaleca dywersyfikację handlu, zapasy awaryjne i elastyczne planowanie rolnictwa, a nie te inne podejścia."
+      }
     }
   ],
   "youtube_url": ""

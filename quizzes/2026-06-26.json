@@ -17,7 +17,24 @@
         "A museum curator"
       ],
       "answerIndex": 0,
-      "hintKo": "The discovery was made by a scientific research team, not by farmers, a single person, the government, or a museum curator."
+      "hintKo": "The discovery was made by a scientific research team, not by farmers, a single person, the government, or a museum curator.",
+      "hintI18n": {
+        "en": "The discovery was made by a scientific research team, not by farmers, a single person, the government, or a museum curator.",
+        "ko": "그 발견은 과학 연구팀이 한 것이지, 농부나 한 개인, 정부, 박물관 큐레이터가 한 것이 아닙니다.",
+        "zh-Hans": "这一发现是由一个科学研究团队做出的，而不是农民、单个人、政府或博物馆馆长做出的。",
+        "ja": "その発見は科学研究チームによるもので、農家や一人の人物、政府、美術館・博物館の学芸員によるものではありません。",
+        "es": "El descubrimiento lo hizo un equipo de investigación científica, no agricultores, una sola persona, el gobierno ni un conservador de museo.",
+        "hi": "यह खोज एक वैज्ञानिक शोध दल ने की थी, न कि किसानों, किसी एक व्यक्ति, सरकार या संग्रहालय क्यूरेटर ने।",
+        "de": "Die Entdeckung wurde von einem wissenschaftlichen Forschungsteam gemacht, nicht von Bauern, einer einzelnen Person, der Regierung oder einem Museumskurator.",
+        "vi": "Phát hiện này do một nhóm nghiên cứu khoa học thực hiện, không phải nông dân, một cá nhân, chính phủ hay người quản lý bảo tàng.",
+        "pt-BR": "A descoberta foi feita por uma equipe de pesquisa científica, não por fazendeiros, uma única pessoa, o governo ou um curador de museu.",
+        "id": "Penemuan itu dibuat oleh tim riset ilmiah, bukan oleh petani, satu orang, pemerintah, atau kurator museum.",
+        "fr": "La découverte a été faite par une équipe de recherche scientifique, pas par des agriculteurs, une seule personne, le gouvernement ou un conservateur de musée.",
+        "ar": "تم الاكتشاف بواسطة فريق بحث علمي، وليس بواسطة مزارعين أو شخص واحد أو الحكومة أو أمين متحف.",
+        "tr": "Keşif, çiftçiler, tek bir kişi, hükümet veya bir müze küratörü tarafından değil, bir bilimsel araştırma ekibi tarafından yapıldı.",
+        "it": "La scoperta è stata fatta da un team di ricerca scientifica, non da agricoltori, una singola persona, il governo o un curatore museale.",
+        "pl": "Odkrycia dokonał naukowy zespół badawczy, a nie rolnicy, jedna osoba, rząd czy kustosz muzeum."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Volcanic ash"
       ],
       "answerIndex": 2,
-      "hintKo": "While iron and manganese were known to be present, the hidden discovery was charcoal. Gold dust and volcanic ash were not found."
+      "hintKo": "While iron and manganese were known to be present, the hidden discovery was charcoal. Gold dust and volcanic ash were not found.",
+      "hintI18n": {
+        "en": "While iron and manganese were known to be present, the hidden discovery was charcoal. Gold dust and volcanic ash were not found.",
+        "ko": "철과 망간이 들어 있다는 것은 알려져 있었지만, 숨겨진 발견은 목탄이었습니다. 금가루와 화산재는 발견되지 않았습니다.",
+        "zh-Hans": "虽然已知其中含有铁和锰，但隐藏的发现是木炭。金粉和火山灰并未被发现。",
+        "ja": "鉄とマンガンが含まれていることは知られていましたが、隠された発見は木炭でした。金粉と火山灰は見つかりませんでした。",
+        "es": "Aunque se sabía que había hierro y manganeso, el descubrimiento oculto fue el carbón vegetal. No se encontraron polvo de oro ni ceniza volcánica.",
+        "hi": "हालाँकि लोहा और मैंगनीज़ मौजूद होना ज्ञात था, छिपी हुई खोज चारकोल थी। सोने की धूल और ज्वालामुखी राख नहीं मिली।",
+        "de": "Zwar war bekannt, dass Eisen und Mangan vorhanden waren, doch die verborgene Entdeckung war Holzkohle. Goldstaub und Vulkanasche wurden nicht gefunden.",
+        "vi": "Dù đã biết có sắt và mangan, phát hiện ẩn giấu là than củi. Không tìm thấy bụi vàng hay tro núi lửa.",
+        "pt-BR": "Embora se soubesse que havia ferro e manganês, a descoberta oculta foi o carvão vegetal. Não foram encontrados pó de ouro nem cinza vulcânica.",
+        "id": "Meskipun diketahui ada besi dan mangan, penemuan tersembunyi itu adalah arang. Debu emas dan abu vulkanik tidak ditemukan.",
+        "fr": "Bien que l’on sache que du fer et du manganèse étaient présents, la découverte cachée était le charbon de bois. On n’a pas trouvé de poussière d’or ni de cendre volcanique.",
+        "ar": "رغم معرفة وجود الحديد والمنغنيز، كان الاكتشاف المخفي هو الفحم النباتي. لم يتم العثور على غبار الذهب أو الرماد البركاني.",
+        "tr": "Demir ve manganez olduğu biliniyordu, ama gizli keşif odun kömürüydü. Altın tozu ve volkanik kül bulunmadı.",
+        "it": "Sebbene si sapesse che erano presenti ferro e manganese, la scoperta nascosta era il carbone vegetale. Non sono stati trovati polvere d’oro né cenere vulcanica.",
+        "pl": "Chociaż wiedziano, że obecne były żelazo i mangan, ukrytym odkryciem był węgiel drzewny. Nie znaleziono pyłu złota ani popiołu wulkanicznego."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Eastern Turkey"
       ],
       "answerIndex": 3,
-      "hintKo": "The cave is in France, not in Spain, Italy, Germany, or Turkey."
+      "hintKo": "The cave is in France, not in Spain, Italy, Germany, or Turkey.",
+      "hintI18n": {
+        "en": "The cave is in France, not in Spain, Italy, Germany, or Turkey.",
+        "ko": "동굴은 프랑스에 있고, 스페인·이탈리아·독일·터키에 있는 것이 아닙니다.",
+        "zh-Hans": "这个洞穴位于法国，不在西班牙、意大利、德国或土耳其。",
+        "ja": "この洞窟はフランスにあり、スペイン、イタリア、ドイツ、トルコではありません。",
+        "es": "La cueva está en Francia, no en España, Italia, Alemania ni Turquía.",
+        "hi": "यह गुफा फ्रांस में है, स्पेन, इटली, जर्मनी या तुर्की में नहीं।",
+        "de": "Die Höhle befindet sich in Frankreich, nicht in Spanien, Italien, Deutschland oder der Türkei.",
+        "vi": "Hang động này ở Pháp, không phải ở Tây Ban Nha, Ý, Đức hay Thổ Nhĩ Kỳ.",
+        "pt-BR": "A caverna fica na França, não na Espanha, Itália, Alemanha ou Turquia.",
+        "id": "Gua ini terletak di Prancis, bukan di Spanyol, Italia, Jerman, atau Turki.",
+        "fr": "La grotte se trouve en France, pas en Espagne, en Italie, en Allemagne ou en Turquie.",
+        "ar": "الكهف موجود في فرنسا، وليس في إسبانيا أو إيطاليا أو ألمانيا أو تركيا.",
+        "tr": "Mağara Fransa'dadır; İspanya, İtalya, Almanya veya Türkiye'de değildir.",
+        "it": "La grotta si trova in Francia, non in Spagna, Italia, Germania o Turchia.",
+        "pl": "Jaskinia znajduje się we Francji, a nie w Hiszpanii, Włoszech, Niemczech czy Turcji."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "About 50,000 years ago"
       ],
       "answerIndex": 1,
-      "hintKo": "The radiocarbon dating placed the bison at about 13,300 years old, not the other time periods mentioned."
+      "hintKo": "The radiocarbon dating placed the bison at about 13,300 years old, not the other time periods mentioned.",
+      "hintI18n": {
+        "en": "The radiocarbon dating placed the bison at about 13,300 years old, not the other time periods mentioned.",
+        "ko": "방사성 탄소 연대 측정 결과, 들소는 약 13,300년 전으로 측정되었습니다. 언급된 다른 시대가 아닙니다.",
+        "zh-Hans": "放射性碳定年显示这头野牛大约有13,300年历史，而不是提到的其他时期。",
+        "ja": "放射性炭素年代測定では、このバイソンは約13,300年前とされ、言及された他の時代ではありません。",
+        "es": "La datación por radiocarbono situó al bisonte en unos 13.300 años, no en los otros períodos mencionados.",
+        "hi": "रेडियोकार्बन डेटिंग ने बाइसन को लगभग 13,300 साल पुराना बताया, न कि उल्लिखित अन्य समय अवधियों में।",
+        "de": "Die Radiokarbondatierung setzte den Bison auf etwa 13.300 Jahre, nicht auf die anderen genannten Zeiträume.",
+        "vi": "Phương pháp định tuổi bằng cacbon phóng xạ cho thấy con bò rừng có niên đại khoảng 13.300 năm, không phải các thời kỳ khác được nhắc đến.",
+        "pt-BR": "A datação por radiocarbono situou o bisão em cerca de 13.300 anos, não nos outros períodos mencionados.",
+        "id": "Penanggalan radiokarbon menempatkan bison pada sekitar 13.300 tahun, bukan periode waktu lain yang disebutkan.",
+        "fr": "La datation au carbone 14 a situé le bison à environ 13 300 ans, et non aux autres périodes mentionnées.",
+        "ar": "أرّخ التأريخ بالكربون المشع البيسون بحوالي 13,300 سنة، وليس الفترات الزمنية الأخرى المذكورة.",
+        "tr": "Radyokarbon tarihleme, bizonu yaklaşık 13.300 yıl öncesine yerleştirdi; bahsedilen diğer dönemlere değil.",
+        "it": "La datazione al radiocarbonio ha collocato il bisonte a circa 13.300 anni, non negli altri periodi menzionati.",
+        "pl": "Datowanie radiowęglowe umieściło bizona na około 13 300 lat, a nie w innych wymienionych okresach."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It measured the temperature inside the cave"
       ],
       "answerIndex": 0,
-      "hintKo": "The imaging techniques were non-invasive — they did not touch or remove anything. They found charcoal, not writing, and were used for chemical analysis, not temperature measurement or simple photography."
+      "hintKo": "The imaging techniques were non-invasive — they did not touch or remove anything. They found charcoal, not writing, and were used for chemical analysis, not temperature measurement or simple photography.",
+      "hintI18n": {
+        "en": "The imaging techniques were non-invasive — they did not touch or remove anything. They found charcoal, not writing, and were used for chemical analysis, not temperature measurement or simple photography.",
+        "ko": "영상 기법은 비침습적이어서 아무것도 만지거나 제거하지 않았습니다. 그들은 글씨가 아니라 숯을 발견했고, 온도 측정이나 단순 사진 촬영이 아니라 화학 분석에 사용되었습니다.",
+        "zh-Hans": "这些成像技术是非侵入性的——它们没有接触或移除任何东西。它们发现了木炭，而不是文字，并且用于化学分析，而不是温度测量或简单的摄影。",
+        "ja": "画像技術は非侵襲的で、何にも触れたり取り除いたりしませんでした。彼らは文字ではなく炭を見つけ、温度測定や単純な写真撮影ではなく化学分析に使用しました。",
+        "es": "Las técnicas de imagen no eran invasivas: no tocaron ni retiraron nada. Encontraron carbón vegetal, no escritura, y se usaron para análisis químico, no para medir la temperatura ni para fotografía simple.",
+        "hi": "इमेजिंग तकनीकें गैर-आक्रामक थीं—उन्होंने कुछ भी छुआ या हटाया नहीं। उन्हें लिखाई नहीं, बल्कि चारकोल मिला, और इन्हें तापमान मापने या साधारण फोटोग्राफी के लिए नहीं, बल्कि रासायनिक विश्लेषण के लिए इस्तेमाल किया गया।",
+        "de": "Die Bildgebungstechniken waren nicht invasiv – sie berührten oder entfernten nichts. Sie fanden Holzkohle, keine Schrift, und wurden für chemische Analysen eingesetzt, nicht für Temperaturmessung oder einfache Fotografie.",
+        "vi": "Các kỹ thuật hình ảnh là không xâm lấn — chúng không chạm vào hay lấy đi thứ gì. Chúng tìm thấy than củi, không phải chữ viết, và được dùng để phân tích hóa học, không phải đo nhiệt độ hay chụp ảnh đơn giản.",
+        "pt-BR": "As técnicas de imagem eram não invasivas — não tocaram nem removeram nada. Elas encontraram carvão vegetal, não escrita, e foram usadas para análise química, não para medição de temperatura ou fotografia simples.",
+        "id": "Teknik pencitraan itu non-invasif — tidak menyentuh atau mengambil apa pun. Mereka menemukan arang, bukan tulisan, dan digunakan untuk analisis kimia, bukan pengukuran suhu atau fotografi sederhana.",
+        "fr": "Les techniques d’imagerie étaient non invasives — elles n’ont rien touché ni retiré. Elles ont trouvé du charbon de bois, pas de l’écriture, et ont servi à l’analyse chimique, pas à la mesure de température ni à la photographie simple.",
+        "ar": "كانت تقنيات التصوير غير جراحية — لم تلمس أو تزل شيئًا. وجدوا فحمًا، وليس كتابة، واستُخدمت للتحليل الكيميائي، وليس لقياس الحرارة أو التصوير البسيط.",
+        "tr": "Görüntüleme teknikleri invaziv değildi — hiçbir şeye dokunmadılar veya bir şey çıkarmadılar. Yazı değil kömür buldular ve sıcaklık ölçümü ya da basit fotoğrafçılık için değil, kimyasal analiz için kullanıldılar.",
+        "it": "Le tecniche di imaging erano non invasive — non hanno toccato né rimosso nulla. Hanno trovato carbone, non scrittura, e sono state usate per analisi chimiche, non per misurare la temperatura o per semplice fotografia.",
+        "pl": "Techniki obrazowania były nieinwazyjne — niczego nie dotykały ani nie usuwały. Znaleziono węgiel drzewny, a nie pismo, i użyto ich do analizy chemicznej, a nie do pomiaru temperatury czy zwykłej fotografii."
+      }
     }
   ],
   "youtube_url": ""

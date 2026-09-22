@@ -17,7 +17,24 @@
         "Professor John Bell"
       ],
       "answerIndex": 0,
-      "hintKo": "The lead researcher was Professor Yongjie Hu, not one of the other names listed."
+      "hintKo": "The lead researcher was Professor Yongjie Hu, not one of the other names listed.",
+      "hintI18n": {
+        "en": "The lead researcher was Professor Yongjie Hu, not one of the other names listed.",
+        "ko": "연구 책임자는 후융지에 교수였으며, 목록에 나온 다른 이름이 아닙니다.",
+        "zh-Hans": "首席研究员是胡永杰教授，而不是列出的其他名字。",
+        "ja": "主任研究者はヨンジエ・フー教授で、リストにある他の名前ではありません。",
+        "es": "El investigador principal era el profesor Yongjie Hu, no uno de los otros nombres de la lista.",
+        "hi": "मुख्य शोधकर्ता प्रोफेसर योंगजी हू थे, सूची में दिए गए अन्य नामों में से कोई नहीं।",
+        "de": "Der leitende Forscher war Professor Yongjie Hu, nicht einer der anderen aufgeführten Namen.",
+        "vi": "Nhà nghiên cứu chính là Giáo sư Yongjie Hu, không phải một trong những tên khác được liệt kê.",
+        "pt-BR": "O pesquisador principal era o professor Yongjie Hu, e não um dos outros nomes listados.",
+        "id": "Peneliti utamanya adalah Profesor Yongjie Hu, bukan salah satu nama lain yang terdaftar.",
+        "fr": "Le chercheur principal était le professeur Yongjie Hu, et non l'un des autres noms listés.",
+        "ar": "كان الباحث الرئيسي هو البروفيسور يونغجي هو، وليس أحد الأسماء الأخرى المذكورة.",
+        "tr": "Baş araştırmacı Profesör Yongjie Hu'ydu, listedeki diğer isimlerden biri değil.",
+        "it": "Il ricercatore principale era il professor Yongjie Hu, non uno degli altri nomi elencati.",
+        "pl": "Głównym badaczem był profesor Yongjie Hu, a nie jedno z pozostałych wymienionych nazwisk."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Heat becomes solid"
       ],
       "answerIndex": 1,
-      "hintKo": "Heat in boron arsenide moves in focused rays rather than spreading randomly."
+      "hintKo": "Heat in boron arsenide moves in focused rays rather than spreading randomly.",
+      "hintI18n": {
+        "en": "Heat in boron arsenide moves in focused rays rather than spreading randomly.",
+        "ko": "붕소 비소화물에서 열은 무작위로 퍼지는 대신 집속된 열선으로 이동합니다.",
+        "zh-Hans": "砷化硼中的热量以聚焦的热射线移动，而不是随机扩散。",
+        "ja": "ホウ素ヒ素化物中の熱は、ランダムに広がるのではなく、集束した線として移動します。",
+        "es": "El calor en el arseniuro de boro se mueve en rayos enfocados en lugar de dispersarse al azar.",
+        "hi": "बोरॉन आर्सेनाइड में ऊष्मा बेतरतीब ढंग से फैलने के बजाय केंद्रित किरणों में चलती है।",
+        "de": "Wärme in Borarsenid bewegt sich in gebündelten Strahlen, statt sich zufällig auszubreiten.",
+        "vi": "Nhiệt trong asenua bo di chuyển thành các tia tập trung thay vì lan tỏa ngẫu nhiên.",
+        "pt-BR": "O calor no arsenieto de boro se move em raios focados, em vez de se espalhar aleatoriamente.",
+        "id": "Panas dalam boron arsenida bergerak dalam berkas terfokus, bukan menyebar secara acak.",
+        "fr": "La chaleur dans l'arséniure de bore se déplace en rayons focalisés plutôt que de se disperser au hasard.",
+        "ar": "تتحرك الحرارة في زرنيخيد البورون في أشعة مركّزة بدلاً من الانتشار عشوائيًا.",
+        "tr": "Bor arsenürdeki ısı, rastgele yayılmak yerine odaklanmış ışınlar halinde hareket eder.",
+        "it": "Il calore nell'arseniuro di boro si muove in raggi focalizzati invece di diffondersi in modo casuale.",
+        "pl": "Ciepło w arsenku boru przemieszcza się w skupionych promieniach, a nie rozprasza losowo."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "It was never observed before"
       ],
       "answerIndex": 1,
-      "hintKo": "Earlier observations of phonon focusing happened only at very cold temperatures."
+      "hintKo": "Earlier observations of phonon focusing happened only at very cold temperatures.",
+      "hintI18n": {
+        "en": "Earlier observations of phonon focusing happened only at very cold temperatures.",
+        "ko": "포논 집속의 이전 관측은 매우 낮은 온도에서만 이루어졌습니다.",
+        "zh-Hans": "早期对声子聚焦的观测只在非常低的温度下发生。",
+        "ja": "フォノン集束の以前の観測は、ごく低い温度でのみ行われました。",
+        "es": "Las observaciones anteriores de enfoque de fonones ocurrieron solo a temperaturas muy frías.",
+        "hi": "फोनॉन फोकसिंग के पहले के अवलोकन केवल बहुत ठंडे तापमान पर हुए थे।",
+        "de": "Frühere Beobachtungen der Phononenfokussierung fanden nur bei sehr kalten Temperaturen statt.",
+        "vi": "Các quan sát trước đây về hội tụ phonon chỉ xảy ra ở nhiệt độ rất lạnh.",
+        "pt-BR": "Observações anteriores de focalização de fônons ocorreram apenas em temperaturas muito frias.",
+        "id": "Pengamatan sebelumnya tentang pemfokusan fonon hanya terjadi pada suhu yang sangat dingin.",
+        "fr": "Les observations antérieures de focalisation des phonons n'ont eu lieu qu'à des températures très froides.",
+        "ar": "حدثت الملاحظات السابقة لتركيز الفونونات فقط عند درجات حرارة شديدة البرودة.",
+        "tr": "Fonon odaklanmasına ilişkin önceki gözlemler yalnızca çok soğuk sıcaklıklarda gerçekleşti.",
+        "it": "Le precedenti osservazioni della focalizzazione dei fononi avvenivano solo a temperature molto fredde.",
+        "pl": "Wcześniejsze obserwacje ogniskowania fononów miały miejsce tylko w bardzo niskich temperaturach."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a volcano in Iceland"
       ],
       "answerIndex": 0,
-      "hintKo": "The observations were made in boron arsenide crystals at UCLA."
+      "hintKo": "The observations were made in boron arsenide crystals at UCLA.",
+      "hintI18n": {
+        "en": "The observations were made in boron arsenide crystals at UCLA.",
+        "ko": "관측은 캘리포니아 대학교 로스앤젤레스의 붕소 비소화물 결정에서 이루어졌습니다.",
+        "zh-Hans": "这些观测是在加州大学洛杉矶分校的砷化硼晶体中进行的。",
+        "ja": "観測はカリフォルニア大学ロサンゼルス校のホウ素ヒ素化物結晶で行われました。",
+        "es": "Las observaciones se hicieron en cristales de arseniuro de boro en UCLA.",
+        "hi": "अवलोकन यूसीएलए में बोरॉन आर्सेनाइड क्रिस्टलों में किए गए थे।",
+        "de": "Die Beobachtungen wurden in Borarsenid-Kristallen an der UCLA gemacht.",
+        "vi": "Các quan sát được thực hiện trong tinh thể asenua bo tại UCLA.",
+        "pt-BR": "As observações foram feitas em cristais de arsenieto de boro na UCLA.",
+        "id": "Pengamatan dilakukan pada kristal boron arsenida di UCLA.",
+        "fr": "Les observations ont été faites dans des cristaux d'arséniure de bore à l'UCLA.",
+        "ar": "أُجريت الملاحظات في بلورات زرنيخيد البورون في جامعة كاليفورنيا في لوس أنجلوس.",
+        "tr": "Gözlemler UCLA'da bor arsenür kristallerinde yapıldı.",
+        "it": "Le osservazioni sono state fatte in cristalli di arseniuro di boro alla UCLA.",
+        "pl": "Obserwacje wykonano w kryształach arsenku boru na UCLA."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because heat saves electricity"
       ],
       "answerIndex": 1,
-      "hintKo": "Controlling heat matters because overheating hurts performance and reliability."
+      "hintKo": "Controlling heat matters because overheating hurts performance and reliability.",
+      "hintI18n": {
+        "en": "Controlling heat matters because overheating hurts performance and reliability.",
+        "ko": "열을 제어하는 것은 중요합니다. 과열은 성능과 신뢰성을 해치기 때문입니다.",
+        "zh-Hans": "控制热量很重要，因为过热会损害性能和可靠性。",
+        "ja": "熱を制御することは重要です。過熱すると性能と信頼性が損なわれるからです。",
+        "es": "Controlar el calor es importante porque el sobrecalentamiento perjudica el rendimiento y la fiabilidad.",
+        "hi": "ऊष्मा को नियंत्रित करना महत्वपूर्ण है क्योंकि अधिक गर्मी प्रदर्शन और विश्वसनीयता को नुकसान पहुँचाती है।",
+        "de": "Wärmekontrolle ist wichtig, weil Überhitzung Leistung und Zuverlässigkeit beeinträchtigt.",
+        "vi": "Kiểm soát nhiệt rất quan trọng vì quá nhiệt làm giảm hiệu suất và độ tin cậy.",
+        "pt-BR": "Controlar o calor é importante porque o superaquecimento prejudica o desempenho e a confiabilidade.",
+        "id": "Mengendalikan panas itu penting karena panas berlebih merusak performa dan keandalan.",
+        "fr": "Contrôler la chaleur est important, car la surchauffe nuit aux performances et à la fiabilité.",
+        "ar": "التحكم في الحرارة مهم لأن الحرارة الزائدة تضر بالأداء والموثوقية.",
+        "tr": "Isıyı kontrol etmek önemlidir çünkü aşırı ısınma performansa ve güvenilirliğe zarar verir.",
+        "it": "Controllare il calore è importante perché il surriscaldamento danneggia prestazioni e affidabilità.",
+        "pl": "Kontrola ciepła jest ważna, ponieważ przegrzewanie szkodzi wydajności i niezawodności."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They measured only the air outside"
       ],
       "answerIndex": 0,
-      "hintKo": "A new nanoscale temperature-mapping technique was used to observe the heat patterns."
+      "hintKo": "A new nanoscale temperature-mapping technique was used to observe the heat patterns.",
+      "hintI18n": {
+        "en": "A new nanoscale temperature-mapping technique was used to observe the heat patterns.",
+        "ko": "나노 규모의 새로운 온도 매핑 기술이 열 패턴을 관찰하는 데 사용되었습니다.",
+        "zh-Hans": "一种新的纳米级温度测绘技术被用来观察热量分布模式。",
+        "ja": "新しいナノスケールの温度マッピング技術が、熱パターンを観察するために使われました。",
+        "es": "Se utilizó una nueva técnica de mapeo de temperatura a nanoescala para observar los patrones de calor.",
+        "hi": "ताप पैटर्न देखने के लिए नैनोस्केल तापमान मानचित्रण की एक नई तकनीक का उपयोग किया गया।",
+        "de": "Eine neue Technik zur Temperaturkartierung im Nanomaßstab wurde verwendet, um die Wärmemuster zu beobachten.",
+        "vi": "Một kỹ thuật lập bản đồ nhiệt độ ở kích thước nano mới đã được dùng để quan sát các mô hình nhiệt.",
+        "pt-BR": "Uma nova técnica de mapeamento de temperatura em nanoescala foi usada para observar os padrões de calor.",
+        "id": "Teknik pemetaan suhu skala nano yang baru digunakan untuk mengamati pola panas.",
+        "fr": "Une nouvelle technique de cartographie de la température à l'échelle nanométrique a été utilisée pour observer les motifs de chaleur.",
+        "ar": "استُخدمت تقنية جديدة لرسم خرائط درجة الحرارة على المستوى النانوي لمراقبة أنماط الحرارة.",
+        "tr": "Isı desenlerini gözlemlemek için yeni bir nano ölçekli sıcaklık haritalama tekniği kullanıldı.",
+        "it": "Una nuova tecnica di mappatura della temperatura su scala nanometrica è stata usata per osservare i modelli di calore.",
+        "pl": "Do obserwacji wzorców ciepła wykorzystano nową technikę mapowania temperatury w skali nano."
+      }
     }
   ],
   "youtube_url": ""

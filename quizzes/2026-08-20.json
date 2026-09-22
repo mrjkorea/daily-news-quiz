@@ -17,7 +17,24 @@
         "The president of France"
       ],
       "answerIndex": 0,
-      "hintKo": "The minister who presented the draft was Luong Tam Quang."
+      "hintKo": "The minister who presented the draft was Luong Tam Quang.",
+      "hintI18n": {
+        "en": "The minister who presented the draft was Luong Tam Quang.",
+        "ko": "초안을 제출한 장관은 르엉 땀 꽝이었습니다.",
+        "zh-Hans": "提交草案的部长是梁三光。",
+        "ja": "草案を提出した大臣はルオン・タム・クアンでした。",
+        "es": "El ministro que presentó el borrador fue Luong Tam Quang.",
+        "hi": "मसौदा पेश करने वाले मंत्री लुओंग टैम क्वांग थे।",
+        "de": "Der Minister, der den Entwurf vorstellte, war Luong Tam Quang.",
+        "vi": "Bộ trưởng trình bày dự thảo là Lương Tam Quang.",
+        "pt-BR": "O ministro que apresentou o projeto foi Luong Tam Quang.",
+        "id": "Menteri yang mempresentasikan rancangan itu adalah Luong Tam Quang.",
+        "fr": "Le ministre qui a présenté le projet était Luong Tam Quang.",
+        "ar": "الوزير الذي قدّم مشروع القانون كان ليونغ تام كوانغ.",
+        "tr": "Taslağı sunan bakan Luong Tam Quang'tı.",
+        "it": "Il ministro che ha presentato la bozza era Luong Tam Quang.",
+        "pl": "Minister, który przedstawił projekt, to Luong Tam Quang."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "The National Assembly"
       ],
       "answerIndex": 0,
-      "hintKo": "The proposal was to end the death penalty for six offences."
+      "hintKo": "The proposal was to end the death penalty for six offences.",
+      "hintI18n": {
+        "en": "The proposal was to end the death penalty for six offences.",
+        "ko": "제안은 여섯 가지 범죄에 대한 사형을 폐지하는 것이었습니다.",
+        "zh-Hans": "该提案建议对六项罪行废除死刑。",
+        "ja": "提案は6つの犯罪に対する死刑を廃止するというものでした。",
+        "es": "La propuesta era poner fin a la pena de muerte para seis delitos.",
+        "hi": "प्रस्ताव छह अपराधों के लिए मृत्युदंड समाप्त करने का था।",
+        "de": "Der Vorschlag sah vor, die Todesstrafe für sechs Straftaten abzuschaffen.",
+        "vi": "Đề xuất là bãi bỏ án tử hình đối với sáu tội danh.",
+        "pt-BR": "A proposta era acabar com a pena de morte para seis crimes.",
+        "id": "Usulan itu adalah mengakhiri hukuman mati untuk enam kejahatan.",
+        "fr": "La proposition visait à supprimer la peine de mort pour six infractions.",
+        "ar": "كان الاقتراح إلغاء عقوبة الإعدام لست جرائم.",
+        "tr": "Öneri, altı suç için ölüm cezasının kaldırılmasıydı.",
+        "it": "La proposta era abolire la pena di morte per sei reati.",
+        "pl": "Propozycja zakładała zniesienie kary śmierci za sześć przestępstw."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Never"
       ],
       "answerIndex": 1,
-      "hintKo": "Lawmakers are expected to vote at the next session in October."
+      "hintKo": "Lawmakers are expected to vote at the next session in October.",
+      "hintI18n": {
+        "en": "Lawmakers are expected to vote at the next session in October.",
+        "ko": "의원들은 10월 다음 회기에서 표결할 것으로 예상됩니다.",
+        "zh-Hans": "议员们预计将在10月下届会议上投票。",
+        "ja": "議員たちは10月の次の会期に採決すると見込まれています。",
+        "es": "Se espera que los legisladores voten en la próxima sesión, en octubre.",
+        "hi": "विधायकों से अक्टूबर के अगले सत्र में मतदान करने की उम्मीद है।",
+        "de": "Es wird erwartet, dass die Abgeordneten in der nächsten Sitzung im Oktober abstimmen.",
+        "vi": "Các nhà lập pháp dự kiến sẽ bỏ phiếu tại kỳ họp tiếp theo vào tháng 10.",
+        "pt-BR": "Espera-se que os legisladores votem na próxima sessão, em outubro.",
+        "id": "Para legislator diperkirakan akan memberikan suara pada sidang berikutnya pada Oktober.",
+        "fr": "Les législateurs devraient voter lors de la prochaine session, en octobre.",
+        "ar": "من المتوقع أن يصوّت المشرّعون في الجلسة التالية في أكتوبر.",
+        "tr": "Milletvekillerinin ekim ayındaki bir sonraki oturumda oy vermesi bekleniyor.",
+        "it": "Si prevede che i legislatori voteranno nella prossima sessione, a ottobre.",
+        "pl": "Oczekuje się, że ustawodawcy zagłosują na następnej sesji w październiku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "At a police station in Paris"
       ],
       "answerIndex": 0,
-      "hintKo": "The draft criminal code was presented to parliament."
+      "hintKo": "The draft criminal code was presented to parliament.",
+      "hintI18n": {
+        "en": "The draft criminal code was presented to parliament.",
+        "ko": "형법 초안은 의회에 제출되었습니다.",
+        "zh-Hans": "刑法草案已提交给议会。",
+        "ja": "刑法草案は議会に提出されました。",
+        "es": "El proyecto de código penal se presentó al parlamento.",
+        "hi": "आपराधिक संहिता का मसौदा संसद में पेश किया गया।",
+        "de": "Der Entwurf des Strafgesetzbuchs wurde dem Parlament vorgelegt.",
+        "vi": "Dự thảo bộ luật hình sự đã được trình lên quốc hội.",
+        "pt-BR": "O projeto de código penal foi apresentado ao parlamento.",
+        "id": "Rancangan kitab undang-undang hukum pidana disampaikan kepada parlemen.",
+        "fr": "Le projet de code pénal a été présenté au parlement.",
+        "ar": "قُدّم مشروع قانون العقوبات إلى البرلمان.",
+        "tr": "Ceza kanunu tasarısı parlamentoya sunuldu.",
+        "it": "Il progetto di codice penale è stato presentato al parlamento.",
+        "pl": "Projekt kodeksu karnego został przedstawiony parlamentowi."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "To raise taxes"
       ],
       "answerIndex": 0,
-      "hintKo": "Officials linked the change to legal trends and cooperation with other countries."
+      "hintKo": "Officials linked the change to legal trends and cooperation with other countries.",
+      "hintI18n": {
+        "en": "Officials linked the change to legal trends and cooperation with other countries.",
+        "ko": "관리들은 이 변화를 법적 흐름과 다른 나라들과의 협력에 연결지었습니다.",
+        "zh-Hans": "官员们将这一变化与法律趋势以及与其他国家的合作联系起来。",
+        "ja": "当局者はこの変更を法的傾向や他国との協力と結び付けました。",
+        "es": "Los funcionarios vincularon el cambio a tendencias legales y a la cooperación con otros países.",
+        "hi": "अधिकारियों ने इस बदलाव को कानूनी रुझानों और अन्य देशों के साथ सहयोग से जोड़ा।",
+        "de": "Beamte verknüpften die Änderung mit rechtlichen Trends und der Zusammenarbeit mit anderen Ländern.",
+        "vi": "Các quan chức liên hệ thay đổi này với xu hướng pháp lý và hợp tác với các nước khác.",
+        "pt-BR": "Autoridades ligaram a mudança a tendências legais e à cooperação com outros países.",
+        "id": "Pejabat mengaitkan perubahan itu dengan tren hukum dan kerja sama dengan negara lain.",
+        "fr": "Les responsables ont lié ce changement aux tendances juridiques et à la coopération avec d'autres pays.",
+        "ar": "ربط المسؤولون هذا التغيير بالاتجاهات القانونية والتعاون مع دول أخرى.",
+        "tr": "Yetkililer değişikliği hukuki eğilimlere ve diğer ülkelerle işbirliğine bağladı.",
+        "it": "I funzionari hanno collegato il cambiamento a tendenze legali e alla cooperazione con altri paesi.",
+        "pl": "Urzędnicy powiązali tę zmianę z trendami prawnymi i współpracą z innymi krajami."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By a fine only"
       ],
       "answerIndex": 1,
-      "hintKo": "The only remaining method is lethal injection."
+      "hintKo": "The only remaining method is lethal injection.",
+      "hintI18n": {
+        "en": "The only remaining method is lethal injection.",
+        "ko": "유일하게 남은 방법은 독극물 주사입니다.",
+        "zh-Hans": "唯一剩下的方法就是注射死刑。",
+        "ja": "残された唯一の方法は薬物注射による死刑です。",
+        "es": "El único método que queda es la inyección letal.",
+        "hi": "बचा हुआ एकमात्र तरीका घातक इंजेक्शन है।",
+        "de": "Die einzige verbleibende Methode ist die tödliche Injektion.",
+        "vi": "Phương pháp duy nhất còn lại là tiêm thuốc độc.",
+        "pt-BR": "O único método restante é a injeção letal.",
+        "id": "Satu-satunya metode yang tersisa adalah suntikan mematikan.",
+        "fr": "La seule méthode restante est l'injection létale.",
+        "ar": "الطريقة الوحيدة المتبقية هي الحقن المميت.",
+        "tr": "Geriye kalan tek yöntem öldürücü enjeksiyondur.",
+        "it": "L'unico metodo rimasto è l'iniezione letale.",
+        "pl": "Jedyną pozostałą metodą jest zastrzyk śmiertelny."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "Samuel Eriksen at Bristol"
       ],
       "answerIndex": 3,
-      "hintKo": "The hydrogel team is at the University at Buffalo."
+      "hintKo": "The hydrogel team is at the University at Buffalo.",
+      "hintI18n": {
+        "en": "The hydrogel team is at the University at Buffalo.",
+        "ko": "하이드로젤 팀은 버펄로 대학교에 있습니다.",
+        "zh-Hans": "水凝胶团队在布法罗大学。",
+        "ja": "ハイドロゲルのチームはバッファロー大学にいます。",
+        "es": "El equipo del hidrogel está en la Universidad de Buffalo.",
+        "hi": "हाइड्रोजेल टीम बफ़ेलो विश्वविद्यालय में है।",
+        "de": "Das Hydrogel-Team ist an der University at Buffalo.",
+        "vi": "Nhóm hydrogel ở Đại học Buffalo.",
+        "pt-BR": "A equipe do hidrogel está na Universidade de Buffalo.",
+        "id": "Tim hidrogel berada di University at Buffalo.",
+        "fr": "L'équipe de l'hydrogel se trouve à l'Université de Buffalo.",
+        "ar": "فريق الهيدروجيل في جامعة بافالو.",
+        "tr": "Hidrojel ekibi Buffalo Üniversitesi'nde.",
+        "it": "Il team dell'idrogel è all'Università di Buffalo.",
+        "pl": "Zespół hydrożelu znajduje się na Uniwersytecie w Buffalo."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It turns into rocket fuel"
       ],
       "answerIndex": 2,
-      "hintKo": "The gel firms up inside the joint and slowly releases drugs."
+      "hintKo": "The gel firms up inside the joint and slowly releases drugs.",
+      "hintI18n": {
+        "en": "The gel firms up inside the joint and slowly releases drugs.",
+        "ko": "젤은 관절 안에서 굳고 약물을 천천히 방출합니다.",
+        "zh-Hans": "凝胶在关节内变硬，并缓慢释放药物。",
+        "ja": "ゲルは関節内で固まり、薬剤をゆっくり放出します。",
+        "es": "El gel se endurece dentro de la articulación y libera los medicamentos lentamente.",
+        "hi": "जेल जोड़ के अंदर सख्त हो जाता है और धीरे-धीरे दवाएँ छोड़ता है।",
+        "de": "Das Gel härtet im Gelenk aus und setzt die Medikamente langsam frei.",
+        "vi": "Gel cứng lại bên trong khớp và giải phóng thuốc từ từ.",
+        "pt-BR": "O gel endurece dentro da articulação e libera os medicamentos lentamente.",
+        "id": "Gel mengeras di dalam sendi dan melepaskan obat secara perlahan.",
+        "fr": "Le gel durcit à l'intérieur de l'articulation et libère lentement les médicaments.",
+        "ar": "يتصلب الهلام داخل المفصل ويطلق الأدوية ببطء.",
+        "tr": "Jel eklem içinde sertleşir ve ilaçları yavaşça salar.",
+        "it": "Il gel si solidifica all'interno dell'articolazione e rilascia lentamente i farmaci.",
+        "pl": "Żel twardnieje wewnątrz stawu i powoli uwalnia leki."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "At the moment a rocket reaches orbit"
       ],
       "answerIndex": 1,
-      "hintKo": "Fewer injections would follow successful clinical use, not ancient history."
+      "hintKo": "Fewer injections would follow successful clinical use, not ancient history.",
+      "hintI18n": {
+        "en": "Fewer injections would follow successful clinical use, not ancient history.",
+        "ko": "더 적은 주사는 성공적인 임상 사용 후에 가능해지며, 고대 역사가 아닙니다.",
+        "zh-Hans": "减少注射次数将是成功临床应用之后的事，而不是古代历史。",
+        "ja": "注射が減るのは成功した臨床使用の後であり、古代の歴史ではありません。",
+        "es": "Menos inyecciones serían el resultado de un uso clínico exitoso, no de la historia antigua.",
+        "hi": "कम इंजेक्शन सफल नैदानिक उपयोग के बाद मिलेंगे, प्राचीन इतिहास में नहीं।",
+        "de": "Weniger Injektionen würden nach erfolgreicher klinischer Anwendung folgen, nicht in der Antike.",
+        "vi": "Ít mũi tiêm hơn sẽ đến sau khi sử dụng lâm sàng thành công, không phải từ thời cổ đại.",
+        "pt-BR": "Menos injeções viriam após uso clínico bem-sucedido, não da história antiga.",
+        "id": "Injeksi yang lebih sedikit akan terjadi setelah penggunaan klinis yang sukses, bukan dari sejarah kuno.",
+        "fr": "Moins d'injections découleraient d'un usage clinique réussi, pas de l'histoire ancienne.",
+        "ar": "عدد أقل من الحقن سيأتي بعد استخدام سريري ناجح، وليس من التاريخ القديم.",
+        "tr": "Daha az enjeksiyon, başarılı klinik kullanımdan sonra olur; antik tarihten değil.",
+        "it": "Meno iniezioni arriverebbero dopo un uso clinico riuscito, non dalla storia antica.",
+        "pl": "Mniej zastrzyków pojawiłoby się po udanym zastosowaniu klinicznym, a nie w starożytności."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a Sydney mining pit"
       ],
       "answerIndex": 0,
-      "hintKo": "The design targets the joint space, not outer space or mines."
+      "hintKo": "The design targets the joint space, not outer space or mines.",
+      "hintI18n": {
+        "en": "The design targets the joint space, not outer space or mines.",
+        "ko": "이 설계는 관절 공간을 목표로 하며, 우주나 광산이 아닙니다.",
+        "zh-Hans": "该设计针对关节间隙，而不是外太空或矿山。",
+        "ja": "この設計は関節腔を対象としており、宇宙や鉱山ではありません。",
+        "es": "El diseño se dirige al espacio articular, no al espacio exterior ni a las minas.",
+        "hi": "यह डिज़ाइन जोड़ के स्थान को लक्षित करता है, बाहरी अंतरिक्ष या खदानों को नहीं।",
+        "de": "Das Design zielt auf den Gelenkspalt, nicht auf den Weltraum oder Bergwerke.",
+        "vi": "Thiết kế nhắm vào khoang khớp, không phải không gian vũ trụ hay mỏ.",
+        "pt-BR": "O design visa o espaço articular, não o espaço sideral ou minas.",
+        "id": "Desain ini menyasar ruang sendi, bukan luar angkasa atau tambang.",
+        "fr": "La conception cible l'espace articulaire, pas l'espace extra-atmosphérique ni les mines.",
+        "ar": "يستهدف التصميم فراغ المفصل، وليس الفضاء الخارجي أو المناجم.",
+        "tr": "Tasarım eklem boşluğunu hedefliyor; uzayı veya madenleri değil.",
+        "it": "Il design prende di mira lo spazio articolare, non lo spazio esterno o le miniere.",
+        "pl": "Projekt ma na celu przestrzeń stawu, a nie przestrzeń kosmiczną czy kopalnie."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Dark matter flashes hide the drugs"
       ],
       "answerIndex": 3,
-      "hintKo": "Current shots wear off because drugs leave the joint too fast."
+      "hintKo": "Current shots wear off because drugs leave the joint too fast.",
+      "hintI18n": {
+        "en": "Current shots wear off because drugs leave the joint too fast.",
+        "ko": "현재 주사는 약물이 관절에서 너무 빨리 빠져나가기 때문에 효과가 사라집니다.",
+        "zh-Hans": "目前的注射剂效果会消退，因为药物离开关节太快。",
+        "ja": "現在の注射は、薬が関節からあまりに早く出て行くため、効果が切れます。",
+        "es": "Las inyecciones actuales pierden efecto porque los medicamentos salen de la articulación demasiado rápido.",
+        "hi": "मौजूदा इंजेक्शन इसलिए असर खो देते हैं क्योंकि दवाएँ जोड़ से बहुत जल्दी निकल जाती हैं।",
+        "de": "Aktuelle Spritzen verlieren ihre Wirkung, weil die Medikamente das Gelenk zu schnell verlassen.",
+        "vi": "Các mũi tiêm hiện tại mất tác dụng vì thuốc rời khỏi khớp quá nhanh.",
+        "pt-BR": "As injeções atuais perdem o efeito porque os medicamentos saem da articulação rápido demais.",
+        "id": "Suntikan saat ini hilang efeknya karena obat meninggalkan sendi terlalu cepat.",
+        "fr": "Les injections actuelles perdent leur effet parce que les médicaments quittent l'articulation trop vite.",
+        "ar": "تفقد الحقن الحالية مفعولها لأن الأدوية تغادر المفصل بسرعة كبيرة.",
+        "tr": "Mevcut enjeksiyonlar, ilaçlar eklemden çok hızlı ayrıldığı için etkisini kaybediyor.",
+        "it": "Le iniezioni attuali perdono efficacia perché i farmaci lasciano l'articolazione troppo in fretta.",
+        "pl": "Obecne zastrzyki przestają działać, ponieważ leki zbyt szybko opuszczają staw."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Through diffusion and gradual relaxation of the matrix over weeks"
       ],
       "answerIndex": 4,
-      "hintKo": "Release is gradual through the gel matrix, not through rockets or banking."
+      "hintKo": "Release is gradual through the gel matrix, not through rockets or banking.",
+      "hintI18n": {
+        "en": "Release is gradual through the gel matrix, not through rockets or banking.",
+        "ko": "방출은 젤 기질을 통해 점진적으로 일어나며, 로켓이나 금융을 통해서가 아닙니다.",
+        "zh-Hans": "释放是通过凝胶基质逐渐进行的，而不是通过火箭或银行业务。",
+        "ja": "放出はゲルマトリクスを通じて徐々に起こり、ロケットや銀行業務によるものではありません。",
+        "es": "La liberación es gradual a través de la matriz del gel, no mediante cohetes ni la banca.",
+        "hi": "रिलीज़ जेल मैट्रिक्स के ज़रिए धीरे-धीरे होती है, रॉकेट या बैंकिंग के ज़रिए नहीं।",
+        "de": "Die Freisetzung erfolgt allmählich durch die Gelmatrix, nicht durch Raketen oder Bankwesen.",
+        "vi": "Việc giải phóng diễn ra dần dần qua chất nền gel, không phải qua tên lửa hay ngân hàng.",
+        "pt-BR": "A liberação é gradual através da matriz do gel, não por foguetes ou bancos.",
+        "id": "Pelepasan terjadi secara bertahap melalui matriks gel, bukan melalui roket atau perbankan.",
+        "fr": "La libération est progressive à travers la matrice du gel, non par des fusées ou le secteur bancaire.",
+        "ar": "يحدث الإطلاق تدريجيًا عبر مصفوفة الهلام، وليس عبر الصواريخ أو الخدمات المصرفية.",
+        "tr": "Salım jel matrisi boyunca kademeli olarak gerçekleşir; roketler veya bankacılık yoluyla değil.",
+        "it": "Il rilascio è graduale attraverso la matrice del gel, non tramite razzi o banche.",
+        "pl": "Uwalnianie jest stopniowe przez matrycę żelu, a nie przez rakiety czy bankowość."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "A medieval king"
       ],
       "answerIndex": 0,
-      "hintKo": "Henrik Birkedal helped lead the tusk study."
+      "hintKo": "Henrik Birkedal helped lead the tusk study.",
+      "hintI18n": {
+        "en": "Henrik Birkedal helped lead the tusk study.",
+        "ko": "헨리크 비르케달이 엄니 연구를 이끄는 데 도움을 주었습니다.",
+        "zh-Hans": "亨里克·比克达尔帮助领导了长牙研究。",
+        "ja": "ヘンリク・ビルケダルは牙の研究を主導するのを手伝いました。",
+        "es": "Henrik Birkedal ayudó a dirigir el estudio del colmillo.",
+        "hi": "हेनरिक बिर्केडल ने दांत के अध्ययन का नेतृत्व करने में मदद की।",
+        "de": "Henrik Birkedal half, die Stoßzahn-Studie zu leiten.",
+        "vi": "Henrik Birkedal đã giúp lãnh đạo nghiên cứu về ngà.",
+        "pt-BR": "Henrik Birkedal ajudou a liderar o estudo da presa.",
+        "id": "Henrik Birkedal membantu memimpin studi gading.",
+        "fr": "Henrik Birkedal a aidé à diriger l'étude sur la défense.",
+        "ar": "ساعد هنريك بيركيدال في قيادة دراسة الناب.",
+        "tr": "Henrik Birkedal diş çalışmasını yönetmeye yardım etti.",
+        "it": "Henrik Birkedal ha contribuito a guidare lo studio della zanna.",
+        "pl": "Henrik Birkedal pomógł kierować badaniem ciosu."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Nothing at all"
       ],
       "answerIndex": 1,
-      "hintKo": "The outer and inner layers twist in opposite ways."
+      "hintKo": "The outer and inner layers twist in opposite ways.",
+      "hintI18n": {
+        "en": "The outer and inner layers twist in opposite ways.",
+        "ko": "바깥층과 안쪽층은 반대 방향으로 꼬여 있습니다.",
+        "zh-Hans": "外层和内层以相反的方向扭曲。",
+        "ja": "外側と内側の層は反対方向にねじれています。",
+        "es": "Las capas externa e interna se retuercen en direcciones opuestas.",
+        "hi": "बाहरी और आंतरिक परतें विपरीत दिशाओं में मुड़ी होती हैं।",
+        "de": "Die äußere und die innere Schicht verdrehen sich in entgegengesetzte Richtungen.",
+        "vi": "Các lớp bên ngoài và bên trong xoắn theo hướng ngược nhau.",
+        "pt-BR": "As camadas externa e interna se torcem em direções opostas.",
+        "id": "Lapisan luar dan dalam memilin dengan arah yang berlawanan.",
+        "fr": "Les couches externe et interne se torsadent dans des directions opposées.",
+        "ar": "تنثني الطبقتان الخارجية والداخلية في اتجاهين متعاكسين.",
+        "tr": "Dış ve iç katmanlar zıt yönlerde bükülür.",
+        "it": "Gli strati esterno e interno si attorcigliano in direzioni opposte.",
+        "pl": "Zewnętrzna i wewnętrzna warstwa skręcają się w przeciwnych kierunkach."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Last month"
       ],
       "answerIndex": 0,
-      "hintKo": "That trade happened in the Middle Ages."
+      "hintKo": "That trade happened in the Middle Ages.",
+      "hintI18n": {
+        "en": "That trade happened in the Middle Ages.",
+        "ko": "그 거래는 중세에 일어났습니다.",
+        "zh-Hans": "那笔交易发生在中世纪。",
+        "ja": "その取引は中世に行われました。",
+        "es": "Ese comercio ocurrió en la Edad Media.",
+        "hi": "वह व्यापार मध्य युग में हुआ था।",
+        "de": "Dieser Handel fand im Mittelalter statt.",
+        "vi": "Việc buôn bán đó đã diễn ra vào thời Trung cổ.",
+        "pt-BR": "Esse comércio aconteceu na Idade Média.",
+        "id": "Perdagangan itu terjadi pada Abad Pertengahan.",
+        "fr": "Ce commerce a eu lieu au Moyen Âge.",
+        "ar": "حدثت تلك التجارة في العصور الوسطى.",
+        "tr": "Bu ticaret Orta Çağ'da gerçekleşti.",
+        "it": "Quel commercio avvenne nel Medioevo.",
+        "pl": "Ten handel miał miejsce w średniowieczu."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In Lake Baikal"
       ],
       "answerIndex": 1,
-      "hintKo": "Narwhals live in the Arctic Ocean."
+      "hintKo": "Narwhals live in the Arctic Ocean.",
+      "hintI18n": {
+        "en": "Narwhals live in the Arctic Ocean.",
+        "ko": "일각고래는 북극해에 살고 있습니다.",
+        "zh-Hans": "独角鲸生活在北冰洋。",
+        "ja": "イッカクは北極海に生息しています。",
+        "es": "Los narvales viven en el océano Ártico.",
+        "hi": "नारव्हेल आर्कटिक महासागर में रहते हैं।",
+        "de": "Narwale leben im Arktischen Ozean.",
+        "vi": "Kỳ lân biển sống ở Bắc Băng Dương.",
+        "pt-BR": "Narvals vivem no Oceano Ártico.",
+        "id": "Narwhal hidup di Samudra Arktik.",
+        "fr": "Les narvals vivent dans l'océan Arctique.",
+        "ar": "تعيش حيتان النروال في المحيط المتجمد الشمالي.",
+        "tr": "Narwhaller Arktik Okyanusu'nda yaşar.",
+        "it": "I narvali vivono nell'Oceano Artico.",
+        "pl": "Narwale żyją w Oceanie Arktycznym."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It never grows"
       ],
       "answerIndex": 0,
-      "hintKo": "The counter-spirals may keep the tusk straight."
+      "hintKo": "The counter-spirals may keep the tusk straight.",
+      "hintI18n": {
+        "en": "The counter-spirals may keep the tusk straight.",
+        "ko": "반대 나선이 엄니를 곧게 유지할 수 있습니다.",
+        "zh-Hans": "反向螺旋可能使长牙保持笔直。",
+        "ja": "逆らせんが牙をまっすぐに保つかもしれません。",
+        "es": "Las contraespirales pueden mantener el colmillo recto.",
+        "hi": "विपरीत सर्पिल दांत को सीधा रख सकते हैं।",
+        "de": "Die Gegenspiralen könnten den Stoßzahn gerade halten.",
+        "vi": "Các đường xoắn ngược có thể giữ cho ngà thẳng.",
+        "pt-BR": "As contraespirais podem manter a presa reta.",
+        "id": "Spiral berlawanan dapat menjaga gading tetap lurus.",
+        "fr": "Les contre-spirales peuvent garder la défense droite.",
+        "ar": "قد تحافظ الحلزونات المعاكسة على استقامة الناب.",
+        "tr": "Ters spiraller dişi düz tutabilir.",
+        "it": "Le contro-spirali possono mantenere la zanna dritta.",
+        "pl": "Przeciwspirale mogą utrzymać cios prosto."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By boiling it"
       ],
       "answerIndex": 1,
-      "hintKo": "The team used three-dimensional X-ray imaging."
+      "hintKo": "The team used three-dimensional X-ray imaging.",
+      "hintI18n": {
+        "en": "The team used three-dimensional X-ray imaging.",
+        "ko": "그 팀은 3차원 엑스레이 영상 촬영을 사용했습니다.",
+        "zh-Hans": "团队使用了三维X射线成像。",
+        "ja": "チームは3次元X線画像を使いました。",
+        "es": "El equipo usó imágenes de rayos X en tres dimensiones.",
+        "hi": "टीम ने त्रिआयामी एक्स-रे इमेजिंग का इस्तेमाल किया।",
+        "de": "Das Team nutzte dreidimensionale Röntgenbildgebung.",
+        "vi": "Nhóm đã dùng hình ảnh X-quang ba chiều.",
+        "pt-BR": "A equipe usou imagens de raios X em três dimensões.",
+        "id": "Tim menggunakan pencitraan sinar-X tiga dimensi.",
+        "fr": "L'équipe a utilisé l'imagerie par rayons X en trois dimensions.",
+        "ar": "استخدم الفريق تصويرًا بالأشعة السينية ثلاثي الأبعاد.",
+        "tr": "Ekip üç boyutlu röntgen görüntüleme kullandı.",
+        "it": "Il team ha usato l'imaging a raggi X tridimensionale.",
+        "pl": "Zespół użył trójwymiarowego obrazowania rentgenowskiego."
+      }
     }
   ],
   "youtube_url": ""

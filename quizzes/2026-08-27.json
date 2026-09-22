@@ -17,7 +17,24 @@
         "Reuters"
       ],
       "answerIndex": 0,
-      "hintKo": "World Weather Attribution researchers did the study."
+      "hintKo": "World Weather Attribution researchers did the study.",
+      "hintI18n": {
+        "en": "World Weather Attribution researchers did the study.",
+        "ko": "월드 웨더 어트리뷰션 연구진이 이 연구를 수행했다.",
+        "zh-Hans": "世界天气归因组织的研究人员做了这项研究。",
+        "ja": "ワールド・ウェザー・アトリビューションの研究者がこの研究を行った。",
+        "es": "Los investigadores de World Weather Attribution realizaron el estudio.",
+        "hi": "वर्ल्ड वेदर एट्रिब्यूशन के शोधकर्ताओं ने यह अध्ययन किया।",
+        "de": "Forscher von World Weather Attribution haben die Studie durchgeführt.",
+        "vi": "Các nhà nghiên cứu của World Weather Attribution đã thực hiện nghiên cứu này.",
+        "pt-BR": "Pesquisadores da World Weather Attribution fizeram o estudo.",
+        "id": "Peneliti World Weather Attribution melakukan studi ini.",
+        "fr": "Les chercheurs de World Weather Attribution ont réalisé l’étude.",
+        "ar": "أجرى باحثو World Weather Attribution الدراسة.",
+        "tr": "Araştırmayı World Weather Attribution araştırmacıları yaptı.",
+        "it": "I ricercatori di World Weather Attribution hanno condotto lo studio.",
+        "pl": "Badacze z World Weather Attribution przeprowadzili to badanie."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It had no effect"
       ],
       "answerIndex": 1,
-      "hintKo": "Carbon pollution expanded the marine heatwaves."
+      "hintKo": "Carbon pollution expanded the marine heatwaves.",
+      "hintI18n": {
+        "en": "Carbon pollution expanded the marine heatwaves.",
+        "ko": "탄소 오염이 해양 열파를 확대했다.",
+        "zh-Hans": "碳污染扩大了海洋热浪。",
+        "ja": "炭素汚染が海洋熱波を拡大した。",
+        "es": "La contaminación por carbono expandió las olas de calor marinas.",
+        "hi": "कार्बन प्रदूषण ने समुद्री लू को बढ़ाया।",
+        "de": "Kohlenstoffverschmutzung hat die marinen Hitzewellen ausgeweitet.",
+        "vi": "Ô nhiễm carbon đã mở rộng các đợt nắng nóng trên biển.",
+        "pt-BR": "A poluição por carbono ampliou as ondas de calor marinhas.",
+        "id": "Polusi karbon memperluas gelombang panas laut.",
+        "fr": "La pollution au carbone a amplifié les vagues de chaleur marines.",
+        "ar": "وسّع التلوث الكربوني موجات الحر البحرية.",
+        "tr": "Karbon kirliliği deniz sıcak dalgalarını genişletti.",
+        "it": "L’inquinamento da carbonio ha ampliato le ondate di calore marine.",
+        "pl": "Zanieczyszczenie węglem nasiliło morskie fale upałów."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Never"
       ],
       "answerIndex": 0,
-      "hintKo": "They would have been impossible before industrialization."
+      "hintKo": "They would have been impossible before industrialization.",
+      "hintI18n": {
+        "en": "They would have been impossible before industrialization.",
+        "ko": "산업화 이전에는 그것들이 사실상 불가능했을 것이다.",
+        "zh-Hans": "在工业化之前，它们本不可能发生。",
+        "ja": "産業化以前には、それらは起こり得なかっただろう。",
+        "es": "Habrían sido imposibles antes de la industrialización.",
+        "hi": "औद्योगीकरण से पहले ये असंभव होते।",
+        "de": "Vor der Industrialisierung wären sie unmöglich gewesen.",
+        "vi": "Chúng sẽ không thể xảy ra trước thời kỳ công nghiệp hóa.",
+        "pt-BR": "Elas teriam sido impossíveis antes da industrialização.",
+        "id": "Hal itu tidak mungkin terjadi sebelum industrialisasi.",
+        "fr": "Elles auraient été impossibles avant l’industrialisation.",
+        "ar": "كانت ستكون مستحيلة قبل التصنيع.",
+        "tr": "Sanayileşmeden önce bunlar imkânsız olurdu.",
+        "it": "Sarebbero state impossibili prima dell’industrializzazione.",
+        "pl": "Byłyby niemożliwe przed industrializacją."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Lake Geneva"
       ],
       "answerIndex": 1,
-      "hintKo": "Ninety percent of the Bay of Biscay and Iberian coast was hit."
+      "hintKo": "Ninety percent of the Bay of Biscay and Iberian coast was hit.",
+      "hintI18n": {
+        "en": "Ninety percent of the Bay of Biscay and Iberian coast was hit.",
+        "ko": "비스케이만과 이베리아 해안의 90퍼센트가 영향을 받았다.",
+        "zh-Hans": "比斯开湾和伊比利亚海岸的百分之九十受到影响。",
+        "ja": "ビスケー湾とイベリア海岸の90パーセントが影響を受けた。",
+        "es": "El noventa por ciento del golfo de Vizcaya y de la costa ibérica se vio afectado.",
+        "hi": "बिस्के की खाड़ी और इबेरियाई तट का नब्बे प्रतिशत प्रभावित हुआ।",
+        "de": "Neunzig Prozent des Golfs von Biskaya und der iberischen Küste waren betroffen.",
+        "vi": "Chín mươi phần trăm vịnh Biscay và bờ biển Iberia đã bị ảnh hưởng.",
+        "pt-BR": "Noventa por cento do Golfo da Biscaia e da costa ibérica foram atingidos.",
+        "id": "Sembilan puluh persen Teluk Biscay dan pesisir Iberia terkena dampak.",
+        "fr": "Quatre-vingt-dix pour cent du golfe de Gascogne et de la côte ibérique ont été touchés.",
+        "ar": "تأثر تسعون في المائة من خليج بسكاي والساحل الأيبيري.",
+        "tr": "Biskay Körfezi ve İber kıyılarının yüzde doksanı etkilendi.",
+        "it": "Il novanta per cento del Golfo di Biscaglia e della costa iberica è stato colpito.",
+        "pl": "Dziewięćdziesiąt procent Zatoki Biskajskiej i wybrzeża iberyjskiego zostało dotkniętych."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "They raise the price of umbrellas"
       ],
       "answerIndex": 0,
-      "hintKo": "Hot seas damage marine life and make coastal nights warmer."
+      "hintKo": "Hot seas damage marine life and make coastal nights warmer.",
+      "hintI18n": {
+        "en": "Hot seas damage marine life and make coastal nights warmer.",
+        "ko": "뜨거운 바다는 해양 생물을 해치고 해안 지역의 밤을 더 덥게 만든다.",
+        "zh-Hans": "炎热的海洋会伤害海洋生物，并让沿海夜晚更热。",
+        "ja": "熱い海は海洋生物を傷つけ、沿岸部の夜をより暑くする。",
+        "es": "Los mares calientes dañan la vida marina y hacen más cálidas las noches costeras.",
+        "hi": "गर्म समुद्र समुद्री जीवन को नुकसान पहुँचाते हैं और तटीय रातों को अधिक गर्म बनाते हैं।",
+        "de": "Heiße Meere schaden dem Meeresleben und machen Küstennächte wärmer.",
+        "vi": "Biển nóng làm hại sinh vật biển và khiến đêm ven biển ấm hơn.",
+        "pt-BR": "Mares quentes prejudicam a vida marinha e deixam as noites costeiras mais quentes.",
+        "id": "Laut yang panas merusak kehidupan laut dan membuat malam di pesisir lebih hangat.",
+        "fr": "Les mers chaudes nuisent à la vie marine et rendent les nuits côtières plus chaudes.",
+        "ar": "تضر البحار الساخنة بالحياة البحرية وتجعل الليالي الساحلية أكثر حرارة.",
+        "tr": "Sıcak denizler deniz yaşamına zarar verir ve kıyı gecelerini daha sıcak yapar.",
+        "it": "I mari caldi danneggiano la vita marina e rendono più calde le notti costiere.",
+        "pl": "Gorące morza szkodzą życiu morskiemu i sprawiają, że noce na wybrzeżu są cieplejsze."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By guessing"
       ],
       "answerIndex": 1,
-      "hintKo": "The team compared real data with models."
+      "hintKo": "The team compared real data with models.",
+      "hintI18n": {
+        "en": "The team compared real data with models.",
+        "ko": "팀은 실제 데이터를 모델과 비교했습니다.",
+        "zh-Hans": "团队将真实数据与模型进行了比较。",
+        "ja": "チームは実際のデータとモデルを比較しました。",
+        "es": "El equipo comparó datos reales con modelos.",
+        "hi": "टीम ने वास्तविक डेटा की तुलना मॉडलों से की।",
+        "de": "Das Team verglich echte Daten mit Modellen.",
+        "vi": "Nhóm đã so sánh dữ liệu thực với các mô hình.",
+        "pt-BR": "A equipe comparou dados reais com modelos.",
+        "id": "Tim membandingkan data nyata dengan model.",
+        "fr": "L'équipe a comparé des données réelles avec des modèles.",
+        "ar": "قارن الفريق البيانات الحقيقية بالنماذج.",
+        "tr": "Ekip gerçek verileri modellerle karşılaştırdı.",
+        "it": "Il team ha confrontato dati reali con modelli.",
+        "pl": "Zespół porównał rzeczywiste dane z modelami."
+      }
     }
   ],
   "youtube_url": ""

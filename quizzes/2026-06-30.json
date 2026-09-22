@@ -17,7 +17,24 @@
         "In southern Sudan"
       ],
       "answerIndex": 2,
-      "hintKo": "The site is in the western Nile Delta, not near the Pyramids or other locations mentioned."
+      "hintKo": "The site is in the western Nile Delta, not near the Pyramids or other locations mentioned.",
+      "hintI18n": {
+        "en": "The site is in the western Nile Delta, not near the Pyramids or other locations mentioned.",
+        "ko": "유적지는 서부 나일 삼각주에 있으며, 피라미드 근처나 언급된 다른 장소에 있지 않습니다.",
+        "zh-Hans": "该遗址位于尼罗河三角洲西部，不在金字塔附近或提到的其他地点。",
+        "ja": "遺跡はナイル川デルタ西部にあり、ピラミッドの近くや言及された他の場所ではありません。",
+        "es": "El yacimiento está en el delta occidental del Nilo, no cerca de las pirámides ni de otros lugares mencionados.",
+        "hi": "यह स्थल पश्चिमी नील डेल्टा में है, पिरामिडों के पास या उल्लिखित अन्य स्थानों पर नहीं।",
+        "de": "Die Stätte liegt im westlichen Nildelta, nicht nahe den Pyramiden oder anderen genannten Orten.",
+        "vi": "Địa điểm nằm ở đồng bằng sông Nile phía tây, không phải gần các kim tự tháp hay những nơi khác được nhắc đến.",
+        "pt-BR": "O sítio fica no delta ocidental do Nilo, não perto das pirâmides ou de outros locais mencionados.",
+        "id": "Situsnya berada di Delta Nil bagian barat, bukan di dekat piramida atau lokasi lain yang disebutkan.",
+        "fr": "Le site se trouve dans le delta occidental du Nil, pas près des pyramides ni d'autres lieux mentionnés.",
+        "ar": "يقع الموقع في غرب دلتا النيل، وليس قرب الأهرامات أو أماكن أخرى مذكورة.",
+        "tr": "Alan Batı Nil Deltası'ndadır; Piramitlerin yakınında ya da bahsedilen diğer yerlerde değildir.",
+        "it": "Il sito si trova nel delta occidentale del Nilo, non vicino alle piramidi o ad altri luoghi menzionati.",
+        "pl": "Stanowisko znajduje się w zachodniej delcie Nilu, a nie w pobliżu piramid czy innych wspomnianych miejsc."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Ancient scrolls in metal boxes"
       ],
       "answerIndex": 0,
-      "hintKo": "The discovery was wild boar burials, not treasure, temples, fossils, or scrolls."
+      "hintKo": "The discovery was wild boar burials, not treasure, temples, fossils, or scrolls.",
+      "hintI18n": {
+        "en": "The discovery was wild boar burials, not treasure, temples, fossils, or scrolls.",
+        "ko": "발견된 것은 야생 멧돼지 무덤이었으며, 보물이나 사원, 화석, 두루마리가 아니었습니다.",
+        "zh-Hans": "这一发现是野猪墓葬，而不是宝藏、神庙、化石或卷轴。",
+        "ja": "発見されたのは野生イノシシの埋葬で、宝物や神殿、化石、巻物ではありませんでした。",
+        "es": "El descubrimiento fueron entierros de jabalíes salvajes, no tesoros, templos, fósiles ni rollos.",
+        "hi": "यह खोज जंगली सूअरों के कब्रगाह थे, न कि खजाना, मंदिर, जीवाश्म या स्क्रॉल।",
+        "de": "Die Entdeckung waren Wildschweinbestattungen, nicht Schätze, Tempel, Fossilien oder Schriftrollen.",
+        "vi": "Phát hiện là những ngôi mộ chôn lợn rừng, không phải kho báu, đền thờ, hóa thạch hay cuộn giấy.",
+        "pt-BR": "A descoberta foi enterros de javalis, não tesouros, templos, fósseis ou pergaminhos.",
+        "id": "Penemuannya adalah penguburan babi hutan, bukan harta karun, kuil, fosil, atau gulungan.",
+        "fr": "La découverte était des sépultures de sangliers, non des trésors, des temples, des fossiles ou des rouleaux.",
+        "ar": "كان الاكتشاف دفنات لخنازير برية، وليس كنزًا أو معابد أو حفريات أو لفائف.",
+        "tr": "Keşif yaban domuzu gömüleriydi; hazine, tapınak, fosil veya parşömen değil.",
+        "it": "La scoperta era sepolture di cinghiali, non tesori, templi, fossili o rotoli.",
+        "pl": "Odkryciem były pochówki dzików, a nie skarby, świątynie, skamieniałości czy zwoje."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Burial was reserved for royalty only"
       ],
       "answerIndex": 3,
-      "hintKo": "The burials are unusual because pigs and boars were considered impure in ancient Egyptian culture."
+      "hintKo": "The burials are unusual because pigs and boars were considered impure in ancient Egyptian culture.",
+      "hintI18n": {
+        "en": "The burials are unusual because pigs and boars were considered impure in ancient Egyptian culture.",
+        "ko": "이 무덤들이 이례적인 이유는 고대 이집트 문화에서 돼지와 멧돼지가 부정한 것으로 여겨졌기 때문입니다.",
+        "zh-Hans": "这些墓葬之所以不寻常，是因为在古埃及文化中，猪和野猪被认为是不洁的。",
+        "ja": "これらの埋葬が珍しいのは、古代エジプト文化で豚とイノシシが不浄と見なされていたからです。",
+        "es": "Estos entierros son inusuales porque en la cultura del antiguo Egipto los cerdos y jabalíes se consideraban impuros.",
+        "hi": "ये कब्रगाह असामान्य हैं क्योंकि प्राचीन मिस्र की संस्कृति में सूअर और जंगली सूअर अपवित्र माने जाते थे।",
+        "de": "Diese Bestattungen sind ungewöhnlich, weil Schweine und Wildschweine im alten Ägypten als unrein galten.",
+        "vi": "Những ngôi mộ này bất thường vì trong văn hóa Ai Cập cổ đại, lợn và lợn rừng bị coi là ô uế.",
+        "pt-BR": "Esses enterros são incomuns porque, na cultura do Egito Antigo, porcos e javalis eram considerados impuros.",
+        "id": "Pemakaman ini tidak biasa karena dalam budaya Mesir kuno, babi dan babi hutan dianggap najis.",
+        "fr": "Ces sépultures sont inhabituelles car, dans la culture de l'Égypte ancienne, les porcs et les sangliers étaient considérés comme impurs.",
+        "ar": "هذه الدفنات غير عادية لأن الخنازير والخنازير البرية كانت تُعتبر نجسة في ثقافة مصر القديمة.",
+        "tr": "Bu gömüler sıra dışıdır çünkü antik Mısır kültüründe domuzlar ve yaban domuzları kirli sayılırdı.",
+        "it": "Queste sepolture sono insolite perché nella cultura dell'antico Egitto maiali e cinghiali erano considerati impuri.",
+        "pl": "Te pochówki są nietypowe, ponieważ w starożytnej kulturze egipskiej świnie i dziki uważano za nieczyste."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Anubis, the god of mummification"
       ],
       "answerIndex": 1,
-      "hintKo": "The burials may represent ritual sacrifice connected to Set, not Ra, Osiris, Horus, or Anubis."
+      "hintKo": "The burials may represent ritual sacrifice connected to Set, not Ra, Osiris, Horus, or Anubis.",
+      "hintI18n": {
+        "en": "The burials may represent ritual sacrifice connected to Set, not Ra, Osiris, Horus, or Anubis.",
+        "ko": "이 무덤은 세트와 관련된 의례적 희생을 나타낼 수 있으며, 라, 오시리스, 호루스, 아누비스와는 관련이 없습니다.",
+        "zh-Hans": "这些墓葬可能代表与赛特有关的仪式性献祭，而不是拉、奥西里斯、荷鲁斯或阿努比斯。",
+        "ja": "これらの埋葬はセトに関連する儀式の犠牲を表す可能性があり、ラー、オシリス、ホルス、アヌビスではありません。",
+        "es": "Estos entierros pueden representar un sacrificio ritual relacionado con Set, no con Ra, Osiris, Horus o Anubis.",
+        "hi": "ये कब्रगाह सेत से जुड़े अनुष्ठानिक बलिदान का प्रतिनिधित्व कर सकते हैं, न कि रा, ओसिरिस, होरस या अनुबिस।",
+        "de": "Diese Bestattungen könnten ein rituelles Opfer im Zusammenhang mit Set darstellen, nicht mit Ra, Osiris, Horus oder Anubis.",
+        "vi": "Những ngôi mộ này có thể đại diện cho nghi lễ hiến tế liên quan đến Set, không phải Ra, Osiris, Horus hay Anubis.",
+        "pt-BR": "Esses enterros podem representar sacrifício ritual ligado a Set, não a Rá, Osíris, Hórus ou Anúbis.",
+        "id": "Pemakaman ini mungkin mewakili pengorbanan ritual yang terkait dengan Set, bukan Ra, Osiris, Horus, atau Anubis.",
+        "fr": "Ces sépultures peuvent représenter un sacrifice rituel lié à Seth, non à Rê, Osiris, Horus ou Anubis.",
+        "ar": "قد تمثل هذه الدفنات تضحية طقسية مرتبطة بست، وليس برع أو أوزيريس أو حورس أو أنوبيس.",
+        "tr": "Bu gömüler, Ra, Osiris, Horus veya Anubis'e değil, Set ile bağlantılı ritüel kurbanı temsil ediyor olabilir.",
+        "it": "Queste sepolture potrebbero rappresentare un sacrificio rituale legato a Seth, non a Ra, Osiride, Horus o Anubi.",
+        "pl": "Te pochówki mogą przedstawiać ofiarę rytualną związaną z Setem, a nie z Ra, Ozyrysem, Horusem czy Anubisem."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Over three thousand years"
       ],
       "answerIndex": 4,
-      "hintKo": "The site preserves over three thousand years — much longer than the other options."
+      "hintKo": "The site preserves over three thousand years — much longer than the other options.",
+      "hintI18n": {
+        "en": "The site preserves over three thousand years — much longer than the other options.",
+        "ko": "이 유적지는 3천 년이 넘는 세월을 보존하고 있어 다른 선택지보다 훨씬 오래되었습니다.",
+        "zh-Hans": "该遗址保存了三千多年的历史，比其他选项长得多。",
+        "ja": "この遺跡は3000年以上の歴史を保存しており、他の選択肢よりはるかに長いです。",
+        "es": "El sitio conserva más de tres mil años, mucho más que las otras opciones.",
+        "hi": "यह स्थल तीन हज़ार वर्षों से अधिक समय को संरक्षित रखता है — अन्य विकल्पों से कहीं अधिक लंबा।",
+        "de": "Die Stätte bewahrt über dreitausend Jahre – viel länger als die anderen Optionen.",
+        "vi": "Di chỉ này lưu giữ hơn ba nghìn năm — lâu hơn nhiều so với các lựa chọn khác.",
+        "pt-BR": "O sítio preserva mais de três mil anos — muito mais do que as outras opções.",
+        "id": "Situs ini menyimpan lebih dari tiga ribu tahun — jauh lebih lama daripada pilihan lain.",
+        "fr": "Le site conserve plus de trois mille ans — bien plus longtemps que les autres options.",
+        "ar": "يحفظ الموقع أكثر من ثلاثة آلاف عام — أطول بكثير من الخيارات الأخرى.",
+        "tr": "Sit, üç bin yıldan fazla bir süreyi koruyor — diğer seçeneklerden çok daha uzun.",
+        "it": "Il sito conserva oltre tremila anni — molto più a lungo delle altre opzioni.",
+        "pl": "Stanowisko zachowuje ponad trzy tysiące lat — znacznie dłużej niż pozostałe opcje."
+      }
     }
   ],
   "youtube_url": ""

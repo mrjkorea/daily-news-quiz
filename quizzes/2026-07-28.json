@@ -17,7 +17,24 @@
         "Russian space scientists"
       ],
       "answerIndex": 1,
-      "hintKo": "The research was led by Professor Gerya at ETH Zurich."
+      "hintKo": "The research was led by Professor Gerya at ETH Zurich.",
+      "hintI18n": {
+        "en": "The research was led by Professor Gerya at ETH Zurich.",
+        "ko": "이 연구는 취리히 연방공과대학의 게랴 교수가 이끌었다.",
+        "zh-Hans": "这项研究由苏黎世联邦理工学院的盖里亚教授领导。",
+        "ja": "この研究はETHチューリッヒのゲリャ教授が率いた。",
+        "es": "La investigación fue dirigida por el profesor Gerya en la ETH Zúrich.",
+        "hi": "इस शोध का नेतृत्व ईटीएच ज्यूरिख में प्रोफेसर गेर्या ने किया।",
+        "de": "Die Forschung wurde von Professor Gerya an der ETH Zürich geleitet.",
+        "vi": "Nghiên cứu do Giáo sư Gerya tại ETH Zurich dẫn dắt.",
+        "pt-BR": "A pesquisa foi liderada pelo professor Gerya na ETH Zurique.",
+        "id": "Penelitian ini dipimpin oleh Profesor Gerya di ETH Zurich.",
+        "fr": "La recherche a été dirigée par le professeur Gerya à l’ETH Zurich.",
+        "ar": "قاد البحث البروفيسور غيريا في المعهد الفدرالي السويسري للتكنولوجيا في زيورخ.",
+        "tr": "Araştırma, ETH Zürih'teki Profesör Gerya tarafından yönetildi.",
+        "it": "La ricerca è stata guidata dal professor Gerya al Politecnico federale di Zurigo (ETH Zurigo).",
+        "pl": "Badaniami kierował profesor Gerya w ETH Zurich."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "They are exactly the same as old rifts"
       ],
       "answerIndex": 0,
-      "hintKo": "The key finding was about the broad, high flanks of young rifts."
+      "hintKo": "The key finding was about the broad, high flanks of young rifts.",
+      "hintI18n": {
+        "en": "The key finding was about the broad, high flanks of young rifts.",
+        "ko": "핵심 발견은 젊은 리프트의 넓고 높은 측면에 관한 것이었다.",
+        "zh-Hans": "关键发现是关于年轻裂谷宽阔而高耸的两侧。",
+        "ja": "主な発見は、若いリフトの広く高い側面に関するものだった。",
+        "es": "El hallazgo clave fue sobre los flancos anchos y altos de los rifts jóvenes.",
+        "hi": "मुख्य निष्कर्ष युवा रिफ्टों के चौड़े, ऊँचे किनारों के बारे में था।",
+        "de": "Der wichtigste Befund betraf die breiten, hohen Flanken junger Rifts.",
+        "vi": "Phát hiện chính liên quan đến các sườn rộng và cao của các đới tách giãn trẻ.",
+        "pt-BR": "A principal descoberta foi sobre os flancos largos e altos de rifts jovens.",
+        "id": "Temuan utamanya adalah tentang sisi lebar dan tinggi dari rift muda.",
+        "fr": "La principale découverte concernait les flancs larges et élevés des jeunes rifts.",
+        "ar": "كان الاكتشاف الرئيسي يتعلق بالجانبين العريضين والمرتفعين للصدوع الشابة.",
+        "tr": "Temel bulgu, genç riftlerin geniş ve yüksek yamaçlarıyla ilgiliydi.",
+        "it": "La scoperta principale riguardava i fianchi ampi ed elevati dei giovani rift.",
+        "pl": "Kluczowym odkryciem były szerokie i wysokie zbocza młodych ryftów."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Early 2030s"
       ],
       "answerIndex": 4,
-      "hintKo": "The article specifically mentions early 2030s as the launch window."
+      "hintKo": "The article specifically mentions early 2030s as the launch window.",
+      "hintI18n": {
+        "en": "The article specifically mentions early 2030s as the launch window.",
+        "ko": "이 기사는 2030년대 초를 발사 시기로 구체적으로 언급한다.",
+        "zh-Hans": "文章特别提到2030年代初是发射窗口。",
+        "ja": "記事は2030年代初頭を打ち上げ時期として具体的に挙げている。",
+        "es": "El artículo menciona específicamente los primeros años de la década de 2030 como ventana de lanzamiento.",
+        "hi": "लेख में विशेष रूप से 2030 के दशक की शुरुआत को प्रक्षेपण अवधि बताया गया है।",
+        "de": "Der Artikel nennt ausdrücklich die frühen 2030er Jahre als Startfenster.",
+        "vi": "Bài báo đặc biệt đề cập đầu những năm 2030 là cửa sổ phóng.",
+        "pt-BR": "O artigo menciona especificamente o início da década de 2030 como janela de lançamento.",
+        "id": "Artikel itu secara khusus menyebut awal 2030-an sebagai jendela peluncuran.",
+        "fr": "L’article mentionne spécifiquement le début des années 2030 comme fenêtre de lancement.",
+        "ar": "يذكر المقال تحديدًا أوائل ثلاثينيات القرن الحادي والعشرين كنافذة الإطلاق.",
+        "tr": "Makale, fırlatma penceresi olarak özellikle 2030'ların başını belirtiyor.",
+        "it": "L'articolo menziona specificamente i primi anni 2030 come finestra di lancio.",
+        "pl": "Artykuł konkretnie podaje wczesne lata 30. XXI wieku jako okno startowe."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "The Soviet Venera landers"
       ],
       "answerIndex": 2,
-      "hintKo": "The Magellan probe provided the surface images used for comparison."
+      "hintKo": "The Magellan probe provided the surface images used for comparison.",
+      "hintI18n": {
+        "en": "The Magellan probe provided the surface images used for comparison.",
+        "ko": "마젤란 탐사선이 비교에 사용된 표면 이미지를 제공했다.",
+        "zh-Hans": "麦哲伦号探测器提供了用于比较的表面图像。",
+        "ja": "マゼラン探査機が比較に使われた表面画像を提供した。",
+        "es": "La sonda Magallanes proporcionó las imágenes de la superficie usadas para la comparación.",
+        "hi": "मैगलन यान ने तुलना के लिए उपयोग की गई सतह की तस्वीरें प्रदान कीं।",
+        "de": "Die Magellan-Sonde lieferte die für den Vergleich verwendeten Oberflächenbilder.",
+        "vi": "Tàu thăm dò Magellan đã cung cấp các hình ảnh bề mặt được dùng để so sánh.",
+        "pt-BR": "A sonda Magellan forneceu as imagens de superfície usadas para comparação.",
+        "id": "Wahana Magellan menyediakan citra permukaan yang digunakan untuk perbandingan.",
+        "fr": "La sonde Magellan a fourni les images de surface utilisées pour la comparaison.",
+        "ar": "وفّر مسبار ماجلان صور السطح المستخدمة في المقارنة.",
+        "tr": "Magellan sondası, karşılaştırma için kullanılan yüzey görüntülerini sağladı.",
+        "it": "La sonda Magellano ha fornito le immagini della superficie usate per il confronto.",
+        "pl": "Sonda Magellan dostarczyła zdjęcia powierzchni użyte do porównania."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because telescopes can see the rifts moving"
       ],
       "answerIndex": 1,
-      "hintKo": "The match between simulations and observed surface features is the key evidence."
+      "hintKo": "The match between simulations and observed surface features is the key evidence.",
+      "hintI18n": {
+        "en": "The match between simulations and observed surface features is the key evidence.",
+        "ko": "시뮬레이션과 관측된 표면 특징이 일치하는 것이 핵심 증거다.",
+        "zh-Hans": "模拟结果与观测到的表面特征相符，这是关键证据。",
+        "ja": "シミュレーションと観測された表面地形の一致が決め手となる証拠だ。",
+        "es": "La coincidencia entre las simulaciones y las características superficiales observadas es la evidencia clave.",
+        "hi": "सिमुलेशन और देखी गई सतही विशेषताओं के बीच मेल मुख्य प्रमाण है।",
+        "de": "Die Übereinstimmung zwischen Simulationen und beobachteten Oberflächenmerkmalen ist der entscheidende Beweis.",
+        "vi": "Sự khớp nhau giữa mô phỏng và các đặc điểm bề mặt quan sát được là bằng chứng chính.",
+        "pt-BR": "A correspondência entre as simulações e as características de superfície observadas é a evidência principal.",
+        "id": "Kesesuaian antara simulasi dan fitur permukaan yang diamati adalah bukti utamanya.",
+        "fr": "La correspondance entre les simulations et les caractéristiques de surface observées est la preuve clé.",
+        "ar": "التطابق بين المحاكاة والسمات السطحية المرصودة هو الدليل الرئيسي.",
+        "tr": "Simülasyonlar ile gözlenen yüzey özellikleri arasındaki uyum, temel kanıttır.",
+        "it": "La corrispondenza tra le simulazioni e le caratteristiche superficiali osservate è la prova chiave.",
+        "pl": "Zgodność symulacji z obserwowanymi cechami powierzchni jest kluczowym dowodem."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Nobody can measure the speed"
       ],
       "answerIndex": 0,
-      "hintKo": "The study found a rate of 3 to 10 centimeters per year."
+      "hintKo": "The study found a rate of 3 to 10 centimeters per year.",
+      "hintI18n": {
+        "en": "The study found a rate of 3 to 10 centimeters per year.",
+        "ko": "연구는 연간 3~10센티미터의 속도를 발견했습니다.",
+        "zh-Hans": "研究发现，这一速度是每年3到10厘米。",
+        "ja": "研究では、年間3～10センチメートルという速度が見つかりました。",
+        "es": "El estudio encontró una tasa de 3 a 10 centímetros por año.",
+        "hi": "अध्ययन में पाया गया कि यह दर प्रति वर्ष 3 से 10 सेंटीमीटर है।",
+        "de": "Die Studie ergab eine Rate von 3 bis 10 Zentimetern pro Jahr.",
+        "vi": "Nghiên cứu phát hiện tốc độ là 3 đến 10 cm mỗi năm.",
+        "pt-BR": "O estudo descobriu uma taxa de 3 a 10 centímetros por ano.",
+        "id": "Studi menemukan laju 3 hingga 10 sentimeter per tahun.",
+        "fr": "L’étude a trouvé un rythme de 3 à 10 centimètres par an.",
+        "ar": "وجدت الدراسة معدلًا يتراوح بين 3 و10 سنتيمترات سنويًا.",
+        "tr": "Çalışma, yılda 3 ila 10 santimetrelik bir oran buldu.",
+        "it": "Lo studio ha trovato un tasso da 3 a 10 centimetri all'anno.",
+        "pl": "Badanie wykazało tempo od 3 do 10 centymetrów rocznie."
+      }
     }
   ],
   "youtube_url": ""

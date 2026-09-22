@@ -17,7 +17,24 @@
         "No teams"
       ],
       "answerIndex": 0,
-      "hintKo": "Chinese teams dominate the medals at these games."
+      "hintKo": "Chinese teams dominate the medals at these games.",
+      "hintI18n": {
+        "en": "Chinese teams dominate the medals at these games.",
+        "ko": "중국 팀들이 이 대회에서 메달을 독식하고 있습니다.",
+        "zh-Hans": "中国队在这些比赛的奖牌榜上占据主导。",
+        "ja": "中国のチームがこの大会のメダルを独占している。",
+        "es": "Los equipos chinos dominan las medallas en estos juegos.",
+        "hi": "इन खेलों में चीनी टीमें पदकों पर हावी हैं।",
+        "de": "Chinesische Teams dominieren die Medaillen bei diesen Spielen.",
+        "vi": "Các đội Trung Quốc thống trị huy chương tại các cuộc thi này.",
+        "pt-BR": "As equipes chinesas dominam as medalhas nesses jogos.",
+        "id": "Tim Tiongkok mendominasi perolehan medali di ajang ini.",
+        "fr": "Les équipes chinoises dominent les médailles lors de ces jeux.",
+        "ar": "الفرق الصينية تهيمن على الميداليات في هذه الألعاب.",
+        "tr": "Bu oyunlarda madalyalara Çin takımları hâkim.",
+        "it": "Le squadre cinesi dominano le medaglie in questi giochi.",
+        "pl": "Chińskie drużyny dominują w zdobywaniu medali w tych grach."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Folding clothes"
       ],
       "answerIndex": 1,
-      "hintKo": "New tests include tightening screws, opening bottles, and picking beads."
+      "hintKo": "New tests include tightening screws, opening bottles, and picking beads.",
+      "hintI18n": {
+        "en": "New tests include tightening screws, opening bottles, and picking beads.",
+        "ko": "새로운 테스트에는 나사 조이기, 병 열기, 구슬 집기가 포함됩니다.",
+        "zh-Hans": "新测试包括拧螺丝、打开瓶子和捡珠子。",
+        "ja": "新しいテストには、ねじを締めること、ボトルを開けること、ビーズをつまむことが含まれる。",
+        "es": "Las nuevas pruebas incluyen apretar tornillos, abrir botellas y recoger cuentas.",
+        "hi": "नए परीक्षणों में स्क्रू कसना, बोतलें खोलना और मोती उठाना शामिल हैं।",
+        "de": "Zu den neuen Tests gehören das Festziehen von Schrauben, das Öffnen von Flaschen und das Aufnehmen von Perlen.",
+        "vi": "Các bài kiểm tra mới gồm siết ốc vít, mở chai và nhặt hạt.",
+        "pt-BR": "Os novos testes incluem apertar parafusos, abrir garrafas e pegar contas.",
+        "id": "Tes baru meliputi mengencangkan sekrup, membuka botol, dan memungut manik-manik.",
+        "fr": "Les nouveaux tests incluent le serrage de vis, l’ouverture de bouteilles et la prise de perles.",
+        "ar": "تشمل الاختبارات الجديدة إحكام البراغي وفتح الزجاجات والتقاط الخرز.",
+        "tr": "Yeni testler arasında vida sıkma, şişe açma ve boncuk toplama var.",
+        "it": "I nuovi test includono stringere viti, aprire bottiglie e raccogliere perline.",
+        "pl": "Nowe testy obejmują dokręcanie śrub, otwieranie butelek i podnoszenie koralików."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In twenty twenty-six"
       ],
       "answerIndex": 0,
-      "hintKo": "The first World Robot Conference was in twenty fifteen."
+      "hintKo": "The first World Robot Conference was in twenty fifteen.",
+      "hintI18n": {
+        "en": "The first World Robot Conference was in twenty fifteen.",
+        "ko": "첫 세계 로봇 회의는 2015년에 열렸습니다.",
+        "zh-Hans": "第一届世界机器人大会于2015年举行。",
+        "ja": "第1回世界ロボット会議は2015年に開催された。",
+        "es": "La primera Conferencia Mundial de Robots fue en 2015.",
+        "hi": "पहला विश्व रोबोट सम्मेलन 2015 में हुआ था।",
+        "de": "Die erste Weltroboterkonferenz fand 2015 statt.",
+        "vi": "Hội nghị Robot Thế giới đầu tiên diễn ra vào năm 2015.",
+        "pt-BR": "A primeira Conferência Mundial de Robôs foi em 2015.",
+        "id": "Konferensi Robot Dunia pertama diadakan pada 2015.",
+        "fr": "La première Conférence mondiale des robots a eu lieu en 2015.",
+        "ar": "عُقد أول مؤتمر عالمي للروبوتات في عام 2015.",
+        "tr": "İlk Dünya Robot Konferansı 2015'teydi.",
+        "it": "La prima Conferenza mondiale sui robot si è tenuta nel 2015.",
+        "pl": "Pierwsza Światowa Konferencja Robotów odbyła się w 2015 roku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In Seoul"
       ],
       "answerIndex": 1,
-      "hintKo": "The games began in Beijing."
+      "hintKo": "The games began in Beijing.",
+      "hintI18n": {
+        "en": "The games began in Beijing.",
+        "ko": "대회는 베이징에서 시작되었습니다.",
+        "zh-Hans": "比赛在北京开始。",
+        "ja": "大会は北京で始まった。",
+        "es": "Los juegos comenzaron en Pekín.",
+        "hi": "खेल बीजिंग में शुरू हुए।",
+        "de": "Die Spiele begannen in Peking.",
+        "vi": "Cuộc thi bắt đầu tại Bắc Kinh.",
+        "pt-BR": "Os jogos começaram em Pequim.",
+        "id": "Pertandingan dimulai di Beijing.",
+        "fr": "Les jeux ont commencé à Pékin.",
+        "ar": "بدأت الألعاب في بكين.",
+        "tr": "Oyunlar Pekin'de başladı.",
+        "it": "I giochi sono iniziati a Pechino.",
+        "pl": "Zawody rozpoczęły się w Pekinie."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Hands replace screens"
       ],
       "answerIndex": 0,
-      "hintKo": "The hand is the hardest part to prove in real life."
+      "hintKo": "The hand is the hardest part to prove in real life.",
+      "hintI18n": {
+        "en": "The hand is the hardest part to prove in real life.",
+        "ko": "손은 실제 생활에서 입증하기 가장 어려운 부분입니다.",
+        "zh-Hans": "手是在现实生活中最难证明的部分。",
+        "ja": "手は実生活で証明するのが最も難しい部分だ。",
+        "es": "La mano es la parte más difícil de demostrar en la vida real.",
+        "hi": "हाथ असली जीवन में साबित करने के लिए सबसे कठिन हिस्सा है।",
+        "de": "Die Hand ist der Teil, der sich im echten Leben am schwersten beweisen lässt.",
+        "vi": "Bàn tay là phần khó chứng minh nhất trong thực tế.",
+        "pt-BR": "A mão é a parte mais difícil de provar na vida real.",
+        "id": "Tangan adalah bagian yang paling sulit dibuktikan di dunia nyata.",
+        "fr": "La main est la partie la plus difficile à prouver dans la vie réelle.",
+        "ar": "اليد هي الجزء الأصعب إثباته في الحياة الواقعية.",
+        "tr": "El, gerçek hayatta kanıtlanması en zor kısımdır.",
+        "it": "La mano è la parte più difficile da dimostrare nella vita reale.",
+        "pl": "Dłoń jest najtrudniejszym do udowodnienia elementem w prawdziwym życiu."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By using wings"
       ],
       "answerIndex": 1,
-      "hintKo": "Flash finished autonomously in fifty minutes and twenty-six seconds."
+      "hintKo": "Flash finished autonomously in fifty minutes and twenty-six seconds.",
+      "hintI18n": {
+        "en": "Flash finished autonomously in fifty minutes and twenty-six seconds.",
+        "ko": "플래시는 50분 26초 만에 스스로 완주했습니다.",
+        "zh-Hans": "Flash 自主完成了比赛，用时 50 分 26 秒。",
+        "ja": "Flashは50分26秒で自律的に完走しました。",
+        "es": "Flash terminó de forma autónoma en cincuenta minutos y veintiséis segundos.",
+        "hi": "फ्लैश ने 50 मिनट 26 सेकंड में स्वायत्त रूप से दौड़ पूरी की।",
+        "de": "Flash beendete den Lauf autonom in fünfzig Minuten und sechsundzwanzig Sekunden.",
+        "vi": "Flash đã tự hành hoàn thành trong 50 phút 26 giây.",
+        "pt-BR": "Flash terminou de forma autônoma em cinquenta minutos e vinte e seis segundos.",
+        "id": "Flash menyelesaikannya secara mandiri dalam lima puluh menit dua puluh enam detik.",
+        "fr": "Flash a terminé de manière autonome en cinquante minutes et vingt-six secondes.",
+        "ar": "أكمل فلاش نصف الماراثون بشكل مستقل في خمسين دقيقة وست وعشرين ثانية.",
+        "tr": "Flash yarışı elli dakika yirmi altı saniyede otonom olarak tamamladı.",
+        "it": "Flash ha terminato in modo autonomo in cinquanta minuti e ventisei secondi.",
+        "pl": "Flash ukończył bieg autonomicznie w pięćdziesiąt minut i dwadzieścia sześć sekund."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "No one was evacuated"
       ],
       "answerIndex": 0,
-      "hintKo": "Authorities evacuated more than one million people, not tourists or a small number of residents."
+      "hintKo": "Authorities evacuated more than one million people, not tourists or a small number of residents.",
+      "hintI18n": {
+        "en": "Authorities evacuated more than one million people, not tourists or a small number of residents.",
+        "ko": "당국은 관광객이나 소수 주민이 아니라 100만 명 넘는 사람을 대피시켰다.",
+        "zh-Hans": "当局疏散了一百多万人，而不是游客或少数居民。",
+        "ja": "当局は観光客や少数の住民ではなく、100万人以上を避難させた。",
+        "es": "Las autoridades evacuaron a más de un millón de personas, no a turistas ni a unos pocos residentes.",
+        "hi": "अधिकारियों ने दस लाख से ज़्यादा लोगों को निकाला, न कि पर्यटकों या कुछ ही निवासियों को।",
+        "de": "Die Behörden evakuierten mehr als eine Million Menschen, nicht Touristen oder eine kleine Zahl von Anwohnern.",
+        "vi": "Chính quyền đã sơ tán hơn một triệu người, không phải khách du lịch hay một số ít cư dân.",
+        "pt-BR": "As autoridades evacuaram mais de um milhão de pessoas, não turistas nem um pequeno número de moradores.",
+        "id": "Pihak berwenang mengevakuasi lebih dari satu juta orang, bukan turis atau sedikit warga.",
+        "fr": "Les autorités ont évacué plus d'un million de personnes, pas des touristes ni un petit nombre d'habitants.",
+        "ar": "أخلت السلطات أكثر من مليون شخص، وليس السياح أو عددًا قليلًا من السكان.",
+        "tr": "Yetkililer bir milyondan fazla kişiyi tahliye etti; turistleri ya da az sayıda sakini değil.",
+        "it": "Le autorità hanno evacuato più di un milione di persone, non turisti o un piccolo numero di residenti.",
+        "pl": "Władze ewakuowały ponad milion osób, a nie turystów czy niewielu mieszkańców."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It changed direction back to Japan"
       ],
       "answerIndex": 1,
-      "hintKo": "The storm made landfall with heavy rain and strong winds; it did not turn back or disappear."
+      "hintKo": "The storm made landfall with heavy rain and strong winds; it did not turn back or disappear.",
+      "hintI18n": {
+        "en": "The storm made landfall with heavy rain and strong winds; it did not turn back or disappear.",
+        "ko": "폭풍은 폭우와 강풍을 동반하고 상륙했으며, 되돌아가거나 사라지지 않았다.",
+        "zh-Hans": "风暴伴随着暴雨和强风登陆；它没有掉头或消失。",
+        "ja": "嵐は大雨と強風を伴って上陸した。引き返したり消えたりはしなかった。",
+        "es": "La tormenta tocó tierra con lluvias intensas y vientos fuertes; no se dio la vuelta ni desapareció.",
+        "hi": "तूफ़ान भारी बारिश और तेज़ हवाओं के साथ तट पर पहुँचा; यह पलटा या गायब नहीं हुआ।",
+        "de": "Der Sturm erreichte das Festland mit starkem Regen und starken Winden; er drehte nicht um und verschwand nicht.",
+        "vi": "Cơn bão đổ bộ với mưa lớn và gió mạnh; nó không quay đầu hay biến mất.",
+        "pt-BR": "A tempestade atingiu a costa com chuva forte e ventos fortes; não voltou atrás nem desapareceu.",
+        "id": "Badai itu mendarat dengan hujan deras dan angin kencang; badai tidak berbalik atau menghilang.",
+        "fr": "La tempête a touché terre avec de fortes pluies et des vents violents ; elle n'a pas fait demi-tour ni disparu.",
+        "ar": "ضربت العاصفة اليابسة بأمطار غزيرة ورياح قوية؛ ولم ترتد أو تختف.",
+        "tr": "Fırtına şiddetli yağmur ve kuvvetli rüzgarlarla karaya ulaştı; geri dönmedi ya da kaybolmadı.",
+        "it": "La tempesta ha toccato terra con piogge intense e venti forti; non ha fatto dietrofront né è scomparsa.",
+        "pl": "Burza weszła na ląd z ulewnym deszczem i silnym wiatrem; nie zawróciła ani nie zniknęła."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "During the winter"
       ],
       "answerIndex": 0,
-      "hintKo": "Landfall happened on Sunday evening, not on Friday or at another time."
+      "hintKo": "Landfall happened on Sunday evening, not on Friday or at another time.",
+      "hintI18n": {
+        "en": "Landfall happened on Sunday evening, not on Friday or at another time.",
+        "ko": "상륙은 일요일 저녁에 일어났으며, 금요일이나 다른 때가 아니었다.",
+        "zh-Hans": "登陆发生在周日晚上，而不是周五或其他时间。",
+        "ja": "上陸は日曜日の夕方に起こった。金曜日や別の時間ではない。",
+        "es": "La llegada a tierra ocurrió el domingo por la noche, no el viernes ni en otro momento.",
+        "hi": "तट पर पहुँचना रविवार शाम को हुआ, शुक्रवार या किसी और समय नहीं।",
+        "de": "Der Sturm ging am Sonntagabend an Land, nicht am Freitag oder zu einer anderen Zeit.",
+        "vi": "Việc đổ bộ xảy ra vào tối Chủ nhật, không phải thứ Sáu hay thời điểm khác.",
+        "pt-BR": "A chegada à terra ocorreu no domingo à noite, não na sexta-feira nem em outro horário.",
+        "id": "Pendaratan terjadi pada Minggu malam, bukan Jumat atau waktu lain.",
+        "fr": "L'arrivée sur terre a eu lieu dimanche soir, pas vendredi ni à un autre moment.",
+        "ar": "حدث الوصول إلى اليابسة مساء الأحد، وليس الجمعة أو في وقت آخر.",
+        "tr": "Karaya çıkış Pazar akşamı gerçekleşti; Cuma ya da başka bir zaman değil.",
+        "it": "L'arrivo sulla terraferma è avvenuto domenica sera, non venerdì o in un altro momento.",
+        "pl": "Wejście na ląd nastąpiło w niedzielny wieczór, a nie w piątek czy innym czasie."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Taiwan"
       ],
       "answerIndex": 0,
-      "hintKo": "Okinawa in Japan was hit before the storm reached China."
+      "hintKo": "Okinawa in Japan was hit before the storm reached China.",
+      "hintI18n": {
+        "en": "Okinawa in Japan was hit before the storm reached China.",
+        "ko": "중국에 도달하기 전에 일본 오키나와가 피해를 입었다.",
+        "zh-Hans": "在风暴到达中国之前，日本的冲绳受到了袭击。",
+        "ja": "中国に到達する前に、日本の沖縄が襲われた。",
+        "es": "Okinawa, en Japón, fue azotada antes de que la tormenta llegara a China.",
+        "hi": "चीन पहुँचने से पहले जापान का ओकिनावा तूफ़ान की चपेट में आया।",
+        "de": "Okinawa in Japan wurde getroffen, bevor der Sturm China erreichte.",
+        "vi": "Okinawa của Nhật Bản đã bị đánh trúng trước khi bão đến Trung Quốc.",
+        "pt-BR": "Okinawa, no Japão, foi atingida antes de a tempestade chegar à China.",
+        "id": "Okinawa di Jepang dihantam sebelum badai mencapai Tiongkok.",
+        "fr": "Okinawa, au Japon, a été frappée avant que la tempête n'atteigne la Chine.",
+        "ar": "تعرضت أوكيناوا في اليابان للضرب قبل أن تصل العاصفة إلى الصين.",
+        "tr": "Japonya'daki Okinawa, fırtına Çin'e ulaşmadan önce vuruldu.",
+        "it": "Okinawa, in Giappone, è stata colpita prima che la tempesta raggiungesse la Cina.",
+        "pl": "Okinawa w Japonii została uderzona, zanim burza dotarła do Chin."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "To catch more fish"
       ],
       "answerIndex": 0,
-      "hintKo": "The moves were safety measures against the typhoon, not routine port work."
+      "hintKo": "The moves were safety measures against the typhoon, not routine port work.",
+      "hintI18n": {
+        "en": "The moves were safety measures against the typhoon, not routine port work.",
+        "ko": "그 조치는 태풍에 대비한 안전 조치였으며, 일상적인 항만 작업이 아니었다.",
+        "zh-Hans": "这些行动是针对台风的安全措施，而不是例行的港口工作。",
+        "ja": "その対応は台風への安全対策であり、通常の港湾作業ではなかった。",
+        "es": "Las maniobras eran medidas de seguridad contra el tifón, no trabajo portuario rutinario.",
+        "hi": "ये कदम तूफ़ान के खिलाफ़ सुरक्षा उपाय थे, नियमित बंदरगाह काम नहीं।",
+        "de": "Die Maßnahmen waren Sicherheitsvorkehrungen gegen den Taifun, keine routinemäßige Hafenarbeit.",
+        "vi": "Các động thái đó là biện pháp an toàn phòng chống bão, không phải công việc cảng thường lệ.",
+        "pt-BR": "As ações eram medidas de segurança contra o tufão, não trabalho portuário de rotina.",
+        "id": "Langkah-langkah itu adalah tindakan keselamatan terhadap topan, bukan pekerjaan pelabuhan rutin.",
+        "fr": "Ces manœuvres étaient des mesures de sécurité contre le typhon, pas des travaux portuaires de routine.",
+        "ar": "كانت هذه التحركات إجراءات سلامة ضد الإعصار، وليست أعمال ميناء روتينية.",
+        "tr": "Bu hamleler tayfuna karşı güvenlik önlemleriydi; rutin liman işi değildi.",
+        "it": "Le mosse erano misure di sicurezza contro il tifone, non normale lavoro portuale.",
+        "pl": "Te działania były środkami bezpieczeństwa przeciw tajfunowi, a nie rutynową pracą portową."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "The winds were calm"
       ],
       "answerIndex": 0,
-      "hintKo": "The winds were about one hundred fifty-one kilometres per hour, equivalent to a Category one hurricane."
+      "hintKo": "The winds were about one hundred fifty-one kilometres per hour, equivalent to a Category one hurricane.",
+      "hintI18n": {
+        "en": "The winds were about one hundred fifty-one kilometres per hour, equivalent to a Category one hurricane.",
+        "ko": "바람은 시속 약 151킬로미터였고, 이는 1등급 허리케인에 해당합니다.",
+        "zh-Hans": "风速约为每小时151公里，相当于一级飓风。",
+        "ja": "風速は時速約151キロで、カテゴリー1のハリケーンに相当しました。",
+        "es": "Los vientos eran de unos 151 kilómetros por hora, equivalentes a un huracán de categoría 1.",
+        "hi": "हवाएँ लगभग 151 किलोमीटर प्रति घंटा थीं, जो श्रेणी 1 के तूफ़ान के बराबर है।",
+        "de": "Die Winde waren etwa 151 Kilometer pro Stunde stark, entsprechend einem Hurrikan der Kategorie eins.",
+        "vi": "Gió mạnh khoảng 151 km/giờ, tương đương với bão cấp 1.",
+        "pt-BR": "Os ventos eram de cerca de 151 quilômetros por hora, equivalentes a um furacão de categoria 1.",
+        "id": "Anginnya sekitar 151 kilometer per jam, setara dengan badai kategori satu.",
+        "fr": "Les vents soufflaient à environ 151 kilomètres par heure, équivalent à un ouragan de catégorie 1.",
+        "ar": "كانت الرياح نحو 151 كيلومترًا في الساعة، أي ما يعادل إعصارًا من الفئة الأولى.",
+        "tr": "Rüzgarlar saatte yaklaşık 151 kilometreydi ve birinci kategori kasırgaya eşdeğerdi.",
+        "it": "I venti erano di circa 151 chilometri all'ora, equivalenti a un uragano di categoria 1.",
+        "pl": "Wiatry miały prędkość około 151 kilometrów na godzinę, co odpowiada huraganowi kategorii pierwszej."
+      }
     }
   ],
   "youtube_url": ""

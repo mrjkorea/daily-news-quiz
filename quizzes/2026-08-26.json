@@ -17,7 +17,24 @@
         "NASA"
       ],
       "answerIndex": 0,
-      "hintKo": "Alibaba made the announcement."
+      "hintKo": "Alibaba made the announcement.",
+      "hintI18n": {
+        "en": "Alibaba made the announcement.",
+        "ko": "알리바바가 그 발표를 했습니다.",
+        "zh-Hans": "阿里巴巴发布了这一公告。",
+        "ja": "アリババが発表しました。",
+        "es": "Alibaba hizo el anuncio.",
+        "hi": "अलीबाबा ने यह घोषणा की।",
+        "de": "Alibaba machte die Ankündigung.",
+        "vi": "Alibaba đã đưa ra thông báo.",
+        "pt-BR": "Alibaba fez o anúncio.",
+        "id": "Alibaba membuat pengumuman itu.",
+        "fr": "Alibaba a fait l'annonce.",
+        "ar": "أعلنت علي بابا عن ذلك.",
+        "tr": "Duyuruyu Alibaba yaptı.",
+        "it": "Alibaba ha fatto l'annuncio.",
+        "pl": "Alibaba ogłosiła tę informację."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Open a restaurant"
       ],
       "answerIndex": 1,
-      "hintKo": "The cash is for AI capabilities and infrastructure."
+      "hintKo": "The cash is for AI capabilities and infrastructure.",
+      "hintI18n": {
+        "en": "The cash is for AI capabilities and infrastructure.",
+        "ko": "이 자금은 AI 역량과 인프라를 위한 것입니다.",
+        "zh-Hans": "这笔资金将用于人工智能能力和基础设施。",
+        "ja": "この資金はAI能力とインフラのために使われます。",
+        "es": "El dinero es para capacidades e infraestructura de IA.",
+        "hi": "यह धनराशि एआई क्षमताओं और बुनियादी ढांचे के लिए है।",
+        "de": "Das Geld ist für KI-Fähigkeiten und Infrastruktur bestimmt.",
+        "vi": "Số tiền này dành cho năng lực và hạ tầng AI.",
+        "pt-BR": "O dinheiro é para capacidades e infraestrutura de IA.",
+        "id": "Uang itu untuk kemampuan dan infrastruktur AI.",
+        "fr": "L'argent est destiné aux capacités et à l'infrastructure d'IA.",
+        "ar": "الأموال مخصصة لقدرات الذكاء الاصطناعي والبنية التحتية.",
+        "tr": "Para, yapay zeka yetenekleri ve altyapısı için.",
+        "it": "Il denaro è per capacità e infrastrutture di IA.",
+        "pl": "Pieniądze są przeznaczone na możliwości i infrastrukturę AI."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In December"
       ],
       "answerIndex": 0,
-      "hintKo": "The announcement came on Sunday."
+      "hintKo": "The announcement came on Sunday.",
+      "hintI18n": {
+        "en": "The announcement came on Sunday.",
+        "ko": "발표는 일요일에 있었습니다.",
+        "zh-Hans": "公告是在周日发布的。",
+        "ja": "発表は日曜日にありました。",
+        "es": "El anuncio se hizo el domingo.",
+        "hi": "यह घोषणा रविवार को हुई।",
+        "de": "Die Ankündigung kam am Sonntag.",
+        "vi": "Thông báo được đưa ra vào Chủ nhật.",
+        "pt-BR": "O anúncio foi feito no domingo.",
+        "id": "Pengumuman itu datang pada hari Minggu.",
+        "fr": "L'annonce a été faite dimanche.",
+        "ar": "جاء الإعلان يوم الأحد.",
+        "tr": "Duyuru Pazar günü geldi.",
+        "it": "L'annuncio è arrivato domenica.",
+        "pl": "Ogłoszenie pojawiło się w niedzielę."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In Sydney"
       ],
       "answerIndex": 1,
-      "hintKo": "The placement is planned in Hong Kong."
+      "hintKo": "The placement is planned in Hong Kong.",
+      "hintI18n": {
+        "en": "The placement is planned in Hong Kong.",
+        "ko": "이번 배치는 홍콩에서 계획되어 있습니다.",
+        "zh-Hans": "此次配售计划在香港进行。",
+        "ja": "このプレースメントは香港で計画されています。",
+        "es": "La colocación está planeada en Hong Kong.",
+        "hi": "यह प्लेसमेंट हांगकांग में प्रस्तावित है।",
+        "de": "Die Platzierung ist in Hongkong geplant.",
+        "vi": "Đợt phát hành này được dự kiến thực hiện ở Hồng Kông.",
+        "pt-BR": "A colocação está planejada em Hong Kong.",
+        "id": "Penempatan saham ini direncanakan di Hong Kong.",
+        "fr": "Le placement est prévu à Hong Kong.",
+        "ar": "من المقرر أن يتم الطرح في هونغ كونغ.",
+        "tr": "Yerleştirme Hong Kong'da planlanıyor.",
+        "it": "La collocazione è prevista a Hong Kong.",
+        "pl": "Plasowanie akcji jest planowane w Hongkongu."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It is a gift"
       ],
       "answerIndex": 0,
-      "hintKo": "The deal is a record for Hong Kong-listed companies."
+      "hintKo": "The deal is a record for Hong Kong-listed companies.",
+      "hintI18n": {
+        "en": "The deal is a record for Hong Kong-listed companies.",
+        "ko": "이번 거래는 홍콩 상장 기업으로서는 기록적인 규모입니다.",
+        "zh-Hans": "这笔交易创下了香港上市公司的纪录。",
+        "ja": "この取引は香港上場企業にとって記録的です。",
+        "es": "El acuerdo es un récord para las empresas que cotizan en Hong Kong.",
+        "hi": "यह सौदा हांगकांग में सूचीबद्ध कंपनियों के लिए एक रिकॉर्ड है।",
+        "de": "Der Deal ist ein Rekord für in Hongkong gelistete Unternehmen.",
+        "vi": "Thương vụ này là một kỷ lục đối với các công ty niêm yết tại Hồng Kông.",
+        "pt-BR": "O acordo é um recorde para empresas listadas em Hong Kong.",
+        "id": "Kesepakatan itu menjadi rekor bagi perusahaan yang terdaftar di Hong Kong.",
+        "fr": "L'opération est un record pour les entreprises cotées à Hong Kong.",
+        "ar": "الصفقة رقم قياسي للشركات المدرجة في هونغ كونغ.",
+        "tr": "Anlaşma, Hong Kong'da işlem gören şirketler için bir rekor.",
+        "it": "L'operazione è un record per le società quotate a Hong Kong.",
+        "pl": "Transakcja jest rekordem dla spółek notowanych w Hongkongu."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "No money"
       ],
       "answerIndex": 1,
-      "hintKo": "The placement would raise about eighty billion Hong Kong dollars."
+      "hintKo": "The placement would raise about eighty billion Hong Kong dollars.",
+      "hintI18n": {
+        "en": "The placement would raise about eighty billion Hong Kong dollars.",
+        "ko": "이번 지분 매각은 약 800억 홍콩 달러를 조달할 것이다.",
+        "zh-Hans": "这次配售将筹集约八百亿港元。",
+        "ja": "この売り出しは約800億香港ドルを調達するだろう。",
+        "es": "La colocación recaudaría unos ochenta mil millones de dólares de Hong Kong.",
+        "hi": "यह प्लेसमेंट लगभग अस्सी अरब हांगकांग डॉलर जुटाएगा।",
+        "de": "Die Platzierung würde etwa achtzig Milliarden Hongkong-Dollar einbringen.",
+        "vi": "Đợt chào bán này sẽ huy động khoảng tám mươi tỷ đô la Hồng Kông.",
+        "pt-BR": "A colocação levantaria cerca de oitenta bilhões de dólares de Hong Kong.",
+        "id": "Penempatan saham ini akan menggalang sekitar delapan puluh miliar dolar Hong Kong.",
+        "fr": "Le placement lèverait environ quatre-vingts milliards de dollars de Hong Kong.",
+        "ar": "ستجمع عملية الطرح نحو ثمانين مليار دولار هونغ كونغي.",
+        "tr": "Bu hisse satışı yaklaşık seksen milyar Hong Kong doları toplayacak.",
+        "it": "La collocazione raccoglierebbe circa ottanta miliardi di dollari di Hong Kong.",
+        "pl": "Oferta pozyskałaby około osiemdziesięciu miliardów dolarów hongkońskich."
+      }
     }
   ],
   "youtube_url": ""

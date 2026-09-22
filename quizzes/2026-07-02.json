@@ -17,7 +17,24 @@
         "People in Brazil"
       ],
       "answerIndex": 0,
-      "hintKo": "The earthquakes specifically struck Venezuela, not neighboring countries. The victims were ordinary residents, not tourists or government officials."
+      "hintKo": "The earthquakes specifically struck Venezuela, not neighboring countries. The victims were ordinary residents, not tourists or government officials.",
+      "hintI18n": {
+        "en": "The earthquakes specifically struck Venezuela, not neighboring countries. The victims were ordinary residents, not tourists or government officials.",
+        "ko": "지진은 특히 베네수엘라를 강타했으며, 인접 국가가 아니었습니다. 피해자는 일반 주민들이었고, 관광객이나 정부 관리가 아니었습니다.",
+        "zh-Hans": "地震专门袭击了委内瑞拉，而不是邻国。受害者是普通居民，不是游客或政府官员。",
+        "ja": "地震は特にベネズエラを襲い、近隣諸国ではありませんでした。犠牲者は一般住民であり、観光客や政府関係者ではありませんでした。",
+        "es": "Los terremotos afectaron específicamente a Venezuela, no a los países vecinos. Las víctimas fueron residentes comunes, no turistas ni funcionarios gubernamentales.",
+        "hi": "भूकंप विशेष रूप से वेनेजुएला में आए, पड़ोसी देशों में नहीं। पीड़ित आम निवासी थे, पर्यटक या सरकारी अधिकारी नहीं।",
+        "de": "Die Erdbeben trafen speziell Venezuela, nicht die Nachbarländer. Die Opfer waren gewöhnliche Einwohner, keine Touristen oder Regierungsbeamten.",
+        "vi": "Các trận động đất đã tấn công cụ thể vào Venezuela, không phải các nước láng giềng. Nạn nhân là cư dân bình thường, không phải khách du lịch hay quan chức chính phủ.",
+        "pt-BR": "Os terremotos atingiram especificamente a Venezuela, não os países vizinhos. As vítimas eram residentes comuns, não turistas ou funcionários do governo.",
+        "id": "Gempa bumi secara khusus melanda Venezuela, bukan negara tetangga. Korban adalah penduduk biasa, bukan turis atau pejabat pemerintah.",
+        "fr": "Les tremblements de terre ont frappé spécifiquement le Venezuela, pas les pays voisins. Les victimes étaient des résidents ordinaires, pas des touristes ou des fonctionnaires.",
+        "ar": "ضربت الزلازل فنزويلا على وجه التحديد، وليس الدول المجاورة. كان الضحايا من السكان العاديين، وليس السياح أو المسؤولين الحكوميين.",
+        "tr": "Depremler özellikle Venezuela'yı vurdu, komşu ülkeleri değil. Kurbanlar sıradan sakinlerdi, turistler veya hükümet yetkilileri değil.",
+        "it": "I terremoti hanno colpito specificamente il Venezuela, non i paesi vicini. Le vittime erano residenti comuni, non turisti o funzionari governativi.",
+        "pl": "Trzęsienia ziemi nawiedziły konkretnie Wenezuelę, a nie sąsiednie kraje. Ofiarami byli zwykli mieszkańcy, a nie turyści czy urzędnicy rządowi."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "A large fire"
       ],
       "answerIndex": 1,
-      "hintKo": "The disaster was caused by seismic activity, not weather, fire, or volcanoes. While construction quality may have been a factor, the primary cause was the earthquakes themselves."
+      "hintKo": "The disaster was caused by seismic activity, not weather, fire, or volcanoes. While construction quality may have been a factor, the primary cause was the earthquakes themselves.",
+      "hintI18n": {
+        "en": "The disaster was caused by seismic activity, not weather, fire, or volcanoes. While construction quality may have been a factor, the primary cause was the earthquakes themselves.",
+        "ko": "재해는 날씨, 화재 또는 화산이 아닌 지진 활동으로 인해 발생했습니다. 건설 품질이 요인이 되었을 수 있지만, 주된 원인은 지진 자체였습니다.",
+        "zh-Hans": "这场灾难是由地震活动引起的，而不是天气、火灾或火山。虽然建筑质量可能是一个因素，但主要原因是地震本身。",
+        "ja": "災害は天候、火災、火山ではなく、地震活動によって引き起こされました。建設の品質が要因であった可能性はありますが、主な原因は地震そのものでした。",
+        "es": "El desastre fue causado por la actividad sísmica, no por el clima, el fuego o los volcanes. Si bien la calidad de la construcción pudo haber sido un factor, la causa principal fueron los terremotos mismos.",
+        "hi": "यह आपदा मौसम, आग या ज्वालामुखी से नहीं, बल्कि भूकंपीय गतिविधि के कारण हुई। हालांकि निर्माण की गुणवत्ता एक कारक हो सकती है, लेकिन मुख्य कारण भूकंप स्वयं थे।",
+        "de": "Die Katastrophe wurde durch seismische Aktivität verursacht, nicht durch Wetter, Feuer oder Vulkane. Die Bauqualität mag ein Faktor gewesen sein, aber die Hauptursache waren die Erdbeben selbst.",
+        "vi": "Thảm họa là do hoạt động địa chấn gây ra, không phải do thời tiết, hỏa hoạn hay núi lửa. Mặc dù chất lượng xây dựng có thể là một yếu tố, nhưng nguyên nhân chính là chính các trận động đất.",
+        "pt-BR": "O desastre foi causado por atividade sísmica, não por clima, fogo ou vulcões. Embora a qualidade da construção possa ter sido um fator, a causa principal foram os próprios terremotos.",
+        "id": "Bencana ini disebabkan oleh aktivitas seismik, bukan cuaca, kebakaran, atau gunung berapi. Meskipun kualitas konstruksi mungkin menjadi faktor, penyebab utamanya adalah gempa bumi itu sendiri.",
+        "fr": "La catastrophe a été causée par l'activité sismique, et non par la météo, le feu ou les volcans. La qualité de la construction a peut-être été un facteur, mais la cause principale était les séismes eux-mêmes.",
+        "ar": "كانت الكارثة ناجمة عن النشاط الزلزالي، وليس عن الطقس أو الحرائق أو البراكين. قد تكون جودة البناء عاملاً، لكن السبب الرئيسي كان الزلازل نفسها.",
+        "tr": "Felaket hava, yangın veya volkanlar değil, sismik aktivite nedeniyle meydana geldi. İnşaat kalitesi bir faktör olabilir, ancak ana neden depremlerin kendisiydi.",
+        "it": "Il disastro è stato causato da attività sismica, non da condizioni meteorologiche, incendi o vulcani. Sebbene la qualità costruttiva possa essere stata un fattore, la causa principale sono stati i terremoti stessi.",
+        "pl": "Katastrofa została spowodowana aktywnością sejsmiczną, a nie pogodą, ogniem czy wulkanami. Jakość budownictwa mogła być czynnikiem, ale główną przyczyną były same trzęsienia ziemi."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In the southern jungle region"
       ],
       "answerIndex": 2,
-      "hintKo": "While Caracas felt strong tremors, the epicenter was not in the capital itself. It was inland in Yaracuy state, not under the ocean or in another country."
+      "hintKo": "While Caracas felt strong tremors, the epicenter was not in the capital itself. It was inland in Yaracuy state, not under the ocean or in another country.",
+      "hintI18n": {
+        "en": "While Caracas felt strong tremors, the epicenter was not in the capital itself. It was inland in Yaracuy state, not under the ocean or in another country.",
+        "ko": "카라카스가 강한 진동을 느꼈지만, 진앙은 수도 자체에 있지 않았습니다. 그것은 야라쿠이 주의 내륙에 있었고, 바다 밑이나 다른 나라에 있지 않았습니다.",
+        "zh-Hans": "虽然加拉加斯感受到了强烈的震动，但震中并不在首都本身。它位于亚拉奎州的内陆，而不是海底或另一个国家。",
+        "ja": "カラカスは強い揺れを感じましたが、震源地は首都自体ではありませんでした。それはヤラクイ州の内陸にあり、海底や他国ではありませんでした。",
+        "es": "Aunque Caracas sintió fuertes temblores, el epicentro no estuvo en la capital misma. Estuvo tierra adentro en el estado Yaracuy, no bajo el océano ni en otro país.",
+        "hi": "हालांकि काराकास में तेज झटके महसूस हुए, लेकिन उपरिकेंद्र राजधानी में नहीं था। यह याराकुय राज्य में अंतर्देशीय था, समुद्र के नीचे या किसी अन्य देश में नहीं।",
+        "de": "Obwohl Caracas starke Erschütterungen spürte, lag das Epizentrum nicht in der Hauptstadt selbst. Es lag im Landesinneren im Bundesstaat Yaracuy, nicht unter dem Ozean oder in einem anderen Land.",
+        "vi": "Mặc dù Caracas cảm nhận được những rung chấn mạnh, tâm chấn không nằm ở thủ đô. Nó nằm trong đất liền ở bang Yaracuy, không phải dưới đại dương hay ở một quốc gia khác.",
+        "pt-BR": "Embora Caracas tenha sentido fortes tremores, o epicentro não foi na própria capital. Foi no interior do estado de Yaracuy, não sob o oceano ou em outro país.",
+        "id": "Meskipun Caracas merasakan guncangan kuat, episentrumnya tidak di ibu kota itu sendiri. Episentrum berada di pedalaman negara bagian Yaracuy, bukan di bawah laut atau di negara lain.",
+        "fr": "Bien que Caracas ait ressenti de fortes secousses, l'épicentre n'était pas dans la capitale elle-même. Il se trouvait à l'intérieur des terres dans l'État de Yaracuy, pas sous l'océan ni dans un autre pays.",
+        "ar": "على الرغم من أن كاراكاس شعرت بهزات قوية، إلا أن مركز الزلزال لم يكن في العاصمة نفسها. كان في الداخل في ولاية ياراكوي، وليس تحت المحيط أو في بلد آخر.",
+        "tr": "Caracas güçlü sarsıntılar hissetse de, merkez üssü başkentin kendisinde değildi. Yaracuy eyaletinde iç kesimlerdeydi, okyanusun altında veya başka bir ülkede değil.",
+        "it": "Sebbene Caracas abbia sentito forti scosse, l'epicentro non era nella capitale stessa. Era nell'entroterra nello stato di Yaracuy, non sotto l'oceano o in un altro paese.",
+        "pl": "Chociaż Caracas odczuło silne wstrząsy, epicentrum nie znajdowało się w samej stolicy. Znajdowało się w głębi lądu w stanie Yaracuy, a nie pod oceanem czy w innym kraju."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "July 1, 2026"
       ],
       "answerIndex": 1,
-      "hintKo": "The earthquakes occurred on June 24, not in May, early June, or July."
+      "hintKo": "The earthquakes occurred on June 24, not in May, early June, or July.",
+      "hintI18n": {
+        "en": "The earthquakes occurred on June 24, not in May, early June, or July.",
+        "ko": "지진은 5월, 6월 초 또는 7월이 아닌 6월 24일에 발생했습니다.",
+        "zh-Hans": "地震发生在6月24日，而不是5月、6月初或7月。",
+        "ja": "地震は5月、6月初旬、7月ではなく、6月24日に発生しました。",
+        "es": "Los terremotos ocurrieron el 24 de junio, no en mayo, principios de junio o julio.",
+        "hi": "भूकंप 24 जून को आए, मई, जून की शुरुआत या जुलाई में नहीं।",
+        "de": "Die Erdbeben ereigneten sich am 24. Juni, nicht im Mai, Anfang Juni oder Juli.",
+        "vi": "Các trận động đất xảy ra vào ngày 24 tháng 6, không phải vào tháng 5, đầu tháng 6 hay tháng 7.",
+        "pt-BR": "Os terremotos ocorreram em 24 de junho, não em maio, início de junho ou julho.",
+        "id": "Gempa bumi terjadi pada 24 Juni, bukan pada bulan Mei, awal Juni, atau Juli.",
+        "fr": "Les tremblements de terre ont eu lieu le 24 juin, pas en mai, début juin ou juillet.",
+        "ar": "وقعت الزلازل في 24 يونيو، وليس في مايو أو أوائل يونيو أو يوليو.",
+        "tr": "Depremler 24 Haziran'da meydana geldi, Mayıs, Haziran başı veya Temmuz'da değil.",
+        "it": "I terremoti si sono verificati il 24 giugno, non a maggio, all'inizio di giugno o a luglio.",
+        "pl": "Trzęsienia ziemi miały miejsce 24 czerwca, a nie w maju, na początku czerwca lub w lipcu."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because the government ignored all warnings"
       ],
       "answerIndex": 1,
-      "hintKo": "While timing and response matter, the USGS prediction was based on seismic data — the magnitude, aftershocks, and structural damage — not on hospital availability or government response."
+      "hintKo": "While timing and response matter, the USGS prediction was based on seismic data — the magnitude, aftershocks, and structural damage — not on hospital availability or government response.",
+      "hintI18n": {
+        "en": "While timing and response matter, the USGS prediction was based on seismic data — the magnitude, aftershocks, and structural damage — not on hospital availability or government response.",
+        "ko": "시기와 대응도 중요하지만, USGS 예측은 병원 가용성이나 정부 대응이 아닌 규모, 여진, 구조적 피해와 같은 지진 데이터를 기반으로 했습니다.",
+        "zh-Hans": "虽然时机和响应很重要，但USGS的预测是基于地震数据——震级、余震和结构破坏——而不是医院可用性或政府响应。",
+        "ja": "タイミングと対応も重要ですが、USGSの予測は病院の可用性や政府の対応ではなく、震度、余震、構造的損傷といった地震データに基づいていました。",
+        "es": "Si bien el momento y la respuesta importan, la predicción del USGS se basó en datos sísmicos —la magnitud, las réplicas y el daño estructural—, no en la disponibilidad de hospitales o la respuesta del gobierno.",
+        "hi": "हालांकि समय और प्रतिक्रिया मायने रखती है, USGS की भविष्यवाणी अस्पताल की उपलब्धता या सरकारी प्रतिक्रिया पर नहीं, बल्कि भूकंपीय डेटा — तीव्रता, झटके और संरचनात्मक क्षति — पर आधारित थी।",
+        "de": "Obwohl Timing und Reaktion wichtig sind, basierte die USGS-Vorhersage auf seismischen Daten – der Stärke, den Nachbeben und den strukturellen Schäden – und nicht auf der Verfügbarkeit von Krankenhäusern oder der Regierungsreaktion.",
+        "vi": "Mặc dù thời điểm và phản ứng rất quan trọng, dự đoán của USGS dựa trên dữ liệu địa chấn — độ lớn, dư chấn và thiệt hại cấu trúc — chứ không dựa trên khả năng sẵn có của bệnh viện hay phản ứng của chính phủ.",
+        "pt-BR": "Embora o momento e a resposta importem, a previsão do USGS foi baseada em dados sísmicos — a magnitude, os tremores secundários e os danos estruturais —, não na disponibilidade de hospitais ou na resposta do governo.",
+        "id": "Meskipun waktu dan respons penting, prediksi USGS didasarkan pada data seismik — magnitudo, gempa susulan, dan kerusakan struktural — bukan pada ketersediaan rumah sakit atau respons pemerintah.",
+        "fr": "Bien que le moment et la réponse comptent, la prédiction de l'USGS était basée sur des données sismiques — la magnitude, les répliques et les dommages structurels — et non sur la disponibilité des hôpitaux ou la réponse gouvernementale.",
+        "ar": "على الرغم من أن التوقيت والاستجابة مهمان، إلا أن توقعات USGS كانت مبنية على البيانات الزلزالية — القوة، الهزات الارتدادية، والأضرار الهيكلية — وليس على توفر المستشفيات أو استجابة الحكومة.",
+        "tr": "Zamanlama ve müdahale önemli olsa da, USGS tahmini hastane mevcudiyetine veya hükümet müdahalesine değil, sismik verilere — büyüklük, artçı sarsıntılar ve yapısal hasar — dayanıyordu.",
+        "it": "Sebbene i tempi e la risposta contino, la previsione dell'USGS si basava su dati sismici — magnitudo, repliche e danni strutturali — non sulla disponibilità di ospedali o sulla risposta del governo.",
+        "pl": "Chociaż czas i reakcja mają znaczenie, przewidywanie USGS opierało się na danych sejsmicznych — magnitudzie, wstrząsach wtórnych i uszkodzeniach konstrukcyjnych — a nie na dostępności szpitali czy reakcji rządu."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By waiting for survivors to call out"
       ],
       "answerIndex": 1,
-      "hintKo": "Rescue teams employed multiple technologies — dogs, drones, and listening devices — not just helicopters, satellites, or manual digging."
+      "hintKo": "Rescue teams employed multiple technologies — dogs, drones, and listening devices — not just helicopters, satellites, or manual digging.",
+      "hintI18n": {
+        "en": "Rescue teams employed multiple technologies — dogs, drones, and listening devices — not just helicopters, satellites, or manual digging.",
+        "ko": "구조대는 개, 드론, 청음 장치 등 여러 기술을 사용했습니다. 헬리콥터, 위성, 수동 굴착만 사용한 것은 아닙니다.",
+        "zh-Hans": "救援队使用了多种技术——搜救犬、无人机和监听设备——而不仅仅是直升机、卫星或人工挖掘。",
+        "ja": "救助隊は犬、ドローン、聴音装置など複数の技術を使いました。ヘリコプターや衛星、手作業の掘削だけではありません。",
+        "es": "Los equipos de rescate usaron varias tecnologías —perros, drones y dispositivos de escucha—, no solo helicópteros, satélites o excavación manual.",
+        "hi": "बचाव दलों ने कुत्तों, ड्रोन और सुनने के उपकरणों सहित कई तकनीकों का इस्तेमाल किया। केवल हेलीकॉप्टर, उपग्रह या मैन्युअल खुदाई नहीं।",
+        "de": "Rettungsteams setzten verschiedene Technologien ein – Hunde, Drohnen und Horchgeräte –, nicht nur Hubschrauber, Satelliten oder manuelles Graben.",
+        "vi": "Các đội cứu hộ đã dùng nhiều công nghệ — chó, máy bay không người lái và thiết bị nghe — không chỉ trực thăng, vệ tinh hay đào thủ công.",
+        "pt-BR": "As equipes de resgate usaram várias tecnologias — cães, drones e dispositivos de escuta —, não apenas helicópteros, satélites ou escavação manual.",
+        "id": "Tim penyelamat menggunakan berbagai teknologi — anjing, drone, dan alat pendengar — bukan hanya helikopter, satelit, atau penggalian manual.",
+        "fr": "Les équipes de secours ont utilisé plusieurs technologies — chiens, drones et appareils d’écoute —, pas seulement des hélicoptères, des satellites ou du creusement manuel.",
+        "ar": "استخدمت فرق الإنقاذ تقنيات متعددة — الكلاب والطائرات بدون طيار وأجهزة الاستماع — وليس فقط المروحيات أو الأقمار الصناعية أو الحفر اليدوي.",
+        "tr": "Kurtarma ekipleri köpekler, dronlar ve dinleme cihazları gibi birçok teknoloji kullandı; sadece helikopter, uydu veya elle kazma değil.",
+        "it": "Le squadre di soccorso hanno usato diverse tecnologie — cani, droni e dispositivi di ascolto — non solo elicotteri, satelliti o scavi manuali.",
+        "pl": "Ekipy ratunkowe użyły wielu technologii — psów, dronów i urządzeń nasłuchowych — nie tylko helikopterów, satelitów czy ręcznego kopania."
+      }
     }
   ],
   "youtube_url": ""

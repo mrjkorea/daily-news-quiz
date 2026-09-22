@@ -17,7 +17,24 @@
         "EasyJet"
       ],
       "answerIndex": 0,
-      "hintKo": "Merck worked with Moderna on the vaccine."
+      "hintKo": "Merck worked with Moderna on the vaccine.",
+      "hintI18n": {
+        "en": "Merck worked with Moderna on the vaccine.",
+        "ko": "머크는 모더나와 함께 백신을 개발했습니다.",
+        "zh-Hans": "默克与莫德纳合作研发了这款疫苗。",
+        "ja": "メルクはモデルナと協力してワクチンを開発しました。",
+        "es": "Merck trabajó con Moderna en la vacuna.",
+        "hi": "मर्क ने मॉडर्ना के साथ मिलकर टीका विकसित किया।",
+        "de": "Merck arbeitete mit Moderna an dem Impfstoff.",
+        "vi": "Merck đã làm việc với Moderna về loại vắc-xin này.",
+        "pt-BR": "A Merck trabalhou com a Moderna na vacina.",
+        "id": "Merck bekerja sama dengan Moderna dalam pengembangan vaksin.",
+        "fr": "Merck a travaillé avec Moderna sur le vaccin.",
+        "ar": "عملت ميرك مع موديرنا على اللقاح.",
+        "tr": "Merck, aşı üzerinde Moderna ile çalıştı.",
+        "it": "Merck ha lavorato con Moderna sul vaccino.",
+        "pl": "Merck współpracował z Moderną nad szczepionką."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It only changed hair color"
       ],
       "answerIndex": 1,
-      "hintKo": "The combination kept patients cancer free for longer than the drug alone."
+      "hintKo": "The combination kept patients cancer free for longer than the drug alone.",
+      "hintI18n": {
+        "en": "The combination kept patients cancer free for longer than the drug alone.",
+        "ko": "이 병용 요법은 약물 단독 치료보다 환자를 더 오래 암 없는 상태로 유지했습니다.",
+        "zh-Hans": "这种联合疗法使患者保持无癌状态的时间比单用该药更长。",
+        "ja": "この併用療法は、薬だけの場合より長く患者をがんのない状態に保ちました。",
+        "es": "La combinación mantuvo a los pacientes libres de cáncer durante más tiempo que el fármaco solo.",
+        "hi": "इस संयोजन ने रोगियों को अकेली दवा की तुलना में अधिक समय तक कैंसर-मुक्त रखा।",
+        "de": "Die Kombination hielt Patienten länger krebsfrei als das Medikament allein.",
+        "vi": "Sự kết hợp giúp bệnh nhân không còn ung thư lâu hơn so với chỉ dùng thuốc.",
+        "pt-BR": "A combinação manteve os pacientes livres de câncer por mais tempo do que o medicamento sozinho.",
+        "id": "Kombinasi ini membuat pasien bebas kanker lebih lama dibandingkan obat saja.",
+        "fr": "L'association a permis aux patients de rester sans cancer plus longtemps que le médicament seul.",
+        "ar": "أبقت التركيبة المرضى خالين من السرطان لمدة أطول من الدواء وحده.",
+        "tr": "Kombinasyon, hastaları tek başına ilaca kıyasla daha uzun süre kansersiz tuttu.",
+        "it": "La combinazione ha mantenuto i pazienti liberi dal cancro più a lungo rispetto al solo farmaco.",
+        "pl": "Połączenie utrzymywało pacjentów wolnych od raka dłużej niż sam lek."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Instead of any hospital visit"
       ],
       "answerIndex": 0,
-      "hintKo": "Patients received the vaccine after surgery."
+      "hintKo": "Patients received the vaccine after surgery.",
+      "hintI18n": {
+        "en": "Patients received the vaccine after surgery.",
+        "ko": "환자들은 수술 후에 백신을 접종받았습니다.",
+        "zh-Hans": "患者在手术后接种了疫苗。",
+        "ja": "患者は手術後にワクチンを接種しました。",
+        "es": "Los pacientes recibieron la vacuna después de la cirugía.",
+        "hi": "रोगियों को सर्जरी के बाद टीका मिला।",
+        "de": "Die Patienten erhielten den Impfstoff nach der Operation.",
+        "vi": "Các bệnh nhân được tiêm vắc-xin sau phẫu thuật.",
+        "pt-BR": "Os pacientes receberam a vacina após a cirurgia.",
+        "id": "Pasien menerima vaksin setelah operasi.",
+        "fr": "Les patients ont reçu le vaccin après la chirurgie.",
+        "ar": "تلقى المرضى اللقاح بعد الجراحة.",
+        "tr": "Hastalar ameliyattan sonra aşıyı aldı.",
+        "it": "I pazienti hanno ricevuto il vaccino dopo l'intervento chirurgico.",
+        "pl": "Pacjenci otrzymali szczepionkę po operacji."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "From a passport photo"
       ],
       "answerIndex": 1,
-      "hintKo": "The genetic information came from the tumour DNA."
+      "hintKo": "The genetic information came from the tumour DNA.",
+      "hintI18n": {
+        "en": "The genetic information came from the tumour DNA.",
+        "ko": "유전 정보는 종양의 DNA에서 얻었습니다.",
+        "zh-Hans": "遗传信息来自肿瘤DNA。",
+        "ja": "遺伝情報は腫瘍のDNAから得られました。",
+        "es": "La información genética provino del ADN del tumor.",
+        "hi": "आनुवंशिक जानकारी ट्यूमर के डीएनए से आई।",
+        "de": "Die genetischen Informationen stammten aus der DNA des Tumors.",
+        "vi": "Thông tin di truyền đến từ DNA của khối u.",
+        "pt-BR": "As informações genéticas vieram do DNA do tumor.",
+        "id": "Informasi genetik berasal dari DNA tumor.",
+        "fr": "Les informations génétiques provenaient de l'ADN de la tumeur.",
+        "ar": "جاءت المعلومات الجينية من الحمض النووي للورم.",
+        "tr": "Genetik bilgiler tümörün DNA'sından geldi.",
+        "it": "Le informazioni genetiche provenivano dal DNA del tumore.",
+        "pl": "Informacje genetyczne pochodziły z DNA guza."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The story is about a typhoon"
       ],
       "answerIndex": 0,
-      "hintKo": "Caution is needed because the full results are not yet fully reviewed."
+      "hintKo": "Caution is needed because the full results are not yet fully reviewed.",
+      "hintI18n": {
+        "en": "Caution is needed because the full results are not yet fully reviewed.",
+        "ko": "전체 결과가 아직 충분히 검토되지 않았기 때문에 주의가 필요합니다.",
+        "zh-Hans": "由于完整结果尚未经过充分审查，因此需要谨慎。",
+        "ja": "完全な結果がまだ十分に検討されていないため、注意が必要です。",
+        "es": "Se necesita precaución porque los resultados completos aún no se han revisado por completo.",
+        "hi": "सावधानी की जरूरत है क्योंकि पूरे परिणामों की अभी पूरी समीक्षा नहीं हुई है।",
+        "de": "Vorsicht ist geboten, weil die vollständigen Ergebnisse noch nicht vollständig überprüft wurden.",
+        "vi": "Cần thận trọng vì các kết quả đầy đủ vẫn chưa được xem xét đầy đủ.",
+        "pt-BR": "É preciso cautela porque os resultados completos ainda não foram totalmente revisados.",
+        "id": "Perlu kehati-hatian karena hasil lengkapnya belum sepenuhnya ditinjau.",
+        "fr": "La prudence est de mise car les résultats complets n'ont pas encore été entièrement examinés.",
+        "ar": "الحذر مطلوب لأن النتائج الكاملة لم تُراجع بالكامل بعد.",
+        "tr": "Dikkatli olmak gerekir çünkü tam sonuçlar henüz tam olarak incelenmedi.",
+        "it": "È necessaria cautela perché i risultati completi non sono ancora stati esaminati del tutto.",
+        "pl": "Potrzebna jest ostrożność, ponieważ pełne wyniki nie zostały jeszcze w pełni sprawdzone."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By changing the weather"
       ],
       "answerIndex": 1,
-      "hintKo": "It trains the immune system to recognise leftover tumour cells."
+      "hintKo": "It trains the immune system to recognise leftover tumour cells.",
+      "hintI18n": {
+        "en": "It trains the immune system to recognise leftover tumour cells.",
+        "ko": "그것은 면역 체계가 남아 있는 종양 세포를 인식하도록 훈련시킵니다.",
+        "zh-Hans": "它训练免疫系统识别残留的肿瘤细胞。",
+        "ja": "それは免疫系が残った腫瘍細胞を認識するように訓練します。",
+        "es": "Entrena al sistema inmunitario para reconocer las células tumorales que quedan.",
+        "hi": "यह प्रतिरक्षा प्रणाली को बचे हुए ट्यूमर कोशिकाओं को पहचानना सिखाता है।",
+        "de": "Es trainiert das Immunsystem darauf, übrig gebliebene Tumorzellen zu erkennen.",
+        "vi": "Nó huấn luyện hệ miễn dịch nhận ra các tế bào khối u còn sót lại.",
+        "pt-BR": "Ele treina o sistema imunológico para reconhecer células tumorais remanescentes.",
+        "id": "Ini melatih sistem kekebalan untuk mengenali sel tumor yang tersisa.",
+        "fr": "Il entraîne le système immunitaire à reconnaître les cellules tumorales restantes.",
+        "ar": "إنه يدرّب الجهاز المناعي على التعرف على خلايا الورم المتبقية.",
+        "tr": "Bağışıklık sistemini kalan tümör hücrelerini tanıması için eğitir.",
+        "it": "Addestra il sistema immunitario a riconoscere le cellule tumorali rimaste.",
+        "pl": "Uczy układ odpornościowy rozpoznawania pozostałych komórek nowotworowych."
+      }
     }
   ],
   "youtube_url": ""

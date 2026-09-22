@@ -17,7 +17,24 @@
         "The World Wildlife Fund"
       ],
       "answerIndex": 0,
-      "hintKo": "The announcement came from Florida Atlantic University, not these other organizations."
+      "hintKo": "The announcement came from Florida Atlantic University, not these other organizations.",
+      "hintI18n": {
+        "en": "The announcement came from Florida Atlantic University, not these other organizations.",
+        "ko": "발표는 플로리다 애틀랜틱 대학교에서 나왔으며, 다른 기관들이 아닙니다.",
+        "zh-Hans": "该公告来自佛罗里达大西洋大学，而不是其他机构。",
+        "ja": "発表はフロリダ・アトランティック大学によるもので、他の組織ではありません。",
+        "es": "El anuncio provino de la Florida Atlantic University, no de estas otras organizaciones.",
+        "hi": "यह घोषणा फ्लोरिडा अटलांटिक विश्वविद्यालय से आई, इन अन्य संगठनों से नहीं।",
+        "de": "Die Ankündigung kam von der Florida Atlantic University, nicht von diesen anderen Organisationen.",
+        "vi": "Thông báo đến từ Đại học Florida Atlantic, không phải từ các tổ chức khác này.",
+        "pt-BR": "O anúncio veio da Florida Atlantic University, não dessas outras organizações.",
+        "id": "Pengumuman itu berasal dari Florida Atlantic University, bukan dari organisasi lain ini.",
+        "fr": "L'annonce vient de la Florida Atlantic University, et non de ces autres organisations.",
+        "ar": "جاء الإعلان من جامعة فلوريدا أتلانتيك، وليس من هذه المنظمات الأخرى.",
+        "tr": "Duyuru Florida Atlantic Üniversitesi'nden geldi, bu diğer kuruluşlardan değil.",
+        "it": "L'annuncio è arrivato dalla Florida Atlantic University, non da queste altre organizzazioni.",
+        "pl": "Ogłoszenie pochodzi z Florida Atlantic University, a nie od tych innych organizacji."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It has a very long nose"
       ],
       "answerIndex": 2,
-      "hintKo": "The distinctive feature is the orange-cream facial patch, not these other characteristics."
+      "hintKo": "The distinctive feature is the orange-cream facial patch, not these other characteristics.",
+      "hintI18n": {
+        "en": "The distinctive feature is the orange-cream facial patch, not these other characteristics.",
+        "ko": "두드러진 특징은 주황색-크림색 얼굴 반점이며, 다른 특징들이 아닙니다.",
+        "zh-Hans": "其显著特征是橙奶油色的面部斑块，而不是其他特征。",
+        "ja": "特徴的なのはオレンジクリーム色の顔の斑で、他の特徴ではありません。",
+        "es": "El rasgo distintivo es la mancha facial de color naranja crema, no estas otras características.",
+        "hi": "विशिष्ट विशेषता नारंगी-क्रीम रंग का चेहरे का धब्बा है, ये अन्य विशेषताएँ नहीं।",
+        "de": "Das charakteristische Merkmal ist der orange-cremefarbene Gesichtsfleck, nicht diese anderen Merkmale.",
+        "vi": "Đặc điểm nổi bật là mảng mặt màu cam kem, không phải những đặc điểm khác này.",
+        "pt-BR": "A característica distintiva é a mancha facial de cor laranja-creme, não essas outras características.",
+        "id": "Ciri khasnya adalah bercak wajah oranye-krem, bukan ciri-ciri lain ini.",
+        "fr": "Le trait distinctif est la tache faciale orange crème, et non ces autres caractéristiques.",
+        "ar": "السمة المميزة هي بقعة الوجه البرتقالية الكريمية، وليس هذه الخصائص الأخرى.",
+        "tr": "Ayırt edici özellik turuncu-krem yüz lekesidir, bu diğer özellikler değil.",
+        "it": "Il tratto distintivo è la macchia facciale color arancio-crema, non queste altre caratteristiche.",
+        "pl": "Charakterystyczną cechą jest pomarańczowo-kremowa plama na twarzy, a nie te inne cechy."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "July sixteenth"
       ],
       "answerIndex": 4,
-      "hintKo": "The specific date given in the article is July sixteenth."
+      "hintKo": "The specific date given in the article is July sixteenth.",
+      "hintI18n": {
+        "en": "The specific date given in the article is July sixteenth.",
+        "ko": "기사에 나온 구체적인 날짜는 7월 16일입니다.",
+        "zh-Hans": "文章中给出的具体日期是7月16日。",
+        "ja": "記事に示された具体的な日付は7月16日です。",
+        "es": "La fecha específica que da el artículo es el dieciséis de julio.",
+        "hi": "लेख में दी गई विशिष्ट तिथि सोलह जुलाई है।",
+        "de": "Das im Artikel genannte konkrete Datum ist der sechzehnte Juli.",
+        "vi": "Ngày cụ thể được nêu trong bài báo là ngày mười sáu tháng Bảy.",
+        "pt-BR": "A data específica dada no artigo é dezesseis de julho.",
+        "id": "Tanggal spesifik yang diberikan dalam artikel adalah enam belas Juli.",
+        "fr": "La date précise donnée dans l'article est le seize juillet.",
+        "ar": "التاريخ المحدد الوارد في المقالة هو السادس عشر من يوليو.",
+        "tr": "Makalede verilen belirli tarih on altı Temmuz'dur.",
+        "it": "La data specifica indicata nell'articolo è il sedici luglio.",
+        "pl": "Konkretna data podana w artykule to szesnasty lipca."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Borneo Rainforest in Indonesia"
       ],
       "answerIndex": 0,
-      "hintKo": "The discovery was specifically in Congo's Lomami National Park, not these other locations."
+      "hintKo": "The discovery was specifically in Congo's Lomami National Park, not these other locations.",
+      "hintI18n": {
+        "en": "The discovery was specifically in Congo's Lomami National Park, not these other locations.",
+        "ko": "발견은 콩고의 로마미 국립공원에서 구체적으로 이루어졌으며, 다른 장소들이 아닙니다.",
+        "zh-Hans": "这一发现具体是在刚果的洛马米国家公园，而不是其他地点。",
+        "ja": "発見は具体的にはコンゴのロマミ国立公園で、他の場所ではありません。",
+        "es": "El descubrimiento fue específicamente en el Parque Nacional Lomami del Congo, no en estas otras ubicaciones.",
+        "hi": "यह खोज विशेष रूप से कांगो के लोमामी राष्ट्रीय उद्यान में हुई, इन अन्य स्थानों में नहीं।",
+        "de": "Die Entdeckung war speziell im Lomami-Nationalpark im Kongo, nicht an diesen anderen Orten.",
+        "vi": "Phát hiện cụ thể là ở Vườn quốc gia Lomami của Congo, không phải những địa điểm khác này.",
+        "pt-BR": "A descoberta foi especificamente no Parque Nacional Lomami, no Congo, não nesses outros locais.",
+        "id": "Penemuan itu secara spesifik di Taman Nasional Lomami, Kongo, bukan di lokasi lain ini.",
+        "fr": "La découverte a eu lieu précisément dans le parc national de Lomami, au Congo, et non dans ces autres lieux.",
+        "ar": "كان الاكتشاف تحديدًا في حديقة لومامي الوطنية في الكونغو، وليس في هذه المواقع الأخرى.",
+        "tr": "Keşif özellikle Kongo'daki Lomami Ulusal Parkı'ndaydı, bu diğer yerlerde değil.",
+        "it": "La scoperta è avvenuta specificamente nel Parco Nazionale di Lomami, in Congo, non in queste altre località.",
+        "pl": "Odkrycia dokonano konkretnie w Parku Narodowym Lomami w Kongu, a nie w tych innych miejscach."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because it only eats one type of food"
       ],
       "answerIndex": 1,
-      "hintKo": "The risk comes from the limited range and population, not these other factors."
+      "hintKo": "The risk comes from the limited range and population, not these other factors.",
+      "hintI18n": {
+        "en": "The risk comes from the limited range and population, not these other factors.",
+        "ko": "위험은 제한된 서식 범위와 개체 수 때문이며, 다른 요인들이 아닙니다.",
+        "zh-Hans": "风险来自有限的分布范围和种群数量，而不是其他因素。",
+        "ja": "危険性は限られた分布域と個体数によるもので、他の要因ではありません。",
+        "es": "El riesgo proviene del área de distribución y la población limitadas, no de estos otros factores.",
+        "hi": "जोखिम सीमित विस्तार और आबादी के कारण है, इन अन्य कारकों के कारण नहीं।",
+        "de": "Das Risiko ergibt sich aus dem begrenzten Verbreitungsgebiet und der Population, nicht aus diesen anderen Faktoren.",
+        "vi": "Rủi ro đến từ phạm vi phân bố và số lượng cá thể hạn chế, không phải những yếu tố khác này.",
+        "pt-BR": "O risco vem da área de distribuição e população limitadas, não desses outros fatores.",
+        "id": "Risikonya berasal dari wilayah jelajah dan populasi yang terbatas, bukan dari faktor lain ini.",
+        "fr": "Le risque vient de l'aire de répartition et de la population limitées, et non de ces autres facteurs.",
+        "ar": "تأتي المخاطر من النطاق والجماعة المحدودين، وليس من هذه العوامل الأخرى.",
+        "tr": "Risk, sınırlı yayılım alanı ve popülasyondan kaynaklanıyor, bu diğer faktörlerden değil.",
+        "it": "Il rischio deriva dall'areale e dalla popolazione limitati, non da questi altri fattori.",
+        "pl": "Ryzyko wynika z ograniczonego zasięgu i populacji, a nie z tych innych czynników."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By asking local villagers"
       ],
       "answerIndex": 2,
-      "hintKo": "The combination of vocal analysis and physical examination confirmed the new species."
+      "hintKo": "The combination of vocal analysis and physical examination confirmed the new species.",
+      "hintI18n": {
+        "en": "The combination of vocal analysis and physical examination confirmed the new species.",
+        "ko": "음성 분석과 신체 검사를 결합하여 새로운 종임을 확인했다.",
+        "zh-Hans": "声音分析和身体检查相结合，确认了这是一个新物种。",
+        "ja": "音声分析と身体検査を組み合わせることで、新種であることが確認された。",
+        "es": "La combinación de análisis vocal y examen físico confirmó la nueva especie.",
+        "hi": "स्वर विश्लेषण और शारीरिक परीक्षण के संयोजन ने नई प्रजाति की पुष्टि की।",
+        "de": "Die Kombination aus Stimmanalyse und körperlicher Untersuchung bestätigte die neue Art.",
+        "vi": "Sự kết hợp giữa phân tích âm thanh và kiểm tra thể chất đã xác nhận loài mới.",
+        "pt-BR": "A combinação de análise vocal e exame físico confirmou a nova espécie.",
+        "id": "Kombinasi analisis suara dan pemeriksaan fisik mengonfirmasi spesies baru.",
+        "fr": "La combinaison d’une analyse vocale et d’un examen physique a confirmé la nouvelle espèce.",
+        "ar": "أكد الجمع بين تحليل الصوت والفحص الجسدي أن هذا نوع جديد.",
+        "tr": "Ses analizi ile fiziksel muayenenin birleşimi yeni türü doğruladı.",
+        "it": "La combinazione di analisi vocale ed esame fisico ha confermato la nuova specie.",
+        "pl": "Połączenie analizy wokalnej i badania fizycznego potwierdziło nowy gatunek."
+      }
     }
   ],
   "youtube_url": ""

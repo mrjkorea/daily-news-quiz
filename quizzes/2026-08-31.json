@@ -17,7 +17,24 @@
         "A chef in Tokyo"
       ],
       "answerIndex": 0,
-      "hintKo": "The study was led by a university research team, not a sports or phone company."
+      "hintKo": "The study was led by a university research team, not a sports or phone company.",
+      "hintI18n": {
+        "en": "The study was led by a university research team, not a sports or phone company.",
+        "ko": "그 연구는 스포츠나 전화 회사가 아니라 대학 연구팀이 주도했습니다.",
+        "zh-Hans": "这项研究由大学研究团队领导，而不是体育或电话公司。",
+        "ja": "その研究は大学の研究チームが主導し、スポーツや電話会社ではありませんでした。",
+        "es": "El estudio fue dirigido por un equipo universitario, no por una empresa deportiva o telefónica.",
+        "hi": "अध्ययन का नेतृत्व एक विश्वविद्यालय शोध दल ने किया, किसी खेल या फ़ोन कंपनी ने नहीं।",
+        "de": "Die Studie wurde von einem Universitätsteam geleitet, nicht von einer Sport- oder Telefonfirma.",
+        "vi": "Nghiên cứu do một nhóm nghiên cứu đại học thực hiện, không phải công ty thể thao hay điện thoại.",
+        "pt-BR": "O estudo foi liderado por uma equipe de pesquisa universitária, não por uma empresa de esportes ou telefonia.",
+        "id": "Penelitian ini dipimpin oleh tim riset universitas, bukan perusahaan olahraga atau telepon.",
+        "fr": "L'étude a été menée par une équipe universitaire, pas par une entreprise de sport ou de téléphonie.",
+        "ar": "قاد الدراسة فريق بحثي جامعي، وليس شركة رياضة أو هاتف.",
+        "tr": "Çalışmayı bir üniversite araştırma ekibi yürüttü; bir spor ya da telefon şirketi değil.",
+        "it": "Lo studio è stato condotto da un team di ricerca universitario, non da un'azienda sportiva o telefonica.",
+        "pl": "Badanie prowadził uniwersytecki zespół badawczy, a nie firma sportowa czy telefoniczna."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Ice cream"
       ],
       "answerIndex": 2,
-      "hintKo": "The light change was about vitamins in algae, not money or machines."
+      "hintKo": "The light change was about vitamins in algae, not money or machines.",
+      "hintI18n": {
+        "en": "The light change was about vitamins in algae, not money or machines.",
+        "ko": "빛 변화는 조류의 비타민에 관한 것이었고, 돈이나 기계에 관한 것이 아니었습니다.",
+        "zh-Hans": "光照变化是为了让藻类产生维生素，与金钱或机器无关。",
+        "ja": "光の変化は藻類のビタミンに関するもので、お金や機械とは関係ありません。",
+        "es": "El cambio de luz tenía que ver con vitaminas en las algas, no con dinero ni máquinas.",
+        "hi": "प्रकाश परिवर्तन शैवाल में विटामिन से जुड़ा था, पैसे या मशीनों से नहीं।",
+        "de": "Die Lichtänderung betraf Vitamine in Algen, nicht Geld oder Maschinen.",
+        "vi": "Sự thay đổi ánh sáng liên quan đến vitamin trong tảo, không phải tiền hay máy móc.",
+        "pt-BR": "A mudança de luz era sobre vitaminas nas algas, não dinheiro ou máquinas.",
+        "id": "Perubahan cahaya itu tentang vitamin pada alga, bukan uang atau mesin.",
+        "fr": "Le changement de lumière concernait les vitamines dans les algues, pas l'argent ou les machines.",
+        "ar": "كان تغيير الضوء يتعلق بفيتامينات في الطحالب، وليس بالمال أو الآلات.",
+        "tr": "Işık değişimi alglerdeki vitaminlerle ilgiliydi; parayla ya da makinelerle değil.",
+        "it": "Il cambiamento della luce riguardava le vitamine nelle alghe, non il denaro o le macchine.",
+        "pl": "Zmiana światła dotyczyła witamin w algach, a nie pieniędzy czy maszyn."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Until now, because most of its B twelve was a fake form"
       ],
       "answerIndex": 4,
-      "hintKo": "The problem was the fake vitamin form, not a holiday or a sports event."
+      "hintKo": "The problem was the fake vitamin form, not a holiday or a sports event.",
+      "hintI18n": {
+        "en": "The problem was the fake vitamin form, not a holiday or a sports event.",
+        "ko": "문제는 가짜 비타민 형태였고, 휴일이나 스포츠 경기가 아니었습니다.",
+        "zh-Hans": "问题出在那种假维生素形式，而不是假日或体育赛事。",
+        "ja": "問題は偽のビタミン形態であり、休日やスポーツイベントではありませんでした。",
+        "es": "El problema era la forma falsa de la vitamina, no un día festivo ni un evento deportivo.",
+        "hi": "समस्या नकली विटामिन रूप थी, कोई छुट्टी या खेल आयोजन नहीं।",
+        "de": "Das Problem war die gefälschte Vitaminform, nicht ein Feiertag oder Sportevent.",
+        "vi": "Vấn đề là dạng vitamin giả, không phải ngày lễ hay sự kiện thể thao.",
+        "pt-BR": "O problema era a forma falsa da vitamina, não um feriado ou evento esportivo.",
+        "id": "Masalahnya adalah bentuk vitamin palsu, bukan hari libur atau acara olahraga.",
+        "fr": "Le problème était la fausse forme de vitamine, pas un jour férié ou un événement sportif.",
+        "ar": "كانت المشكلة في شكل الفيتامين المزيف، وليس في عطلة أو حدث رياضي.",
+        "tr": "Sorun sahte vitamin biçimiydi; bir tatil ya da spor etkinliği değildi.",
+        "it": "Il problema era la forma falsa della vitamina, non una vacanza o un evento sportivo.",
+        "pl": "Problem dotyczył fałszywej formy witaminy, a nie święta czy wydarzenia sportowego."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Iceland"
       ],
       "answerIndex": 4,
-      "hintKo": "The tanks were in Iceland, not on the moon or in a stadium."
+      "hintKo": "The tanks were in Iceland, not on the moon or in a stadium.",
+      "hintI18n": {
+        "en": "The tanks were in Iceland, not on the moon or in a stadium.",
+        "ko": "그 탱크들은 아이슬란드에 있었고, 달이나 경기장에 있지 않았습니다.",
+        "zh-Hans": "那些罐子位于冰岛，不在月球上，也不在体育场里。",
+        "ja": "そのタンクはアイスランドにあり、月やスタジアムではありませんでした。",
+        "es": "Los tanques estaban en Islandia, no en la Luna ni en un estadio.",
+        "hi": "टैंक आइसलैंड में थे, चाँद पर या स्टेडियम में नहीं।",
+        "de": "Die Tanks waren in Island, nicht auf dem Mond oder in einem Stadion.",
+        "vi": "Các bể chứa ở Iceland, không phải trên mặt trăng hay trong sân vận động.",
+        "pt-BR": "Os tanques estavam na Islândia, não na Lua ou em um estádio.",
+        "id": "Tangki-tangki itu berada di Islandia, bukan di bulan atau di stadion.",
+        "fr": "Les réservoirs étaient en Islande, pas sur la Lune ni dans un stade.",
+        "ar": "كانت الخزانات في آيسلندا، وليس على القمر أو في ملعب.",
+        "tr": "Tanklar İzlanda'daydı; Ay'da ya da bir stadyumda değil.",
+        "it": "I serbatoi erano in Islanda, non sulla Luna o in uno stadio.",
+        "pl": "Zbiorniki były na Islandii, a nie na Księżycu czy na stadionie."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "They want faster hurdles"
       ],
       "answerIndex": 0,
-      "hintKo": "The goal was nutrition and a smaller footprint, not sports or phones."
+      "hintKo": "The goal was nutrition and a smaller footprint, not sports or phones.",
+      "hintI18n": {
+        "en": "The goal was nutrition and a smaller footprint, not sports or phones.",
+        "ko": "목표는 영양과 더 작은 환경 발자국이었고, 스포츠나 전화가 아니었습니다.",
+        "zh-Hans": "目标是营养和更小的环境足迹，而不是体育或电话。",
+        "ja": "目標は栄養とより小さな環境負荷であり、スポーツや電話ではありませんでした。",
+        "es": "El objetivo era la nutrición y una menor huella ambiental, no los deportes ni los teléfonos.",
+        "hi": "लक्ष्य पोषण और छोटा पर्यावरणीय प्रभाव था, खेल या फ़ोन नहीं।",
+        "de": "Das Ziel waren Ernährung und ein kleinerer ökologischer Fußabdruck, nicht Sport oder Telefone.",
+        "vi": "Mục tiêu là dinh dưỡng và dấu chân môi trường nhỏ hơn, không phải thể thao hay điện thoại.",
+        "pt-BR": "O objetivo era a nutrição e uma pegada menor, não esportes ou telefones.",
+        "id": "Tujuannya adalah nutrisi dan jejak lingkungan lebih kecil, bukan olahraga atau telepon.",
+        "fr": "L'objectif était la nutrition et une empreinte plus faible, pas le sport ou les téléphones.",
+        "ar": "كان الهدف هو التغذية وبصمة بيئية أصغر، وليس الرياضة أو الهواتف.",
+        "tr": "Amaç beslenme ve daha küçük bir çevresel ayak iziydi; spor ya da telefonlar değil.",
+        "it": "L'obiettivo erano la nutrizione e un'impronta ambientale minore, non lo sport o i telefoni.",
+        "pl": "Celem było odżywianie i mniejszy ślad środowiskowy, a nie sport czy telefony."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By freezing it in space"
       ],
       "answerIndex": 0,
-      "hintKo": "They changed light, not rockets or lotteries."
+      "hintKo": "They changed light, not rockets or lotteries.",
+      "hintI18n": {
+        "en": "They changed light, not rockets or lotteries.",
+        "ko": "그들은 빛을 바꾼 것이지, 로켓이나 복권이 아니다.",
+        "zh-Hans": "他们改变的是光照，而不是火箭或彩票。",
+        "ja": "彼らが変えたのは光であり、ロケットや宝くじではない。",
+        "es": "Cambiaron la luz, no cohetes ni loterías.",
+        "hi": "उन्होंने रोशनी बदली, रॉकेट या लॉटरी नहीं।",
+        "de": "Sie änderten das Licht, nicht Raketen oder Lotterien.",
+        "vi": "Họ đã thay đổi ánh sáng, không phải tên lửa hay xổ số.",
+        "pt-BR": "Eles mudaram a luz, não foguetes nem loterias.",
+        "id": "Mereka mengubah cahaya, bukan roket atau lotre.",
+        "fr": "Ils ont changé la lumière, pas des fusées ni des loteries.",
+        "ar": "غيّروا الضوء، لا الصواريخ أو اليانصيب.",
+        "tr": "Işığı değiştirdiler, roketleri veya piyangoları değil.",
+        "it": "Hanno cambiato la luce, non razzi o lotterie.",
+        "pl": "Zmienili światło, a nie rakiety czy loterie."
+      }
     }
   ],
   "youtube_url": ""

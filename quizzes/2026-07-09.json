@@ -17,7 +17,24 @@
         "Egypt and Spain"
       ],
       "answerIndex": 0,
-      "hintKo": "The other country pairs were not part of this story."
+      "hintKo": "The other country pairs were not part of this story.",
+      "hintI18n": {
+        "en": "The other country pairs were not part of this story.",
+        "ko": "다른 국가 조합은 이 이야기에 포함되지 않았습니다.",
+        "zh-Hans": "其他国家组合并不在这则报道中。",
+        "ja": "他の国の組み合わせはこの記事には含まれていません。",
+        "es": "Los otros pares de países no formaban parte de esta historia.",
+        "hi": "देशों के अन्य जोड़े इस खबर का हिस्सा नहीं थे।",
+        "de": "Die anderen Länderpaare waren nicht Teil dieser Geschichte.",
+        "vi": "Các cặp quốc gia khác không thuộc câu chuyện này.",
+        "pt-BR": "Os outros pares de países não faziam parte desta notícia.",
+        "id": "Pasangan negara lain bukan bagian dari berita ini.",
+        "fr": "Les autres paires de pays ne faisaient pas partie de cette histoire.",
+        "ar": "أزواج الدول الأخرى لم تكن جزءًا من هذه القصة.",
+        "tr": "Diğer ülke çiftleri bu haberde yer almıyordu.",
+        "it": "Le altre coppie di paesi non facevano parte di questa storia.",
+        "pl": "Inne pary krajów nie były częścią tej historii."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Television cameras"
       ],
       "answerIndex": 1,
-      "hintKo": "The story mentioned other energy cooperation, but uranium is the export in the deal."
+      "hintKo": "The story mentioned other energy cooperation, but uranium is the export in the deal.",
+      "hintI18n": {
+        "en": "The story mentioned other energy cooperation, but uranium is the export in the deal.",
+        "ko": "그 기사는 다른 에너지 협력도 언급했지만, 이번 거래의 수출품은 우라늄입니다.",
+        "zh-Hans": "报道提到了其他能源合作，但该协议中的出口产品是铀。",
+        "ja": "記事では他のエネルギー協力にも触れていましたが、この取引で輸出されるのはウランです。",
+        "es": "La historia mencionó otra cooperación energética, pero el uranio es lo que se exporta en el acuerdo.",
+        "hi": "खबर में अन्य ऊर्जा सहयोग का ज़िक्र था, लेकिन सौदे में निर्यात यूरेनियम है।",
+        "de": "Der Bericht erwähnte andere Energiekooperation, aber im Abkommen wird Uran exportiert.",
+        "vi": "Câu chuyện có đề cập đến hợp tác năng lượng khác, nhưng thứ được xuất khẩu trong thỏa thuận là uranium.",
+        "pt-BR": "A reportagem mencionou outra cooperação energética, mas o exportado no acordo é o urânio.",
+        "id": "Berita itu menyebut kerja sama energi lain, tetapi yang diekspor dalam kesepakatan itu adalah uranium.",
+        "fr": "L'article mentionnait d'autres coopérations énergétiques, mais c'est l'uranium qui est exporté dans l'accord.",
+        "ar": "ذُكر في الخبر تعاون آخر في مجال الطاقة، لكن الصادر في الاتفاق هو اليورانيوم.",
+        "tr": "Haber başka enerji iş birliklerinden söz ediyordu, ancak anlaşmada ihraç edilen ürün uranyumdur.",
+        "it": "La notizia menzionava altre cooperazioni energetiche, ma nell'accordo l'esportazione riguarda l'uranio.",
+        "pl": "W artykule wspomniano o innej współpracy energetycznej, ale w umowie eksportowanym surowcem jest uran."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Thailand"
       ],
       "answerIndex": 2,
-      "hintKo": "Australia is the exporting country; India is the country where the uranium will be used."
+      "hintKo": "Australia is the exporting country; India is the country where the uranium will be used.",
+      "hintI18n": {
+        "en": "Australia is the exporting country; India is the country where the uranium will be used.",
+        "ko": "호주는 수출국이고, 인도는 우라늄이 사용될 국가입니다.",
+        "zh-Hans": "澳大利亚是出口国；印度是这些铀将被使用的国家。",
+        "ja": "オーストラリアは輸出国で、インドはウランが使用される国です。",
+        "es": "Australia es el país exportador; India es el país donde se utilizará el uranio.",
+        "hi": "ऑस्ट्रेलिया निर्यातक देश है; भारत वह देश है जहाँ यूरेनियम का उपयोग किया जाएगा।",
+        "de": "Australien ist das Exportland; Indien ist das Land, in dem das Uran verwendet wird.",
+        "vi": "Úc là nước xuất khẩu; Ấn Độ là nước sẽ sử dụng uranium.",
+        "pt-BR": "A Austrália é o país exportador; a Índia é o país onde o urânio será usado.",
+        "id": "Australia adalah negara pengekspor; India adalah negara tempat uranium akan digunakan.",
+        "fr": "L'Australie est le pays exportateur ; l'Inde est le pays où l'uranium sera utilisé.",
+        "ar": "أستراليا هي الدولة المصدرة؛ والهند هي الدولة التي سيُستخدم فيها اليورانيوم.",
+        "tr": "Avustralya ihracatçı ülkedir; Hindistan ise uranyumun kullanılacağı ülkedir.",
+        "it": "L'Australia è il paese esportatore; l'India è il paese in cui verrà usato l'uranio.",
+        "pl": "Australia jest krajem eksportującym; Indie to kraj, w którym będzie wykorzystywany uran."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Twenty fifty-five"
       ],
       "answerIndex": 3,
-      "hintKo": "The correct target year in the story is twenty forty-seven."
+      "hintKo": "The correct target year in the story is twenty forty-seven.",
+      "hintI18n": {
+        "en": "The correct target year in the story is twenty forty-seven.",
+        "ko": "이 이야기에서 올바른 목표 연도는 2047년입니다.",
+        "zh-Hans": "报道中正确的目标年份是2047年。",
+        "ja": "記事に出てくる正しい目標年は2047年です。",
+        "es": "El año objetivo correcto en la historia es 2047.",
+        "hi": "खबर में सही लक्ष्य वर्ष 2047 है।",
+        "de": "Das richtige Zieljahr in der Geschichte ist 2047.",
+        "vi": "Năm mục tiêu đúng trong câu chuyện là năm 2047.",
+        "pt-BR": "O ano meta correto na reportagem é 2047.",
+        "id": "Tahun target yang benar dalam berita ini adalah 2047.",
+        "fr": "L'année cible correcte dans l'article est 2047.",
+        "ar": "السنة المستهدفة الصحيحة في الخبر هي 2047.",
+        "tr": "Haberin doğru hedef yılı 2047'dir.",
+        "it": "L'anno obiettivo corretto nella notizia è il 2047.",
+        "pl": "Prawidłowy rok docelowy w artykule to 2047."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "To end cooperation with India"
       ],
       "answerIndex": 0,
-      "hintKo": "Diversifying trade means adding more markets, not ending trade."
+      "hintKo": "Diversifying trade means adding more markets, not ending trade.",
+      "hintI18n": {
+        "en": "Diversifying trade means adding more markets, not ending trade.",
+        "ko": "무역 다변화는 무역을 끝내는 것이 아니라 더 많은 시장을 추가하는 것을 의미합니다.",
+        "zh-Hans": "贸易多元化意味着增加更多市场，而不是结束贸易。",
+        "ja": "貿易の多様化とは、貿易をやめることではなく、より多くの市場を加えることです。",
+        "es": "Diversificar el comercio significa añadir más mercados, no poner fin al comercio.",
+        "hi": "व्यापार का विविधीकरण अधिक बाज़ार जोड़ना है, व्यापार खत्म करना नहीं।",
+        "de": "Handel zu diversifizieren bedeutet, mehr Märkte hinzuzufügen, nicht den Handel zu beenden.",
+        "vi": "Đa dạng hóa thương mại nghĩa là thêm nhiều thị trường hơn, không phải chấm dứt thương mại.",
+        "pt-BR": "Diversificar o comércio significa adicionar mais mercados, não acabar com o comércio.",
+        "id": "Mendiversifikasi perdagangan berarti menambah lebih banyak pasar, bukan mengakhiri perdagangan.",
+        "fr": "Diversifier le commerce signifie ajouter davantage de marchés, pas mettre fin au commerce.",
+        "ar": "تنويع التجارة يعني إضافة المزيد من الأسواق، لا إنهاء التجارة.",
+        "tr": "Ticareti çeşitlendirmek, ticareti bitirmek değil daha fazla pazar eklemek anlamına gelir.",
+        "it": "Diversificare il commercio significa aggiungere più mercati, non porre fine al commercio.",
+        "pl": "Dywersyfikacja handlu oznacza dodawanie kolejnych rynków, a nie kończenie handlu."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By supporting nuclear power and wider clean-energy cooperation"
       ],
       "answerIndex": 4,
-      "hintKo": "The deal supports energy transition through power and clean-energy cooperation."
+      "hintKo": "The deal supports energy transition through power and clean-energy cooperation.",
+      "hintI18n": {
+        "en": "The deal supports energy transition through power and clean-energy cooperation.",
+        "ko": "이 협정은 전력 및 청정 에너지 협력을 통해 에너지 전환을 지원합니다.",
+        "zh-Hans": "该协议通过电力和清洁能源合作支持能源转型。",
+        "ja": "この協定は電力とクリーンエネルギーの協力を通じてエネルギー転換を支援する。",
+        "es": "El acuerdo apoya la transición energética mediante la cooperación en electricidad y energía limpia.",
+        "hi": "यह समझौता बिजली और स्वच्छ ऊर्जा सहयोग के जरिए ऊर्जा संक्रमण का समर्थन करता है।",
+        "de": "Das Abkommen unterstützt die Energiewende durch Zusammenarbeit bei Strom und sauberer Energie.",
+        "vi": "Thỏa thuận hỗ trợ chuyển đổi năng lượng thông qua hợp tác về điện và năng lượng sạch.",
+        "pt-BR": "O acordo apoia a transição energética por meio da cooperação em eletricidade e energia limpa.",
+        "id": "Kesepakatan ini mendukung transisi energi melalui kerja sama listrik dan energi bersih.",
+        "fr": "L’accord soutient la transition énergétique grâce à la coopération dans l’électricité et les énergies propres.",
+        "ar": "يدعم الاتفاق تحول الطاقة من خلال التعاون في الكهرباء والطاقة النظيفة.",
+        "tr": "Anlaşma, elektrik ve temiz enerji işbirliği yoluyla enerji geçişini destekliyor.",
+        "it": "L’accordo sostiene la transizione energetica attraverso la cooperazione su elettricità ed energia pulita.",
+        "pl": "Umowa wspiera transformację energetyczną poprzez współpracę w zakresie energii elektrycznej i czystej energii."
+      }
     }
   ],
   "youtube_url": ""

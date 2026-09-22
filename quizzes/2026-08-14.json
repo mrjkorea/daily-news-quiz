@@ -17,7 +17,24 @@
         "Auqib Nabi"
       ],
       "answerIndex": 0,
-      "hintKo": "The body is believed to be Dorje Morup."
+      "hintKo": "The body is believed to be Dorje Morup.",
+      "hintI18n": {
+        "en": "The body is believed to be Dorje Morup.",
+        "ko": "그 시신은 도르제 모룹으로 여겨집니다.",
+        "zh-Hans": "这具遗体被认为是多尔吉·莫鲁普。",
+        "ja": "その遺体はドルジェ・モルップだと考えられている。",
+        "es": "Se cree que el cuerpo es de Dorje Morup.",
+        "hi": "माना जाता है कि वह शव दोरजे मोरुप का है।",
+        "de": "Es wird angenommen, dass der Leichnam Dorje Morup ist.",
+        "vi": "Người ta tin rằng thi thể đó là của Dorje Morup.",
+        "pt-BR": "Acredita-se que o corpo seja de Dorje Morup.",
+        "id": "Jenazah itu diyakini adalah Dorje Morup.",
+        "fr": "On pense que le corps est celui de Dorje Morup.",
+        "ar": "يُعتقد أن الجثة تعود إلى دورجي موروب.",
+        "tr": "Cesedin Dorje Morup'a ait olduğuna inanılıyor.",
+        "it": "Si ritiene che il corpo sia di Dorje Morup.",
+        "pl": "Uważa się, że ciało należy do Dorje Morup."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Sell the green boots"
       ],
       "answerIndex": 1,
-      "hintKo": "India plans to recover the body and return it to the family."
+      "hintKo": "India plans to recover the body and return it to the family.",
+      "hintI18n": {
+        "en": "India plans to recover the body and return it to the family.",
+        "ko": "인도는 시신을 수습해 가족에게 돌려줄 계획입니다.",
+        "zh-Hans": "印度计划找回遗体并将其归还给家属。",
+        "ja": "インドは遺体を回収し、家族に返還する計画だ。",
+        "es": "India planea recuperar el cuerpo y devolverlo a la familia.",
+        "hi": "भारत की योजना शव को बरामद कर उसके परिवार को लौटाने की है।",
+        "de": "Indien plant, den Leichnam zu bergen und der Familie zurückzugeben.",
+        "vi": "Ấn Độ dự định thu hồi thi thể và trả lại cho gia đình.",
+        "pt-BR": "A Índia planeja recuperar o corpo e devolvê-lo à família.",
+        "id": "India berencana mengambil jenazah itu dan mengembalikannya kepada keluarga.",
+        "fr": "L'Inde prévoit de récupérer le corps et de le rendre à la famille.",
+        "ar": "تخطط الهند لاستعادة الجثة وإعادتها إلى العائلة.",
+        "tr": "Hindistan cesedi kurtarıp ailesine iade etmeyi planlıyor.",
+        "it": "L'India prevede di recuperare il corpo e restituirlo alla famiglia.",
+        "pl": "Indie planują odzyskać ciało i zwrócić je rodzinie."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In nineteen seventy-five"
       ],
       "answerIndex": 0,
-      "hintKo": "He died in nineteen ninety-six."
+      "hintKo": "He died in nineteen ninety-six.",
+      "hintI18n": {
+        "en": "He died in nineteen ninety-six.",
+        "ko": "그는 1996년에 사망했습니다.",
+        "zh-Hans": "他于1996年去世。",
+        "ja": "彼は1996年に亡くなりました。",
+        "es": "Murió en 1996.",
+        "hi": "उनकी मृत्यु 1996 में हुई।",
+        "de": "Er starb 1996.",
+        "vi": "Ông ấy qua đời năm 1996.",
+        "pt-BR": "Ele morreu em 1996.",
+        "id": "Dia meninggal pada tahun 1996.",
+        "fr": "Il est mort en 1996.",
+        "ar": "توفي عام 1996.",
+        "tr": "1996'da öldü.",
+        "it": "Morì nel 1996.",
+        "pl": "Zmarł w 1996 roku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In a helicopter hangar"
       ],
       "answerIndex": 1,
-      "hintKo": "The body rests under an overhanging rock near the summit."
+      "hintKo": "The body rests under an overhanging rock near the summit.",
+      "hintI18n": {
+        "en": "The body rests under an overhanging rock near the summit.",
+        "ko": "시신은 정상 근처의 돌출된 바위 아래에 있습니다.",
+        "zh-Hans": "遗体安息在峰顶附近一块悬岩下。",
+        "ja": "遺体は山頂近くの張り出した岩の下にある。",
+        "es": "El cuerpo reposa bajo una roca saliente cerca de la cima.",
+        "hi": "शव शिखर के पास एक झुकी चट्टान के नीचे पड़ा है।",
+        "de": "Der Leichnam liegt unter einem überhängenden Felsen nahe dem Gipfel.",
+        "vi": "Thi thể nằm dưới một tảng đá nhô ra gần đỉnh núi.",
+        "pt-BR": "O corpo repousa sob uma rocha saliente perto do cume.",
+        "id": "Jenazah itu tergeletak di bawah batu menjorok dekat puncak.",
+        "fr": "Le corps repose sous un rocher en surplomb près du sommet.",
+        "ar": "ترقد الجثة تحت صخرة بارزة قرب القمة.",
+        "tr": "Ceset, zirveye yakın çıkıntılı bir kayanın altında duruyor.",
+        "it": "Il corpo giace sotto una roccia sporgente vicino alla vetta.",
+        "pl": "Ciało spoczywa pod wystającą skałą w pobliżu szczytu."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because his family climbed up to see it"
       ],
       "answerIndex": 0,
-      "hintKo": "Survivor testimony and the last radio contact location support the identification."
+      "hintKo": "Survivor testimony and the last radio contact location support the identification.",
+      "hintI18n": {
+        "en": "Survivor testimony and the last radio contact location support the identification.",
+        "ko": "생존자 증언과 마지막 무선 교신 위치가 신원 확인을 뒷받침합니다.",
+        "zh-Hans": "幸存者的证词和最后一次无线电联系的位置支持这一身份确认。",
+        "ja": "生存者の証言と最後の無線連絡地点が身元確認を裏付けている。",
+        "es": "El testimonio de un superviviente y la ubicación del último contacto por radio respaldan la identificación.",
+        "hi": "बचे हुए व्यक्ति की गवाही और अंतिम रेडियो संपर्क का स्थान पहचान का समर्थन करते हैं।",
+        "de": "Die Aussage eines Überlebenden und der Ort des letzten Funkkontakts stützen die Identifizierung.",
+        "vi": "Lời khai của người sống sót và vị trí liên lạc vô tuyến cuối cùng hỗ trợ việc nhận dạng.",
+        "pt-BR": "O testemunho do sobrevivente e o local do último contato por rádio apoiam a identificação.",
+        "id": "Kesaksian penyintas dan lokasi kontak radio terakhir mendukung identifikasi tersebut.",
+        "fr": "Le témoignage d'un survivant et le lieu du dernier contact radio appuient l'identification.",
+        "ar": "تدعم شهادة أحد الناجين وموقع آخر اتصال لاسلكي عملية التعرف على الهوية.",
+        "tr": "Bir kurtulanın ifadesi ve son telsiz temasının konumu kimliğin belirlenmesini destekliyor.",
+        "it": "La testimonianza di un sopravvissuto e il luogo dell'ultimo contatto radio supportano l'identificazione.",
+        "pl": "Zeznanie ocalałego i lokalizacja ostatniego kontaktu radiowego potwierdzają identyfikację."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They will leave it for the next season"
       ],
       "answerIndex": 1,
-      "hintKo": "The body must be carried down to a lower altitude for collection."
+      "hintKo": "The body must be carried down to a lower altitude for collection.",
+      "hintI18n": {
+        "en": "The body must be carried down to a lower altitude for collection.",
+        "ko": "시신은 수습을 위해 더 낮은 고도로 운반되어야 합니다.",
+        "zh-Hans": "遗体必须被运送到较低海拔处以便收集。",
+        "ja": "遺体は収容のため、より低い高度まで運ばなければなりません。",
+        "es": "El cuerpo debe ser bajado a una altitud menor para su recogida.",
+        "hi": "शव को एकत्र करने के लिए उसे कम ऊँचाई तक नीचे लाया जाना चाहिए।",
+        "de": "Der Leichnam muss zur Bergung auf eine niedrigere Höhe gebracht werden.",
+        "vi": "Thi thể phải được đưa xuống độ cao thấp hơn để thu hồi.",
+        "pt-BR": "O corpo deve ser levado a uma altitude mais baixa para coleta.",
+        "id": "Jenazah harus dibawa turun ke ketinggian yang lebih rendah untuk pengumpulan.",
+        "fr": "Le corps doit être descendu à une altitude plus basse pour être récupéré.",
+        "ar": "يجب إنزال الجثة إلى ارتفاع أقل لانتشالها.",
+        "tr": "Ceset, toplanması için daha düşük bir irtifaya indirilmelidir.",
+        "it": "Il corpo deve essere portato più in basso, a un'altitudine inferiore, per il recupero.",
+        "pl": "Ciało musi zostać zniesione na niższą wysokość w celu odbioru."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "The United Nations Secretary-General"
       ],
       "answerIndex": 0,
-      "hintKo": "The story names Spanish Prime Minister Pedro Sanchez as the leader who visited Ceuta to address the crisis."
+      "hintKo": "The story names Spanish Prime Minister Pedro Sanchez as the leader who visited Ceuta to address the crisis.",
+      "hintI18n": {
+        "en": "The story names Spanish Prime Minister Pedro Sanchez as the leader who visited Ceuta to address the crisis.",
+        "ko": "이 이야기는 위기에 대응하기 위해 세우타를 방문한 지도자로 스페인 총리 페드로 산체스를 지목한다.",
+        "zh-Hans": "报道称，西班牙首相佩德罗·桑切斯是前往休达应对危机的领导人。",
+        "ja": "この記事は、危機に対応するためセウタを訪れた指導者としてスペインのペドロ・サンチェス首相を挙げている。",
+        "es": "La historia señala al primer ministro español Pedro Sánchez como el líder que visitó Ceuta para abordar la crisis.",
+        "hi": "रिपोर्ट में स्पेन के प्रधानमंत्री पेड्रो सांचेज़ को संकट से निपटने के लिए सेउता गए नेता के रूप में बताया गया है।",
+        "de": "Der Bericht nennt den spanischen Regierungschef Pedro Sánchez als den Politiker, der Ceuta besuchte, um die Krise zu bewältigen.",
+        "vi": "Bài báo nêu tên Thủ tướng Tây Ban Nha Pedro Sánchez là nhà lãnh đạo đã đến Ceuta để giải quyết cuộc khủng hoảng.",
+        "pt-BR": "A reportagem aponta o primeiro-ministro espanhol Pedro Sánchez como o líder que visitou Ceuta para enfrentar a crise.",
+        "id": "Berita itu menyebut Perdana Menteri Spanyol Pedro Sánchez sebagai pemimpin yang mengunjungi Ceuta untuk mengatasi krisis.",
+        "fr": "L’article cite le Premier ministre espagnol Pedro Sánchez comme le dirigeant qui a visité Ceuta pour gérer la crise.",
+        "ar": "تذكر القصة رئيس الوزراء الإسباني بيدرو سانشيز كالقائد الذي زار سبتة لمعالجة الأزمة.",
+        "tr": "Haber, krizi ele almak için Ceuta'yı ziyaret eden liderin İspanya Başbakanı Pedro Sánchez olduğunu belirtiyor.",
+        "it": "Il servizio indica il primo ministro spagnolo Pedro Sánchez come il leader che ha visitato Ceuta per affrontare la crisi.",
+        "pl": "W artykule jako przywódcę, który odwiedził Ceutę, by rozwiązać kryzys, wskazano hiszpańskiego premiera Pedro Sáncheza."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "They were sent to Melilla"
       ],
       "answerIndex": 1,
-      "hintKo": "The story says most migrants were returning to Morocco on their own, not staying or being arrested."
+      "hintKo": "The story says most migrants were returning to Morocco on their own, not staying or being arrested.",
+      "hintI18n": {
+        "en": "The story says most migrants were returning to Morocco on their own, not staying or being arrested.",
+        "ko": "이 이야기는 대부분의 이주민이 체류하거나 체포된 것이 아니라 스스로 모로코로 돌아가고 있었다고 전한다.",
+        "zh-Hans": "报道称，大多数移民是自行返回摩洛哥，而不是留下或被逮捕。",
+        "ja": "この記事によると、移民の大半は留まったり逮捕されたりせず、自力でモロッコへ戻っていた。",
+        "es": "La historia dice que la mayoría de los migrantes regresaba a Marruecos por su cuenta, no que se quedara ni fuera arrestada.",
+        "hi": "रिपोर्ट कहती है कि अधिकांश प्रवासी खुद ही मोरक्को लौट रहे थे, न कि रुक रहे थे या गिरफ्तार हो रहे थे।",
+        "de": "Der Bericht besagt, dass die meisten Migranten aus eigener Initiative nach Marokko zurückkehrten und nicht blieben oder festgenommen wurden.",
+        "vi": "Bài báo cho biết hầu hết người di cư tự trở về Morocco chứ không ở lại hay bị bắt giữ.",
+        "pt-BR": "A reportagem diz que a maioria dos migrantes estava voltando para o Marrocos por conta própria, e não ficando ou sendo presa.",
+        "id": "Berita itu menyebut sebagian besar migran kembali ke Maroko atas kemauan sendiri, bukan tinggal atau ditangkap.",
+        "fr": "L’article indique que la plupart des migrants retournaient au Maroc par leurs propres moyens, sans rester ni être arrêtés.",
+        "ar": "تقول القصة إن معظم المهاجرين كانوا يعودون إلى المغرب بأنفسهم، لا أنهم بقوا أو اعتُقلوا.",
+        "tr": "Haber, çoğu göçmenin kalmadığını ya da tutuklanmadığını, kendi başına Fas'a döndüğünü söylüyor.",
+        "it": "L’articolo dice che la maggior parte dei migranti stava tornando in Marocco da sola, non che restasse o venisse arrestata.",
+        "pl": "W artykule napisano, że większość migrantów wracała do Maroka o własnych siłach, a nie pozostawała na miejscu ani nie była zatrzymywana."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Sunday at dawn"
       ],
       "answerIndex": 1,
-      "hintKo": "The mass crossing began on Thursday morning, according to Spain's Interior Ministry."
+      "hintKo": "The mass crossing began on Thursday morning, according to Spain's Interior Ministry.",
+      "hintI18n": {
+        "en": "The mass crossing began on Thursday morning, according to Spain's Interior Ministry.",
+        "ko": "스페인 내무부에 따르면 대규모 월경은 목요일 아침에 시작되었다.",
+        "zh-Hans": "据西班牙内政部称，大规模越境始于周四上午。",
+        "ja": "スペイン内務省によると、大規模な越境は木曜日の朝に始まった。",
+        "es": "Según el Ministerio del Interior de España, el cruce masivo comenzó el jueves por la mañana.",
+        "hi": "स्पेन के गृह मंत्रालय के अनुसार, बड़े पैमाने पर सीमा पार करना गुरुवार सुबह शुरू हुआ।",
+        "de": "Nach Angaben des spanischen Innenministeriums begann der Massenübertritt am Donnerstagmorgen.",
+        "vi": "Theo Bộ Nội vụ Tây Ban Nha, cuộc vượt biên ồ ạt bắt đầu vào sáng thứ Năm.",
+        "pt-BR": "Segundo o Ministério do Interior da Espanha, a travessia em massa começou na manhã de quinta-feira.",
+        "id": "Menurut Kementerian Dalam Negeri Spanyol, penyeberangan massal dimulai pada Kamis pagi.",
+        "fr": "Selon le ministère de l’Intérieur espagnol, la traversée massive a commencé jeudi matin.",
+        "ar": "وفقًا لوزارة الداخلية الإسبانية، بدأ العبور الجماعي صباح الخميس.",
+        "tr": "İspanya İçişleri Bakanlığı'na göre, kitlesel geçiş Perşembe sabahı başladı.",
+        "it": "Secondo il Ministero dell’Interno spagnolo, l’attraversamento di massa è iniziato giovedì mattina.",
+        "pl": "Według hiszpańskiego Ministerstwa Spraw Wewnętrznych masowe przekraczanie granicy rozpoczęło się w czwartek rano."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "On the border with Portugal"
       ],
       "answerIndex": 0,
-      "hintKo": "Ceuta is located in North Africa on the coast near Morocco, not in Europe or the Atlantic."
+      "hintKo": "Ceuta is located in North Africa on the coast near Morocco, not in Europe or the Atlantic.",
+      "hintI18n": {
+        "en": "Ceuta is located in North Africa on the coast near Morocco, not in Europe or the Atlantic.",
+        "ko": "세우타는 유럽이나 대서양이 아니라 모로코 근처 해안의 북아프리카에 위치해 있다.",
+        "zh-Hans": "休达位于北非，靠近摩洛哥的海岸，而不在欧洲或大西洋。",
+        "ja": "セウタはヨーロッパや大西洋ではなく、モロッコ近くの北アフリカ沿岸にある。",
+        "es": "Ceuta está situada en el norte de África, en la costa cerca de Marruecos, no en Europa ni en el Atlántico.",
+        "hi": "सेउता यूरोप या अटलांटिक में नहीं, बल्कि मोरक्को के पास उत्तरी अफ्रीका के तट पर स्थित है।",
+        "de": "Ceuta liegt in Nordafrika an der Küste nahe Marokko, nicht in Europa oder im Atlantik.",
+        "vi": "Ceuta nằm ở Bắc Phi, trên bờ biển gần Morocco, không phải ở châu Âu hay Đại Tây Dương.",
+        "pt-BR": "Ceuta fica no norte da África, na costa perto do Marrocos, não na Europa nem no Atlântico.",
+        "id": "Ceuta terletak di Afrika Utara di pesisir dekat Maroko, bukan di Eropa atau Atlantik.",
+        "fr": "Ceuta se situe en Afrique du Nord, sur la côte près du Maroc, et non en Europe ou dans l’Atlantique.",
+        "ar": "تقع سبتة في شمال إفريقيا على الساحل قرب المغرب، وليس في أوروبا أو المحيط الأطلسي.",
+        "tr": "Ceuta, Avrupa'da veya Atlas Okyanusu'nda değil, Fas yakınlarındaki Kuzey Afrika kıyısında yer alır.",
+        "it": "Ceuta si trova in Nord Africa, sulla costa vicino al Marocco, non in Europa o nell’Atlantico.",
+        "pl": "Ceuta leży w Afryce Północnej na wybrzeżu niedaleko Maroka, a nie w Europie ani nad Atlantykiem."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "They wanted to join family in Spain"
       ],
       "answerIndex": 1,
-      "hintKo": "Lack of food and shelter in Ceuta drove many migrants to return to Morocco."
+      "hintKo": "Lack of food and shelter in Ceuta drove many migrants to return to Morocco.",
+      "hintI18n": {
+        "en": "Lack of food and shelter in Ceuta drove many migrants to return to Morocco.",
+        "ko": "세우타에서 식량과 거처가 부족해 많은 이주민이 모로코로 돌아가게 되었다.",
+        "zh-Hans": "休达缺乏食物和住所，促使许多移民返回摩洛哥。",
+        "ja": "セウタでの食料と住まいの不足が、多くの移民をモロッコへ戻らせた。",
+        "es": "La falta de comida y refugio en Ceuta llevó a muchos migrantes a regresar a Marruecos.",
+        "hi": "सेउता में भोजन और आश्रय की कमी ने कई प्रवासियों को मोरक्को लौटने पर मजबूर किया।",
+        "de": "Mangel an Nahrung und Unterkunft in Ceuta trieb viele Migranten zur Rückkehr nach Marokko.",
+        "vi": "Việc thiếu thức ăn và chỗ ở tại Ceuta khiến nhiều người di cư quay về Morocco.",
+        "pt-BR": "A falta de comida e abrigo em Ceuta levou muitos migrantes a voltar para o Marrocos.",
+        "id": "Kurangnya makanan dan tempat tinggal di Ceuta membuat banyak migran kembali ke Maroko.",
+        "fr": "Le manque de nourriture et d’abri à Ceuta a poussé de nombreux migrants à retourner au Maroc.",
+        "ar": "دفع نقص الغذاء والمأوى في سبتة العديد من المهاجرين إلى العودة إلى المغرب.",
+        "tr": "Ceuta'da yiyecek ve barınak eksikliği birçok göçmeni Fas'a dönmeye itti.",
+        "it": "La mancanza di cibo e alloggio a Ceuta ha spinto molti migranti a tornare in Marocco.",
+        "pl": "Brak jedzenia i schronienia w Ceucie skłonił wielu migrantów do powrotu do Maroka."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They negotiated with the migrants"
       ],
       "answerIndex": 1,
-      "hintKo": "The story describes Moroccan forces using batons and tear gas at the gates to stop more crossings."
+      "hintKo": "The story describes Moroccan forces using batons and tear gas at the gates to stop more crossings.",
+      "hintI18n": {
+        "en": "The story describes Moroccan forces using batons and tear gas at the gates to stop more crossings.",
+        "ko": "이 이야기는 모로코 군이 더 많은 월경을 막기 위해 국경에서 곤봉과 최루탄을 사용했다고 설명합니다.",
+        "zh-Hans": "故事描述摩洛哥部队在边境使用警棍和催泪瓦斯来阻止更多越境。",
+        "ja": "この話は、モロッコ軍がさらなる越境を阻止するために国境で警棒と催涙ガスを使用したと述べています。",
+        "es": "La historia describe que las fuerzas marroquíes usaron porras y gas lacrimógeno en las puertas para impedir más cruces.",
+        "hi": "यह कहानी बताती है कि मोरक्को की सेना ने और अधिक सीमा पार करने से रोकने के लिए सीमा द्वारों पर लाठियों और आंसू गैस का इस्तेमाल किया।",
+        "de": "Die Geschichte beschreibt, wie marokkanische Kräfte an den Toren Schlagstöcke und Tränengas einsetzten, um weitere Grenzübertritte zu verhindern.",
+        "vi": "Câu chuyện kể rằng lực lượng Maroc đã dùng dùi cui và hơi cay tại các cổng để ngăn chặn thêm các cuộc vượt biên.",
+        "pt-BR": "A história descreve forças marroquinas usando cassetetes e gás lacrimogêneo nos portões para impedir mais travessias.",
+        "id": "Kisah ini menggambarkan pasukan Maroko menggunakan tongkat dan gas air mata di gerbang untuk mencegah lebih banyak penyeberangan.",
+        "fr": "L'histoire décrit les forces marocaines utilisant des matraques et des gaz lacrymogènes aux portes pour empêcher d'autres traversées.",
+        "ar": "تصف القصة قوات مغربية تستخدم الهراوات والغاز المسيل للدموع عند البوابات لمنع المزيد من العبور.",
+        "tr": "Hikaye, Fas güçlerinin daha fazla geçişi önlemek için kapılarda cop ve biber gazı kullandığını anlatıyor.",
+        "it": "La storia descrive le forze marocchine che usano manganelli e gas lacrimogeni ai cancelli per impedire ulteriori attraversamenti.",
+        "pl": "Historia opisuje siły marokańskie używające pałek i gazu łzawiącego przy bramach, aby powstrzymać kolejne przekroczenia granicy."
+      }
     }
   ],
   "youtube_url": ""

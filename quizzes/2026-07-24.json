@@ -17,7 +17,24 @@
         "A university research team"
       ],
       "answerIndex": 0,
-      "hintKo": "The story specifically names NASA's New Horizons mission as the spacecraft that photographed Pluto."
+      "hintKo": "The story specifically names NASA's New Horizons mission as the spacecraft that photographed Pluto.",
+      "hintI18n": {
+        "en": "The story specifically names NASA's New Horizons mission as the spacecraft that photographed Pluto.",
+        "ko": "이 이야기는 명왕성을 촬영한 우주선으로 나사의 뉴호라이즌스 임무를 구체적으로 언급합니다.",
+        "zh-Hans": "该报道特别指出拍摄冥王星的是NASA的新视野号任务。",
+        "ja": "この記事は、冥王星を撮影した宇宙船としてNASAのニュー・ホライズンズミッションを具体的に挙げています。",
+        "es": "La historia menciona específicamente la misión New Horizons de la NASA como la nave que fotografió Plutón.",
+        "hi": "यह कहानी विशेष रूप से NASA के न्यू होराइजन्स मिशन को उस अंतरिक्ष यान के रूप में बताती है जिसने प्लूटो की तस्वीरें लीं।",
+        "de": "Die Geschichte nennt ausdrücklich NASAs New-Horizons-Mission als das Raumschiff, das Pluto fotografierte.",
+        "vi": "Câu chuyện nêu cụ thể sứ mệnh New Horizons của NASA là tàu vũ trụ đã chụp ảnh Sao Diêm Vương.",
+        "pt-BR": "A história nomeia especificamente a missão New Horizons da NASA como a nave que fotografou Plutão.",
+        "id": "Cerita tersebut secara khusus menyebut misi New Horizons NASA sebagai wahana yang memotret Pluto.",
+        "fr": "Le récit nomme spécifiquement la mission New Horizons de la NASA comme l’engin spatial qui a photographié Pluton.",
+        "ar": "تذكر القصة تحديدًا مهمة نيو هورايزونز التابعة لناسا باعتبارها المركبة الفضائية التي صوّرت بلوتو.",
+        "tr": "Hikâye, Plüton'u fotoğraflayan uzay aracı olarak özellikle NASA'nın New Horizons görevini belirtir.",
+        "it": "Il racconto indica specificamente la missione New Horizons della NASA come la sonda che ha fotografato Plutone.",
+        "pl": "Historia wyraźnie wskazuje misję New Horizons NASA jako statek kosmiczny, który sfotografował Plutona."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "New impact craters"
       ],
       "answerIndex": 2,
-      "hintKo": "The discovery was specifically about landslides, not these other features."
+      "hintKo": "The discovery was specifically about landslides, not these other features.",
+      "hintI18n": {
+        "en": "The discovery was specifically about landslides, not these other features.",
+        "ko": "그 발견은 구체적으로 산사태에 관한 것이었으며, 다른 특징들이 아니었습니다.",
+        "zh-Hans": "这一发现具体是关于滑坡的，而不是这些其他特征。",
+        "ja": "その発見は具体的には地滑りに関するもので、これらの他の特徴ではありません。",
+        "es": "El descubrimiento trataba específicamente de deslizamientos de tierra, no de estas otras características.",
+        "hi": "यह खोज विशेष रूप से भूस्खलन के बारे में थी, न कि इन अन्य विशेषताओं के बारे में।",
+        "de": "Die Entdeckung betraf speziell Erdrutsche, nicht diese anderen Merkmale.",
+        "vi": "Phát hiện này cụ thể là về các vụ lở đất, không phải những đặc điểm khác này.",
+        "pt-BR": "A descoberta era especificamente sobre deslizamentos de terra, não essas outras características.",
+        "id": "Penemuan itu secara khusus tentang tanah longsor, bukan fitur-fitur lain ini.",
+        "fr": "La découverte concernait spécifiquement des glissements de terrain, et non ces autres caractéristiques.",
+        "ar": "كان الاكتشاف تحديدًا عن الانهيارات الأرضية، وليس هذه الميزات الأخرى.",
+        "tr": "Keşif özellikle heyelanlarla ilgiliydi, bu diğer özelliklerle değil.",
+        "it": "La scoperta riguardava specificamente frane, non queste altre caratteristiche.",
+        "pl": "Odkrycie dotyczyło konkretnie osunięć ziemi, a nie tych innych cech."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "July 2013"
       ],
       "answerIndex": 0,
-      "hintKo": "The article states the flyby happened in July 2015."
+      "hintKo": "The article states the flyby happened in July 2015.",
+      "hintI18n": {
+        "en": "The article states the flyby happened in July 2015.",
+        "ko": "이 기사는 근접 비행이 2015년 7월에 일어났다고 밝힙니다.",
+        "zh-Hans": "文章指出，这次飞掠发生在2015年7月。",
+        "ja": "記事は、フライバイが2015年7月に起きたと述べています。",
+        "es": "El artículo afirma que el sobrevuelo ocurrió en julio de 2015.",
+        "hi": "लेख कहता है कि यह उड़ान जुलाई 2015 में हुई थी।",
+        "de": "Der Artikel gibt an, dass der Vorbeiflug im Juli 2015 stattfand.",
+        "vi": "Bài viết cho biết chuyến bay ngang qua đã diễn ra vào tháng 7 năm 2015.",
+        "pt-BR": "O artigo afirma que a passagem ocorreu em julho de 2015.",
+        "id": "Artikel tersebut menyatakan bahwa penerbangan lintas itu terjadi pada Juli 2015.",
+        "fr": "L’article indique que le survol a eu lieu en juillet 2015.",
+        "ar": "تذكر المقالة أن التحليق حدث في يوليو 2015.",
+        "tr": "Makale, yakın geçişin Temmuz 2015'te gerçekleştiğini belirtiyor.",
+        "it": "L'articolo afferma che il sorvolo è avvenuto nel luglio 2015.",
+        "pl": "Artykuł podaje, że przelot obok miał miejsce w lipcu 2015 roku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In Pluto's valleys"
       ],
       "answerIndex": 1,
-      "hintKo": "The landslides are specifically located along the inner rims of impact craters."
+      "hintKo": "The landslides are specifically located along the inner rims of impact craters.",
+      "hintI18n": {
+        "en": "The landslides are specifically located along the inner rims of impact craters.",
+        "ko": "그 산사태는 구체적으로 충돌 분화구의 안쪽 가장자리를 따라 위치해 있습니다.",
+        "zh-Hans": "这些滑坡具体位于撞击坑的内缘沿线。",
+        "ja": "その地滑りは具体的に衝突クレーターの内縁に沿って位置しています。",
+        "es": "Los deslizamientos se encuentran específicamente a lo largo de los bordes internos de los cráteres de impacto.",
+        "hi": "भूस्खलन विशेष रूप से प्रभाव क्रेटरों के भीतरी किनारों के साथ स्थित हैं।",
+        "de": "Die Erdrutsche befinden sich speziell entlang der Innenränder von Einschlagkratern.",
+        "vi": "Các vụ lở đất nằm cụ thể dọc theo vành trong của các hố va chạm.",
+        "pt-BR": "Os deslizamentos estão especificamente localizados ao longo das bordas internas de crateras de impacto.",
+        "id": "Tanah longsor tersebut secara khusus terletak di sepanjang tepi dalam kawah tumbukan.",
+        "fr": "Les glissements de terrain se trouvent spécifiquement le long des bords internes des cratères d’impact.",
+        "ar": "تقع الانهيارات الأرضية تحديدًا على طول الحواف الداخلية لفوهات الارتطام.",
+        "tr": "Heyelanlar özellikle çarpma kraterlerinin iç kenarları boyunca yer alır.",
+        "it": "Le frane si trovano specificamente lungo i bordi interni dei crateri da impatto.",
+        "pl": "Osunięcia ziemi znajdują się konkretnie wzdłuż wewnętrznych krawędzi kraterów uderzeniowych."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "They confirm Pluto has an atmosphere"
       ],
       "answerIndex": 3,
-      "hintKo": "The discovery provides evidence about surface-shaping processes on Pluto, not these other claims."
+      "hintKo": "The discovery provides evidence about surface-shaping processes on Pluto, not these other claims.",
+      "hintI18n": {
+        "en": "The discovery provides evidence about surface-shaping processes on Pluto, not these other claims.",
+        "ko": "이 발견은 명왕성의 표면을 형성하는 과정에 대한 증거를 제공하며, 다른 주장들에 대한 것이 아닙니다.",
+        "zh-Hans": "这一发现提供了关于冥王星表面塑造过程的证据，而不是这些其他说法。",
+        "ja": "この発見は冥王星の表面を形作る過程に関する証拠を提供するもので、これらの他の主張ではありません。",
+        "es": "El descubrimiento proporciona evidencia sobre los procesos que dan forma a la superficie de Plutón, no sobre estas otras afirmaciones.",
+        "hi": "यह खोज प्लूटो की सतह को आकार देने वाली प्रक्रियाओं के बारे में साक्ष्य देती है, न कि इन अन्य दावों के बारे में।",
+        "de": "Die Entdeckung liefert Belege für oberflächenformende Prozesse auf Pluto, nicht für diese anderen Behauptungen.",
+        "vi": "Phát hiện này cung cấp bằng chứng về các quá trình định hình bề mặt trên Sao Diêm Vương, không phải những tuyên bố khác này.",
+        "pt-BR": "A descoberta fornece evidências sobre processos que moldam a superfície de Plutão, não sobre essas outras alegações.",
+        "id": "Penemuan ini memberikan bukti tentang proses pembentukan permukaan di Pluto, bukan klaim-klaim lain ini.",
+        "fr": "La découverte fournit des preuves sur les processus qui façonnent la surface de Pluton, et non sur ces autres affirmations.",
+        "ar": "يقدّم الاكتشاف دليلًا على العمليات التي تشكّل سطح بلوتو، وليس على هذه الادعاءات الأخرى.",
+        "tr": "Keşif, Plüton'un yüzeyini şekillendiren süreçlere dair kanıt sağlar; bu diğer iddialara değil.",
+        "it": "La scoperta fornisce prove sui processi che modellano la superficie di Plutone, non su queste altre affermazioni.",
+        "pl": "Odkrycie dostarcza dowodów na procesy kształtujące powierzchnię Plutona, a nie na te inne twierdzenia."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Fifty square miles"
       ],
       "answerIndex": 4,
-      "hintKo": "The article states the largest landslide is fifty square miles."
+      "hintKo": "The article states the largest landslide is fifty square miles.",
+      "hintI18n": {
+        "en": "The article states the largest landslide is fifty square miles.",
+        "ko": "기사에 따르면 가장 큰 산사태는 50제곱마일입니다.",
+        "zh-Hans": "文章指出，最大的山体滑坡面积为五十平方英里。",
+        "ja": "記事では、最大の地滑りは50平方マイルだと述べています。",
+        "es": "El artículo afirma que el mayor deslizamiento de tierra es de cincuenta millas cuadradas.",
+        "hi": "लेख में कहा गया है कि सबसे बड़ा भूस्खलन पचास वर्ग मील का है।",
+        "de": "Der Artikel gibt an, dass der größte Erdrutsch fünfzig Quadratmeilen groß ist.",
+        "vi": "Bài báo nêu rằng vụ lở đất lớn nhất rộng năm mươi dặm vuông.",
+        "pt-BR": "O artigo afirma que o maior deslizamento de terra tem cinquenta milhas quadradas.",
+        "id": "Artikel menyatakan tanah longsor terbesar seluas lima puluh mil persegi.",
+        "fr": "L'article indique que le plus grand glissement de terrain mesure cinquante miles carrés.",
+        "ar": "تذكر المقالة أن أكبر انهيار أرضي تبلغ مساحته خمسين ميلًا مربعًا.",
+        "tr": "Makale, en büyük toprak kaymasının elli mil kare olduğunu belirtiyor.",
+        "it": "L'articolo afferma che la frana più grande è di cinquanta miglia quadrate.",
+        "pl": "Artykuł podaje, że największe osunięcie ziemi ma pięćdziesiąt mil kwadratowych."
+      }
     }
   ],
   "youtube_url": ""

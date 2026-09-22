@@ -17,7 +17,24 @@
         "The United States Supreme Court"
       ],
       "answerIndex": 0,
-      "hintKo": "The proclamations were issued by President Trump, not by Congress or any other body."
+      "hintKo": "The proclamations were issued by President Trump, not by Congress or any other body.",
+      "hintI18n": {
+        "en": "The proclamations were issued by President Trump, not by Congress or any other body.",
+        "ko": "이 선언은 의회나 다른 기관이 아닌 트럼프 대통령이 발표했습니다.",
+        "zh-Hans": "这些公告是由特朗普总统发布的，而不是由国会或任何其他机构发布的。",
+        "ja": "これらの宣言は、議会や他の機関ではなく、トランプ大統領によって発令されました。",
+        "es": "Las proclamaciones fueron emitidas por el presidente Trump, no por el Congreso ni ningún otro organismo.",
+        "hi": "ये घोषणाएँ राष्ट्रपति ट्रंप द्वारा जारी की गई थीं, कांग्रेस या किसी अन्य निकाय द्वारा नहीं।",
+        "de": "Die Proklamationen wurden von Präsident Trump erlassen, nicht vom Kongress oder einer anderen Stelle.",
+        "vi": "Các tuyên bố được ban hành bởi Tổng thống Trump, không phải bởi Quốc hội hay bất kỳ cơ quan nào khác.",
+        "pt-BR": "As proclamações foram emitidas pelo Presidente Trump, não pelo Congresso ou qualquer outro órgão.",
+        "id": "Proklamasi dikeluarkan oleh Presiden Trump, bukan oleh Kongres atau badan lain.",
+        "fr": "Les proclamations ont été émises par le président Trump, non par le Congrès ou tout autre organe.",
+        "ar": "صدرت هذه الإعلانات عن الرئيس ترامب، وليس عن الكونغرس أو أي جهة أخرى.",
+        "tr": "Bildiriler, Kongre veya başka bir organ tarafından değil, Başkan Trump tarafından yayımlandı.",
+        "it": "I proclami sono stati emessi dal presidente Trump, non dal Congresso o da qualsiasi altro organo.",
+        "pl": "Proklamacje zostały wydane przez prezydenta Trumpa, a nie przez Kongres lub jakikolwiek inny organ."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Seventy-five percent"
       ],
       "answerIndex": 3,
-      "hintKo": "The new additional duty is fifty percent on covered Canadian goods."
+      "hintKo": "The new additional duty is fifty percent on covered Canadian goods.",
+      "hintI18n": {
+        "en": "The new additional duty is fifty percent on covered Canadian goods.",
+        "ko": "새로 추가된 관세는 대상 캐나다 제품에 50퍼센트입니다.",
+        "zh-Hans": "新的附加关税是对涵盖的加拿大商品征收百分之五十。",
+        "ja": "新たに追加された関税は、対象となるカナダ製品に対して50パーセントです。",
+        "es": "El nuevo arancel adicional es del cincuenta por ciento sobre los productos canadienses cubiertos.",
+        "hi": "नया अतिरिक्त शुल्क कवर किए गए कनाडाई सामानों पर पचास प्रतिशत है।",
+        "de": "Der neue Zusatzzoll beträgt fünfzig Prozent auf betroffene kanadische Waren.",
+        "vi": "Thuế bổ sung mới là năm mươi phần trăm đối với hàng hóa Canada được áp dụng.",
+        "pt-BR": "O novo imposto adicional é de cinquenta por cento sobre os produtos canadenses cobertos.",
+        "id": "Bea tambahan baru adalah lima puluh persen untuk barang-barang Kanada yang tercakup.",
+        "fr": "Le nouveau droit additionnel est de cinquante pour cent sur les produits canadiens visés.",
+        "ar": "الرسوم الإضافية الجديدة هي خمسون في المائة على السلع الكندية المشمولة.",
+        "tr": "Yeni ek gümrük vergisi, kapsanan Kanada ürünleri için yüzde ellidir.",
+        "it": "Il nuovo dazio aggiuntivo è del cinquanta per cento sui prodotti canadesi coperti.",
+        "pl": "Nowa dodatkowa stawka celna wynosi pięćdziesiąt procent na objęte nią kanadyjskie towary."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "January first"
       ],
       "answerIndex": 1,
-      "hintKo": "The effective date of the new duties is August nineteenth, twenty twenty-six."
+      "hintKo": "The effective date of the new duties is August nineteenth, twenty twenty-six.",
+      "hintI18n": {
+        "en": "The effective date of the new duties is August nineteenth, twenty twenty-six.",
+        "ko": "새 관세의 발효일은 2026년 8월 19일입니다.",
+        "zh-Hans": "新关税的生效日期是2026年8月19日。",
+        "ja": "新関税の発効日は2026年8月19日です。",
+        "es": "La fecha de entrada en vigor de los nuevos aranceles es el 19 de agosto de 2026.",
+        "hi": "नए शुल्कों की प्रभावी तिथि 19 अगस्त, 2026 है।",
+        "de": "Das Inkrafttreten der neuen Zölle ist der 19. August 2026.",
+        "vi": "Ngày có hiệu lực của các loại thuế mới là ngày 19 tháng 8 năm 2026.",
+        "pt-BR": "A data de vigência dos novos impostos é 19 de agosto de 2026.",
+        "id": "Tanggal efektif bea baru adalah 19 Agustus 2026.",
+        "fr": "La date d'entrée en vigueur des nouveaux droits est le 19 août 2026.",
+        "ar": "تاريخ نفاذ الرسوم الجديدة هو 19 أغسطس 2026.",
+        "tr": "Yeni vergilerin yürürlük tarihi 19 Ağustos 2026'dır.",
+        "it": "La data di entrata in vigore dei nuovi dazi è il 19 agosto 2026.",
+        "pl": "Data wejścia w życie nowych ceł to 19 sierpnia 2026 r."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Australia"
       ],
       "answerIndex": 2,
-      "hintKo": "The tariffs target Canadian goods, not goods from these other places."
+      "hintKo": "The tariffs target Canadian goods, not goods from these other places.",
+      "hintI18n": {
+        "en": "The tariffs target Canadian goods, not goods from these other places.",
+        "ko": "관세는 다른 지역이 아닌 캐나다 제품을 대상으로 합니다.",
+        "zh-Hans": "关税针对的是加拿大商品，而不是来自这些其他地方的商品。",
+        "ja": "関税はカナダ製品を対象としており、これらの他の地域からの製品ではありません。",
+        "es": "Los aranceles están dirigidos a productos canadienses, no a productos de estos otros lugares.",
+        "hi": "शुल्क कनाडाई सामानों को लक्षित करते हैं, इन अन्य स्थानों के सामानों को नहीं।",
+        "de": "Die Zölle richten sich gegen kanadische Waren, nicht gegen Waren aus diesen anderen Orten.",
+        "vi": "Thuế nhắm vào hàng hóa Canada, không phải hàng hóa từ những nơi khác này.",
+        "pt-BR": "As tarifas visam produtos canadenses, não produtos desses outros lugares.",
+        "id": "Tarif menargetkan barang Kanada, bukan barang dari tempat lain ini.",
+        "fr": "Les tarifs visent les produits canadiens, pas les produits de ces autres endroits.",
+        "ar": "الرسوم الجمركية تستهدف السلع الكندية، وليس السلع من هذه الأماكن الأخرى.",
+        "tr": "Gümrük vergileri Kanada ürünlerini hedef alıyor, bu diğer yerlerden gelen ürünleri değil.",
+        "it": "I dazi colpiscono i prodotti canadesi, non i prodotti provenienti da questi altri luoghi.",
+        "pl": "Cła dotyczą kanadyjskich towarów, a nie towarów z tych innych miejsc."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "To protect Canadian workers"
       ],
       "answerIndex": 1,
-      "hintKo": "The stated reason is a response to what the administration calls discriminatory Canadian trade measures."
+      "hintKo": "The stated reason is a response to what the administration calls discriminatory Canadian trade measures.",
+      "hintI18n": {
+        "en": "The stated reason is a response to what the administration calls discriminatory Canadian trade measures.",
+        "ko": "명시된 이유는 행정부가 차별적이라고 부르는 캐나다 무역 조치에 대한 대응입니다.",
+        "zh-Hans": "所述理由是对政府所称的歧视性加拿大贸易措施的回应。",
+        "ja": "述べられた理由は、政府が差別的と称するカナダの貿易措置への対応です。",
+        "es": "La razón declarada es una respuesta a lo que la administración llama medidas comerciales canadienses discriminatorias.",
+        "hi": "बताया गया कारण प्रशासन द्वारा भेदभावपूर्ण कहे जाने वाले कनाडाई व्यापार उपायों की प्रतिक्रिया है।",
+        "de": "Der angegebene Grund ist eine Reaktion auf das, was die Regierung als diskriminierende kanadische Handelsmaßnahmen bezeichnet.",
+        "vi": "Lý do được đưa ra là phản ứng lại các biện pháp thương mại Canada mà chính quyền gọi là phân biệt đối xử.",
+        "pt-BR": "A razão declarada é uma resposta ao que a administração chama de medidas comerciais canadenses discriminatórias.",
+        "id": "Alasan yang dinyatakan adalah respons terhadap apa yang disebut administrasi sebagai tindakan perdagangan Kanada yang diskriminatif.",
+        "fr": "La raison invoquée est une réponse à ce que l'administration appelle des mesures commerciales canadiennes discriminatoires.",
+        "ar": "السبب المعلن هو رد على ما تسميه الإدارة إجراءات تجارية كندية تمييزية.",
+        "tr": "Belirtilen gerekçe, yönetimin ayrımcı Kanada ticaret önlemleri olarak adlandırdığı şeylere bir yanıttır.",
+        "it": "La ragione dichiarata è una risposta a quelle che l'amministrazione chiama misure commerciali canadesi discriminatorie.",
+        "pl": "Podany powód to odpowiedź na to, co administracja nazywa dyskryminującymi kanadyjskimi środkami handlowymi."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "It applies only to energy products"
       ],
       "answerIndex": 2,
-      "hintKo": "The tariffs apply broadly to covered Canadian goods even when they qualify for USMCA treatment, with some exclusions."
+      "hintKo": "The tariffs apply broadly to covered Canadian goods even when they qualify for USMCA treatment, with some exclusions.",
+      "hintI18n": {
+        "en": "The tariffs apply broadly to covered Canadian goods even when they qualify for USMCA treatment, with some exclusions.",
+        "ko": "관세는 USMCA 대우를 받을 자격이 있는 경우에도 대상 캐나다 제품에 폭넓게 적용되며, 일부 예외가 있습니다.",
+        "zh-Hans": "这些关税广泛适用于受涵盖的加拿大商品，即使它们符合USMCA待遇，也有一些例外。",
+        "ja": "関税は、USMCAの扱いを受ける資格があっても、対象となるカナダ製品に広く適用され、いくつかの例外があります。",
+        "es": "Los aranceles se aplican ampliamente a los productos canadienses cubiertos, incluso cuando califican para el trato del USMCA, con algunas excepciones.",
+        "hi": "ये टैरिफ USMCA उपचार के योग्य होने पर भी कवर किए गए कनाडाई सामानों पर व्यापक रूप से लागू होते हैं, कुछ अपवादों के साथ।",
+        "de": "Die Zölle gelten weitgehend für erfasste kanadische Waren, auch wenn sie für die USMCA-Behandlung qualifizieren, mit einigen Ausnahmen.",
+        "vi": "Các mức thuế áp dụng rộng rãi cho hàng hóa Canada được đề cập, ngay cả khi chúng đủ điều kiện hưởng ưu đãi USMCA, với một số ngoại lệ.",
+        "pt-BR": "As tarifas se aplicam amplamente a produtos canadenses cobertos, mesmo quando são elegíveis ao tratamento do USMCA, com algumas exceções.",
+        "id": "Tarif berlaku secara luas untuk barang Kanada yang tercakup bahkan ketika memenuhi syarat perlakuan USMCA, dengan beberapa pengecualian.",
+        "fr": "Les droits de douane s'appliquent largement aux produits canadiens visés, même lorsqu'ils sont admissibles au traitement de l'USMCA, avec quelques exclusions.",
+        "ar": "تُطبَّق الرسوم الجمركية على نطاق واسع على السلع الكندية المشمولة حتى عندما تستوفي معاملة USMCA، مع بعض الاستثناءات.",
+        "tr": "Tarifeler, USMCA muamelesine uygun olsalar bile kapsanan Kanada mallarına geniş ölçüde uygulanır; bazı istisnalar vardır.",
+        "it": "I dazi si applicano ampiamente ai prodotti canadesi coperti anche quando sono idonei al trattamento USMCA, con alcune esclusioni.",
+        "pl": "Taryfy mają szerokie zastosowanie do objętych kanadyjskich towarów, nawet gdy kwalifikują się do traktowania USMCA, z pewnymi wyjątkami."
+      }
     }
   ],
   "youtube_url": ""

@@ -17,7 +17,24 @@
         "A chef growing algae"
       ],
       "answerIndex": 0,
-      "hintKo": "The men's hurdles record was broken by Dos Santos, not by a thief or an engineer."
+      "hintKo": "The men's hurdles record was broken by Dos Santos, not by a thief or an engineer.",
+      "hintI18n": {
+        "en": "The men's hurdles record was broken by Dos Santos, not by a thief or an engineer.",
+        "ko": "남자 허들 기록은 도스 산토스가 깬 것이지, 도둑이나 엔지니어가 아니다.",
+        "zh-Hans": "男子跨栏纪录是多斯·桑托斯打破的，不是小偷或工程师。",
+        "ja": "男子ハードル記録を破ったのはドス・サントスで、泥棒や技師ではない。",
+        "es": "El récord masculino de vallas lo rompió Dos Santos, no un ladrón ni un ingeniero.",
+        "hi": "पुरुष हर्डल्स रिकॉर्ड डॉस सैंटोस ने तोड़ा, किसी चोर या इंजीनियर ने नहीं।",
+        "de": "Den Männer-Hürdenrekord brach Dos Santos, nicht ein Dieb oder Ingenieur.",
+        "vi": "Kỷ lục vượt rào nam bị phá bởi Dos Santos, không phải một tên trộm hay kỹ sư.",
+        "pt-BR": "O recorde masculino de barreiras foi quebrado por Dos Santos, não por um ladrão ou engenheiro.",
+        "id": "Rekor lari gawang putra dipecahkan oleh Dos Santos, bukan oleh pencuri atau insinyur.",
+        "fr": "Le record masculin du 400 m haies a été battu par Dos Santos, pas par un voleur ni un ingénieur.",
+        "ar": "حطّم دوس سانتوس الرقم القياسي للرجال في الحواجز، لا لص ولا مهندس.",
+        "tr": "Erkekler engelli rekorunu Dos Santos kırdı, bir hırsız ya da mühendis değil.",
+        "it": "Il record maschile dei 400 ostacoli è stato battuto da Dos Santos, non da un ladro o un ingegnere.",
+        "pl": "Rekord mężczyzn w biegu przez płotki pobił Dos Santos, a nie złodziej czy inżynier."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Two alligator hunting records"
       ],
       "answerIndex": 0,
-      "hintKo": "The records were in hurdles, not in cooking or hunting."
+      "hintKo": "The records were in hurdles, not in cooking or hunting.",
+      "hintI18n": {
+        "en": "The records were in hurdles, not in cooking or hunting.",
+        "ko": "기록은 허들 종목에서 나왔지, 요리나 사냥이 아니다.",
+        "zh-Hans": "这些纪录是在跨栏项目中，而不是烹饪或狩猎。",
+        "ja": "記録はハードル競技のもので、料理や狩猟ではない。",
+        "es": "Los récords fueron en vallas, no en cocina ni caza.",
+        "hi": "रिकॉर्ड हर्डल्स में थे, खाना बनाने या शिकार में नहीं।",
+        "de": "Die Rekorde fielen im Hürdenlauf, nicht beim Kochen oder Jagen.",
+        "vi": "Các kỷ lục thuộc môn vượt rào, không phải nấu ăn hay săn bắn.",
+        "pt-BR": "Os recordes foram nas barreiras, não na culinária ou caça.",
+        "id": "Rekor-rekor itu ada di lari gawang, bukan memasak atau berburu.",
+        "fr": "Les records ont été réalisés en haies, pas en cuisine ni à la chasse.",
+        "ar": "كانت الأرقام القياسية في الحواجز، لا في الطبخ أو الصيد.",
+        "tr": "Rekorlar engelli koşudaydı, yemek pişirmede veya avlanmada değil.",
+        "it": "I record sono stati ottenuti negli ostacoli, non in cucina o a caccia.",
+        "pl": "Rekordy padły w biegu przez płotki, a nie w gotowaniu czy myślistwie."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "During a phone launch in September"
       ],
       "answerIndex": 0,
-      "hintKo": "They fell the same night in Zurich, not on a holiday in Sicily."
+      "hintKo": "They fell the same night in Zurich, not on a holiday in Sicily.",
+      "hintI18n": {
+        "en": "They fell the same night in Zurich, not on a holiday in Sicily.",
+        "ko": "그 기록들은 취리히에서 같은 밤에 깨졌지, 시칠리아의 휴일이 아니다.",
+        "zh-Hans": "它们是在苏黎世同一晚被打破的，不是在西西里度假时。",
+        "ja": "それらはチューリッヒで同じ夜に破られたのであり、シチリアの休暇中ではない。",
+        "es": "Cayeron la misma noche en Zúrich, no en unas vacaciones en Sicilia.",
+        "hi": "वे रिकॉर्ड उसी रात ज़्यूरिख में टूटे, सिसिली की छुट्टी में नहीं।",
+        "de": "Sie fielen in derselben Nacht in Zürich, nicht im Urlaub in Sizilien.",
+        "vi": "Chúng đã bị phá vào cùng đêm ở Zurich, không phải trong kỳ nghỉ ở Sicily.",
+        "pt-BR": "Eles caíram na mesma noite em Zurique, não em férias na Sicília.",
+        "id": "Rekor-rekor itu jatuh pada malam yang sama di Zurich, bukan saat liburan di Sisilia.",
+        "fr": "Ils sont tombés la même nuit à Zurich, pas pendant des vacances en Sicile.",
+        "ar": "سقطت في الليلة نفسها في زيوريخ، لا في عطلة في صقلية.",
+        "tr": "Aynı gece Zürih'te kırıldılar, Sicilya'daki bir tatilde değil.",
+        "it": "Sono caduti la stessa notte a Zurigo, non in vacanza in Sicilia.",
+        "pl": "Padły tej samej nocy w Zurychu, a nie na wakacjach na Sycylii."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "A Samsung store"
       ],
       "answerIndex": 0,
-      "hintKo": "The races were in a Zurich stadium, not a museum or a swamp."
+      "hintKo": "The races were in a Zurich stadium, not a museum or a swamp.",
+      "hintI18n": {
+        "en": "The races were in a Zurich stadium, not a museum or a swamp.",
+        "ko": "경기는 취리히의 경기장에서 열렸지, 박물관이나 늪이 아니다.",
+        "zh-Hans": "比赛是在苏黎世的体育场举行的，不是博物馆或沼泽。",
+        "ja": "レースはチューリッヒのスタジアムで行われ、博物館や沼ではない。",
+        "es": "Las carreras fueron en un estadio de Zúrich, no en un museo ni un pantano.",
+        "hi": "दौड़ें ज़्यूरिख के एक स्टेडियम में थीं, संग्रहालय या दलदल में नहीं।",
+        "de": "Die Rennen fanden in einem Stadion in Zürich statt, nicht in einem Museum oder Sumpf.",
+        "vi": "Các cuộc đua diễn ra trong một sân vận động ở Zurich, không phải bảo tàng hay đầm lầy.",
+        "pt-BR": "As corridas foram em um estádio de Zurique, não em um museu ou pântano.",
+        "id": "Balapan berlangsung di stadion di Zurich, bukan museum atau rawa.",
+        "fr": "Les courses ont eu lieu dans un stade de Zurich, pas dans un musée ni un marais.",
+        "ar": "أقيمت السباقات في ملعب في زيوريخ، لا في متحف أو مستنقع.",
+        "tr": "Yarışlar Zürih'te bir stadyumdaydı, müze veya bataklıkta değil.",
+        "it": "Le gare si sono svolte in uno stadio di Zurigo, non in un museo o una palude.",
+        "pl": "Wyścigi odbyły się na stadionie w Zurychu, a nie w muzeum czy na bagnie."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The race was cancelled"
       ],
       "answerIndex": 0,
-      "hintKo": "Warm pleasant weather helped, not ice or darkness."
+      "hintKo": "Warm pleasant weather helped, not ice or darkness.",
+      "hintI18n": {
+        "en": "Warm pleasant weather helped, not ice or darkness.",
+        "ko": "따뜻하고 쾌적한 날씨가 도움이 되었지, 얼음이나 어둠이 아니다.",
+        "zh-Hans": "温暖宜人的天气有帮助，不是冰或黑暗。",
+        "ja": "暖かく快適な天気が助けたのであり、氷や暗闇ではない。",
+        "es": "El clima cálido y agradable ayudó, no el hielo ni la oscuridad.",
+        "hi": "गर्म सुहावने मौसम ने मदद की, बर्फ या अंधेरे ने नहीं।",
+        "de": "Warmes, angenehmes Wetter half, nicht Eis oder Dunkelheit.",
+        "vi": "Thời tiết ấm áp dễ chịu đã giúp, không phải băng hay bóng tối.",
+        "pt-BR": "O clima quente e agradável ajudou, não gelo ou escuridão.",
+        "id": "Cuaca hangat yang menyenangkan membantu, bukan es atau kegelapan.",
+        "fr": "Un temps chaud et agréable a aidé, pas la glace ni l'obscurité.",
+        "ar": "ساعد الطقس الدافئ اللطيف، لا الجليد أو الظلام.",
+        "tr": "Sıcak ve hoş hava yardımcı oldu, buz veya karanlık değil.",
+        "it": "Il tempo caldo e piacevole ha aiutato, non il ghiaccio o il buio.",
+        "pl": "Pomogła ciepła, przyjemna pogoda, a nie lód czy ciemność."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Eighty thousand dollars"
       ],
       "answerIndex": 0,
-      "hintKo": "Twelve point zero nine was her time, not the men's hurdles time."
+      "hintKo": "Twelve point zero nine was her time, not the men's hurdles time.",
+      "hintI18n": {
+        "en": "Twelve point zero nine was her time, not the men's hurdles time.",
+        "ko": "그녀의 기록은 12.09초였고, 남자 허들 기록은 아니었습니다.",
+        "zh-Hans": "她的成绩是12.09秒，不是男子跨栏的成绩。",
+        "ja": "彼女のタイムは12.09秒で、男子ハードルのタイムではありません。",
+        "es": "Su tiempo fue 12.09, no el tiempo de los hombres en vallas.",
+        "hi": "उनका समय 12.09 था, पुरुषों की बाधा दौड़ का समय नहीं।",
+        "de": "Ihre Zeit war 12,09, nicht die Männer-Hürdenzeit.",
+        "vi": "Thời gian của cô ấy là 12,09 giây, không phải thời gian vượt rào của nam.",
+        "pt-BR": "O tempo dela foi 12,09, não o tempo das barreiras masculinas.",
+        "id": "Waktunya 12,09, bukan waktu lari gawang putra.",
+        "fr": "Son temps était de 12,09, pas celui des haies masculines.",
+        "ar": "كان زمنها 12.09، وليس زمن حواجز الرجال.",
+        "tr": "Onun derecesi 12.09'du, erkekler engelli derecesi değil.",
+        "it": "Il suo tempo era 12,09, non il tempo degli ostacoli maschili.",
+        "pl": "Jej czas to 12,09, nie czas męskich biegów przez płotki."
+      }
     }
   ],
   "youtube_url": ""

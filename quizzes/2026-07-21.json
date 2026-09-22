@@ -17,7 +17,24 @@
         "A group of Singapore students"
       ],
       "answerIndex": 1,
-      "hintKo": "The article clearly names Professor Shen Yijie as the leader of the research team."
+      "hintKo": "The article clearly names Professor Shen Yijie as the leader of the research team.",
+      "hintI18n": {
+        "en": "The article clearly names Professor Shen Yijie as the leader of the research team.",
+        "ko": "그 기사는 선 이지에 교수를 연구팀의 리더로 분명히 밝히고 있습니다.",
+        "zh-Hans": "文章明确指出沈义杰教授是该研究团队的负责人。",
+        "ja": "記事はシェン・イージエ教授を研究チームのリーダーとして明確に挙げています。",
+        "es": "El artículo nombra claramente al profesor Shen Yijie como líder del equipo de investigación.",
+        "hi": "लेख में प्रोफेसर शेन यीजी को शोध टीम का नेता स्पष्ट रूप से बताया गया है।",
+        "de": "Der Artikel nennt Professor Shen Yijie eindeutig als Leiter des Forschungsteams.",
+        "vi": "Bài viết nêu rõ Giáo sư Shen Yijie là trưởng nhóm nghiên cứu.",
+        "pt-BR": "O artigo nomeia claramente o Professor Shen Yijie como líder da equipe de pesquisa.",
+        "id": "Artikel ini dengan jelas menyebut Profesor Shen Yijie sebagai pemimpin tim penelitian.",
+        "fr": "L'article nomme clairement le professeur Shen Yijie comme chef de l'équipe de recherche.",
+        "ar": "تذكر المقال بوضوح البروفيسور شن يي جيه كقائد لفريق البحث.",
+        "tr": "Makale, Profesör Shen Yijie'yi araştırma ekibinin lideri olarak açıkça belirtiyor.",
+        "it": "L'articolo nomina chiaramente il professor Shen Yijie come capo del team di ricerca.",
+        "pl": "Artykuł wyraźnie wskazuje profesora Shen Yijie jako lidera zespołu badawczego."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "A planet discovered in the eighteen hundreds"
       ],
       "answerIndex": 2,
-      "hintKo": "The Poisson spot is a classic optical phenomenon, not a disease, planet, or type of skyrmion."
+      "hintKo": "The Poisson spot is a classic optical phenomenon, not a disease, planet, or type of skyrmion.",
+      "hintI18n": {
+        "en": "The Poisson spot is a classic optical phenomenon, not a disease, planet, or type of skyrmion.",
+        "ko": "푸아송 반점은 고전적인 광학 현상이며, 질병이나 행성, 스커미온의 한 종류가 아닙니다.",
+        "zh-Hans": "泊松斑是一种经典的光学现象，不是疾病、行星或某种斯格明子。",
+        "ja": "ポアソン・スポットは古典的な光学現象であり、病気や惑星、スキルミオンの一種ではありません。",
+        "es": "La mancha de Poisson es un fenómeno óptico clásico, no una enfermedad, un planeta ni un tipo de skyrmion.",
+        "hi": "प्वासों धब्बा एक उत्कृष्ट प्रकाशिक घटना है, कोई रोग, ग्रह या स्किर्मियन का प्रकार नहीं।",
+        "de": "Der Poisson-Fleck ist ein klassisches optisches Phänomen, keine Krankheit, kein Planet und keine Art von Skyrmion.",
+        "vi": "Đốm Poisson là một hiện tượng quang học cổ điển, không phải bệnh, hành tinh hay một loại skyrmion.",
+        "pt-BR": "A mancha de Poisson é um fenômeno óptico clássico, não uma doença, planeta ou tipo de skyrmion.",
+        "id": "Bintik Poisson adalah fenomena optik klasik, bukan penyakit, planet, atau jenis skyrmion.",
+        "fr": "La tache de Poisson est un phénomène optique classique, pas une maladie, une planète ou un type de skyrmion.",
+        "ar": "بقعة بواسون هي ظاهرة بصرية كلاسيكية، وليست مرضًا أو كوكبًا أو نوعًا من السكيرميون.",
+        "tr": "Poisson lekesi klasik bir optik olgudur; bir hastalık, gezegen veya skyrmion türü değildir.",
+        "it": "La macchia di Poisson è un classico fenomeno ottico, non una malattia, un pianeta o un tipo di skyrmion.",
+        "pl": "Plamka Poissona to klasyczne zjawisko optyczne, a nie choroba, planeta czy rodzaj skyrmionu."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Oxford University in the United Kingdom"
       ],
       "answerIndex": 0,
-      "hintKo": "The story clearly states the research happened at NTU in Singapore, not these other universities."
+      "hintKo": "The story clearly states the research happened at NTU in Singapore, not these other universities.",
+      "hintI18n": {
+        "en": "The story clearly states the research happened at NTU in Singapore, not these other universities.",
+        "ko": "이 이야기는 연구가 다른 대학들이 아니라 싱가포르의 NTU에서 이루어졌다고 분명히 밝히고 있습니다.",
+        "zh-Hans": "故事明确指出这项研究是在新加坡的NTU进行的，而不是在其他这些大学。",
+        "ja": "この話は、研究が他の大学ではなく、シンガポールのNTUで行われたと明確に述べています。",
+        "es": "La historia afirma claramente que la investigación se realizó en la NTU de Singapur, no en estas otras universidades.",
+        "hi": "यह कहानी स्पष्ट रूप से बताती है कि शोध सिंगापुर की NTU में हुआ, इन अन्य विश्वविद्यालयों में नहीं।",
+        "de": "Die Geschichte besagt eindeutig, dass die Forschung an der NTU in Singapur stattfand, nicht an diesen anderen Universitäten.",
+        "vi": "Câu chuyện nói rõ nghiên cứu được thực hiện tại NTU ở Singapore, không phải tại các trường đại học khác này.",
+        "pt-BR": "A história afirma claramente que a pesquisa ocorreu na NTU em Singapura, não nessas outras universidades.",
+        "id": "Kisah ini dengan jelas menyatakan penelitian dilakukan di NTU di Singapura, bukan di universitas lain ini.",
+        "fr": "L'histoire indique clairement que la recherche a eu lieu à la NTU à Singapour, pas dans ces autres universités.",
+        "ar": "تذكر القصة بوضوح أن البحث أُجري في جامعة NTU في سنغافورة، وليس في هذه الجامعات الأخرى.",
+        "tr": "Hikâye, araştırmanın diğer üniversitelerde değil, Singapur'daki NTU'da yapıldığını açıkça belirtiyor.",
+        "it": "La storia afferma chiaramente che la ricerca è avvenuta alla NTU di Singapore, non in queste altre università.",
+        "pl": "Historia wyraźnie mówi, że badania przeprowadzono na NTU w Singapurze, a nie na tych innych uniwersytetach."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "During World War Two"
       ],
       "answerIndex": 3,
-      "hintKo": "The Poisson spot debate took place in the early 1800s, about two hundred years ago."
+      "hintKo": "The Poisson spot debate took place in the early 1800s, about two hundred years ago.",
+      "hintI18n": {
+        "en": "The Poisson spot debate took place in the early 1800s, about two hundred years ago.",
+        "ko": "푸아송 반점 논쟁은 약 200년 전인 1800년대 초에 일어났습니다.",
+        "zh-Hans": "泊松斑的争论发生在19世纪初，大约两百年前。",
+        "ja": "ポアソン・スポットの議論は、約200年前の1800年代初頭に行われました。",
+        "es": "El debate sobre la mancha de Poisson tuvo lugar a principios del siglo XIX, hace unos doscientos años.",
+        "hi": "प्वासों धब्बे पर बहस 1800 के दशक की शुरुआत में, लगभग दो सौ साल पहले हुई थी।",
+        "de": "Die Debatte um den Poisson-Fleck fand im frühen 19. Jahrhundert statt, vor etwa zweihundert Jahren.",
+        "vi": "Cuộc tranh luận về đốm Poisson diễn ra vào đầu những năm 1800, khoảng hai trăm năm trước.",
+        "pt-BR": "O debate sobre a mancha de Poisson ocorreu no início do século XIX, há cerca de duzentos anos.",
+        "id": "Perdebatan tentang bintik Poisson terjadi pada awal tahun 1800-an, sekitar dua ratus tahun yang lalu.",
+        "fr": "Le débat sur la tache de Poisson a eu lieu au début des années 1800, il y a environ deux cents ans.",
+        "ar": "جرت مناظرة بقعة بواسون في أوائل القرن التاسع عشر، قبل حوالي مئتي عام.",
+        "tr": "Poisson lekesi tartışması 1800'lerin başında, yaklaşık iki yüz yıl önce gerçekleşti.",
+        "it": "Il dibattito sulla macchia di Poisson ebbe luogo nei primi anni del 1800, circa duecento anni fa.",
+        "pl": "Debata o plamce Poissona miała miejsce na początku XIX wieku, około dwieście lat temu."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "They help grow plants faster"
       ],
       "answerIndex": 1,
-      "hintKo": "The article focuses on information storage and computing applications, not lighting or agriculture."
+      "hintKo": "The article focuses on information storage and computing applications, not lighting or agriculture.",
+      "hintI18n": {
+        "en": "The article focuses on information storage and computing applications, not lighting or agriculture.",
+        "ko": "그 기사는 조명이나 농업이 아니라 정보 저장과 컴퓨팅 응용에 초점을 맞추고 있습니다.",
+        "zh-Hans": "文章重点关注信息存储和计算应用，而不是照明或农业。",
+        "ja": "この記事は、照明や農業ではなく、情報ストレージとコンピューティングへの応用に焦点を当てています。",
+        "es": "El artículo se centra en aplicaciones de almacenamiento de información y computación, no en iluminación o agricultura.",
+        "hi": "लेख प्रकाश व्यवस्था या कृषि पर नहीं, बल्कि सूचना भंडारण और कंप्यूटिंग अनुप्रयोगों पर केंद्रित है।",
+        "de": "Der Artikel konzentriert sich auf Informationsspeicherung und Computing-Anwendungen, nicht auf Beleuchtung oder Landwirtschaft.",
+        "vi": "Bài viết tập trung vào các ứng dụng lưu trữ thông tin và điện toán, không phải chiếu sáng hay nông nghiệp.",
+        "pt-BR": "O artigo concentra-se em aplicações de armazenamento de informações e computação, não em iluminação ou agricultura.",
+        "id": "Artikel ini berfokus pada aplikasi penyimpanan informasi dan komputasi, bukan pencahayaan atau pertanian.",
+        "fr": "L'article se concentre sur les applications de stockage d'informations et d'informatique, pas sur l'éclairage ou l'agriculture.",
+        "ar": "تركز المقالة على تطبيقات تخزين المعلومات والحوسبة، وليس على الإضاءة أو الزراعة.",
+        "tr": "Makale aydınlatma veya tarımla değil, bilgi depolama ve bilişim uygulamalarıyla ilgilidir.",
+        "it": "L'articolo si concentra sulle applicazioni di archiviazione delle informazioni e di calcolo, non sull'illuminazione o sull'agricoltura.",
+        "pl": "Artykuł koncentruje się na zastosowaniach związanych z przechowywaniem informacji i obliczeniami, a nie na oświetleniu czy rolnictwie."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By shining a laser at a small circular disc to create a Poisson spot"
       ],
       "answerIndex": 4,
-      "hintKo": "The key innovation was using a simple laser and disc setup, not expensive materials or complex equipment."
+      "hintKo": "The key innovation was using a simple laser and disc setup, not expensive materials or complex equipment.",
+      "hintI18n": {
+        "en": "The key innovation was using a simple laser and disc setup, not expensive materials or complex equipment.",
+        "ko": "핵심 혁신은 값비싼 재료나 복잡한 장비가 아니라 단순한 레이저와 디스크 구성이었습니다.",
+        "zh-Hans": "关键创新是使用简单的激光和圆盘装置，而不是昂贵的材料或复杂的设备。",
+        "ja": "重要な革新は、高価な材料や複雑な装置ではなく、単純なレーザーとディスクの構成を使ったことでした。",
+        "es": "La innovación clave fue usar un montaje simple de láser y disco, no materiales caros ni equipos complejos.",
+        "hi": "मुख्य नवाचार सरल लेज़र और डिस्क सेटअप का उपयोग था, न कि महँगी सामग्री या जटिल उपकरण।",
+        "de": "Die entscheidende Innovation war ein einfacher Aufbau aus Laser und Scheibe, nicht teure Materialien oder komplexe Geräte.",
+        "vi": "Điểm đổi mới then chốt là dùng thiết lập laser và đĩa đơn giản, không phải vật liệu đắt tiền hay thiết bị phức tạp.",
+        "pt-BR": "A inovação principal foi usar uma montagem simples de laser e disco, não materiais caros ou equipamentos complexos.",
+        "id": "Inovasi utamanya adalah menggunakan pengaturan laser dan cakram yang sederhana, bukan bahan mahal atau peralatan rumit.",
+        "fr": "L’innovation clé a été d’utiliser un montage simple avec laser et disque, pas des matériaux coûteux ni un équipement complexe.",
+        "ar": "كان الابتكار الرئيسي استخدام إعداد بسيط من الليزر والقرص، وليس مواد باهظة أو معدات معقدة.",
+        "tr": "Temel yenilik, pahalı malzemeler veya karmaşık ekipman yerine basit bir lazer ve disk düzeneği kullanmaktı.",
+        "it": "L’innovazione chiave è stata usare una semplice configurazione con laser e disco, non materiali costosi o attrezzature complesse.",
+        "pl": "Kluczową innowacją było użycie prostego układu z laserem i dyskiem, a nie drogich materiałów czy skomplikowanego sprzętu."
+      }
     }
   ],
   "youtube_url": ""

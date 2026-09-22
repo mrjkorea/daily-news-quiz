@@ -17,7 +17,24 @@
         "Sir Stelios Haji-Ioannou"
       ],
       "answerIndex": 0,
-      "hintKo": "Apollo, an American firm, agreed to buy EasyJet."
+      "hintKo": "Apollo, an American firm, agreed to buy EasyJet.",
+      "hintI18n": {
+        "en": "Apollo, an American firm, agreed to buy EasyJet.",
+        "ko": "미국 기업 아폴로가 이지젯을 인수하기로 합의했습니다.",
+        "zh-Hans": "美国公司阿波罗同意收购易捷航空。",
+        "ja": "アメリカの企業アポロがイージージェットを買収することに合意しました。",
+        "es": "Apolo, una empresa estadounidense, acordó comprar EasyJet.",
+        "hi": "अमेरिकी कंपनी अपोलो ने ईज़ीजेट को खरीदने पर सहमति जताई।",
+        "de": "Apollo, eine amerikanische Firma, erklärte sich bereit, EasyJet zu kaufen.",
+        "vi": "Apollo, một công ty Mỹ, đã đồng ý mua EasyJet.",
+        "pt-BR": "A Apollo, uma empresa americana, concordou em comprar a EasyJet.",
+        "id": "Apollo, perusahaan Amerika, setuju membeli EasyJet.",
+        "fr": "Apollo, une entreprise américaine, a accepté d'acheter EasyJet.",
+        "ar": "وافقت أبولو، وهي شركة أمريكية، على شراء إيزي جيت.",
+        "tr": "Amerikan şirketi Apollo, EasyJet'i satın almayı kabul etti.",
+        "it": "Apollo, una società americana, ha accettato di acquistare EasyJet.",
+        "pl": "Amerykańska firma Apollo zgodziła się kupić EasyJet."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It will stop hiring new workers"
       ],
       "answerIndex": 1,
-      "hintKo": "Apollo promised no job cuts in the first twelve months."
+      "hintKo": "Apollo promised no job cuts in the first twelve months.",
+      "hintI18n": {
+        "en": "Apollo promised no job cuts in the first twelve months.",
+        "ko": "아폴로는 첫 12개월 동안 해고가 없을 것이라고 약속했습니다.",
+        "zh-Hans": "阿波罗承诺在头十二个月内不会裁员。",
+        "ja": "アポロは最初の12か月間は人員削減をしないと約束しました。",
+        "es": "Apolo prometió no despedir a nadie durante los primeros doce meses.",
+        "hi": "अपोलो ने पहले बारह महीनों में कोई छंटनी न करने का वादा किया।",
+        "de": "Apollo versprach, in den ersten zwölf Monaten keine Stellen zu streichen.",
+        "vi": "Apollo hứa sẽ không cắt giảm việc làm trong mười hai tháng đầu tiên.",
+        "pt-BR": "A Apollo prometeu não fazer demissões nos primeiros doze meses.",
+        "id": "Apollo berjanji tidak akan ada pemutusan hubungan kerja dalam dua belas bulan pertama.",
+        "fr": "Apollo a promis de ne supprimer aucun emploi durant les douze premiers mois.",
+        "ar": "وعدت أبولو بعدم تسريح أي موظفين خلال الأشهر الاثني عشر الأولى.",
+        "tr": "Apollo, ilk on iki ayda işten çıkarma olmayacağına söz verdi.",
+        "it": "Apollo ha promesso che non ci saranno licenziamenti nei primi dodici mesi.",
+        "pl": "Apollo obiecał, że przez pierwsze dwanaście miesięcy nie będzie zwolnień."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In nineteen seventy"
       ],
       "answerIndex": 0,
-      "hintKo": "EasyJet started in nineteen ninety-five."
+      "hintKo": "EasyJet started in nineteen ninety-five.",
+      "hintI18n": {
+        "en": "EasyJet started in nineteen ninety-five.",
+        "ko": "이지젯은 1995년에 시작되었습니다.",
+        "zh-Hans": "易捷航空成立于1995年。",
+        "ja": "イージージェットは1995年に始まりました。",
+        "es": "EasyJet empezó en 1995.",
+        "hi": "ईज़ीजेट 1995 में शुरू हुई।",
+        "de": "EasyJet wurde 1995 gegründet.",
+        "vi": "EasyJet bắt đầu vào năm 1995.",
+        "pt-BR": "A EasyJet começou em 1995.",
+        "id": "EasyJet dimulai pada tahun 1995.",
+        "fr": "EasyJet a démarré en 1995.",
+        "ar": "بدأت إيزي جيت في عام 1995.",
+        "tr": "EasyJet 1995'te başladı.",
+        "it": "EasyJet è iniziata nel 1995.",
+        "pl": "EasyJet rozpoczął działalność w 1995 roku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Only within Spain"
       ],
       "answerIndex": 1,
-      "hintKo": "EasyJet operates across Europe."
+      "hintKo": "EasyJet operates across Europe.",
+      "hintI18n": {
+        "en": "EasyJet operates across Europe.",
+        "ko": "이지젯은 유럽 전역에서 운항합니다.",
+        "zh-Hans": "易捷航空在欧洲各地运营。",
+        "ja": "イージージェットはヨーロッパ全域で運航しています。",
+        "es": "EasyJet opera en toda Europa.",
+        "hi": "ईज़ीजेट पूरे यूरोप में परिचालन करती है।",
+        "de": "EasyJet ist in ganz Europa tätig.",
+        "vi": "EasyJet hoạt động khắp châu Âu.",
+        "pt-BR": "A EasyJet opera em toda a Europa.",
+        "id": "EasyJet beroperasi di seluruh Eropa.",
+        "fr": "EasyJet opère dans toute l'Europe.",
+        "ar": "تعمل إيزي جيت في جميع أنحاء أوروبا.",
+        "tr": "EasyJet Avrupa genelinde faaliyet gösteriyor.",
+        "it": "EasyJet opera in tutta Europa.",
+        "pl": "EasyJet działa w całej Europie."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It lost its banking license"
       ],
       "answerIndex": 0,
-      "hintKo": "Castlelake withdrew from the bidding battle."
+      "hintKo": "Castlelake withdrew from the bidding battle.",
+      "hintI18n": {
+        "en": "Castlelake withdrew from the bidding battle.",
+        "ko": "캐슬레이크는 입찰 경쟁에서 철수했습니다.",
+        "zh-Hans": "卡斯尔莱克退出了竞购战。",
+        "ja": "キャッスルレイクは買収合戦から撤退しました。",
+        "es": "Castlelake se retiró de la batalla de ofertas.",
+        "hi": "कैसललेक ने बोली की लड़ाई से नाम वापस ले लिया।",
+        "de": "Castlelake zog sich aus dem Bieterkampf zurück.",
+        "vi": "Castlelake đã rút khỏi cuộc chiến đấu thầu.",
+        "pt-BR": "A Castlelake desistiu da disputa de lances.",
+        "id": "Castlelake mundur dari pertempuran penawaran.",
+        "fr": "Castlelake s'est retiré de la bataille des offres.",
+        "ar": "انسحبت كاسل ليك من معركة العروض.",
+        "tr": "Castlelake teklif savaşından çekildi.",
+        "it": "Castlelake si è ritirata dalla battaglia delle offerte.",
+        "pl": "Firma Castlelake wycofała się z walki ofertowej."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Twenty pounds and fifty pence"
       ],
       "answerIndex": 0,
-      "hintKo": "Shareholders get seven pounds and fifteen pence per share."
+      "hintKo": "Shareholders get seven pounds and fifteen pence per share.",
+      "hintI18n": {
+        "en": "Shareholders get seven pounds and fifteen pence per share.",
+        "ko": "주주들은 주당 7파운드 15펜스를 받습니다.",
+        "zh-Hans": "股东每股将获得7英镑15便士。",
+        "ja": "株主は1株につき7ポンド15ペンスを受け取ります。",
+        "es": "Los accionistas reciben siete libras y quince peniques por acción.",
+        "hi": "शेयरधारकों को प्रति शेयर सात पाउंड और पंद्रह पेंस मिलते हैं।",
+        "de": "Aktionäre erhalten sieben Pfund und fünfzehn Pence pro Aktie.",
+        "vi": "Cổ đông nhận được bảy bảng Anh và mười lăm xu mỗi cổ phiếu.",
+        "pt-BR": "Os acionistas recebem sete libras e quinze pence por ação.",
+        "id": "Pemegang saham menerima tujuh pound dan lima belas pence per saham.",
+        "fr": "Les actionnaires reçoivent sept livres et quinze pence par action.",
+        "ar": "يحصل المساهمون على سبعة جنيهات إسترلينية وخمسة عشر بنسًا لكل سهم.",
+        "tr": "Hissedarlar hisse başına yedi pound on beş peni alacak.",
+        "it": "Gli azionisti ricevono sette sterline e quindici penny per azione.",
+        "pl": "Akcjonariusze otrzymają siedem funtów i piętnaście pensów na akcję."
+      }
     }
   ],
   "youtube_url": ""

@@ -31,8 +31,12 @@
 <body>
 <header class="hero">
   <p class="mark">MRJ</p>
-  <h1>News Quiz</h1>
-  <p class="hint">Tap a day</p>
+  <h1 data-i18n="news_quiz">News Quiz</h1>
+  <p class="hint" data-i18n="tap_a_day">Tap a day</p>
+  <label class="lang-wrap">
+    <span class="sr" data-i18n="language">Language</span>
+    <select id="lang-select" aria-label="Language"></select>
+  </label>
 </header>
 <nav class="days">
 <p class="month">September 2026</p>
@@ -102,5 +106,7 @@
 <a class="day" href="quiz.html?id=2026-06-25"><span class="wd">Thu</span><span class="dt">25</span></a>
 <a class="day" href="quiz.html?id=2026-06-23"><span class="wd">Tue</span><span class="dt">23</span></a>
 </nav>
+<script src="js/i18n.js"></script>
+<script src="js/catalog.js"></script>
 </body>
 </html>

@@ -17,7 +17,24 @@
         "Lauren Dauphin"
       ],
       "answerIndex": 0,
-      "hintKo": "The scientist who made that statement is Bill Chadwick of Oregon State University."
+      "hintKo": "The scientist who made that statement is Bill Chadwick of Oregon State University.",
+      "hintI18n": {
+        "en": "The scientist who made that statement is Bill Chadwick of Oregon State University.",
+        "ko": "그 발언을 한 과학자는 오리건 주립대학교의 빌 채드윅입니다.",
+        "zh-Hans": "做出这一陈述的科学家是俄勒冈州立大学的比尔·查德威克。",
+        "ja": "その発言をした科学者は、オレゴン州立大学のビル・チャドウィックです。",
+        "es": "El científico que hizo esa declaración es Bill Chadwick, de la Universidad Estatal de Oregón.",
+        "hi": "वह बयान देने वाले वैज्ञानिक ओरेगन स्टेट यूनिवर्सिटी के बिल चैडविक हैं।",
+        "de": "Der Wissenschaftler, der diese Aussage machte, ist Bill Chadwick von der Oregon State University.",
+        "vi": "Nhà khoa học đưa ra phát biểu đó là Bill Chadwick của Đại học Bang Oregon.",
+        "pt-BR": "O cientista que fez essa declaração é Bill Chadwick, da Universidade Estadual do Oregon.",
+        "id": "Ilmuwan yang membuat pernyataan itu adalah Bill Chadwick dari Oregon State University.",
+        "fr": "Le scientifique qui a fait cette déclaration est Bill Chadwick, de l’Université d’État de l’Oregon.",
+        "ar": "العالم الذي أدلى بهذا التصريح هو بيل تشادويك من جامعة ولاية أوريغون.",
+        "tr": "Bu açıklamayı yapan bilim insanı, Oregon State Üniversitesi'nden Bill Chadwick'tir.",
+        "it": "Lo scienziato che ha fatto quella dichiarazione è Bill Chadwick della Oregon State University.",
+        "pl": "Naukowcem, który to stwierdził, jest Bill Chadwick z Oregon State University."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Plastic waste"
       ],
       "answerIndex": 1,
-      "hintKo": "The floating material was pumice, frothy volcanic rock produced by the eruption."
+      "hintKo": "The floating material was pumice, frothy volcanic rock produced by the eruption.",
+      "hintI18n": {
+        "en": "The floating material was pumice, frothy volcanic rock produced by the eruption.",
+        "ko": "떠다니던 물질은 화산 분출로 생긴 거품 같은 화산암인 부석이었습니다.",
+        "zh-Hans": "漂浮的物质是浮石，一种由喷发产生的泡沫状火山岩。",
+        "ja": "浮遊していた物質は軽石で、噴火によってできた泡立つ火山岩でした。",
+        "es": "El material flotante era piedra pómez, una roca volcánica espumosa producida por la erupción.",
+        "hi": "तैरता हुआ पदार्थ प्यूमिस था, जो विस्फोट से बनी झागदार ज्वालामुखीय चट्टान है।",
+        "de": "Das treibende Material war Bimsstein, ein schaumiges Vulkangestein, das durch den Ausbruch entstand.",
+        "vi": "Vật liệu trôi nổi là đá bọt, một loại đá núi lửa xốp được tạo ra bởi vụ phun trào.",
+        "pt-BR": "O material flutuante era pedra-pomes, uma rocha vulcânica espumosa produzida pela erupção.",
+        "id": "Material yang mengapung adalah batu apung, batuan vulkanik berbusa yang dihasilkan oleh letusan.",
+        "fr": "Le matériau flottant était de la pierre ponce, une roche volcanique mousseuse produite par l’éruption.",
+        "ar": "المادة العائمة كانت الخفاف، وهو صخر بركاني رغوي ناتج عن الانفجار.",
+        "tr": "Yüzen malzeme, patlamayla oluşan köpüklü volkanik kaya olan pomza taşıydı.",
+        "it": "Il materiale galleggiante era pomice, una roccia vulcanica spumosa prodotta dall’eruzione.",
+        "pl": "Unoszącym się materiałem był pumeks, pienista skała wulkaniczna powstała w wyniku erupcji."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In November"
       ],
       "answerIndex": 0,
-      "hintKo": "Scientists first noticed the eruption in early May through an earthquake swarm and satellite images."
+      "hintKo": "Scientists first noticed the eruption in early May through an earthquake swarm and satellite images.",
+      "hintI18n": {
+        "en": "Scientists first noticed the eruption in early May through an earthquake swarm and satellite images.",
+        "ko": "과학자들은 5월 초 지진군과 위성 이미지를 통해 그 분출을 처음 알아차렸습니다.",
+        "zh-Hans": "科学家们在五月初通过地震群和卫星图像首次注意到这次喷发。",
+        "ja": "科学者たちは5月初めに群発地震と衛星画像によってその噴火に初めて気づきました。",
+        "es": "Los científicos notaron por primera vez la erupción a principios de mayo mediante un enjambre sísmico e imágenes satelitales.",
+        "hi": "वैज्ञानिकों ने मई की शुरुआत में भूकंप-झुंड और उपग्रह चित्रों के ज़रिए विस्फोट को पहली बार देखा।",
+        "de": "Wissenschaftler bemerkten den Ausbruch erstmals Anfang Mai durch einen Erdbebenschwarm und Satellitenbilder.",
+        "vi": "Các nhà khoa học lần đầu nhận thấy vụ phun trào vào đầu tháng Năm qua một chuỗi trận động đất và ảnh vệ tinh.",
+        "pt-BR": "Os cientistas notaram a erupção pela primeira vez no início de maio, por meio de um enxame de terremotos e imagens de satélite.",
+        "id": "Para ilmuwan pertama kali menyadari letusan itu pada awal Mei melalui rentetan gempa dan citra satelit.",
+        "fr": "Les scientifiques ont remarqué l’éruption pour la première fois début mai grâce à un essaim de séismes et à des images satellite.",
+        "ar": "لاحظ العلماء الانفجار لأول مرة في أوائل مايو من خلال سرب من الزلازل وصور الأقمار الصناعية.",
+        "tr": "Bilim insanları patlamayı ilk kez mayıs başında bir deprem sürüsü ve uydu görüntüleri sayesinde fark etti.",
+        "it": "Gli scienziati notarono l’eruzione per la prima volta all’inizio di maggio grazie a uno sciame sismico e a immagini satellitari.",
+        "pl": "Naukowcy po raz pierwszy zauważyli erupcję na początku maja dzięki rojowi trzęsień ziemi i zdjęciom satelitarnym."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In the Arctic Ocean"
       ],
       "answerIndex": 1,
-      "hintKo": "The eruption took place in the Bismarck Sea near Papua New Guinea."
+      "hintKo": "The eruption took place in the Bismarck Sea near Papua New Guinea.",
+      "hintI18n": {
+        "en": "The eruption took place in the Bismarck Sea near Papua New Guinea.",
+        "ko": "그 분출은 파푸아뉴기니 근처의 비스마르크해에서 일어났습니다.",
+        "zh-Hans": "这次喷发发生在巴布亚新几内亚附近的俾斯麦海。",
+        "ja": "その噴火はパプアニューギニア近くのビスマルク海で起こりました。",
+        "es": "La erupción ocurrió en el mar de Bismarck, cerca de Papúa Nueva Guinea.",
+        "hi": "यह विस्फोट पापुआ न्यू गिनी के पास बिस्मार्क सागर में हुआ।",
+        "de": "Der Ausbruch fand in der Bismarcksee nahe Papua-Neuguinea statt.",
+        "vi": "Vụ phun trào xảy ra ở biển Bismarck gần Papua New Guinea.",
+        "pt-BR": "A erupção ocorreu no Mar de Bismarck, perto de Papua-Nova Guiné.",
+        "id": "Letusan terjadi di Laut Bismarck dekat Papua Nugini.",
+        "fr": "L’éruption a eu lieu dans la mer de Bismarck, près de la Papouasie-Nouvelle-Guinée.",
+        "ar": "وقع الانفجار في بحر بسمارك قرب بابوا غينيا الجديدة.",
+        "tr": "Patlama, Papua Yeni Gine yakınlarındaki Bismarck Denizi'nde meydana geldi.",
+        "it": "L’eruzione è avvenuta nel Mar di Bismarck, vicino alla Papua Nuova Guinea.",
+        "pl": "Erupcja miała miejsce w Morzu Bismarcka w pobliżu Papui-Nowej Gwinei."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because salt water pushes it up"
       ],
       "answerIndex": 1,
-      "hintKo": "Pumice is frothy rock with trapped gas, which lets it float up to the ocean surface."
+      "hintKo": "Pumice is frothy rock with trapped gas, which lets it float up to the ocean surface.",
+      "hintI18n": {
+        "en": "Pumice is frothy rock with trapped gas, which lets it float up to the ocean surface.",
+        "ko": "부석은 갇힌 기체가 있는 거품 같은 암석이라 바다 표면까지 떠오를 수 있습니다.",
+        "zh-Hans": "浮石是一种带有被困气体的泡沫状岩石，因此能浮到海面。",
+        "ja": "軽石は閉じ込められたガスを含む泡状の岩石で、そのため海面まで浮かび上がることができます。",
+        "es": "La piedra pómez es una roca espumosa con gas atrapado, lo que le permite flotar hasta la superficie del océano.",
+        "hi": "प्यूमिस एक झागदार चट्टान है जिसमें गैस फँसी होती है, और इसी कारण यह समुद्र की सतह तक तैर सकती है।",
+        "de": "Bimsstein ist ein schaumiges Gestein mit eingeschlossenem Gas, wodurch er bis zur Meeresoberfläche aufsteigen kann.",
+        "vi": "Đá bọt là loại đá xốp có khí bị giữ lại, khiến nó có thể nổi lên mặt biển.",
+        "pt-BR": "A pedra-pomes é uma rocha espumosa com gás preso, o que a faz flutuar até a superfície do oceano.",
+        "id": "Batu apung adalah batuan berbusa dengan gas yang terperangkap, sehingga bisa mengapung ke permukaan laut.",
+        "fr": "La pierre ponce est une roche mousseuse contenant du gaz piégé, ce qui lui permet de flotter jusqu’à la surface de l’océan.",
+        "ar": "الخفاف صخر رغوي يحتوي على غاز محتجز، ما يجعله يطفو إلى سطح المحيط.",
+        "tr": "Pomza, içinde hapsolmuş gaz bulunan köpüklü bir kayadır ve bu sayede okyanus yüzeyine kadar yüzer.",
+        "it": "La pomice è una roccia spumosa con gas intrappolato, che le permette di galleggiare fino alla superficie dell’oceano.",
+        "pl": "Pumeks to pienista skała z uwięzionym gazem, dzięki czemu może wypłynąć na powierzchnię oceanu."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Sonar detected a new island"
       ],
       "answerIndex": 1,
-      "hintKo": "Earthquake monitoring and NASA satellite observations revealed the hidden eruption."
+      "hintKo": "Earthquake monitoring and NASA satellite observations revealed the hidden eruption.",
+      "hintI18n": {
+        "en": "Earthquake monitoring and NASA satellite observations revealed the hidden eruption.",
+        "ko": "지진 모니터링과 NASA 위성 관측이 숨겨진 분출을 밝혀냈습니다.",
+        "zh-Hans": "地震监测和NASA卫星观测揭示了这次隐藏的喷发。",
+        "ja": "地震観測とNASAの衛星観測が、隠れた噴火を明らかにしました。",
+        "es": "El monitoreo de terremotos y las observaciones satelitales de la NASA revelaron la erupción oculta.",
+        "hi": "भूकंप निगरानी और NASA उपग्रह अवलोकनों ने छिपे हुए विस्फोट का पता लगाया।",
+        "de": "Erdbebenüberwachung und NASA-Satellitenbeobachtungen enthüllten den verborgenen Ausbruch.",
+        "vi": "Việc giám sát động đất và quan sát vệ tinh của NASA đã phát hiện vụ phun trào ẩn giấu.",
+        "pt-BR": "O monitoramento de terremotos e as observações de satélite da NASA revelaram a erupção oculta.",
+        "id": "Pemantauan gempa bumi dan pengamatan satelit NASA mengungkap letusan tersembunyi itu.",
+        "fr": "La surveillance des séismes et les observations satellitaires de la NASA ont révélé l'éruption cachée.",
+        "ar": "كشفت مراقبة الزلازل وملاحظات أقمار ناسا عن الثوران المخفي.",
+        "tr": "Deprem izleme ve NASA uydu gözlemleri, gizli patlamayı ortaya çıkardı.",
+        "it": "Il monitoraggio dei terremoti e le osservazioni satellitari della NASA hanno rivelato l'eruzione nascosta.",
+        "pl": "Monitorowanie trzęsień ziemi i obserwacje satelitarne NASA ujawniły ukrytą erupcję."
+      }
     }
   ],
   "youtube_url": ""

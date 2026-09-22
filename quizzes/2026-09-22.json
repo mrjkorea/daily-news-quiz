@@ -17,7 +17,24 @@
         "A wildlife charity"
       ],
       "answerIndex": 1,
-      "hintKo": "Scientists, not families or governments, formally named the cat."
+      "hintKo": "Scientists, not families or governments, formally named the cat.",
+      "hintI18n": {
+        "en": "Scientists, not families or governments, formally named the cat.",
+        "ko": "가족이나 정부가 아니라 과학자들이 공식적으로 그 고양이의 이름을 붙였습니다.",
+        "zh-Hans": "正式给这只猫命名的是科学家，而不是家庭或政府。",
+        "ja": "家族でも政府でもなく、科学者たちが正式にそのネコと名付けました。",
+        "es": "Los científicos, no las familias ni los gobiernos, nombraron formalmente al gato.",
+        "hi": "वैज्ञानिकों ने, परिवारों या सरकारों ने नहीं, औपचारिक रूप से बिल्ली को नाम दिया।",
+        "de": "Wissenschaftler, nicht Familien oder Regierungen, gaben der Katze offiziell ihren Namen.",
+        "vi": "Các nhà khoa học, không phải gia đình hay chính phủ, đã chính thức đặt tên cho loài mèo này.",
+        "pt-BR": "Os cientistas, e não as famílias ou os governos, deram formalmente o nome ao gato.",
+        "id": "Para ilmuwan, bukan keluarga atau pemerintah, yang secara resmi menamai kucing itu.",
+        "fr": "Ce sont les scientifiques, et non les familles ou les gouvernements, qui ont officiellement nommé le chat.",
+        "ar": "العلماء، وليس العائلات أو الحكومات، هم من أطلقوا الاسم الرسمي على القط.",
+        "tr": "Kediyi resmî olarak aileler ya da hükümetler değil, bilim insanları adlandırdı.",
+        "it": "Furono gli scienziati, non le famiglie o i governi, a dare ufficialmente il nome al gatto.",
+        "pl": "To naukowcy, a nie rodziny czy rządy, formalnie nadali imię temu kotu."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It can swim underwater"
       ],
       "answerIndex": 3,
-      "hintKo": "The story highlights that this is the first new cat species in over a century."
+      "hintKo": "The story highlights that this is the first new cat species in over a century.",
+      "hintI18n": {
+        "en": "The story highlights that this is the first new cat species in over a century.",
+        "ko": "이 이야기는 이것이 100년 넘게 만에 처음 발견된 새로운 고양이 종이라는 점을 강조합니다.",
+        "zh-Hans": "这个故事强调，这是一个多世纪以来首个新的猫科物种。",
+        "ja": "この話は、これが1世紀以上ぶりの新しいネコ科種であることを強調しています。",
+        "es": "La historia destaca que esta es la primera nueva especie de felino en más de un siglo.",
+        "hi": "यह कहानी इस बात पर जोर देती है कि यह एक सदी से अधिक समय में पहली नई बिल्ली प्रजाति है।",
+        "de": "Die Geschichte hebt hervor, dass dies die erste neue Katzenart seit über einem Jahrhundert ist.",
+        "vi": "Câu chuyện nhấn mạnh rằng đây là loài mèo mới đầu tiên sau hơn một thế kỷ.",
+        "pt-BR": "A história destaca que esta é a primeira nova espécie de felino em mais de um século.",
+        "id": "Kisah ini menekankan bahwa ini adalah spesies kucing baru pertama dalam lebih dari satu abad.",
+        "fr": "L’histoire souligne qu’il s’agit de la première nouvelle espèce de félin depuis plus d’un siècle.",
+        "ar": "تُبرز القصة أن هذا أول نوع جديد من القطط خلال أكثر من قرن.",
+        "tr": "Bu hikâye, bunun bir asırdan uzun süredir ilk yeni kedi türü olduğunu vurguluyor.",
+        "it": "La storia sottolinea che questa è la prima nuova specie di felino in oltre un secolo.",
+        "pl": "Historia podkreśla, że to pierwszy nowy gatunek kota od ponad wieku."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "About five hundred years ago"
       ],
       "answerIndex": 2,
-      "hintKo": "The genetic split happened about one and a half million years ago."
+      "hintKo": "The genetic split happened about one and a half million years ago.",
+      "hintI18n": {
+        "en": "The genetic split happened about one and a half million years ago.",
+        "ko": "유전적 분리는 약 150만 년 전에 일어났습니다.",
+        "zh-Hans": "基因分化发生在大约150万年前。",
+        "ja": "遺伝的分化は約150万年前に起こりました。",
+        "es": "La separación genética ocurrió hace aproximadamente un millón y medio de años.",
+        "hi": "आनुवंशिक विभाजन लगभग पंद्रह लाख वर्ष पहले हुआ था।",
+        "de": "Die genetische Aufspaltung geschah vor etwa eineinhalb Millionen Jahren.",
+        "vi": "Sự tách biệt di truyền xảy ra cách đây khoảng một triệu rưỡi năm.",
+        "pt-BR": "A separação genética ocorreu há cerca de um milhão e meio de anos.",
+        "id": "Pemisahan genetik terjadi sekitar satu setengah juta tahun lalu.",
+        "fr": "La séparation génétique a eu lieu il y a environ un million et demi d’années.",
+        "ar": "حدث الانفصال الجيني قبل حوالي مليون ونصف سنة.",
+        "tr": "Genetik ayrışma yaklaşık bir buçuk milyon yıl önce gerçekleşti.",
+        "it": "La separazione genetica è avvenuta circa un milione e mezzo di anni fa.",
+        "pl": "Rozdzielenie genetyczne nastąpiło około półtora miliona lat temu."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Along the Amazon river bank"
       ],
       "answerIndex": 0,
-      "hintKo": "The habitat is the cloud forest of Bolivia."
+      "hintKo": "The habitat is the cloud forest of Bolivia.",
+      "hintI18n": {
+        "en": "The habitat is the cloud forest of Bolivia.",
+        "ko": "서식지는 볼리비아의 구름 숲입니다.",
+        "zh-Hans": "栖息地是玻利维亚的云雾林。",
+        "ja": "生息地はボリビアの雲霧林です。",
+        "es": "El hábitat es el bosque nuboso de Bolivia.",
+        "hi": "इसका निवास स्थान बोलीविया का बादल वन है।",
+        "de": "Der Lebensraum ist der Nebelwald Boliviens.",
+        "vi": "Môi trường sống là rừng mây ở Bolivia.",
+        "pt-BR": "O habitat é a floresta nublada da Bolívia.",
+        "id": "Habitatnya adalah hutan awan Bolivia.",
+        "fr": "L’habitat est la forêt de nuages de Bolivie.",
+        "ar": "الموطن هو غابة السحاب في بوليفيا.",
+        "tr": "Yaşam alanı Bolivya'nın bulut ormanıdır.",
+        "it": "L'habitat è la foresta nebulosa della Bolivia.",
+        "pl": "Siedliskiem jest las mgielny Boliwii."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Its cloud forest habitat faces deforestation, farming, fires, and mining"
       ],
       "answerIndex": 4,
-      "hintKo": "The threat comes from damage to the forest habitat, not hunting or food shortage."
+      "hintKo": "The threat comes from damage to the forest habitat, not hunting or food shortage.",
+      "hintI18n": {
+        "en": "The threat comes from damage to the forest habitat, not hunting or food shortage.",
+        "ko": "위협은 사냥이나 먹이 부족이 아니라 산림 서식지의 훼손에서 비롯됩니다.",
+        "zh-Hans": "威胁来自森林栖息地的破坏，而不是狩猎或食物短缺。",
+        "ja": "脅威は狩猟や食料不足ではなく、森林の生息地の破壊によるものです。",
+        "es": "La amenaza proviene del daño al hábitat forestal, no de la caza ni de la falta de alimento.",
+        "hi": "खतरा शिकार या भोजन की कमी से नहीं, बल्कि वन आवास के नुकसान से आता है।",
+        "de": "Die Bedrohung rührt von der Schädigung des Waldlebensraums her, nicht von Jagd oder Nahrungsmangel.",
+        "vi": "Mối đe dọa đến từ sự hủy hoại môi trường sống rừng, không phải săn bắt hay thiếu thức ăn.",
+        "pt-BR": "A ameaça vem do dano ao habitat florestal, não da caça ou da falta de alimento.",
+        "id": "Ancaman berasal dari kerusakan habitat hutan, bukan dari perburuan atau kekurangan makanan.",
+        "fr": "La menace vient de la dégradation de l’habitat forestier, non de la chasse ou du manque de nourriture.",
+        "ar": "يأتي التهديد من تدمير موطن الغابة، لا من الصيد أو نقص الطعام.",
+        "tr": "Tehdit, avlanma veya yiyecek kıtlığından değil, orman yaşam alanının zarar görmesinden kaynaklanıyor.",
+        "it": "La minaccia deriva dal danneggiamento dell'habitat forestale, non dalla caccia o dalla mancanza di cibo.",
+        "pl": "Zagrożenie wynika ze zniszczenia siedliska leśnego, a nie z polowań lub braku pożywienia."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By comparing photographs online"
       ],
       "answerIndex": 2,
-      "hintKo": "Genetic analysis of many cat samples proved it is a distinct species."
+      "hintKo": "Genetic analysis of many cat samples proved it is a distinct species.",
+      "hintI18n": {
+        "en": "Genetic analysis of many cat samples proved it is a distinct species.",
+        "ko": "많은 고양이 표본의 유전자 분석으로 그것이 별개의 종임이 입증되었습니다.",
+        "zh-Hans": "对许多猫样本的基因分析证明它是一个独立的物种。",
+        "ja": "多くの猫のサンプルの遺伝子分析により、それが別種であることが証明された。",
+        "es": "El análisis genético de muchas muestras de gatos demostró que es una especie distinta.",
+        "hi": "बिल्लियों के कई नमूनों के आनुवंशिक विश्लेषण ने साबित किया कि यह एक अलग प्रजाति है।",
+        "de": "Die genetische Analyse vieler Katzenproben bewies, dass es eine eigene Art ist.",
+        "vi": "Phân tích di truyền nhiều mẫu mèo đã chứng minh nó là một loài riêng biệt.",
+        "pt-BR": "A análise genética de muitas amostras de gatos provou que é uma espécie distinta.",
+        "id": "Analisis genetik dari banyak sampel kucing membuktikan bahwa itu adalah spesies yang berbeda.",
+        "fr": "L’analyse génétique de nombreux échantillons de chats a prouvé qu’il s’agit d’une espèce distincte.",
+        "ar": "أثبت التحليل الجيني للعديد من عينات القطط أنها نوع مميز.",
+        "tr": "Birçok kedi örneğinin genetik analizi, onun ayrı bir tür olduğunu kanıtladı.",
+        "it": "L'analisi genetica di molti campioni di gatti ha dimostrato che è una specie distinta.",
+        "pl": "Analiza genetyczna wielu próbek kotów dowiodła, że jest to odrębny gatunek."
+      }
     }
   ],
   "youtube_url": ""

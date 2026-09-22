@@ -17,7 +17,24 @@
         "British negotiators"
       ],
       "answerIndex": 0,
-      "hintKo": "The other options were not the mediators. Qatar and Pakistan served as intermediaries in the talks."
+      "hintKo": "The other options were not the mediators. Qatar and Pakistan served as intermediaries in the talks.",
+      "hintI18n": {
+        "en": "The other options were not the mediators. Qatar and Pakistan served as intermediaries in the talks.",
+        "ko": "다른 선택지는 중재자가 아니었습니다. 카타르와 파키스탄이 회담에서 중재자 역할을 했습니다.",
+        "zh-Hans": "其他选项不是调解方。卡塔尔和巴基斯坦在会谈中充当了中间人。",
+        "ja": "他の選択肢は仲介者ではありませんでした。カタールとパキスタンが協議で仲介役を務めました。",
+        "es": "Las otras opciones no eran los mediadores. Catar y Pakistán actuaron como intermediarios en las conversaciones.",
+        "hi": "अन्य विकल्प मध्यस्थ नहीं थे। कतर और पाकिस्तान ने वार्ता में मध्यस्थता की।",
+        "de": "Die anderen Optionen waren nicht die Vermittler. Katar und Pakistan fungierten als Vermittler bei den Gesprächen.",
+        "vi": "Các lựa chọn khác không phải là bên trung gian. Qatar và Pakistan đóng vai trò trung gian trong các cuộc đàm phán.",
+        "pt-BR": "As outras opções não eram os mediadores. Catar e Paquistão atuaram como intermediários nas conversas.",
+        "id": "Pilihan lain bukanlah mediator. Qatar dan Pakistan bertindak sebagai perantara dalam pembicaraan.",
+        "fr": "Les autres options n’étaient pas les médiateurs. Le Qatar et le Pakistan ont servi d’intermédiaires dans les pourparlers.",
+        "ar": "لم تكن الخيارات الأخرى هي الوسطاء. قطر وباكستان عملتا كوسطاء في المحادثات.",
+        "tr": "Diğer seçenekler arabulucu değildi. Katar ve Pakistan görüşmelerde aracılık yaptı.",
+        "it": "Le altre opzioni non erano i mediatori. Qatar e Pakistan hanno svolto il ruolo di intermediari nei colloqui.",
+        "pl": "Pozostałe opcje nie były mediatorami. Katar i Pakistan pełniły rolę pośredników w rozmowach."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "The English Channel"
       ],
       "answerIndex": 0,
-      "hintKo": "The other waterways are important but are not the focus of these U.S.-Iran discussions."
+      "hintKo": "The other waterways are important but are not the focus of these U.S.-Iran discussions.",
+      "hintI18n": {
+        "en": "The other waterways are important but are not the focus of these U.S.-Iran discussions.",
+        "ko": "다른 수로도 중요하지만 이번 미국-이란 논의의 초점은 아닙니다.",
+        "zh-Hans": "其他水道虽然重要，但不是这些美伊讨论的焦点。",
+        "ja": "他の水路も重要ですが、この米国とイランの協議の焦点ではありません。",
+        "es": "Las otras vías fluviales son importantes, pero no son el centro de estas conversaciones entre EE. UU. e Irán.",
+        "hi": "अन्य जलमार्ग महत्वपूर्ण हैं, लेकिन अमेरिका-ईरान की इन बातचीत का केंद्र नहीं हैं।",
+        "de": "Die anderen Wasserstraßen sind wichtig, stehen aber nicht im Mittelpunkt dieser Gespräche zwischen den USA und Iran.",
+        "vi": "Các tuyến đường thủy khác quan trọng nhưng không phải trọng tâm của các cuộc thảo luận Mỹ-Iran này.",
+        "pt-BR": "As outras vias navegáveis são importantes, mas não são o foco destas discussões entre EUA e Irã.",
+        "id": "Jalur air lain penting, tetapi bukan fokus pembicaraan AS-Iran ini.",
+        "fr": "Les autres voies navigables sont importantes, mais ne sont pas au centre de ces discussions entre les États-Unis et l’Iran.",
+        "ar": "الممرات المائية الأخرى مهمة، لكنها ليست محور هذه المحادثات بين الولايات المتحدة وإيران.",
+        "tr": "Diğer su yolları önemlidir, ancak bu ABD-İran görüşmelerinin odağı değildir.",
+        "it": "Le altre vie d’acqua sono importanti, ma non sono al centro di questi colloqui tra Stati Uniti e Iran.",
+        "pl": "Inne drogi wodne są ważne, ale nie są głównym tematem tych rozmów USA–Iran."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Saudi Arabia"
       ],
       "answerIndex": 0,
-      "hintKo": "While Pakistan also helped as a mediator, the meetings themselves were held in Qatar."
+      "hintKo": "While Pakistan also helped as a mediator, the meetings themselves were held in Qatar.",
+      "hintI18n": {
+        "en": "While Pakistan also helped as a mediator, the meetings themselves were held in Qatar.",
+        "ko": "파키스탄도 중재자로 도왔지만, 회의 자체는 카타르에서 열렸습니다.",
+        "zh-Hans": "虽然巴基斯坦也作为调解方提供了帮助，但会议本身是在卡塔尔举行的。",
+        "ja": "パキスタンも仲介役として協力しましたが、会合自体はカタールで開かれました。",
+        "es": "Aunque Pakistán también ayudó como mediador, las reuniones en sí se celebraron en Catar.",
+        "hi": "पाकिस्तान ने भी मध्यस्थ के रूप में मदद की, लेकिन बैठकें खुद कतर में हुईं।",
+        "de": "Pakistan half zwar ebenfalls als Vermittler, doch die Treffen selbst fanden in Katar statt.",
+        "vi": "Pakistan cũng hỗ trợ với vai trò trung gian, nhưng các cuộc họp lại diễn ra tại Qatar.",
+        "pt-BR": "Embora o Paquistão também tenha ajudado como mediador, as reuniões em si ocorreram no Catar.",
+        "id": "Meskipun Pakistan juga membantu sebagai mediator, pertemuan itu sendiri diadakan di Qatar.",
+        "fr": "Le Pakistan a aussi aidé comme médiateur, mais les réunions elles-mêmes ont eu lieu au Qatar.",
+        "ar": "رغم أن باكستان ساعدت أيضا كوسيط، فإن الاجتماعات نفسها عُقدت في قطر.",
+        "tr": "Pakistan da arabulucu olarak yardım etti, ancak görüşmelerin kendisi Katar’da yapıldı.",
+        "it": "Sebbene anche il Pakistan abbia contribuito come mediatore, gli incontri si sono tenuti in Qatar.",
+        "pl": "Chociaż Pakistan również pomagał jako mediator, same spotkania odbyły się w Katarze."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Next year"
       ],
       "answerIndex": 1,
-      "hintKo": "The talks are ongoing with plans to continue soon — not delayed by months or cancelled."
+      "hintKo": "The talks are ongoing with plans to continue soon — not delayed by months or cancelled.",
+      "hintI18n": {
+        "en": "The talks are ongoing with plans to continue soon — not delayed by months or cancelled.",
+        "ko": "회담은 진행 중이며 곧 계속할 계획입니다. 몇 달씩 연기되거나 취소된 것이 아닙니다.",
+        "zh-Hans": "会谈正在进行，并计划很快继续——没有被推迟数月，也没有被取消。",
+        "ja": "協議は進行中で、まもなく再開される予定です。数か月遅れたり中止されたりしたわけではありません。",
+        "es": "Las conversaciones están en curso y se planea continuarlas pronto; no se han retrasado meses ni cancelado.",
+        "hi": "बातचीत चल रही है और जल्द ही जारी रहने की योजना है — महीनों तक टली या रद्द नहीं हुई।",
+        "de": "Die Gespräche laufen und sollen bald fortgesetzt werden – sie wurden nicht um Monate verschoben oder abgesagt.",
+        "vi": "Các cuộc đàm phán đang diễn ra và dự kiến tiếp tục sớm — không bị hoãn hàng tháng hay hủy bỏ.",
+        "pt-BR": "As conversas estão em andamento e há planos de continuar em breve — não foram adiadas por meses nem canceladas.",
+        "id": "Pembicaraan masih berlangsung dan direncanakan berlanjut segera — tidak tertunda berbulan-bulan atau dibatalkan.",
+        "fr": "Les pourparlers sont en cours et devraient reprendre bientôt — ils n’ont pas été retardés de plusieurs mois ni annulés.",
+        "ar": "المحادثات مستمرة ومن المقرر أن تُستأنف قريبا — ولم تتأخر أشهرا ولم تُلغَ.",
+        "tr": "Görüşmeler sürüyor ve yakında devam etmesi planlanıyor — aylarca ertelenmedi veya iptal edilmedi.",
+        "it": "I colloqui sono in corso e si prevede di riprenderli presto — non sono stati rinviati di mesi né annullati.",
+        "pl": "Rozmowy trwają i mają być wkrótce kontynuowane — nie zostały opóźnione o miesiące ani odwołane."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because it was recently discovered"
       ],
       "answerIndex": 0,
-      "hintKo": "The strait's importance comes from energy shipping, not tourism, minerals, length, or recent discovery."
+      "hintKo": "The strait's importance comes from energy shipping, not tourism, minerals, length, or recent discovery.",
+      "hintI18n": {
+        "en": "The strait's importance comes from energy shipping, not tourism, minerals, length, or recent discovery.",
+        "ko": "이 해협의 중요성은 관광, 광물, 길이, 최근 발견이 아니라 에너지 수송에서 비롯됩니다.",
+        "zh-Hans": "该海峡的重要性来自能源运输，而不是旅游业、矿产、长度或近期发现。",
+        "ja": "この海峡の重要性は観光や鉱物、長さ、最近の発見ではなく、エネルギー輸送にあります。",
+        "es": "La importancia del estrecho proviene del transporte de energía, no del turismo, los minerales, su longitud o un descubrimiento reciente.",
+        "hi": "इस जलडमरूमध्य का महत्व ऊर्जा ढुलाई से है, पर्यटन, खनिज, लंबाई या हाल की खोज से नहीं।",
+        "de": "Die Bedeutung der Meerenge liegt im Energietransport, nicht im Tourismus, bei Mineralien, ihrer Länge oder einer neuen Entdeckung.",
+        "vi": "Tầm quan trọng của eo biển đến từ vận chuyển năng lượng, không phải du lịch, khoáng sản, chiều dài hay phát hiện gần đây.",
+        "pt-BR": "A importância do estreito vem do transporte de energia, não do turismo, minerais, comprimento ou descoberta recente.",
+        "id": "Pentingnya selat ini berasal dari pengiriman energi, bukan pariwisata, mineral, panjangnya, atau penemuan terbaru.",
+        "fr": "L’importance du détroit vient du transport d’énergie, non du tourisme, des minéraux, de sa longueur ou d’une découverte récente.",
+        "ar": "أهمية المضيق تأتي من نقل الطاقة، وليس من السياحة أو المعادن أو الطول أو اكتشاف حديث.",
+        "tr": "Boğazın önemi enerji taşımacılığından gelir; turizm, mineraller, uzunluk veya yeni bir keşiften değil.",
+        "it": "L’importanza dello stretto deriva dal trasporto di energia, non dal turismo, dai minerali, dalla lunghezza o da una recente scoperta.",
+        "pl": "Znaczenie cieśniny wynika z transportu energii, a nie z turystyki, minerałów, długości czy niedawnego odkrycia."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By selling the strait to another country"
       ],
       "answerIndex": 0,
-      "hintKo": "Iran has not closed the strait completely or built a bridge. Its leverage comes from controlling access and proposing fees."
+      "hintKo": "Iran has not closed the strait completely or built a bridge. Its leverage comes from controlling access and proposing fees.",
+      "hintI18n": {
+        "en": "Iran has not closed the strait completely or built a bridge. Its leverage comes from controlling access and proposing fees.",
+        "ko": "이란은 해협을 완전히 봉쇄하지도, 다리를 건설하지도 않았습니다. 이란의 협상력은 접근을 통제하고 통행료를 제안하는 데서 나옵니다.",
+        "zh-Hans": "伊朗并未完全关闭海峡，也没有建造桥梁。它的筹码来自控制通道并提出收费。",
+        "ja": "イランは海峡を完全に封鎖しておらず、橋も建設していません。その交渉力はアクセスを管理し、通行料を提案することから生まれます。",
+        "es": "Irán no ha cerrado el estrecho por completo ni ha construido un puente. Su ventaja viene de controlar el acceso y proponer tarifas.",
+        "hi": "ईरान ने जलडमरूमध्य को पूरी तरह बंद नहीं किया है और न ही पुल बनाया है। उसका दबाव पहुंच को नियंत्रित करने और शुल्क प्रस्तावित करने से आता है।",
+        "de": "Iran hat die Meerenge nicht vollständig geschlossen oder eine Brücke gebaut. Seine Verhandlungsmacht kommt daher, dass es den Zugang kontrolliert und Gebühren vorschlägt.",
+        "vi": "Iran chưa đóng hoàn toàn eo biển hay xây cầu. Đòn bẩy của nước này đến từ việc kiểm soát quyền tiếp cận và đề xuất phí.",
+        "pt-BR": "O Irã não fechou o estreito completamente nem construiu uma ponte. Sua vantagem vem de controlar o acesso e propor taxas.",
+        "id": "Iran belum menutup selat sepenuhnya atau membangun jembatan. Daya tawarnya datang dari mengendalikan akses dan mengusulkan biaya.",
+        "fr": "L'Iran n'a pas complètement fermé le détroit ni construit de pont. Son levier vient du contrôle de l'accès et de la proposition de frais.",
+        "ar": "لم تغلق إيران المضيق بالكامل ولم تبنِ جسرًا. تكمن قوتها التفاوضية في السيطرة على الوصول واقتراح رسوم.",
+        "tr": "İran boğazı tamamen kapatmadı veya bir köprü inşa etmedi. Pazarlık gücü, erişimi kontrol etmesinden ve ücret önermesinden geliyor.",
+        "it": "L'Iran non ha chiuso completamente lo stretto né costruito un ponte. La sua leva deriva dal controllare l'accesso e proporre tariffe.",
+        "pl": "Iran nie zamknął całkowicie cieśniny ani nie zbudował mostu. Jego atutem jest kontrolowanie dostępu i proponowanie opłat."
+      }
     }
   ],
   "youtube_url": ""

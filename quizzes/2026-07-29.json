@@ -17,7 +17,24 @@
         "MIT quantum lab"
       ],
       "answerIndex": 0,
-      "hintKo": "The story specifically credits LSU physicists, not these other institutions."
+      "hintKo": "The story specifically credits LSU physicists, not these other institutions.",
+      "hintI18n": {
+        "en": "The story specifically credits LSU physicists, not these other institutions.",
+        "ko": "이 기사는 다른 기관이 아니라 엘에스유 물리학자들의 공로로 돌립니다.",
+        "zh-Hans": "报道特别将功劳归于路易斯安那州立大学（LSU）的物理学家，而不是这些其他机构。",
+        "ja": "記事は他の機関ではなく、LSUの物理学者の功績としています。",
+        "es": "El artículo atribuye el mérito específicamente a los físicos de LSU, no a estas otras instituciones.",
+        "hi": "यह रिपोर्ट विशेष रूप से एलएसयू के भौतिकविदों को श्रेय देती है, इन अन्य संस्थानों को नहीं।",
+        "de": "Der Artikel schreibt den Erfolg ausdrücklich LSU-Physikern zu, nicht diesen anderen Institutionen.",
+        "vi": "Câu chuyện ghi công cụ thể cho các nhà vật lý LSU, không phải những tổ chức khác này.",
+        "pt-BR": "A matéria credita especificamente os físicos da LSU, não essas outras instituições.",
+        "id": "Artikel itu secara khusus memberikan kredit kepada fisikawan LSU, bukan institusi lain ini.",
+        "fr": "L’article attribue spécifiquement le mérite aux physiciens de LSU, pas à ces autres institutions.",
+        "ar": "ينسب الخبر الفضل تحديدًا إلى فيزيائيي جامعة ولاية لويزيانا (LSU)، وليس إلى هذه المؤسسات الأخرى.",
+        "tr": "Haber, bu diğer kurumlara değil, özellikle LSU fizikçilerine atfediyor.",
+        "it": "L'articolo attribuisce specificamente il merito ai fisici della LSU, non a queste altre istituzioni.",
+        "pl": "Artykuł przypisuje zasługi konkretnie fizykom z LSU, a nie tym innym instytucjom."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "It splits light into rainbow colors"
       ],
       "answerIndex": 2,
-      "hintKo": "The sorting is based on quantum statistics, not simple optical properties."
+      "hintKo": "The sorting is based on quantum statistics, not simple optical properties.",
+      "hintI18n": {
+        "en": "The sorting is based on quantum statistics, not simple optical properties.",
+        "ko": "분류는 단순한 광학적 성질이 아니라 양자 통계를 기반으로 합니다.",
+        "zh-Hans": "这种分选基于量子统计，而不是简单的光学特性。",
+        "ja": "分類は単純な光学特性ではなく、量子統計に基づいています。",
+        "es": "La clasificación se basa en estadísticas cuánticas, no en simples propiedades ópticas.",
+        "hi": "यह वर्गीकरण साधारण प्रकाशिक गुणों पर नहीं, बल्कि क्वांटम सांख्यिकी पर आधारित है।",
+        "de": "Die Sortierung basiert auf Quantenstatistik, nicht auf einfachen optischen Eigenschaften.",
+        "vi": "Việc phân loại dựa trên thống kê lượng tử, không phải các tính chất quang học đơn giản.",
+        "pt-BR": "A classificação é baseada em estatística quântica, não em simples propriedades ópticas.",
+        "id": "Penyortiran didasarkan pada statistik kuantum, bukan sifat optik sederhana.",
+        "fr": "Le tri est basé sur des statistiques quantiques, et non sur de simples propriétés optiques.",
+        "ar": "يعتمد الفرز على الإحصاء الكمومي، وليس على خصائص بصرية بسيطة.",
+        "tr": "Ayrıştırma, basit optik özelliklere değil kuantum istatistiklerine dayanır.",
+        "it": "L'ordinamento si basa sulla statistica quantistica, non su semplici proprietà ottiche.",
+        "pl": "Sortowanie opiera się na statystyce kwantowej, a nie na prostych właściwościach optycznych."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "July twenty-second"
       ],
       "answerIndex": 1,
-      "hintKo": "The story specifies July fifteenth as the publication date."
+      "hintKo": "The story specifies July fifteenth as the publication date.",
+      "hintI18n": {
+        "en": "The story specifies July fifteenth as the publication date.",
+        "ko": "이 기사는 7월 15일을 발표 날짜로 명시합니다.",
+        "zh-Hans": "报道明确指出发表日期是7月15日。",
+        "ja": "記事では、発表日が7月15日であると明記されています。",
+        "es": "El artículo especifica el 15 de julio como fecha de publicación.",
+        "hi": "रिपोर्ट में 15 जुलाई को प्रकाशन तिथि बताया गया है।",
+        "de": "Der Artikel gibt den 15. Juli als Veröffentlichungsdatum an.",
+        "vi": "Câu chuyện ghi rõ ngày 15 tháng 7 là ngày công bố.",
+        "pt-BR": "A matéria especifica 15 de julho como data de publicação.",
+        "id": "Artikel itu menyebutkan 15 Juli sebagai tanggal publikasi.",
+        "fr": "L’article précise le 15 juillet comme date de publication.",
+        "ar": "يحدد الخبر الخامس عشر من يوليو كتاريخ النشر.",
+        "tr": "Haber, yayın tarihi olarak 15 Temmuz'u belirtiyor.",
+        "it": "L'articolo specifica il 15 luglio come data di pubblicazione.",
+        "pl": "Artykuł podaje 15 lipca jako datę publikacji."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Through a series of mirrors"
       ],
       "answerIndex": 3,
-      "hintKo": "The light travels along the gold surface, not through other mediums."
+      "hintKo": "The light travels along the gold surface, not through other mediums.",
+      "hintI18n": {
+        "en": "The light travels along the gold surface, not through other mediums.",
+        "ko": "빛은 다른 매질을 통과하지 않고 금 표면을 따라 이동합니다.",
+        "zh-Hans": "光沿着金表面传播，而不是穿过其他介质。",
+        "ja": "光は他の媒質を通らず、金の表面に沿って進みます。",
+        "es": "La luz viaja a lo largo de la superficie de oro, no a través de otros medios.",
+        "hi": "प्रकाश अन्य माध्यमों से नहीं, बल्कि सोने की सतह के साथ यात्रा करता है।",
+        "de": "Das Licht bewegt sich entlang der Goldoberfläche, nicht durch andere Medien.",
+        "vi": "Ánh sáng di chuyển dọc theo bề mặt vàng, không xuyên qua các môi trường khác.",
+        "pt-BR": "A luz viaja ao longo da superfície de ouro, não através de outros meios.",
+        "id": "Cahaya bergerak di sepanjang permukaan emas, bukan melalui medium lain.",
+        "fr": "La lumière se déplace le long de la surface dorée, et non à travers d’autres milieux.",
+        "ar": "ينتقل الضوء على طول السطح الذهبي، وليس عبر وسائط أخرى.",
+        "tr": "Işık diğer ortamlardan değil, altın yüzey boyunca ilerler.",
+        "it": "La luce viaggia lungo la superficie d'oro, non attraverso altri mezzi.",
+        "pl": "Światło podróżuje wzdłuż złotej powierzchni, a nie przez inne ośrodki."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It increases the brightness of quantum light"
       ],
       "answerIndex": 0,
-      "hintKo": "The main benefit is removing the need for expensive and bulky cooling systems."
+      "hintKo": "The main benefit is removing the need for expensive and bulky cooling systems.",
+      "hintI18n": {
+        "en": "The main benefit is removing the need for expensive and bulky cooling systems.",
+        "ko": "주요 이점은 비싸고 부피가 큰 냉각 시스템이 필요 없어진다는 것입니다.",
+        "zh-Hans": "主要好处是无需昂贵且笨重的冷却系统。",
+        "ja": "主な利点は、高価でかさばる冷却システムが不要になることです。",
+        "es": "El principal beneficio es eliminar la necesidad de sistemas de enfriamiento caros y voluminosos.",
+        "hi": "मुख्य लाभ यह है कि महँगे और भारी कूलिंग सिस्टम की आवश्यकता नहीं रहती।",
+        "de": "Der Hauptvorteil ist, dass teure und sperrige Kühlsysteme nicht mehr nötig sind.",
+        "vi": "Lợi ích chính là loại bỏ nhu cầu về hệ thống làm mát đắt tiền và cồng kềnh.",
+        "pt-BR": "O principal benefício é eliminar a necessidade de sistemas de resfriamento caros e volumosos.",
+        "id": "Manfaat utamanya adalah menghilangkan kebutuhan akan sistem pendingin yang mahal dan besar.",
+        "fr": "Le principal avantage est de supprimer le besoin de systèmes de refroidissement coûteux et encombrants.",
+        "ar": "الفائدة الرئيسية هي إزالة الحاجة إلى أنظمة تبريد باهظة الثمن وضخمة.",
+        "tr": "Ana fayda, pahalı ve hantal soğutma sistemlerine olan ihtiyacı ortadan kaldırmasıdır.",
+        "it": "Il vantaggio principale è eliminare la necessità di sistemi di raffreddamento costosi e ingombranti.",
+        "pl": "Główną korzyścią jest wyeliminowanie potrzeby stosowania drogich i dużych systemów chłodzenia."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They fused two crystals together under high pressure"
       ],
       "answerIndex": 1,
-      "hintKo": "The construction method involved gold deposition followed by focused ion beam patterning."
+      "hintKo": "The construction method involved gold deposition followed by focused ion beam patterning.",
+      "hintI18n": {
+        "en": "The construction method involved gold deposition followed by focused ion beam patterning.",
+        "ko": "제작 방법은 금을 증착한 뒤 집속 이온 빔으로 패터닝하는 것이었습니다.",
+        "zh-Hans": "制造方法包括先沉积金，然后用聚焦离子束进行图案化。",
+        "ja": "作製方法は、金の蒸着の後に集束イオンビームでパターニングするものでした。",
+        "es": "El método de construcción consistió en depositar oro y luego patronear con un haz de iones focalizado.",
+        "hi": "निर्माण विधि में सोने का निक्षेपण और उसके बाद केंद्रित आयन बीम पैटर्निंग शामिल थी।",
+        "de": "Die Herstellungsmethode bestand aus Goldabscheidung und anschließender Strukturierung mit einem fokussierten Ionenstrahl.",
+        "vi": "Phương pháp chế tạo gồm lắng đọng vàng rồi sau đó tạo mẫu bằng chùm ion hội tụ.",
+        "pt-BR": "O método de construção envolveu deposição de ouro seguida de padronização por feixe de íons focalizado.",
+        "id": "Metode pembuatannya melibatkan deposisi emas lalu pola dengan berkas ion terfokus.",
+        "fr": "La méthode de fabrication consistait à déposer de l’or, puis à le structurer par faisceau d’ions focalisé.",
+        "ar": "تضمّنت طريقة البناء ترسيب الذهب ثم النقش بشعاع أيوني مركّز.",
+        "tr": "Üretim yöntemi, altın biriktirme ve ardından odaklanmış iyon demeti ile desenleme içeriyordu.",
+        "it": "Il metodo di costruzione prevedeva la deposizione dell’oro seguita dalla sagomatura con fascio ionico focalizzato.",
+        "pl": "Metoda wytwarzania obejmowała osadzanie złota, a następnie wzorowanie za pomocą skupionej wiązki jonów."
+      }
     }
   ],
   "youtube_url": ""

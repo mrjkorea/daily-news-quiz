@@ -17,7 +17,24 @@
         "The National Cancer Institute"
       ],
       "answerIndex": 1,
-      "hintKo": "The research was co-led by two professors — Piwnica-Worms and Rai — not a single researcher or other entity."
+      "hintKo": "The research was co-led by two professors — Piwnica-Worms and Rai — not a single researcher or other entity.",
+      "hintI18n": {
+        "en": "The research was co-led by two professors — Piwnica-Worms and Rai — not a single researcher or other entity.",
+        "ko": "이 연구는 두 교수 — Piwnica-Worms와 Rai — 가 공동으로 주도했으며, 단일 연구자나 다른 기관이 아닙니다.",
+        "zh-Hans": "这项研究由两位教授——Piwnica-Worms 和 Rai——共同领导，而不是某一位研究员或其他机构。",
+        "ja": "この研究は2人の教授、Piwnica-WormsとRaiが共同で主導したもので、単独の研究者や他の組織ではありません。",
+        "es": "La investigación fue codirigida por dos profesores —Piwnica-Worms y Rai—, no por un solo investigador ni otra entidad.",
+        "hi": "अनुसंधान का सह-नेतृत्व दो प्रोफेसरों — Piwnica-Worms और Rai — ने किया, किसी एक शोधकर्ता या किसी अन्य संस्था ने नहीं।",
+        "de": "Die Forschung wurde von zwei Professoren – Piwnica-Worms und Rai – gemeinsam geleitet, nicht von einem einzelnen Forscher oder einer anderen Einrichtung.",
+        "vi": "Nghiên cứu được đồng lãnh đạo bởi hai giáo sư — Piwnica-Worms và Rai — không phải một nhà nghiên cứu hay tổ chức nào khác.",
+        "pt-BR": "A pesquisa foi co-liderada por dois professores — Piwnica-Worms e Rai —, não por um único pesquisador ou outra entidade.",
+        "id": "Penelitian ini dipimpin bersama oleh dua profesor — Piwnica-Worms dan Rai — bukan oleh satu peneliti atau entitas lain.",
+        "fr": "La recherche a été codirigée par deux professeurs — Piwnica-Worms et Rai —, et non par un seul chercheur ou une autre entité.",
+        "ar": "قاد البحث أستاذان بشكل مشترك — Piwnica-Worms وRai — وليس باحثًا واحدًا أو جهة أخرى.",
+        "tr": "Araştırmaya iki profesör — Piwnica-Worms ve Rai — ortaklaşa liderlik etti; tek bir araştırmacı ya da başka bir kurum değil.",
+        "it": "La ricerca è stata co-diretta da due professori — Piwnica-Worms e Rai —, non da un singolo ricercatore o altra entità.",
+        "pl": "Badanie było współprowadzone przez dwóch profesorów — Piwnica-Worms i Rai — a nie przez jednego badacza lub inny podmiot."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Bifidobacterium longum"
       ],
       "answerIndex": 0,
-      "hintKo": "The specific bacterium identified in the study is Akkermansia muciniphila, not these other common gut bacteria."
+      "hintKo": "The specific bacterium identified in the study is Akkermansia muciniphila, not these other common gut bacteria.",
+      "hintI18n": {
+        "en": "The specific bacterium identified in the study is Akkermansia muciniphila, not these other common gut bacteria.",
+        "ko": "연구에서 확인된 특정 박테리아는 Akkermansia muciniphila이며, 다른 흔한 장내 박테리아가 아닙니다.",
+        "zh-Hans": "研究中确认的具体细菌是 Akkermansia muciniphila，而不是这些其他常见肠道细菌。",
+        "ja": "研究で特定された具体的な細菌はAkkermansia muciniphilaで、これらの他の一般的な腸内細菌ではありません。",
+        "es": "La bacteria específica identificada en el estudio es Akkermansia muciniphila, no estas otras bacterias intestinales comunes.",
+        "hi": "अध्ययन में पहचाना गया विशिष्ट जीवाणु Akkermansia muciniphila है, इन अन्य सामान्य आंत जीवाणुओं में से कोई नहीं।",
+        "de": "Das in der Studie identifizierte spezifische Bakterium ist Akkermansia muciniphila, nicht diese anderen häufigen Darmbakterien.",
+        "vi": "Loại vi khuẩn cụ thể được xác định trong nghiên cứu là Akkermansia muciniphila, không phải những vi khuẩn đường ruột phổ biến khác này.",
+        "pt-BR": "A bactéria específica identificada no estudo é Akkermansia muciniphila, não essas outras bactérias intestinais comuns.",
+        "id": "Bakteri spesifik yang diidentifikasi dalam penelitian ini adalah Akkermansia muciniphila, bukan bakteri usus umum lainnya ini.",
+        "fr": "La bactérie spécifique identifiée dans l’étude est Akkermansia muciniphila, et non ces autres bactéries intestinales courantes.",
+        "ar": "البكتيريا المحددة التي تم تحديدها في الدراسة هي Akkermansia muciniphila، وليست هذه البكتيريا المعوية الشائعة الأخرى.",
+        "tr": "Çalışmada tanımlanan spesifik bakteri Akkermansia muciniphila'dır; bu diğer yaygın bağırsak bakterileri değil.",
+        "it": "Il batterio specifico identificato nello studio è Akkermansia muciniphila, non questi altri comuni batteri intestinali.",
+        "pl": "Konkretną bakterią zidentyfikowaną w badaniu jest Akkermansia muciniphila, a nie te inne powszechne bakterie jelitowe."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "December twenty twenty-six"
       ],
       "answerIndex": 2,
-      "hintKo": "The article states the study was published in June twenty twenty-six."
+      "hintKo": "The article states the study was published in June twenty twenty-six.",
+      "hintI18n": {
+        "en": "The article states the study was published in June twenty twenty-six.",
+        "ko": "이 기사는 연구가 2026년 6월에 발표되었다고 밝힙니다.",
+        "zh-Hans": "文章指出，这项研究发表于2026年6月。",
+        "ja": "記事によると、この研究は2026年6月に発表されました。",
+        "es": "El artículo indica que el estudio se publicó en junio de 2026.",
+        "hi": "लेख बताता है कि अध्ययन जून 2026 में प्रकाशित हुआ था।",
+        "de": "Der Artikel gibt an, dass die Studie im Juni 2026 veröffentlicht wurde.",
+        "vi": "Bài báo cho biết nghiên cứu được công bố vào tháng 6 năm 2026.",
+        "pt-BR": "O artigo afirma que o estudo foi publicado em junho de 2026.",
+        "id": "Artikel tersebut menyatakan bahwa penelitian ini diterbitkan pada Juni 2026.",
+        "fr": "L’article indique que l’étude a été publiée en juin 2026.",
+        "ar": "تذكر المقالة أن الدراسة نُشرت في يونيو 2026.",
+        "tr": "Makale, çalışmanın Haziran 2026'da yayımlandığını belirtiyor.",
+        "it": "L’articolo afferma che lo studio è stato pubblicato a giugno 2026.",
+        "pl": "Artykuł podaje, że badanie opublikowano w czerwcu 2026 r."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Johns Hopkins University"
       ],
       "answerIndex": 3,
-      "hintKo": "The research took place at MD Anderson Cancer Center in Texas, not at these other institutions."
+      "hintKo": "The research took place at MD Anderson Cancer Center in Texas, not at these other institutions.",
+      "hintI18n": {
+        "en": "The research took place at MD Anderson Cancer Center in Texas, not at these other institutions.",
+        "ko": "이 연구는 텍사스의 MD Anderson Cancer Center에서 수행되었으며, 다른 기관이 아닙니다.",
+        "zh-Hans": "这项研究在得克萨斯州的MD Anderson癌症中心进行，而不是在这些其他机构。",
+        "ja": "この研究はテキサス州のMD Anderson Cancer Centerで行われ、これらの他の機関ではありません。",
+        "es": "La investigación se realizó en el MD Anderson Cancer Center en Texas, no en estas otras instituciones.",
+        "hi": "यह शोध टेक्सास के MD Anderson Cancer Center में हुआ, इन अन्य संस्थानों में नहीं।",
+        "de": "Die Forschung fand am MD Anderson Cancer Center in Texas statt, nicht an diesen anderen Einrichtungen.",
+        "vi": "Nghiên cứu được thực hiện tại MD Anderson Cancer Center ở Texas, không phải tại những cơ sở khác này.",
+        "pt-BR": "A pesquisa foi realizada no MD Anderson Cancer Center, no Texas, não nessas outras instituições.",
+        "id": "Penelitian ini dilakukan di MD Anderson Cancer Center di Texas, bukan di institusi-institusi lain ini.",
+        "fr": "La recherche a eu lieu au MD Anderson Cancer Center au Texas, et non dans ces autres établissements.",
+        "ar": "أُجري البحث في مركز MD Anderson Cancer Center في تكساس، وليس في هذه المؤسسات الأخرى.",
+        "tr": "Araştırma Texas'taki MD Anderson Cancer Center'da yapıldı; bu diğer kurumlarda değil.",
+        "it": "La ricerca si è svolta presso l’MD Anderson Cancer Center in Texas, non presso queste altre istituzioni.",
+        "pl": "Badanie przeprowadzono w MD Anderson Cancer Center w Teksasie, a nie w tych innych instytucjach."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Fasting only works for healthy people"
       ],
       "answerIndex": 0,
-      "hintKo": "The study acknowledges that fasting is not practical for many cancer patients due to their physical condition and medical needs."
+      "hintKo": "The study acknowledges that fasting is not practical for many cancer patients due to their physical condition and medical needs.",
+      "hintI18n": {
+        "en": "The study acknowledges that fasting is not practical for many cancer patients due to their physical condition and medical needs.",
+        "ko": "이 연구는 많은 암 환자에게는 신체 상태와 의료적 필요 때문에 단식이 실용적이지 않다고 인정합니다.",
+        "zh-Hans": "该研究承认，由于身体状况和医疗需求，禁食对许多癌症患者并不实际。",
+        "ja": "この研究は、体調や医療上の必要性により、多くのがん患者にとって絶食は現実的でないと認めています。",
+        "es": "El estudio reconoce que el ayuno no es práctico para muchos pacientes con cáncer debido a su condición física y necesidades médicas.",
+        "hi": "अध्ययन स्वीकार करता है कि शारीरिक स्थिति और चिकित्सा आवश्यकताओं के कारण कई कैंसर रोगियों के लिए उपवास व्यावहारिक नहीं है।",
+        "de": "Die Studie räumt ein, dass Fasten für viele Krebspatienten aufgrund ihres körperlichen Zustands und ihrer medizinischen Bedürfnisse nicht praktikabel ist.",
+        "vi": "Nghiên cứu thừa nhận rằng nhịn ăn không thực tế đối với nhiều bệnh nhân ung thư do tình trạng thể chất và nhu cầu y tế của họ.",
+        "pt-BR": "O estudo reconhece que o jejum não é prático para muitos pacientes com câncer devido à sua condição física e necessidades médicas.",
+        "id": "Studi ini mengakui bahwa puasa tidak praktis bagi banyak pasien kanker karena kondisi fisik dan kebutuhan medis mereka.",
+        "fr": "L’étude reconnaît que le jeûne n’est pas pratique pour de nombreux patients atteints de cancer en raison de leur état physique et de leurs besoins médicaux.",
+        "ar": "تقر الدراسة بأن الصيام غير عملي لكثير من مرضى السرطان بسبب حالتهم الجسدية واحتياجاتهم الطبية.",
+        "tr": "Çalışma, fiziksel durumları ve tıbbi ihtiyaçları nedeniyle birçok kanser hastası için orucun pratik olmadığını kabul ediyor.",
+        "it": "Lo studio riconosce che il digiuno non è pratico per molti pazienti oncologici a causa delle loro condizioni fisiche e necessità mediche.",
+        "pl": "Badanie przyznaje, że post nie jest praktyczny dla wielu pacjentów z rakiem ze względu na ich stan fizyczny i potrzeby medyczne."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "It increases blood flow to the stomach"
       ],
       "answerIndex": 2,
-      "hintKo": "The bacterium produces propionate, a metabolite that modifies histones — not by directly rebuilding tissue or blocking radiation."
+      "hintKo": "The bacterium produces propionate, a metabolite that modifies histones — not by directly rebuilding tissue or blocking radiation.",
+      "hintI18n": {
+        "en": "The bacterium produces propionate, a metabolite that modifies histones — not by directly rebuilding tissue or blocking radiation.",
+        "ko": "그 박테리아는 히스톤을 변화시키는 대사산물인 프로피온산을 생성합니다. 조직을 직접 재건하거나 방사선을 차단하는 것이 아닙니다.",
+        "zh-Hans": "这种细菌会产生丙酸，这是一种能修饰组蛋白的代谢物，而不是直接重建组织或阻挡辐射。",
+        "ja": "この細菌はヒストンを修飾する代謝物であるプロピオン酸を産生します。組織を直接再建したり放射線を遮断したりするわけではありません。",
+        "es": "La bacteria produce propionato, un metabolito que modifica las histonas, no reconstruye tejido ni bloquea la radiación directamente.",
+        "hi": "यह जीवाणु प्रोपियोनेट बनाता है, जो हिस्टोन को संशोधित करने वाला उपापचयी पदार्थ है—यह ऊतक को सीधे फिर से बनाता या विकिरण को रोकता नहीं है।",
+        "de": "Das Bakterium produziert Propionat, einen Metaboliten, der Histone verändert – nicht indem es Gewebe direkt wieder aufbaut oder Strahlung blockiert.",
+        "vi": "Vi khuẩn tạo ra propionate, một chất chuyển hóa làm biến đổi histone — không phải bằng cách trực tiếp tái tạo mô hay chặn bức xạ.",
+        "pt-BR": "A bactéria produz propionato, um metabólito que modifica histonas — não reconstruindo tecido diretamente nem bloqueando radiação.",
+        "id": "Bakteri menghasilkan propionat, metabolit yang memodifikasi histon—bukan dengan membangun kembali jaringan secara langsung atau memblokir radiasi.",
+        "fr": "La bactérie produit du propionate, un métabolite qui modifie les histones — non pas en reconstruisant directement les tissus ni en bloquant les rayonnements.",
+        "ar": "تنتج البكتيريا البروبيونات، وهو مستقلب يعدّل الهيستونات — وليس عن طريق إعادة بناء الأنسجة مباشرة أو حجب الإشعاع.",
+        "tr": "Bakteri, histonları değiştiren bir metabolit olan propiyonat üretir — dokuyu doğrudan yeniden inşa ederek veya radyasyonu engelleyerek değil.",
+        "it": "Il batterio produce propionato, un metabolita che modifica gli istoni — non ricostruendo direttamente i tessuti né bloccando le radiazioni.",
+        "pl": "Bakteria wytwarza propionian, metabolit modyfikujący histony — nie poprzez bezpośrednią odbudowę tkanek ani blokowanie promieniowania."
+      }
     }
   ],
   "youtube_url": ""

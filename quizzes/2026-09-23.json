@@ -17,7 +17,24 @@
         "A university research team"
       ],
       "answerIndex": 0,
-      "hintKo": "The story names OpenAI as the company behind the release."
+      "hintKo": "The story names OpenAI as the company behind the release.",
+      "hintI18n": {
+        "en": "The story names OpenAI as the company behind the release.",
+        "ko": "이 이야기는 출시를 주도한 회사로 OpenAI를 지목합니다.",
+        "zh-Hans": "报道指出，OpenAI 是此次发布背后的公司。",
+        "ja": "この記事は、リリースを手がけた企業としてOpenAIを挙げている。",
+        "es": "La historia señala a OpenAI como la empresa detrás del lanzamiento.",
+        "hi": "यह खबर रिलीज़ के पीछे की कंपनी के रूप में OpenAI का नाम लेती है।",
+        "de": "Die Geschichte nennt OpenAI als das Unternehmen hinter der Veröffentlichung.",
+        "vi": "Câu chuyện nêu tên OpenAI là công ty đứng sau bản phát hành.",
+        "pt-BR": "A história nomeia a OpenAI como a empresa por trás do lançamento.",
+        "id": "Kisah itu menyebut OpenAI sebagai perusahaan di balik peluncuran tersebut.",
+        "fr": "L’article cite OpenAI comme l’entreprise derrière la sortie.",
+        "ar": "تذكر القصة أن OpenAI هي الشركة التي تقف وراء الإصدار.",
+        "tr": "Haber, sürümün arkasındaki şirket olarak OpenAI'ı adlandırıyor.",
+        "it": "La storia indica OpenAI come l'azienda dietro il rilascio.",
+        "pl": "Artykuł wskazuje OpenAI jako firmę stojącą za wydaniem."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Vega"
       ],
       "answerIndex": 3,
-      "hintKo": "The second name announced for the model was Astra."
+      "hintKo": "The second name announced for the model was Astra.",
+      "hintI18n": {
+        "en": "The second name announced for the model was Astra.",
+        "ko": "그 모델에 대해 발표된 두 번째 이름은 Astra였습니다.",
+        "zh-Hans": "该模型公布的第二个名字是 Astra。",
+        "ja": "そのモデルに発表された2つ目の名前はAstraだった。",
+        "es": "El segundo nombre anunciado para el modelo fue Astra.",
+        "hi": "मॉडल के लिए घोषित दूसरा नाम Astra था।",
+        "de": "Der zweite für das Modell angekündigte Name war Astra.",
+        "vi": "Tên thứ hai được công bố cho mô hình là Astra.",
+        "pt-BR": "O segundo nome anunciado para o modelo foi Astra.",
+        "id": "Nama kedua yang diumumkan untuk model tersebut adalah Astra.",
+        "fr": "Le deuxième nom annoncé pour le modèle était Astra.",
+        "ar": "الاسم الثاني المعلن للنموذج كان Astra.",
+        "tr": "Model için açıklanan ikinci isim Astra'ydı.",
+        "it": "Il secondo nome annunciato per il modello era Astra.",
+        "pl": "Druga ogłoszona nazwa modelu to Astra."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "It has not begun"
       ],
       "answerIndex": 1,
-      "hintKo": "The rollout started on the third of September with limited access."
+      "hintKo": "The rollout started on the third of September with limited access.",
+      "hintI18n": {
+        "en": "The rollout started on the third of September with limited access.",
+        "ko": "출시는 9월 3일에 제한된 접근으로 시작되었습니다.",
+        "zh-Hans": "此次推广于 9 月 3 日开始，初期访问受限。",
+        "ja": "展開は9月3日に限定アクセスで始まった。",
+        "es": "El despliegue comenzó el 3 de septiembre con acceso limitado.",
+        "hi": "रोलआउट 3 सितंबर को सीमित पहुंच के साथ शुरू हुआ।",
+        "de": "Der Rollout begann am 3. September mit eingeschränktem Zugang.",
+        "vi": "Việc triển khai bắt đầu vào ngày 3 tháng 9 với quyền truy cập hạn chế.",
+        "pt-BR": "A implantação começou em 3 de setembro com acesso limitado.",
+        "id": "Peluncuran dimulai pada 3 September dengan akses terbatas.",
+        "fr": "Le déploiement a commencé le 3 septembre avec un accès limité.",
+        "ar": "بدأ الطرح في الثالث من سبتمبر بوصول محدود.",
+        "tr": "Kullanıma sunma 3 Eylül'de sınırlı erişimle başladı.",
+        "it": "Il rilascio è iniziato il 3 settembre con accesso limitato.",
+        "pl": "Wdrożenie rozpoczęło się 3 września z ograniczonym dostępem."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "At a shopping centre"
       ],
       "answerIndex": 2,
-      "hintKo": "The A P I is the doorway developers use to send requests and receive answers."
+      "hintKo": "The A P I is the doorway developers use to send requests and receive answers.",
+      "hintI18n": {
+        "en": "The A P I is the doorway developers use to send requests and receive answers.",
+        "ko": "API는 개발자가 요청을 보내고 답변을 받는 통로입니다.",
+        "zh-Hans": "API 是开发者用来发送请求并接收答案的入口。",
+        "ja": "APIは、開発者がリクエストを送り、回答を受け取るための入り口です。",
+        "es": "La API es la puerta que usan los desarrolladores para enviar solicitudes y recibir respuestas.",
+        "hi": "API वह द्वार है जिसका उपयोग डेवलपर्स अनुरोध भेजने और उत्तर पाने के लिए करते हैं।",
+        "de": "Die API ist die Tür, über die Entwickler Anfragen senden und Antworten erhalten.",
+        "vi": "API là cửa ngõ mà các nhà phát triển dùng để gửi yêu cầu và nhận câu trả lời.",
+        "pt-BR": "A API é a porta que os desenvolvedores usam para enviar solicitações e receber respostas.",
+        "id": "API adalah pintu yang digunakan pengembang untuk mengirim permintaan dan menerima jawaban.",
+        "fr": "L’API est la porte d’entrée que les développeurs utilisent pour envoyer des requêtes et recevoir des réponses.",
+        "ar": "واجهة API هي البوابة التي يستخدمها المطورون لإرسال الطلبات وتلقي الإجابات.",
+        "tr": "API, geliştiricilerin istek gönderip yanıt almak için kullandığı kapıdır.",
+        "it": "L'API è la porta che gli sviluppatori usano per inviare richieste e ricevere risposte.",
+        "pl": "API to brama, której programiści używają do wysyłania żądań i odbierania odpowiedzi."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Tests can be gamed and rarely measure usefulness in daily work"
       ],
       "answerIndex": 4,
-      "hintKo": "The concern is that benchmark tests can be gamed and do not capture daily usefulness."
+      "hintKo": "The concern is that benchmark tests can be gamed and do not capture daily usefulness.",
+      "hintI18n": {
+        "en": "The concern is that benchmark tests can be gamed and do not capture daily usefulness.",
+        "ko": "우려는 벤치마크 테스트가 조작될 수 있고 일상적인 유용성을 담지 못한다는 것입니다.",
+        "zh-Hans": "担忧在于基准测试可能被操纵，且无法反映日常实用性。",
+        "ja": "懸念は、ベンチマークテストは不正に操作でき、日常での有用性を捉えていないという点です。",
+        "es": "La preocupación es que las pruebas de referencia pueden manipularse y no captan la utilidad diaria.",
+        "hi": "चिंता यह है कि बेंचमार्क परीक्षणों में धोखाधड़ी की जा सकती है और वे रोज़मर्रा की उपयोगिता को नहीं दर्शाते।",
+        "de": "Die Sorge ist, dass Benchmark-Tests manipuliert werden können und den täglichen Nutzen nicht erfassen.",
+        "vi": "Mối lo là các bài kiểm tra chuẩn có thể bị thao túng và không phản ánh hữu ích hằng ngày.",
+        "pt-BR": "A preocupação é que testes de benchmark podem ser manipulados e não capturam a utilidade diária.",
+        "id": "Kekhawatirannya adalah tes benchmark dapat dimanipulasi dan tidak menangkap kegunaan sehari-hari.",
+        "fr": "La crainte est que les tests de référence puissent être manipulés et ne reflètent pas l’utilité quotidienne.",
+        "ar": "القلق هو أن اختبارات الأداء يمكن التلاعب بها ولا تعكس الفائدة اليومية.",
+        "tr": "Endişe, kıyaslama testlerinin manipüle edilebilmesi ve günlük faydayı yansıtmamasıdır.",
+        "it": "La preoccupazione è che i test di benchmark possano essere manipolati e non catturino l'utilità quotidiana.",
+        "pl": "Obawa polega na tym, że testy benchmarkowe można manipulować i nie oddają codziennej użyteczności."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By lottery among users"
       ],
       "answerIndex": 1,
-      "hintKo": "The company widened access gradually rather than all at once."
+      "hintKo": "The company widened access gradually rather than all at once.",
+      "hintI18n": {
+        "en": "The company widened access gradually rather than all at once.",
+        "ko": "그 회사는 접근을 한꺼번에 넓히지 않고 점진적으로 넓혔습니다.",
+        "zh-Hans": "该公司逐步扩大了访问权限，而不是一次性全部开放。",
+        "ja": "同社はアクセスを一気に広げず、徐々に広げました。",
+        "es": "La empresa amplió el acceso gradualmente, no de una vez.",
+        "hi": "कंपनी ने पहुंच एक साथ नहीं, बल्कि धीरे-धीरे बढ़ाई।",
+        "de": "Das Unternehmen erweiterte den Zugang schrittweise und nicht auf einmal.",
+        "vi": "Công ty đã mở rộng quyền truy cập dần dần chứ không phải cùng một lúc.",
+        "pt-BR": "A empresa ampliou o acesso gradualmente, e não de uma só vez.",
+        "id": "Perusahaan memperluas akses secara bertahap, bukan sekaligus.",
+        "fr": "L'entreprise a élargi l'accès progressivement, pas d'un seul coup.",
+        "ar": "وسّعت الشركة الوصول تدريجياً وليس دفعة واحدة.",
+        "tr": "Şirket erişimi bir anda değil, kademeli olarak genişletti.",
+        "it": "L'azienda ha ampliato l'accesso gradualmente, non tutto in una volta.",
+        "pl": "Firma stopniowo rozszerzała dostęp, a nie za jednym razem."
+      }
     }
   ],
   "youtube_url": ""

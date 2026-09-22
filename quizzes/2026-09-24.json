@@ -17,7 +17,24 @@
         "A sports federation"
       ],
       "answerIndex": 2,
-      "hintKo": "The work came from medical researchers, not from a company or broadcaster."
+      "hintKo": "The work came from medical researchers, not from a company or broadcaster.",
+      "hintI18n": {
+        "en": "The work came from medical researchers, not from a company or broadcaster.",
+        "ko": "이 연구는 회사나 방송사가 아니라 의료 연구자들이 수행했습니다.",
+        "zh-Hans": "这项工作来自医学研究人员，而不是公司或广播机构。",
+        "ja": "この研究は企業や放送局ではなく、医療研究者によるものでした。",
+        "es": "El trabajo provino de investigadores médicos, no de una empresa ni de una emisora.",
+        "hi": "यह काम किसी कंपनी या प्रसारक से नहीं, बल्कि चिकित्सा शोधकर्ताओं से आया।",
+        "de": "Die Arbeit stammte von medizinischen Forschern, nicht von einem Unternehmen oder Sender.",
+        "vi": "Công trình này đến từ các nhà nghiên cứu y tế, không phải từ một công ty hay đài truyền hình.",
+        "pt-BR": "O trabalho veio de pesquisadores médicos, não de uma empresa ou emissora.",
+        "id": "Karya ini berasal dari peneliti medis, bukan dari perusahaan atau penyiar.",
+        "fr": "Ce travail vient de chercheurs médicaux, pas d'une entreprise ni d'un diffuseur.",
+        "ar": "جاء العمل من باحثين طبيين، وليس من شركة أو جهة بث.",
+        "tr": "Bu çalışma bir şirketten veya yayıncıdan değil, tıbbi araştırmacılardan geldi.",
+        "it": "Il lavoro è venuto da ricercatori medici, non da un'azienda o un'emittente.",
+        "pl": "Praca pochodziła od badaczy medycznych, a nie od firmy czy nadawcy."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Only professional athletes can finish a marathon"
       ],
       "answerIndex": 3,
-      "hintKo": "The finding is that marathon running can be safe for people with type one diabetes."
+      "hintKo": "The finding is that marathon running can be safe for people with type one diabetes.",
+      "hintI18n": {
+        "en": "The finding is that marathon running can be safe for people with type one diabetes.",
+        "ko": "이번 발견은 제1형 당뇨병 환자에게 마라톤이 안전할 수 있다는 것입니다.",
+        "zh-Hans": "这一发现是，跑马拉松对1型糖尿病患者可能是安全的。",
+        "ja": "この発見は、1型糖尿病の人にとってマラソンが安全である可能性があるというものです。",
+        "es": "El hallazgo es que correr un maratón puede ser seguro para las personas con diabetes tipo uno.",
+        "hi": "निष्कर्ष यह है कि टाइप वन मधुमेह वाले लोगों के लिए मैराथन दौड़ना सुरक्षित हो सकता है।",
+        "de": "Die Erkenntnis ist, dass Marathonlaufen für Menschen mit Typ-1-Diabetes sicher sein kann.",
+        "vi": "Phát hiện là chạy marathon có thể an toàn cho người mắc tiểu đường loại một.",
+        "pt-BR": "A descoberta é que correr maratona pode ser seguro para pessoas com diabetes tipo um.",
+        "id": "Temuannya adalah berlari maraton bisa aman bagi orang dengan diabetes tipe satu.",
+        "fr": "La découverte est que courir un marathon peut être sûr pour les personnes atteintes de diabète de type un.",
+        "ar": "الاكتشاف هو أن الجري في الماراثون قد يكون آمناً للأشخاص المصابين بالسكري من النوع الأول.",
+        "tr": "Bulgu, maraton koşmanın tip bir diyabetli kişiler için güvenli olabileceğidir.",
+        "it": "La scoperta è che correre una maratona può essere sicuro per le persone con diabete di tipo uno.",
+        "pl": "Odkrycie jest takie, że bieganie maratonu może być bezpieczne dla osób z cukrzycą typu pierwszego."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In the middle of last century"
       ],
       "answerIndex": 1,
-      "hintKo": "The work was released just before the European diabetes conference."
+      "hintKo": "The work was released just before the European diabetes conference.",
+      "hintI18n": {
+        "en": "The work was released just before the European diabetes conference.",
+        "ko": "이 연구는 유럽 당뇨병 학회 직전에 발표되었습니다.",
+        "zh-Hans": "这项工作在欧洲糖尿病会议召开前刚刚发布。",
+        "ja": "この研究はヨーロッパ糖尿病会議の直前に発表されました。",
+        "es": "El trabajo se publicó justo antes de la conferencia europea sobre diabetes.",
+        "hi": "यह काम यूरोपीय मधुमेह सम्मेलन से ठीक पहले जारी किया गया था।",
+        "de": "Die Arbeit wurde kurz vor der europäischen Diabeteskonferenz veröffentlicht.",
+        "vi": "Công trình này được công bố ngay trước hội nghị tiểu đường châu Âu.",
+        "pt-BR": "O trabalho foi divulgado pouco antes da conferência europeia sobre diabetes.",
+        "id": "Karya ini dirilis tepat sebelum konferensi diabetes Eropa.",
+        "fr": "Les travaux ont été publiés juste avant la conférence européenne sur le diabète.",
+        "ar": "نُشر العمل قبل مؤتمر السكري الأوروبي مباشرة.",
+        "tr": "Çalışma, Avrupa diyabet konferansından hemen önce yayımlandı.",
+        "it": "Il lavoro è stato pubblicato appena prima della conferenza europea sul diabete.",
+        "pl": "Praca została opublikowana tuż przed europejską konferencją dotyczącą cukrzycy."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Inside a water bottle"
       ],
       "answerIndex": 0,
-      "hintKo": "The continuous glucose sensor is worn on the body."
+      "hintKo": "The continuous glucose sensor is worn on the body.",
+      "hintI18n": {
+        "en": "The continuous glucose sensor is worn on the body.",
+        "ko": "연속 혈당 센서는 몸에 착용합니다.",
+        "zh-Hans": "连续血糖传感器佩戴在身体上。",
+        "ja": "持続血糖センサーは体に装着します。",
+        "es": "El sensor continuo de glucosa se lleva puesto en el cuerpo.",
+        "hi": "निरंतर ग्लूकोज़ सेंसर शरीर पर पहना जाता है।",
+        "de": "Der kontinuierliche Glukosesensor wird am Körper getragen.",
+        "vi": "Cảm biến glucose liên tục được đeo trên cơ thể.",
+        "pt-BR": "O sensor contínuo de glicose é usado no corpo.",
+        "id": "Sensor glukosa kontinu dipakai di tubuh.",
+        "fr": "Le capteur de glucose en continu se porte sur le corps.",
+        "ar": "يُلبس مستشعر الغلوكوز المستمر على الجسم.",
+        "tr": "Sürekli glikoz sensörü vücuda takılır.",
+        "it": "Il sensore continuo del glucosio si indossa sul corpo.",
+        "pl": "Ciągły czujnik glukozy nosi się na ciele."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because the study was small and the runners had strong medical support"
       ],
       "answerIndex": 4,
-      "hintKo": "The authors caution that the study was small and heavily supported."
+      "hintKo": "The authors caution that the study was small and heavily supported.",
+      "hintI18n": {
+        "en": "The authors caution that the study was small and heavily supported.",
+        "ko": "저자들은 연구가 소규모였고 지원을 많이 받았다고 경고합니다.",
+        "zh-Hans": "作者提醒说，这项研究规模小，而且获得了大量支持。",
+        "ja": "著者らは、この研究が小規模で、手厚い支援を受けていたと注意を促しています。",
+        "es": "Los autores advierten que el estudio era pequeño y contó con un gran apoyo.",
+        "hi": "लेखक चेतावनी देते हैं कि अध्ययन छोटा था और उसे भारी समर्थन मिला था।",
+        "de": "Die Autoren warnen, dass die Studie klein war und stark unterstützt wurde.",
+        "vi": "Các tác giả lưu ý rằng nghiên cứu nhỏ và được hỗ trợ nhiều.",
+        "pt-BR": "Os autores alertam que o estudo era pequeno e teve grande apoio.",
+        "id": "Para penulis memperingatkan bahwa penelitian itu kecil dan mendapat dukungan besar.",
+        "fr": "Les auteurs avertissent que l'étude était petite et fortement soutenue.",
+        "ar": "يحذر المؤلفون من أن الدراسة كانت صغيرة وتلقت دعمًا كبيرًا.",
+        "tr": "Yazarlar, çalışmanın küçük olduğu ve yoğun destek aldığı konusunda uyarıyor.",
+        "it": "Gli autori avvertono che lo studio era piccolo e ha ricevuto un forte sostegno.",
+        "pl": "Autorzy ostrzegają, że badanie było małe i miało duże wsparcie."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "It counts the steps taken during the day"
       ],
       "answerIndex": 2,
-      "hintKo": "Monitoring gives live readings so a runner can respond before a problem develops."
+      "hintKo": "Monitoring gives live readings so a runner can respond before a problem develops.",
+      "hintI18n": {
+        "en": "Monitoring gives live readings so a runner can respond before a problem develops.",
+        "ko": "모니터링은 실시간 수치를 제공하므로 달리기는 문제가 생기기 전에 대응할 수 있습니다.",
+        "zh-Hans": "监测提供实时读数，让跑者能在问题出现之前作出应对。",
+        "ja": "モニタリングはリアルタイムの数値を提供するので、ランナーは問題が起きる前に対応できます。",
+        "es": "El monitoreo da lecturas en vivo, así que el corredor puede reaccionar antes de que surja un problema.",
+        "hi": "निगरानी से लाइव रीडिंग मिलती है, जिससे धावक समस्या बढ़ने से पहले कदम उठा सकता है।",
+        "de": "Die Überwachung liefert Live-Werte, sodass ein Läufer reagieren kann, bevor ein Problem entsteht.",
+        "vi": "Việc theo dõi cho chỉ số trực tiếp để người chạy có thể xử lý trước khi vấn đề xảy ra.",
+        "pt-BR": "O monitoramento fornece leituras ao vivo, então o corredor pode agir antes que um problema apareça.",
+        "id": "Pemantauan memberi angka langsung sehingga pelari bisa bertindak sebelum masalah muncul.",
+        "fr": "La surveillance donne des mesures en direct, donc le coureur peut réagir avant qu'un problème n'apparaisse.",
+        "ar": "تمنح المراقبة قراءات مباشرة، فيستطيع العدّاء التصرف قبل أن تتطور المشكلة.",
+        "tr": "Takip, canlı ölçümler sağlar; böylece koşucu sorun büyümeden önce harekete geçebilir.",
+        "it": "Il monitoraggio offre letture in tempo reale, così il corridore può intervenire prima che insorga un problema.",
+        "pl": "Monitorowanie daje odczyty na bieżąco, więc biegacz może zareagować, zanim pojawi się problem."
+      }
     }
   ],
   "youtube_url": ""

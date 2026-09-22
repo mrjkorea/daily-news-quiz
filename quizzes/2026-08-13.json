@@ -17,7 +17,24 @@
         "Sir Stelios"
       ],
       "answerIndex": 0,
-      "hintKo": "Auqib Nabi earned the historic Test call-up."
+      "hintKo": "Auqib Nabi earned the historic Test call-up.",
+      "hintI18n": {
+        "en": "Auqib Nabi earned the historic Test call-up.",
+        "ko": "아우키브 나비는 역사적인 테스트 대표팀 발탁을 받았습니다.",
+        "zh-Hans": "奥基布·纳比获得了历史性的测试赛征召。",
+        "ja": "アウキブ・ナビは歴史的なテスト招集を勝ち取りました。",
+        "es": "Auqib Nabi consiguió la histórica convocatoria para el Test.",
+        "hi": "औकिब नबी ने ऐतिहासिक टेस्ट कॉल-अप हासिल किया।",
+        "de": "Auqib Nabi erhielt die historische Berufung ins Test-Team.",
+        "vi": "Auqib Nabi đã nhận được suất triệu tập lịch sử vào đội tuyển Test.",
+        "pt-BR": "Auqib Nabi conquistou a histórica convocação para o Test.",
+        "id": "Auqib Nabi mendapat panggilan bersejarah ke tim Test.",
+        "fr": "Auqib Nabi a obtenu une convocation historique pour le Test.",
+        "ar": "حصل أوكيب نبي على استدعاء تاريخي لمنتخب الاختبار.",
+        "tr": "Auqib Nabi tarihi Test çağrısını aldı.",
+        "it": "Auqib Nabi ha ottenuto la storica convocazione per il Test.",
+        "pl": "Auqib Nabi otrzymał historyczne powołanie do drużyny Test."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "He moved to another country"
       ],
       "answerIndex": 1,
-      "hintKo": "He took forty-four wickets and led the competition in fast bowling."
+      "hintKo": "He took forty-four wickets and led the competition in fast bowling.",
+      "hintI18n": {
+        "en": "He took forty-four wickets and led the competition in fast bowling.",
+        "ko": "그는 44개의 위켓을 잡았고 패스트 볼링 부문에서 대회 1위를 차지했습니다.",
+        "zh-Hans": "他拿下了44个三柱门，并在快速投球方面领跑赛事。",
+        "ja": "彼は44ウィケットを奪い、速球部門で大会をリードしました。",
+        "es": "Tomó cuarenta y cuatro wickets y lideró la competición en lanzamiento rápido.",
+        "hi": "उन्होंने चौवालीस विकेट लिए और तेज़ गेंदबाज़ी में प्रतियोगिता में शीर्ष पर रहे।",
+        "de": "Er nahm vierundvierzig Wickets und führte den Wettbewerb im Fast Bowling an.",
+        "vi": "Anh ấy lấy bốn mươi bốn wicket và dẫn đầu giải đấu về bowling nhanh.",
+        "pt-BR": "Ele fez quarenta e quatro wickets e liderou a competição no bowling rápido.",
+        "id": "Ia mengambil empat puluh empat wicket dan memimpin kompetisi dalam bowling cepat.",
+        "fr": "Il a pris quarante-quatre guichets et a dominé la compétition en bowling rapide.",
+        "ar": "أخذ أربعة وأربعين ويكيت وتصدر المنافسة في البولينج السريع.",
+        "tr": "Kırk dört wicket aldı ve hızlı bowlingde turnuvaya liderlik etti.",
+        "it": "Ha preso quarantaquattro wicket e ha guidato la competizione nel fast bowling.",
+        "pl": "Zdobył czterdzieści cztery wickety i prowadził w konkursie w szybkim bowlingu."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In twenty ten"
       ],
       "answerIndex": 0,
-      "hintKo": "His Ranji Trophy debut came in twenty twenty."
+      "hintKo": "His Ranji Trophy debut came in twenty twenty.",
+      "hintI18n": {
+        "en": "His Ranji Trophy debut came in twenty twenty.",
+        "ko": "그의 란지 트로피 데뷔는 2020년에 있었습니다.",
+        "zh-Hans": "他的兰吉奖杯首秀是在2020年。",
+        "ja": "彼のランジ・トロフィーデビューは2020年でした。",
+        "es": "Su debut en el Trofeo Ranji llegó en 2020.",
+        "hi": "उनका रणजी ट्रॉफी डेब्यू 2020 में हुआ।",
+        "de": "Sein Ranji-Trophy-Debüt war 2020.",
+        "vi": "Trận ra mắt Ranji Trophy của anh ấy đến vào năm 2020.",
+        "pt-BR": "Sua estreia no Troféu Ranji aconteceu em 2020.",
+        "id": "Debut Ranji Trophy-nya terjadi pada tahun 2020.",
+        "fr": "Ses débuts dans le Ranji Trophy ont eu lieu en 2020.",
+        "ar": "كان ظهوره الأول في كأس رانجي في عام 2020.",
+        "tr": "Ranji Trophy'daki ilk maçı 2020'deydi.",
+        "it": "Il suo debutto nel Ranji Trophy è avvenuto nel 2020.",
+        "pl": "Jego debiut w Ranji Trophy miał miejsce w 2020 roku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "In London"
       ],
       "answerIndex": 0,
-      "hintKo": "He grew up in a village in Baramulla district."
+      "hintKo": "He grew up in a village in Baramulla district.",
+      "hintI18n": {
+        "en": "He grew up in a village in Baramulla district.",
+        "ko": "그는 바라물라 지구의 한 마을에서 자랐습니다.",
+        "zh-Hans": "他在巴拉穆拉县的一个村庄长大。",
+        "ja": "彼はバラムラ県の村で育ちました。",
+        "es": "Creció en un pueblo del distrito de Baramulla.",
+        "hi": "वह बारामुला जिले के एक गाँव में पले-बढ़े।",
+        "de": "Er wuchs in einem Dorf im Distrikt Baramulla auf.",
+        "vi": "Anh ấy lớn lên trong một ngôi làng ở huyện Baramulla.",
+        "pt-BR": "Ele cresceu em uma vila no distrito de Baramulla.",
+        "id": "Ia tumbuh besar di sebuah desa di distrik Baramulla.",
+        "fr": "Il a grandi dans un village du district de Baramulla.",
+        "ar": "نشأ في قرية في منطقة بارامولا.",
+        "tr": "Baramulla bölgesindeki bir köyde büyüdü.",
+        "it": "È cresciuto in un villaggio nel distretto di Baramulla.",
+        "pl": "Dorastał w wiosce w dystrykcie Baramulla."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because he was too short for the sport"
       ],
       "answerIndex": 0,
-      "hintKo": "His father wanted him to study and become a doctor."
+      "hintKo": "His father wanted him to study and become a doctor.",
+      "hintI18n": {
+        "en": "His father wanted him to study and become a doctor.",
+        "ko": "그의 아버지는 그가 공부해서 의사가 되기를 원했습니다.",
+        "zh-Hans": "他的父亲希望他学习并成为一名医生。",
+        "ja": "父親は彼に勉強して医者になることを望んでいました。",
+        "es": "Su padre quería que estudiara y se convirtiera en médico.",
+        "hi": "उनके पिता चाहते थे कि वह पढ़ाई करके डॉक्टर बने।",
+        "de": "Sein Vater wollte, dass er studiert und Arzt wird.",
+        "vi": "Cha anh ấy muốn anh ấy học tập và trở thành bác sĩ.",
+        "pt-BR": "Seu pai queria que ele estudasse e se tornasse médico.",
+        "id": "Ayahnya ingin ia belajar dan menjadi dokter.",
+        "fr": "Son père voulait qu'il étudie et devienne médecin.",
+        "ar": "أراد والده أن يدرس ويصبح طبيبًا.",
+        "tr": "Babası onun okuyup doktor olmasını istiyordu.",
+        "it": "Suo padre voleva che studiasse e diventasse medico.",
+        "pl": "Jego ojciec chciał, żeby uczył się i został lekarzem."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "He practised only in the winter"
       ],
       "answerIndex": 1,
-      "hintKo": "He travelled long distances to practise on proper pitches in Srinagar."
+      "hintKo": "He travelled long distances to practise on proper pitches in Srinagar.",
+      "hintI18n": {
+        "en": "He travelled long distances to practise on proper pitches in Srinagar.",
+        "ko": "그는 스리나가르의 제대로 된 경기장에서 연습하기 위해 먼 거리를 이동했습니다.",
+        "zh-Hans": "他长途跋涉到斯利那加的正规球场练习。",
+        "ja": "彼はスリナガルの本格的なピッチで練習するために長距離を移動しました。",
+        "es": "Viajaba largas distancias para practicar en campos adecuados en Srinagar.",
+        "hi": "वह श्रीनगर में उचित पिचों पर अभ्यास करने के लिए लंबी दूरी तय करता था।",
+        "de": "Er reiste weite Strecken, um auf richtigen Plätzen in Srinagar zu trainieren.",
+        "vi": "Anh ấy đã đi quãng đường dài để luyện tập trên sân đúng chuẩn ở Srinagar.",
+        "pt-BR": "Ele viajava longas distâncias para treinar em campos adequados em Srinagar.",
+        "id": "Dia bepergian jauh untuk berlatih di lapangan yang layak di Srinagar.",
+        "fr": "Il parcourait de longues distances pour s'entraîner sur de vrais terrains à Srinagar.",
+        "ar": "كان يسافر مسافات طويلة ليتدرب على ملاعب مناسبة في سريناغار.",
+        "tr": "Srinagar'da uygun sahalarda antrenman yapmak için uzun mesafeler kat etti.",
+        "it": "Viaggiava per lunghe distanze per allenarsi su campi adatti a Srinagar.",
+        "pl": "Podróżował na duże odległości, aby trenować na właściwych boiskach w Srinagarze."
+      }
     }
   ],
   "youtube_url": ""

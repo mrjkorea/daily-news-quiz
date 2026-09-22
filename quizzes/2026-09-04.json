@@ -17,7 +17,24 @@
         "A spirulina lab"
       ],
       "answerIndex": 1,
-      "hintKo": "The launcher is Samsung, not a painter or a runner."
+      "hintKo": "The launcher is Samsung, not a painter or a runner.",
+      "hintI18n": {
+        "en": "The launcher is Samsung, not a painter or a runner.",
+        "ko": "출시한 곳은 삼성이지, 화가나 달리기 선수가 아닙니다.",
+        "zh-Hans": "发布者是三星，不是画家或跑步者。",
+        "ja": "発売元はサムスンであり、画家や走者ではありません。",
+        "es": "El lanzador es Samsung, no un pintor ni un corredor.",
+        "hi": "लॉन्च करने वाला Samsung है, कोई चित्रकार या धावक नहीं।",
+        "de": "Der Hersteller ist Samsung, nicht ein Maler oder Läufer.",
+        "vi": "Nhà phát hành là Samsung, không phải họa sĩ hay vận động viên chạy.",
+        "pt-BR": "O lançador é a Samsung, não um pintor ou corredor.",
+        "id": "Peluncurnya adalah Samsung, bukan pelukis atau pelari.",
+        "fr": "Le lanceur est Samsung, pas un peintre ni un coureur.",
+        "ar": "الجهة المُطلِقة هي سامسونج، وليس رسامًا أو عدّاءً.",
+        "tr": "Başlatan Samsung'dır, bir ressam ya da koşucu değil.",
+        "it": "Il lanciatore è Samsung, non un pittore o un corridore.",
+        "pl": "Producentem jest Samsung, a nie malarz czy biegacz."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Call Assist, Writing Assist, Interpreter, Photo Assist, and Audio Eraser"
       ],
       "answerIndex": 4,
-      "hintKo": "The tools are phone AI features, not sports or museum gear."
+      "hintKo": "The tools are phone AI features, not sports or museum gear.",
+      "hintI18n": {
+        "en": "The tools are phone AI features, not sports or museum gear.",
+        "ko": "이 도구들은 휴대폰 AI 기능이지, 스포츠나 박물관 장비가 아닙니다.",
+        "zh-Hans": "这些工具是手机 AI 功能，不是运动或博物馆装备。",
+        "ja": "これらのツールはスマホのAI機能であり、スポーツや博物館の道具ではありません。",
+        "es": "Las herramientas son funciones de IA del teléfono, no equipo deportivo o de museo.",
+        "hi": "ये टूल्स फ़ोन की AI सुविधाएँ हैं, खेल या संग्रहालय का सामान नहीं।",
+        "de": "Die Tools sind KI-Funktionen des Telefons, keine Sport- oder Museumsausrüstung.",
+        "vi": "Các công cụ này là tính năng AI của điện thoại, không phải đồ thể thao hay bảo tàng.",
+        "pt-BR": "As ferramentas são recursos de IA do telefone, não equipamentos de esporte ou museu.",
+        "id": "Alat ini adalah fitur AI ponsel, bukan perlengkapan olahraga atau museum.",
+        "fr": "Les outils sont des fonctions d'IA du téléphone, pas du matériel de sport ou de musée.",
+        "ar": "هذه الأدوات هي ميزات ذكاء اصطناعي في الهاتف، وليست معدات رياضية أو متحفية.",
+        "tr": "Bu araçlar telefonun yapay zekâ özellikleridir; spor veya müze gereci değildir.",
+        "it": "Gli strumenti sono funzioni AI del telefono, non attrezzatura sportiva o da museo.",
+        "pl": "Te narzędzia to funkcje AI telefonu, a nie sprzęt sportowy czy muzealny."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "In nineteen sixty-two"
       ],
       "answerIndex": 0,
-      "hintKo": "The launch date is September fourth, not a feast day."
+      "hintKo": "The launch date is September fourth, not a feast day.",
+      "hintI18n": {
+        "en": "The launch date is September fourth, not a feast day.",
+        "ko": "출시일은 9월 4일이며, 축일이 아닙니다.",
+        "zh-Hans": "发布日期是9月4日，不是节日。",
+        "ja": "発売日は9月4日で、祝祭日ではありません。",
+        "es": "La fecha de lanzamiento es el cuatro de septiembre, no un día festivo.",
+        "hi": "लॉन्च की तारीख 4 सितंबर है, कोई त्योहार नहीं।",
+        "de": "Das Startdatum ist der vierte September, kein Feiertag.",
+        "vi": "Ngày ra mắt là ngày 4 tháng 9, không phải ngày lễ.",
+        "pt-BR": "A data de lançamento é 4 de setembro, não um dia de festa.",
+        "id": "Tanggal peluncurannya adalah 4 September, bukan hari raya.",
+        "fr": "La date de lancement est le quatre septembre, pas un jour de fête.",
+        "ar": "تاريخ الإطلاق هو الرابع من سبتمبر، وليس عيدًا.",
+        "tr": "Çıkış tarihi 4 Eylül, bir bayram günü değil.",
+        "it": "La data di lancio è il 4 settembre, non un giorno di festa.",
+        "pl": "Data premiery to czwarty września, a nie dzień świąteczny."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "On a running track"
       ],
       "answerIndex": 2,
-      "hintKo": "Now Brief is a phone lock-screen feature."
+      "hintKo": "Now Brief is a phone lock-screen feature.",
+      "hintI18n": {
+        "en": "Now Brief is a phone lock-screen feature.",
+        "ko": "나우 브리프는 휴대폰 잠금 화면 기능입니다.",
+        "zh-Hans": "Now Brief 是手机锁屏功能。",
+        "ja": "Now Briefはスマホのロック画面機能です。",
+        "es": "Now Brief es una función de la pantalla de bloqueo del teléfono.",
+        "hi": "Now Brief फ़ोन की लॉक-स्क्रीन सुविधा है।",
+        "de": "Now Brief ist eine Funktion des Sperrbildschirms.",
+        "vi": "Now Brief là tính năng màn hình khóa của điện thoại.",
+        "pt-BR": "O Now Brief é um recurso da tela de bloqueio do telefone.",
+        "id": "Now Brief adalah fitur layar kunci ponsel.",
+        "fr": "Now Brief est une fonction de l'écran de verrouillage du téléphone.",
+        "ar": "Now Brief هي ميزة في شاشة قفل الهاتف.",
+        "tr": "Now Brief, telefonun kilit ekranı özelliğidir.",
+        "it": "Now Brief è una funzione della schermata di blocco del telefono.",
+        "pl": "Now Brief to funkcja ekranu blokady telefonu."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The phone has no camera"
       ],
       "answerIndex": 0,
-      "hintKo": "Reviewers focused on software, not a missing camera."
+      "hintKo": "Reviewers focused on software, not a missing camera.",
+      "hintI18n": {
+        "en": "Reviewers focused on software, not a missing camera.",
+        "ko": "리뷰어들은 빠진 카메라가 아니라 소프트웨어에 집중했습니다.",
+        "zh-Hans": "评测者关注的是软件，而不是缺失的摄像头。",
+        "ja": "レビュアーは欠けているカメラではなく、ソフトウェアに注目しました。",
+        "es": "Los reseñadores se centraron en el software, no en una cámara ausente.",
+        "hi": "समीक्षकों ने गायब कैमरे पर नहीं, सॉफ़्टवेयर पर ध्यान दिया।",
+        "de": "Die Tester konzentrierten sich auf die Software, nicht auf eine fehlende Kamera.",
+        "vi": "Các nhà đánh giá tập trung vào phần mềm, không phải camera bị thiếu.",
+        "pt-BR": "Os avaliadores focaram no software, não em uma câmera ausente.",
+        "id": "Peninjau berfokus pada perangkat lunak, bukan kamera yang hilang.",
+        "fr": "Les testeurs se sont concentrés sur le logiciel, pas sur une caméra manquante.",
+        "ar": "ركّز المراجعون على البرمجيات، وليس على كاميرا مفقودة.",
+        "tr": "İncelemeciler eksik bir kameraya değil, yazılıma odaklandı.",
+        "it": "I recensori si sono concentrati sul software, non su una fotocamera mancante.",
+        "pl": "Recenzenci skupili się na oprogramowaniu, a nie na brakującym aparacie."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Two point four micrograms"
       ],
       "answerIndex": 0,
-      "hintKo": "The starting price is about seven hundred dollars, not a race prize."
+      "hintKo": "The starting price is about seven hundred dollars, not a race prize.",
+      "hintI18n": {
+        "en": "The starting price is about seven hundred dollars, not a race prize.",
+        "ko": "시작 가격은 약 700달러이며, 경주 상금이 아닙니다.",
+        "zh-Hans": "起售价约为七百美元，不是比赛奖品。",
+        "ja": "開始価格は約700ドルで、レースの賞品ではありません。",
+        "es": "El precio inicial es de unos setecientos dólares, no un premio de carrera.",
+        "hi": "शुरुआती कीमत लगभग सात सौ डॉलर है, कोई दौड़ का इनाम नहीं।",
+        "de": "Der Startpreis liegt bei etwa siebenhundert Dollar, nicht bei einem Rennpreis.",
+        "vi": "Giá khởi điểm khoảng bảy trăm đô la, không phải giải thưởng cuộc đua.",
+        "pt-BR": "O preço inicial é de cerca de setecentos dólares, não um prêmio de corrida.",
+        "id": "Harga awalnya sekitar tujuh ratus dolar, bukan hadiah balapan.",
+        "fr": "Le prix de départ est d'environ sept cents dollars, pas un prix de course.",
+        "ar": "سعر البداية حوالي سبعمائة دولار، وليس جائزة سباق.",
+        "tr": "Başlangıç fiyatı yaklaşık yedi yüz dolar, bir yarış ödülü değil.",
+        "it": "Il prezzo iniziale è di circa settecento dollari, non un premio di gara.",
+        "pl": "Cena początkowa wynosi około siedmiuset dolarów, a nie nagroda wyścigu."
+      }
     }
   ],
   "youtube_url": ""

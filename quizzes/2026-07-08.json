@@ -17,7 +17,24 @@
         "A firefighter in Germany"
       ],
       "answerIndex": 1,
-      "hintKo": "The other choices are mentioned as context or are not connected to that warning."
+      "hintKo": "The other choices are mentioned as context or are not connected to that warning.",
+      "hintI18n": {
+        "en": "The other choices are mentioned as context or are not connected to that warning.",
+        "ko": "다른 선택지들은 배경으로 언급되었거나 그 경고와 관련이 없습니다.",
+        "zh-Hans": "其他选项只是作为背景提及，或者与那个警告无关。",
+        "ja": "他の選択肢は文脈として挙げられているだけで、その警告とは関係ありません。",
+        "es": "Las otras opciones se mencionan como contexto o no están relacionadas con esa advertencia.",
+        "hi": "अन्य विकल्प संदर्भ के रूप में बताए गए हैं या उस चेतावनी से जुड़े नहीं हैं।",
+        "de": "Die anderen Optionen werden als Kontext erwähnt oder stehen nicht mit dieser Warnung in Verbindung.",
+        "vi": "Các lựa chọn khác được nhắc đến như bối cảnh hoặc không liên quan đến lời cảnh báo đó.",
+        "pt-BR": "As outras opções são mencionadas como contexto ou não estão ligadas a esse aviso.",
+        "id": "Pilihan lain disebutkan sebagai konteks atau tidak terkait dengan peringatan itu.",
+        "fr": "Les autres choix sont mentionnés comme contexte ou ne sont pas liés à cet avertissement.",
+        "ar": "الخيارات الأخرى مذكورة كسياق أو ليست مرتبطة بذلك التحذير.",
+        "tr": "Diğer seçenekler bağlam olarak anılmıştır veya o uyarıyla bağlantılı değildir.",
+        "it": "Le altre opzioni sono menzionate come contesto o non sono collegate a quell’avvertimento.",
+        "pl": "Pozostałe opcje są wspomniane jako kontekst lub nie są powiązane z tym ostrzeżeniem."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Volcanic eruptions"
       ],
       "answerIndex": 2,
-      "hintKo": "The other disasters were not the natural disaster described in German forests."
+      "hintKo": "The other disasters were not the natural disaster described in German forests.",
+      "hintI18n": {
+        "en": "The other disasters were not the natural disaster described in German forests.",
+        "ko": "다른 재난들은 독일 숲에서 설명된 자연재해가 아니었습니다.",
+        "zh-Hans": "其他灾害并不是德国森林中所描述的那场自然灾害。",
+        "ja": "他の災害は、ドイツの森林で述べられた自然災害ではありませんでした。",
+        "es": "Los otros desastres no eran el desastre natural descrito en los bosques alemanes.",
+        "hi": "अन्य आपदाएँ जर्मन जंगलों में बताई गई प्राकृतिक आपदा नहीं थीं।",
+        "de": "Die anderen Katastrophen waren nicht die in deutschen Wäldern beschriebene Naturkatastrophe.",
+        "vi": "Các thảm họa khác không phải là thảm họa tự nhiên được mô tả trong các khu rừng ở Đức.",
+        "pt-BR": "Os outros desastres não eram o desastre natural descrito nas florestas alemãs.",
+        "id": "Bencana lain bukanlah bencana alam yang dijelaskan di hutan-hutan Jerman.",
+        "fr": "Les autres catastrophes n’étaient pas la catastrophe naturelle décrite dans les forêts allemandes.",
+        "ar": "الكوارث الأخرى لم تكن الكارثة الطبيعية الموصوفة في الغابات الألمانية.",
+        "tr": "Diğer afetler, Alman ormanlarında anlatılan doğal afet değildi.",
+        "it": "Gli altri disastri non erano il disastro naturale descritto nelle foreste tedesche.",
+        "pl": "Pozostałe katastrofy nie były katastrofą naturalną opisaną w niemieckich lasach."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Brazil"
       ],
       "answerIndex": 3,
-      "hintKo": "The other places appear in the lesson, but Sweden is the place connected to this detail."
+      "hintKo": "The other places appear in the lesson, but Sweden is the place connected to this detail.",
+      "hintI18n": {
+        "en": "The other places appear in the lesson, but Sweden is the place connected to this detail.",
+        "ko": "다른 장소들도 수업에 나오지만, 이 세부 내용과 연결된 곳은 스웨덴입니다.",
+        "zh-Hans": "其他地点也出现在课程中，但这个细节相关的地点是瑞典。",
+        "ja": "他の場所もレッスンに出てきますが、この詳細に関係する場所はスウェーデンです。",
+        "es": "Los otros lugares aparecen en la lección, pero el lugar relacionado con este detalle es Suecia.",
+        "hi": "अन्य स्थान पाठ में आते हैं, लेकिन इस विवरण से जुड़ा स्थान स्वीडन है।",
+        "de": "Die anderen Orte kommen in der Lektion vor, aber Schweden ist der Ort, der mit diesem Detail zusammenhängt.",
+        "vi": "Những địa điểm khác có xuất hiện trong bài học, nhưng Thụy Điển là nơi gắn với chi tiết này.",
+        "pt-BR": "Os outros lugares aparecem na lição, mas a Suécia é o lugar ligado a esse detalhe.",
+        "id": "Tempat-tempat lain muncul dalam pelajaran, tetapi Swedia adalah tempat yang terkait dengan detail ini.",
+        "fr": "Les autres lieux apparaissent dans la leçon, mais la Suède est le lieu lié à ce détail.",
+        "ar": "الأماكن الأخرى تظهر في الدرس، لكن السويد هي المكان المرتبط بهذه التفصيل.",
+        "tr": "Diğer yerler derste geçiyor, ancak bu ayrıntıyla bağlantılı yer İsveç’tir.",
+        "it": "Gli altri luoghi compaiono nella lezione, ma la Svezia è il luogo collegato a questo dettaglio.",
+        "pl": "Inne miejsca pojawiają się w lekcji, ale Szwecja jest miejscem związanym z tym szczegółem."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "During a normal weather week"
       ],
       "answerIndex": 0,
-      "hintKo": "The other answers do not match the timing given in the lesson."
+      "hintKo": "The other answers do not match the timing given in the lesson.",
+      "hintI18n": {
+        "en": "The other answers do not match the timing given in the lesson.",
+        "ko": "다른 답들은 수업에서 제시된 시기와 맞지 않습니다.",
+        "zh-Hans": "其他答案与课程中给出的时间不符。",
+        "ja": "他の答えは、レッスンで示された時期と一致しません。",
+        "es": "Las otras respuestas no coinciden con el momento indicado en la lección.",
+        "hi": "अन्य उत्तर पाठ में दिए गए समय से मेल नहीं खाते।",
+        "de": "Die anderen Antworten passen nicht zu dem in der Lektion angegebenen Zeitpunkt.",
+        "vi": "Các câu trả lời khác không khớp với thời điểm được đưa ra trong bài học.",
+        "pt-BR": "As outras respostas não correspondem ao momento indicado na lição.",
+        "id": "Jawaban lain tidak sesuai dengan waktu yang diberikan dalam pelajaran.",
+        "fr": "Les autres réponses ne correspondent pas au moment indiqué dans la leçon.",
+        "ar": "الإجابات الأخرى لا تتطابق مع التوقيت المذكور في الدرس.",
+        "tr": "Diğer yanıtlar derste verilen zamanlamaya uymuyor.",
+        "it": "Le altre risposte non corrispondono al momento indicato nella lezione.",
+        "pl": "Pozostałe odpowiedzi nie zgadzają się z czasem podanym w lekcji."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because these temperatures are now much more likely than twenty years ago"
       ],
       "answerIndex": 4,
-      "hintKo": "The other choices are details from the story, but they do not explain the climate-change connection."
+      "hintKo": "The other choices are details from the story, but they do not explain the climate-change connection.",
+      "hintI18n": {
+        "en": "The other choices are details from the story, but they do not explain the climate-change connection.",
+        "ko": "다른 선택지들은 이야기 속 세부 내용이지만, 기후 변화와의 연관성을 설명하지는 않습니다.",
+        "zh-Hans": "其他选项是故事中的细节，但它们没有解释与气候变化的联系。",
+        "ja": "他の選択肢は物語の詳細ですが、気候変動との関連を説明していません。",
+        "es": "Las otras opciones son detalles de la historia, pero no explican la conexión con el cambio climático.",
+        "hi": "अन्य विकल्प कहानी के विवरण हैं, लेकिन वे जलवायु परिवर्तन से जुड़ाव की व्याख्या नहीं करते।",
+        "de": "Die anderen Optionen sind Details aus der Geschichte, erklären aber nicht den Zusammenhang mit dem Klimawandel.",
+        "vi": "Các lựa chọn khác là chi tiết trong câu chuyện, nhưng chúng không giải thích mối liên hệ với biến đổi khí hậu.",
+        "pt-BR": "As outras opções são detalhes da história, mas não explicam a ligação com as mudanças climáticas.",
+        "id": "Pilihan lain adalah detail dari cerita, tetapi tidak menjelaskan kaitannya dengan perubahan iklim.",
+        "fr": "Les autres choix sont des détails de l’histoire, mais ils n’expliquent pas le lien avec le changement climatique.",
+        "ar": "الخيارات الأخرى هي تفاصيل من القصة، لكنها لا تشرح الصلة بتغير المناخ.",
+        "tr": "Diğer seçenekler hikâyedeki ayrıntılardır, ancak iklim değişikliğiyle bağlantıyı açıklamazlar.",
+        "it": "Le altre scelte sono dettagli della storia, ma non spiegano il legame con il cambiamento climatico.",
+        "pl": "Pozostałe opcje to szczegóły z historii, ale nie wyjaśniają związku ze zmianą klimatu."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "Fifty"
       ],
       "answerIndex": 1,
-      "hintKo": "The other numbers do not match the figure given in the lesson."
+      "hintKo": "The other numbers do not match the figure given in the lesson.",
+      "hintI18n": {
+        "en": "The other numbers do not match the figure given in the lesson.",
+        "ko": "다른 숫자들은 수업에서 제시된 값과 맞지 않습니다.",
+        "zh-Hans": "其他数字与课程中给出的数字不符。",
+        "ja": "他の数字はレッスンで示された数値と一致しません。",
+        "es": "Los otros números no coinciden con la cifra que aparece en la lección.",
+        "hi": "अन्य संख्याएँ पाठ में दी गई संख्या से मेल नहीं खातीं।",
+        "de": "Die anderen Zahlen stimmen nicht mit der im Unterricht angegebenen Zahl überein.",
+        "vi": "Các con số khác không khớp với con số được đưa ra trong bài học.",
+        "pt-BR": "Os outros números não correspondem ao valor apresentado na lição.",
+        "id": "Angka-angka lain tidak cocok dengan angka yang diberikan dalam pelajaran.",
+        "fr": "Les autres nombres ne correspondent pas au chiffre donné dans la leçon.",
+        "ar": "الأرقام الأخرى لا تطابق الرقم الوارد في الدرس.",
+        "tr": "Diğer sayılar derste verilen rakamla eşleşmiyor.",
+        "it": "Gli altri numeri non corrispondono alla cifra indicata nella lezione.",
+        "pl": "Pozostałe liczby nie zgadzają się z liczbą podaną w lekcji."
+      }
     }
   ],
   "youtube_url": ""

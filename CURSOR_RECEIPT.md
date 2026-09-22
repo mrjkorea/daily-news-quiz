@@ -52,3 +52,51 @@ cd /Users/andreclouthier/.hermes/projects/mrj-daily-news-quiz
 rg -n '[\x{ac00}-\x{d7a3}]' quiz.html index.html js css quizzes/*.json
 # (no output — exit 1 = zero matches)
 ```
+
+---
+
+## 15-language quiz chrome (2026-09-22)
+
+| Field | Value |
+|-------|--------|
+| **Command** | Review 15-language quiz chrome (Jay 22 Sep 2026): Word Master locales, chrome i18n, hintI18n explanations, shared localStorage — do not modify `quizzes/*.json` |
+| **Model** | composer-2.5 |
+
+### Files updated
+
+- `js/i18n.js` — sync `#lang-select` `aria-label` on locale change; `html[lang]` / RTL for Arabic unchanged
+- `js/quiz.js` — locale change refreshes loading/error titles, date kicker + id before JSON load, and re-paints graded hints via `paintResults()`
+- `js/catalog.js` — localized catalog `document.title` when language changes
+
+### Node i18n key test
+
+```bash
+cd /Users/andreclouthier/.hermes/projects/mrj-daily-news-quiz
+node -e "$(cat <<'SCRIPT'
+const fs = require("fs");
+const vm = require("vm");
+const sandbox = {};
+vm.runInNewContext(
+  fs.readFileSync("js/i18n.js", "utf8").replace(
+    /}\)\(typeof window !== \"undefined\" \? window : this\);$/,
+    "})(sandbox);"
+  ),
+  sandbox
+);
+const I = sandbox.NewsQuizI18n;
+const keys = [
+  "language","all_quizzes","quiz_host","kicker","loading","sub","lock_in","try_again",
+  "hint_foot","question_n","missing_date","not_found","sub_loaded","perfect","nice_try",
+  "attempt","news_quiz","tap_a_day","why"
+];
+let bad = [];
+for (const code of I.CODES) {
+  I.setLocale(code);
+  for (const k of keys) if (I.t(k) === k) bad.push(code + ":" + k);
+}
+if (bad.length) { console.error("FAIL", bad); process.exit(1); }
+console.log("I18N_KEYS_OK", I.CODES.length, "locales", keys.length, "keys each");
+SCRIPT
+)"
+# I18N_KEYS_OK 15 locales 19 keys each
+```

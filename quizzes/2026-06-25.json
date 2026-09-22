@@ -17,7 +17,24 @@
         "Only cancer doctors at one hospital"
       ],
       "answerIndex": 1,
-      "hintKo": "The other choices describe groups that were not the study population."
+      "hintKo": "The other choices describe groups that were not the study population.",
+      "hintI18n": {
+        "en": "The other choices describe groups that were not the study population.",
+        "ko": "다른 선택지는 연구 대상 집단이 아닌 집단을 설명해요.",
+        "zh-Hans": "其他选项描述的是不属于研究人群的群体。",
+        "ja": "他の選択肢は、研究対象集団ではなかったグループを説明しています。",
+        "es": "Las otras opciones describen grupos que no eran la población del estudio.",
+        "hi": "अन्य विकल्प ऐसे समूहों का वर्णन करते हैं जो अध्ययन की जनसंख्या नहीं थे।",
+        "de": "Die anderen Antwortmöglichkeiten beschreiben Gruppen, die nicht die Studienpopulation waren.",
+        "vi": "Các lựa chọn khác mô tả những nhóm không phải là dân số nghiên cứu.",
+        "pt-BR": "As outras opções descrevem grupos que não eram a população do estudo.",
+        "id": "Pilihan lain menggambarkan kelompok yang bukan populasi penelitian.",
+        "fr": "Les autres choix décrivent des groupes qui ne constituaient pas la population de l'étude.",
+        "ar": "الخيارات الأخرى تصف مجموعات لم تكن مجتمع الدراسة.",
+        "tr": "Diğer seçenekler, çalışma popülasyonu olmayan grupları tanımlar.",
+        "it": "Le altre opzioni descrivono gruppi che non erano la popolazione dello studio.",
+        "pl": "Pozostałe opcje opisują grupy, które nie były populacją badaną."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "A lower risk of allergies"
       ],
       "answerIndex": 2,
-      "hintKo": "The study was about breast cancer risk, not colds, bones, glasses, or allergies."
+      "hintKo": "The study was about breast cancer risk, not colds, bones, glasses, or allergies.",
+      "hintI18n": {
+        "en": "The study was about breast cancer risk, not colds, bones, glasses, or allergies.",
+        "ko": "그 연구는 유방암 위험에 관한 것이었고, 감기, 뼈, 안경, 알레르기에 관한 것이 아니었습니다.",
+        "zh-Hans": "这项研究是关于乳腺癌风险的，而不是感冒、骨骼、眼镜或过敏。",
+        "ja": "その研究は乳がんのリスクについてのもので、風邪、骨、眼鏡、アレルギーについてではありませんでした。",
+        "es": "El estudio trataba sobre el riesgo de cáncer de mama, no sobre resfriados, huesos, gafas ni alergias.",
+        "hi": "अध्ययन स्तन कैंसर के जोखिम के बारे में था, न कि सर्दी, हड्डियों, चश्मे या एलर्जी के बारे में।",
+        "de": "Die Studie befasste sich mit dem Brustkrebsrisiko, nicht mit Erkältungen, Knochen, Brillen oder Allergien.",
+        "vi": "Nghiên cứu nói về nguy cơ ung thư vú, không phải về cảm lạnh, xương, kính mắt hay dị ứng.",
+        "pt-BR": "O estudo era sobre o risco de câncer de mama, não sobre resfriados, ossos, óculos ou alergias.",
+        "id": "Penelitian ini tentang risiko kanker payudara, bukan tentang pilek, tulang, kacamata, atau alergi.",
+        "fr": "L’étude portait sur le risque de cancer du sein, pas sur les rhumes, les os, les lunettes ou les allergies.",
+        "ar": "كانت الدراسة عن خطر سرطان الثدي، وليس عن الزكام أو العظام أو النظارات أو الحساسية.",
+        "tr": "Çalışma meme kanseri riskiyle ilgiliydi; soğuk algınlığı, kemikler, gözlükler veya alerjilerle ilgili değildi.",
+        "it": "Lo studio riguardava il rischio di cancro al seno, non raffreddori, ossa, occhiali o allergie.",
+        "pl": "Badanie dotyczyło ryzyka raka piersi, a nie przeziębień, kości, okularów czy alergii."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "From social media comments"
       ],
       "answerIndex": 0,
-      "hintKo": "The researchers did not use school scores, weather data, recipes, or social media comments."
+      "hintKo": "The researchers did not use school scores, weather data, recipes, or social media comments.",
+      "hintI18n": {
+        "en": "The researchers did not use school scores, weather data, recipes, or social media comments.",
+        "ko": "연구자들은 학교 성적, 날씨 데이터, 요리법, 소셜 미디어 댓글을 사용하지 않았습니다.",
+        "zh-Hans": "研究人员没有使用学校成绩、天气数据、食谱或社交媒体评论。",
+        "ja": "研究者たちは学校の成績、天気データ、レシピ、SNSのコメントを使いませんでした。",
+        "es": "Los investigadores no usaron calificaciones escolares, datos meteorológicos, recetas ni comentarios de redes sociales.",
+        "hi": "शोधकर्ताओं ने स्कूल के अंक, मौसम डेटा, व्यंजन विधियाँ या सोशल मीडिया टिप्पणियाँ इस्तेमाल नहीं कीं।",
+        "de": "Die Forscher verwendeten keine Schulnoten, Wetterdaten, Rezepte oder Social-Media-Kommentare.",
+        "vi": "Các nhà nghiên cứu không dùng điểm học đường, dữ liệu thời tiết, công thức nấu ăn hay bình luận mạng xã hội.",
+        "pt-BR": "Os pesquisadores não usaram notas escolares, dados meteorológicos, receitas ou comentários em redes sociais.",
+        "id": "Para peneliti tidak menggunakan nilai sekolah, data cuaca, resep, atau komentar media sosial.",
+        "fr": "Les chercheurs n’ont pas utilisé de notes scolaires, de données météo, de recettes ni de commentaires sur les réseaux sociaux.",
+        "ar": "لم يستخدم الباحثون درجات المدارس أو بيانات الطقس أو الوصفات أو تعليقات وسائل التواصل الاجتماعي.",
+        "tr": "Araştırmacılar okul notlarını, hava durumu verilerini, tarifleri veya sosyal medya yorumlarını kullanmadı.",
+        "it": "I ricercatori non hanno usato voti scolastici, dati meteo, ricette o commenti sui social media.",
+        "pl": "Naukowcy nie użyli ocen szkolnych, danych pogodowych, przepisów ani komentarzy w mediach społecznościowych."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Because scientists already finished all clinical trials"
       ],
       "answerIndex": 3,
-      "hintKo": "The study was large and real, but clinical trials are still needed to prove the effect."
+      "hintKo": "The study was large and real, but clinical trials are still needed to prove the effect.",
+      "hintI18n": {
+        "en": "The study was large and real, but clinical trials are still needed to prove the effect.",
+        "ko": "그 연구는 규모가 컸고 실제로 수행되었지만, 효과를 입증하려면 여전히 임상시험이 필요합니다.",
+        "zh-Hans": "这项研究规模大且真实，但仍需要临床试验来证明效果。",
+        "ja": "その研究は大規模で実際のものでしたが、効果を証明するにはまだ臨床試験が必要です。",
+        "es": "El estudio fue grande y real, pero aún se necesitan ensayos clínicos para demostrar el efecto.",
+        "hi": "अध्ययन बड़ा और वास्तविक था, लेकिन प्रभाव साबित करने के लिए अभी भी क्लिनिकल परीक्षण चाहिए।",
+        "de": "Die Studie war groß und real, aber klinische Studien sind noch nötig, um den Effekt zu beweisen.",
+        "vi": "Nghiên cứu có quy mô lớn và thực tế, nhưng vẫn cần thử nghiệm lâm sàng để chứng minh hiệu quả.",
+        "pt-BR": "O estudo foi grande e real, mas ainda são necessários ensaios clínicos para provar o efeito.",
+        "id": "Penelitian ini besar dan nyata, tetapi uji klinis masih diperlukan untuk membuktikan efeknya.",
+        "fr": "L’étude était vaste et réelle, mais des essais cliniques sont encore nécessaires pour prouver l’effet.",
+        "ar": "كانت الدراسة كبيرة وحقيقية، لكن ما زالت التجارب السريرية مطلوبة لإثبات التأثير.",
+        "tr": "Çalışma büyük ve gerçekti, ancak etkiyi kanıtlamak için hâlâ klinik denemeler gerekiyor.",
+        "it": "Lo studio era ampio e reale, ma servono ancora sperimentazioni cliniche per dimostrare l’effetto.",
+        "pl": "Badanie było duże i rzeczywiste, ale nadal potrzebne są badania kliniczne, aby udowodnić efekt."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "By planning clinical trials"
       ],
       "answerIndex": 4,
-      "hintKo": "Movie reviews, guesses, weather reports, or stopping research would not test a medical hypothesis."
+      "hintKo": "Movie reviews, guesses, weather reports, or stopping research would not test a medical hypothesis.",
+      "hintI18n": {
+        "en": "Movie reviews, guesses, weather reports, or stopping research would not test a medical hypothesis.",
+        "ko": "영화 리뷰, 추측, 일기예보, 연구 중단으로는 의학적 가설을 검증할 수 없습니다.",
+        "zh-Hans": "电影评论、猜测、天气预报或停止研究都无法检验医学假说。",
+        "ja": "映画レビュー、推測、天気予報、研究をやめることでは医学的仮説を検証できません。",
+        "es": "Reseñas de películas, conjeturas, informes del tiempo o detener la investigación no probarían una hipótesis médica.",
+        "hi": "फ़िल्म समीक्षाएँ, अनुमान, मौसम रिपोर्ट या शोध बंद करना किसी चिकित्सकीय परिकल्पना की जाँच नहीं कर सकते।",
+        "de": "Filmkritiken, Vermutungen, Wetterberichte oder das Beenden der Forschung würden eine medizinische Hypothese nicht testen.",
+        "vi": "Đánh giá phim, phỏng đoán, bản tin thời tiết hay dừng nghiên cứu sẽ không kiểm nghiệm được giả thuyết y học.",
+        "pt-BR": "Críticas de filmes, palpites, previsões do tempo ou parar a pesquisa não testariam uma hipótese médica.",
+        "id": "Ulasan film, tebakan, laporan cuaca, atau menghentikan penelitian tidak akan menguji hipotesis medis.",
+        "fr": "Des critiques de films, des suppositions, des bulletins météo ou l’arrêt de la recherche ne permettraient pas de tester une hypothèse médicale.",
+        "ar": "مراجعات الأفلام أو التخمينات أو تقارير الطقس أو إيقاف البحث لن تختبر فرضية طبية.",
+        "tr": "Film eleştirileri, tahminler, hava durumu raporları veya araştırmayı durdurmak tıbbi bir hipotezi test etmez.",
+        "it": "Recensioni di film, supposizioni, previsioni del tempo o interrompere la ricerca non testerebbero un’ipotesi medica.",
+        "pl": "Recenzje filmów, domysły, prognozy pogody albo przerwanie badań nie sprawdziłyby hipotezy medycznej."
+      }
     }
   ],
   "youtube_url": ""

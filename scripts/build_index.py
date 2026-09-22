@@ -94,12 +94,18 @@ def main() -> None:
 <body>
 <header class="hero">
   <p class="mark">MRJ</p>
-  <h1>News Quiz</h1>
-  <p class="hint">Tap a day</p>
+  <h1 data-i18n="news_quiz">News Quiz</h1>
+  <p class="hint" data-i18n="tap_a_day">Tap a day</p>
+  <label class="lang-wrap">
+    <span class="sr" data-i18n="language">Language</span>
+    <select id="lang-select" aria-label="Language"></select>
+  </label>
 </header>
 <nav class="days">
 {chr(10).join(parts)}
 </nav>
+<script src="js/i18n.js"></script>
+<script src="js/catalog.js"></script>
 </body>
 </html>
 """

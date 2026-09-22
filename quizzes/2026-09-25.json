@@ -17,7 +17,24 @@
         "The Boston Red Sox"
       ],
       "answerIndex": 0,
-      "hintKo": "The Dodgers won the division, defeating the Reds."
+      "hintKo": "The Dodgers won the division, defeating the Reds.",
+      "hintI18n": {
+        "en": "The Dodgers won the division, defeating the Reds.",
+        "ko": "다저스가 레즈를 꺾고 지구 우승을 차지했습니다.",
+        "zh-Hans": "道奇队击败红人队，赢得了分区冠军。",
+        "ja": "ドジャースはレッズを破り、地区優勝を果たしました。",
+        "es": "Los Dodgers ganaron la división al vencer a los Reds.",
+        "hi": "डॉजर्स ने रेड्स को हराकर डिवीज़न जीता।",
+        "de": "Die Dodgers gewannen die Division und besiegten die Reds.",
+        "vi": "Dodgers đã thắng hạng đấu bằng cách đánh bại Reds.",
+        "pt-BR": "Os Dodgers venceram a divisão ao derrotar os Reds.",
+        "id": "Dodgers memenangkan divisi dengan mengalahkan Reds.",
+        "fr": "Les Dodgers ont remporté la division en battant les Reds.",
+        "ar": "فاز دودجرز بلقب القسم بعد التغلب على ريدز.",
+        "tr": "Dodgers, Reds'i yenerek bölümü kazandı.",
+        "it": "I Dodgers hanno vinto la divisione battendo i Reds.",
+        "pl": "Dodgers wygrali dywizję, pokonując Reds."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "The end of the season"
       ],
       "answerIndex": 2,
-      "hintKo": "The win gave the Dodgers a thirteenth division title in fourteen seasons."
+      "hintKo": "The win gave the Dodgers a thirteenth division title in fourteen seasons.",
+      "hintI18n": {
+        "en": "The win gave the Dodgers a thirteenth division title in fourteen seasons.",
+        "ko": "이 승리로 다저스는 14시즌 동안 13번째 지구 우승을 차지했습니다.",
+        "zh-Hans": "这场胜利让道奇队在14个赛季中第13次夺得分区冠军。",
+        "ja": "この勝利でドジャースは14シーズンで13度目の地区優勝を果たしました。",
+        "es": "La victoria le dio a los Dodgers su decimotercer título divisional en catorce temporadas.",
+        "hi": "इस जीत से डॉजर्स को चौदह सीज़न में तेरहवीं डिवीज़न खिताब मिली।",
+        "de": "Der Sieg brachte den Dodgers den dreizehnten Divisionstitel in vierzehn Saisons.",
+        "vi": "Chiến thắng này mang về cho Dodgers chức vô địch hạng đấu thứ mười ba trong mười bốn mùa.",
+        "pt-BR": "A vitória deu aos Dodgers o décimo terceiro título de divisão em catorze temporadas.",
+        "id": "Kemenangan itu memberi Dodgers gelar divisi ke-13 dalam 14 musim.",
+        "fr": "Cette victoire a offert aux Dodgers leur treizième titre de division en quatorze saisons.",
+        "ar": "منح الفوز دودجرز لقب القسم الثالث عشر في أربعة عشر موسمًا.",
+        "tr": "Bu galibiyet, Dodgers'a on dört sezonda on üçüncü bölüm şampiyonluğunu kazandırdı.",
+        "it": "La vittoria ha dato ai Dodgers il tredicesimo titolo di divisione in quattordici stagioni.",
+        "pl": "Zwycięstwo dało Dodgers trzynasty tytuł dywizji w czternastu sezonach."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "He did not pitch at all"
       ],
       "answerIndex": 1,
-      "hintKo": "He was called up and pitched on the same day."
+      "hintKo": "He was called up and pitched on the same day.",
+      "hintI18n": {
+        "en": "He was called up and pitched on the same day.",
+        "ko": "그는 콜업되어 같은 날 등판했습니다.",
+        "zh-Hans": "他被上调，并在同一天登板投球。",
+        "ja": "彼は昇格し、同じ日に登板しました。",
+        "es": "Fue llamado al equipo y lanzó ese mismo día.",
+        "hi": "उसे टीम में बुलाया गया और उसी दिन गेंदबाज़ी की।",
+        "de": "Er wurde hochgerufen und pitchte noch am selben Tag.",
+        "vi": "Anh ấy được gọi lên đội và ném bóng ngay trong cùng ngày.",
+        "pt-BR": "Ele foi chamado para o time e lançou no mesmo dia.",
+        "id": "Ia dipanggil ke tim dan langsung melempar pada hari yang sama.",
+        "fr": "Il a été rappelé et a lancé le jour même.",
+        "ar": "تم استدعاؤه إلى الفريق ورماها في اليوم نفسه.",
+        "tr": "Kadroya çağrıldı ve aynı gün oyun attı.",
+        "it": "È stato convocato e ha lanciato lo stesso giorno.",
+        "pl": "Został powołany do składu i rzucił tego samego dnia."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "To a vote by fans"
       ],
       "answerIndex": 3,
-      "hintKo": "Division winners advance into the playoffs."
+      "hintKo": "Division winners advance into the playoffs.",
+      "hintI18n": {
+        "en": "Division winners advance into the playoffs.",
+        "ko": "지구 우승팀은 플레이오프에 진출합니다.",
+        "zh-Hans": "分区冠军晋级季后赛。",
+        "ja": "地区優勝チームはプレーオフに進みます。",
+        "es": "Los ganadores de división avanzan a los playoffs.",
+        "hi": "डिवीज़न विजेता प्लेऑफ़ में आगे बढ़ते हैं।",
+        "de": "Die Divisionssieger ziehen in die Playoffs ein.",
+        "vi": "Đội thắng hạng đấu tiến vào vòng playoffs.",
+        "pt-BR": "Os vencedores de divisão avançam para os playoffs.",
+        "id": "Juara divisi melaju ke babak playoff.",
+        "fr": "Les vainqueurs de division accèdent aux séries éliminatoires.",
+        "ar": "يتأهل الفائزون بألقاب الأقسام إلى التصفيات.",
+        "tr": "Bölüm şampiyonları playofflara yükselir.",
+        "it": "I vincitori di divisione avanzano ai playoff.",
+        "pl": "Zwycięzcy dywizji awansują do play-offów."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "It means winning the championship three years in a row, and injuries and the short playoff series make that very hard"
       ],
       "answerIndex": 4,
-      "hintKo": "Winning three years in a row is hard because of injuries and the unpredictable playoffs."
+      "hintKo": "Winning three years in a row is hard because of injuries and the unpredictable playoffs.",
+      "hintI18n": {
+        "en": "Winning three years in a row is hard because of injuries and the unpredictable playoffs.",
+        "ko": "3년 연속 우승은 부상과 예측 불가능한 플레이오프 때문에 어렵습니다.",
+        "zh-Hans": "三连冠很难，因为伤病和季后赛难以预测。",
+        "ja": "3年連続優勝は、けがや予測できないプレーオフのため難しいのです。",
+        "es": "Ganar tres años seguidos es difícil por las lesiones y unos playoffs impredecibles.",
+        "hi": "लगातार तीन साल जीतना मुश्किल है क्योंकि चोटें लगती हैं और प्लेऑफ़ का अंदाज़ा नहीं रहता।",
+        "de": "Dreimal in Folge zu gewinnen ist schwer wegen Verletzungen und unberechenbarer Playoffs.",
+        "vi": "Vô địch ba năm liên tiếp rất khó vì chấn thương và vòng playoffs khó lường.",
+        "pt-BR": "Vencer três anos seguidos é difícil por causa das lesões e de playoffs imprevisíveis.",
+        "id": "Juara tiga tahun berturut-turut itu sulit karena cedera dan playoff yang tak terduga.",
+        "fr": "Gagner trois années de suite est difficile à cause des blessures et de séries éliminatoires imprévisibles.",
+        "ar": "الفوز ثلاثة أعوام متتالية صعب بسبب الإصابات والتصفيات غير المتوقعة.",
+        "tr": "Üst üste üç yıl kazanmak, sakatlıklar ve öngörülemeyen playofflar yüzünden zordur.",
+        "it": "Vincere per tre anni di fila è difficile per gli infortuni e dei playoff imprevedibili.",
+        "pl": "Trzy zwycięstwa z rzędu są trudne z powodu kontuzji i nieprzewidywalnych play-offów."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "By the length of each game"
       ],
       "answerIndex": 2,
-      "hintKo": "The playoffs at the end of the season determine the champion."
+      "hintKo": "The playoffs at the end of the season determine the champion.",
+      "hintI18n": {
+        "en": "The playoffs at the end of the season determine the champion.",
+        "ko": "시즌 끝의 플레이오프가 우승자를 결정합니다.",
+        "zh-Hans": "赛季结束时的季后赛决定冠军。",
+        "ja": "シーズン最後のプレーオフがチャンピオンを決めます。",
+        "es": "Los playoffs al final de la temporada deciden al campeón.",
+        "hi": "सीज़न के अंत के प्लेऑफ़ चैंपियन का फैसला करते हैं।",
+        "de": "Die Play-offs am Ende der Saison entscheiden den Meister.",
+        "vi": "Vòng play-off vào cuối mùa giải quyết định nhà vô địch.",
+        "pt-BR": "Os playoffs no final da temporada determinam o campeão.",
+        "id": "Playoff di akhir musim menentukan juara.",
+        "fr": "Les séries éliminatoires à la fin de la saison déterminent le champion.",
+        "ar": "تحدد التصفيات النهائية في نهاية الموسم البطل.",
+        "tr": "Sezon sonundaki playofflar şampiyonu belirler.",
+        "it": "I playoff alla fine della stagione determinano il campione.",
+        "pl": "Playoffy na końcu sezonu wyłaniają mistrza."
+      }
     }
   ],
   "youtube_url": ""

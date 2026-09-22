@@ -17,7 +17,24 @@
         "The military commander"
       ],
       "answerIndex": 2,
-      "hintKo": "It was Guam's governor, not the president, NWS, JTWC, or military."
+      "hintKo": "It was Guam's governor, not the president, NWS, JTWC, or military.",
+      "hintI18n": {
+        "en": "It was Guam's governor, not the president, NWS, JTWC, or military.",
+        "ko": "그것은 대통령, NWS, JTWC, 군대가 아니라 괌 주지사였습니다.",
+        "zh-Hans": "是关岛总督，而不是总统、NWS、JTWC或军方。",
+        "ja": "それは大統領、NWS、JTWC、軍ではなく、グアム知事でした。",
+        "es": "Fue la gobernadora de Guam, no el presidente, la NWS, el JTWC ni los militares.",
+        "hi": "यह गुआम की गवर्नर थीं, न कि राष्ट्रपति, NWS, JTWC या सेना।",
+        "de": "Es war Guams Gouverneurin, nicht der Präsident, die NWS, das JTWC oder das Militär.",
+        "vi": "Đó là thống đốc Guam, không phải tổng thống, NWS, JTWC hay quân đội.",
+        "pt-BR": "Foi a governadora de Guam, não o presidente, a NWS, o JTWC ou os militares.",
+        "id": "Itu gubernur Guam, bukan presiden, NWS, JTWC, atau militer.",
+        "fr": "C'était la gouverneure de Guam, pas le président, la NWS, le JTWC ni l'armée.",
+        "ar": "كانت حاكمة غوام، وليس الرئيس أو NWS أو JTWC أو الجيش.",
+        "tr": "Bu, başkan, NWS, JTWC veya ordu değil, Guam valisiydi.",
+        "it": "Era la governatrice di Guam, non il presidente, la NWS, il JTWC o i militari.",
+        "pl": "To gubernator Guamu, a nie prezydent, NWS, JTWC ani wojsko."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Category 5"
       ],
       "answerIndex": 4,
-      "hintKo": "At 180 mph, Bavi was the highest category possible — Category 5."
+      "hintKo": "At 180 mph, Bavi was the highest category possible — Category 5.",
+      "hintI18n": {
+        "en": "At 180 mph, Bavi was the highest category possible — Category 5.",
+        "ko": "시속 180마일로, 바비는 가능한 최고 등급인 5등급이었습니다.",
+        "zh-Hans": "风速达每小时180英里，巴维处于可能的最高等级——5级。",
+        "ja": "時速180マイルで、バビは可能な最高のカテゴリーであるカテゴリー5でした。",
+        "es": "A 180 mph, Bavi era la categoría más alta posible: categoría 5.",
+        "hi": "180 मील प्रति घंटा की रफ्तार से, बावी उच्चतम संभव श्रेणी—श्रेणी 5—में था।",
+        "de": "Mit 180 mph war Bavi die höchstmögliche Kategorie – Kategorie 5.",
+        "vi": "Với tốc độ 180 mph, Bavi ở cấp cao nhất có thể — cấp 5.",
+        "pt-BR": "A 180 mph, Bavi estava na categoria mais alta possível — categoria 5.",
+        "id": "Dengan kecepatan 180 mph, Bavi berada di kategori tertinggi yang mungkin — Kategori 5.",
+        "fr": "À 180 mph, Bavi était dans la catégorie la plus élevée possible — catégorie 5.",
+        "ar": "بسرعة 180 ميلاً في الساعة، كان بافي في أعلى فئة ممكنة — الفئة 5.",
+        "tr": "180 mph hızla Bavi, mümkün olan en yüksek kategori olan Kategori 5'teydi.",
+        "it": "A 180 mph, Bavi era nella categoria più alta possibile — categoria 5.",
+        "pl": "Przy 180 mph Bavi był w najwyższej możliwej kategorii — kategorii 5."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Manila"
       ],
       "answerIndex": 1,
-      "hintKo": "Rota, in the Northern Mariana Islands, took the direct hit from Bavi's eye."
+      "hintKo": "Rota, in the Northern Mariana Islands, took the direct hit from Bavi's eye.",
+      "hintI18n": {
+        "en": "Rota, in the Northern Mariana Islands, took the direct hit from Bavi's eye.",
+        "ko": "북마리아나 제도의 로타가 바비의 눈에서 직접 타격을 받았습니다.",
+        "zh-Hans": "北马里亚纳群岛的罗塔岛直接遭受了巴维台风眼的袭击。",
+        "ja": "北マリアナ諸島のロタが、バビの目から直撃を受けました。",
+        "es": "Rota, en las Islas Marianas del Norte, recibió el impacto directo del ojo de Bavi.",
+        "hi": "उत्तरी मारियाना द्वीप समूह के रोटा पर बावी की आंख का सीधा प्रहार हुआ।",
+        "de": "Rota auf den Nördlichen Marianen wurde direkt vom Auge des Bavi getroffen.",
+        "vi": "Rota, thuộc Quần đảo Bắc Mariana, hứng chịu cú đánh trực tiếp từ mắt bão Bavi.",
+        "pt-BR": "Rota, nas Ilhas Marianas do Norte, recebeu o impacto direto do olho de Bavi.",
+        "id": "Rota, di Kepulauan Mariana Utara, terkena hantaman langsung dari mata Badai Bavi.",
+        "fr": "Rota, dans les îles Mariannes du Nord, a été frappée de plein fouet par l'œil de Bavi.",
+        "ar": "روتا، في جزر ماريانا الشمالية، تلقت الضربة المباشرة من عين الإعصار بافي.",
+        "tr": "Kuzey Mariana Adaları'ndaki Rota, Bavi'nin gözünün doğrudan vuruşunu aldı.",
+        "it": "Rota, nelle Isole Marianne Settentrionali, ha ricevuto il colpo diretto dall'occhio di Bavi.",
+        "pl": "Rota w Marianach Północnych otrzymała bezpośrednie uderzenie oka tajfunu Bavi."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Next weekend"
       ],
       "answerIndex": 0,
-      "hintKo": "She specifically said 'first thing tomorrow morning' — Tuesday morning."
+      "hintKo": "She specifically said 'first thing tomorrow morning' — Tuesday morning.",
+      "hintI18n": {
+        "en": "She specifically said 'first thing tomorrow morning' — Tuesday morning.",
+        "ko": "그녀는 구체적으로 '내일 아침 제일 먼저'라고 말했습니다. 즉 화요일 아침입니다.",
+        "zh-Hans": "她特别说‘明天一早’——也就是周二早上。",
+        "ja": "彼女は具体的に「明日の朝一番」と言いました。つまり火曜日の朝です。",
+        "es": "Ella dijo específicamente 'a primera hora de mañana' — el martes por la mañana.",
+        "hi": "उसने विशेष रूप से कहा 'कल सुबह सबसे पहले' — यानी मंगलवार की सुबह।",
+        "de": "Sie sagte ausdrücklich 'gleich morgen früh' – Dienstagmorgen.",
+        "vi": "Bà ấy nói cụ thể là 'việc đầu tiên vào sáng mai' — sáng thứ Ba.",
+        "pt-BR": "Ela disse especificamente 'primeira coisa amanhã de manhã' — manhã de terça-feira.",
+        "id": "Dia secara khusus berkata 'hal pertama besok pagi' — Selasa pagi.",
+        "fr": "Elle a précisé 'dès demain matin' — mardi matin.",
+        "ar": "قالت تحديدًا 'أول شيء صباح الغد' — صباح الثلاثاء.",
+        "tr": "Özellikle 'yarın sabah ilk iş' dedi — Salı sabahı.",
+        "it": "Ha detto specificamente 'prima cosa domani mattina' — martedì mattina.",
+        "pl": "Powiedziała konkretnie 'pierwsza rzecz jutro rano' — we wtorek rano."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "There was a tsunami warning"
       ],
       "answerIndex": 3,
-      "hintKo": "The previous typhoon (Sinlaku) left many without power, making them more vulnerable and shelters were packed."
+      "hintKo": "The previous typhoon (Sinlaku) left many without power, making them more vulnerable and shelters were packed.",
+      "hintI18n": {
+        "en": "The previous typhoon (Sinlaku) left many without power, making them more vulnerable and shelters were packed.",
+        "ko": "이전 태풍(신라쿠)으로 많은 사람이 전력 공급 없이 지내게 되어 더 취약해졌고, 대피소는 꽉 찼습니다.",
+        "zh-Hans": "此前的台风“森拉克”导致许多人断电，使他们更加脆弱，避难所也挤满了人。",
+        "ja": "前の台風（シンラク）で多くの人が停電し、より脆弱になったうえ、避難所は満員でした。",
+        "es": "El tifón anterior (Sinlaku) dejó a muchos sin electricidad, haciéndolos más vulnerables, y los refugios estaban llenos.",
+        "hi": "पिछले तूफान (सिनलाकू) ने कई लोगों को बिना बिजली के छोड़ दिया, जिससे वे और असुरक्षित हो गए, और आश्रय स्थल खचाखच भरे थे।",
+        "de": "Der vorherige Taifun (Sinlaku) ließ viele ohne Strom zurück, machte sie verwundbarer, und die Unterkünfte waren überfüllt.",
+        "vi": "Cơn bão trước (Sinlaku) khiến nhiều người mất điện, làm họ dễ bị tổn thương hơn, và các nơi trú ẩn đã chật kín.",
+        "pt-BR": "O tufão anterior (Sinlaku) deixou muitos sem energia, tornando-os mais vulneráveis, e os abrigos estavam lotados.",
+        "id": "Topan sebelumnya (Sinlaku) membuat banyak orang tanpa listrik, membuat mereka lebih rentan, dan tempat penampungan penuh sesak.",
+        "fr": "Le typhon précédent (Sinlaku) a privé beaucoup de gens d'électricité, les rendant plus vulnérables, et les abris étaient bondés.",
+        "ar": "الإعصار السابق (سينلاك) ترك كثيرين بدون كهرباء، مما جعلهم أكثر عرضة للخطر، وكانت الملاجئ مكتظة.",
+        "tr": "Önceki tayfun (Sinlaku) birçok kişiyi elektriksiz bıraktı, onları daha savunmasız hale getirdi ve sığınaklar tıka basa doluydu.",
+        "it": "Il tifone precedente (Sinlaku) ha lasciato molti senza elettricità, rendendoli più vulnerabili, e i rifugi erano pieni.",
+        "pl": "Poprzedni tajfun (Sinlaku) pozostawił wielu ludzi bez prądu, czyniąc ich bardziej bezbronnymi, a schrony były przepełnione."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "160 miles per hour"
       ],
       "answerIndex": 1,
-      "hintKo": "180 mph is correct — equivalent to 290 kilometers per hour."
+      "hintKo": "180 mph is correct — equivalent to 290 kilometers per hour.",
+      "hintI18n": {
+        "en": "180 mph is correct — equivalent to 290 kilometers per hour.",
+        "ko": "시속 180마일이 정답입니다 — 시속 290킬로미터에 해당합니다.",
+        "zh-Hans": "180英里/小时是正确的——相当于每小时290公里。",
+        "ja": "時速180マイルが正解です — 時速290キロメートルに相当します。",
+        "es": "180 mph es correcto — equivale a 290 kilómetros por hora.",
+        "hi": "180 mph सही है — यह 290 किलोमीटर प्रति घंटे के बराबर है।",
+        "de": "180 mph ist richtig – das entspricht 290 Kilometern pro Stunde.",
+        "vi": "180 mph là đúng — tương đương 290 km/giờ.",
+        "pt-BR": "180 mph está correto — equivale a 290 quilômetros por hora.",
+        "id": "180 mph benar — setara dengan 290 kilometer per jam.",
+        "fr": "180 mph est correct — soit l’équivalent de 290 kilomètres par heure.",
+        "ar": "180 ميلاً في الساعة صحيح — أي ما يعادل 290 كيلومتراً في الساعة.",
+        "tr": "180 mph doğrudur — saatte 290 kilometreye eşdeğerdir.",
+        "it": "180 mph è corretto — equivale a 290 chilometri all’ora.",
+        "pl": "180 mph jest poprawne — co odpowiada 290 kilometrom na godzinę."
+      }
     }
   ],
   "youtube_url": ""

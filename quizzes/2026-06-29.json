@@ -17,7 +17,24 @@
         "An active volcano"
       ],
       "answerIndex": 1,
-      "hintKo": "The discovery was organic molecules in rock, not a new crater, flowing water, dinosaur fossils (Mars has none), or volcanic activity."
+      "hintKo": "The discovery was organic molecules in rock, not a new crater, flowing water, dinosaur fossils (Mars has none), or volcanic activity.",
+      "hintI18n": {
+        "en": "The discovery was organic molecules in rock, not a new crater, flowing water, dinosaur fossils (Mars has none), or volcanic activity.",
+        "ko": "발견된 것은 암석 속 유기 분자였습니다. 새로운 분화구, 흐르는 물, 공룡 화석(화성에는 없음), 화산 활동이 아닙니다.",
+        "zh-Hans": "这一发现是岩石中的有机分子，而不是新陨石坑、流动的水、恐龙化石（火星没有）或火山活动。",
+        "ja": "発見されたのは岩石中の有機分子であり、新しいクレーター、流れる水、恐竜の化石（火星にはない）、火山活動ではありません。",
+        "es": "El descubrimiento fueron moléculas orgánicas en la roca, no un nuevo cráter, agua corriente, fósiles de dinosaurios (Marte no tiene) o actividad volcánica.",
+        "hi": "यह खोज चट्टान में कार्बनिक अणु थी, न कि नया क्रेटर, बहता पानी, डायनासोर जीवाश्म (मंगल पर कोई नहीं है), या ज्वालामुखीय गतिविधि।",
+        "de": "Die Entdeckung waren organische Moleküle im Gestein, nicht ein neuer Krater, fließendes Wasser, Dinosaurierfossilien (die es auf dem Mars nicht gibt) oder vulkanische Aktivität.",
+        "vi": "Phát hiện này là các phân tử hữu cơ trong đá, không phải một miệng hố mới, nước chảy, hóa thạch khủng long (Sao Hỏa không có), hay hoạt động núi lửa.",
+        "pt-BR": "A descoberta foi moléculas orgânicas na rocha, não uma nova cratera, água corrente, fósseis de dinossauros (Marte não tem) ou atividade vulcânica.",
+        "id": "Penemuan itu adalah molekul organik di dalam batuan, bukan kawah baru, air mengalir, fosil dinosaurus (Mars tidak punya), atau aktivitas vulkanik.",
+        "fr": "La découverte était des molécules organiques dans la roche, pas un nouveau cratère, de l’eau courante, des fossiles de dinosaures (Mars n’en a pas) ni une activité volcanique.",
+        "ar": "كان الاكتشاف جزيئات عضوية في الصخرة، وليس فوهة جديدة أو مياهًا جارية أو حفريات ديناصورات (لا توجد في المريخ) أو نشاطًا بركانيًا.",
+        "tr": "Keşif, kayadaki organik moleküllerdi; yeni bir krater, akan su, dinozor fosilleri (Mars'ta yok) veya volkanik aktivite değil.",
+        "it": "La scoperta erano molecole organiche nella roccia, non un nuovo cratere, acqua corrente, fossili di dinosauri (Marte non ne ha) o attività vulcanica.",
+        "pl": "Odkryciem były cząsteczki organiczne w skale, a nie nowy krater, płynąca woda, skamieniałości dinozaurów (Mars ich nie ma) czy aktywność wulkaniczna."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Gale Crater"
       ],
       "answerIndex": 0,
-      "hintKo": "The site was Cheyava Falls, not Olympus Mons, Valles Marineris, the polar cap, or Gale Crater (where Curiosity is)."
+      "hintKo": "The site was Cheyava Falls, not Olympus Mons, Valles Marineris, the polar cap, or Gale Crater (where Curiosity is).",
+      "hintI18n": {
+        "en": "The site was Cheyava Falls, not Olympus Mons, Valles Marineris, the polar cap, or Gale Crater (where Curiosity is).",
+        "ko": "그 장소는 체야바 폭포였습니다. 올림푸스 몬스, 마리네리스 계곡, 극지방 만년설, 또는 (큐리오시티가 있는) 게일 크레이터가 아닙니다.",
+        "zh-Hans": "该地点是切亚瓦瀑布，而不是奥林匹斯山、水手号峡谷、极地冰盖或盖尔陨石坑（好奇号所在处）。",
+        "ja": "その場所はチェヤバ・フォールズで、オリンポス山、マリネリス峡谷、極冠、または（キュリオシティがいる）ゲール・クレーターではありません。",
+        "es": "El sitio era Cheyava Falls, no Olympus Mons, Valles Marineris, el casquete polar ni el cráter Gale (donde está Curiosity).",
+        "hi": "यह स्थल चेयावा फॉल्स था, न कि ओलंपस मॉन्स, वैलेस मैरिनेरिस, ध्रुवीय टोपी, या गेल क्रेटर (जहाँ क्यूरियोसिटी है)।",
+        "de": "Der Fundort war Cheyava Falls, nicht Olympus Mons, Valles Marineris, die Polkappe oder der Gale-Krater (wo Curiosity ist).",
+        "vi": "Địa điểm đó là Cheyava Falls, không phải Olympus Mons, Valles Marineris, chỏm cực hay hố Gale (nơi Curiosity đang ở).",
+        "pt-BR": "O local era Cheyava Falls, não Olympus Mons, Valles Marineris, a calota polar ou a Cratera Gale (onde está o Curiosity).",
+        "id": "Lokasinya adalah Cheyava Falls, bukan Olympus Mons, Valles Marineris, tudung kutub, atau Kawah Gale (tempat Curiosity berada).",
+        "fr": "Le site était Cheyava Falls, pas Olympus Mons, Valles Marineris, la calotte polaire ni le cratère Gale (où se trouve Curiosity).",
+        "ar": "كان الموقع شايافا فولز، وليس أوليمبوس مونس أو فالس مارينيريس أو القبة القطبية أو فوهة غيل (حيث توجد كيوريوسيتي).",
+        "tr": "Bölge Cheyava Falls'tı; Olympus Mons, Valles Marineris, kutup başlığı veya Gale Krateri (Curiosity'nin bulunduğu yer) değil.",
+        "it": "Il sito era Cheyava Falls, non Olympus Mons, Valles Marineris, la calotta polare o il cratere Gale (dove si trova Curiosity).",
+        "pl": "Miejscem tym były wodospady Cheyava Falls, a nie Olympus Mons, Valles Marineris, czapa polarna ani krater Gale (gdzie znajduje się Curiosity)."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "A radiation detector"
       ],
       "answerIndex": 2,
-      "hintKo": "The detection was spectroscopic, not visual (microscope), mechanical (drill), meteorological (weather station), or radiological."
+      "hintKo": "The detection was spectroscopic, not visual (microscope), mechanical (drill), meteorological (weather station), or radiological.",
+      "hintI18n": {
+        "en": "The detection was spectroscopic, not visual (microscope), mechanical (drill), meteorological (weather station), or radiological.",
+        "ko": "탐지는 분광학적 방법으로 이루어졌습니다. 시각(현미경), 기계(드릴), 기상(기상 관측소), 방사선 방법이 아닙니다.",
+        "zh-Hans": "检测是通过光谱学进行的，而不是视觉（显微镜）、机械（钻探）、气象（气象站）或放射性方法。",
+        "ja": "検出は分光学的で、視覚（顕微鏡）、機械（ドリル）、気象（気象観測所）、放射線によるものではありません。",
+        "es": "La detección fue espectroscópica, no visual (microscopio), mecánica (taladro), meteorológica (estación meteorológica) ni radiológica.",
+        "hi": "यह पहचान स्पेक्ट्रोस्कोपिक थी, न कि दृश्य (माइक्रोस्कोप), यांत्रिक (ड्रिल), मौसम संबंधी (मौसम स्टेशन), या रेडियोलॉजिकल।",
+        "de": "Der Nachweis war spektroskopisch, nicht visuell (Mikroskop), mechanisch (Bohrer), meteorologisch (Wetterstation) oder radiologisch.",
+        "vi": "Việc phát hiện là bằng quang phổ, không phải bằng thị giác (kính hiển vi), cơ học (máy khoan), khí tượng (trạm thời tiết), hay phóng xạ.",
+        "pt-BR": "A detecção foi espectroscópica, não visual (microscópio), mecânica (broca), meteorológica (estação meteorológica) ou radiológica.",
+        "id": "Deteksinya bersifat spektroskopis, bukan visual (mikroskop), mekanis (bor), meteorologis (stasiun cuaca), atau radiologis.",
+        "fr": "La détection était spectroscopique, pas visuelle (microscope), mécanique (foreuse), météorologique (station météo) ou radiologique.",
+        "ar": "كان الكشف طيفيًا، وليس بصريًا (مجهر) أو ميكانيكيًا (مثقاب) أو أرصاديًا (محطة طقس) أو إشعاعيًا.",
+        "tr": "Tespit spektroskopikti; görsel (mikroskop), mekanik (matkap), meteorolojik (hava istasyonu) veya radyolojik değil.",
+        "it": "Il rilevamento è stato spettroscopico, non visivo (microscopio), meccanico (trapano), meteorologico (stazione meteorologica) o radiologico.",
+        "pl": "Wykrycie było spektroskopowe, a nie wizualne (mikroskop), mechaniczne (wiertło), meteorologiczne (stacja pogodowa) czy radiologiczne."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Identical to Earth today"
       ],
       "answerIndex": 3,
-      "hintKo": "The evidence shows past warmth and water, not eternal cold, complete ice cover, gas giant composition, or Earth-like conditions."
+      "hintKo": "The evidence shows past warmth and water, not eternal cold, complete ice cover, gas giant composition, or Earth-like conditions.",
+      "hintI18n": {
+        "en": "The evidence shows past warmth and water, not eternal cold, complete ice cover, gas giant composition, or Earth-like conditions.",
+        "ko": "증거는 과거의 따뜻함과 물을 보여 주며, 영원한 추위나 완전한 얼음 덮개, 가스 행성 구성, 지구와 같은 환경을 보여 주는 것은 아닙니다.",
+        "zh-Hans": "证据表明火星过去温暖且有水，而不是永远寒冷、完全被冰覆盖、由气体巨行星组成或拥有类似地球的条件。",
+        "ja": "証拠は過去の温暖さと水を示しており、永遠の寒さや全面氷床、ガス惑星の組成、地球のような環境を示すものではありません。",
+        "es": "La evidencia muestra calidez y agua en el pasado, no un frío eterno, una capa de hielo completa, una composición de gigante gaseoso ni condiciones similares a las de la Tierra.",
+        "hi": "साक्ष्य अतीत की गर्मी और पानी दिखाते हैं, न कि शाश्वत ठंड, पूरी बर्फ़ की परत, गैस विशालकाय संरचना, या पृथ्वी जैसी परिस्थितियाँ।",
+        "de": "Die Beweise zeigen frühere Wärme und Wasser, nicht ewige Kälte, vollständige Eisbedeckung, Gasriesen-Zusammensetzung oder erdähnliche Bedingungen.",
+        "vi": "Bằng chứng cho thấy sự ấm áp và nước trong quá khứ, không phải lạnh giá vĩnh cửu, băng bao phủ hoàn toàn, thành phần hành tinh khí khổng lồ hay điều kiện giống Trái Đất.",
+        "pt-BR": "As evidências mostram calor e água no passado, não frio eterno, cobertura total de gelo, composição de gigante gasoso ou condições semelhantes às da Terra.",
+        "id": "Bukti menunjukkan kehangatan dan air di masa lalu, bukan dingin abadi, lapisan es menyeluruh, komposisi raksasa gas, atau kondisi mirip Bumi.",
+        "fr": "Les preuves montrent une chaleur et de l'eau dans le passé, non un froid éternel, une couverture de glace complète, une composition de géante gazeuse ou des conditions semblables à la Terre.",
+        "ar": "تُظهر الأدلة دفئًا وماءً في الماضي، وليس بردًا أبديًا أو غطاءً جليديًا كاملًا أو تركيبًا كوكبًا غازيًا عملاقًا أو ظروفًا شبيهة بالأرض.",
+        "tr": "Kanıtlar geçmişte sıcaklık ve su olduğunu gösteriyor; sonsuz soğuk, tam buz örtüsü, gaz devi bileşimi veya Dünya benzeri koşullar değil.",
+        "it": "Le prove mostrano calore e acqua nel passato, non freddo eterno, copertura glaciale completa, composizione da gigante gassoso o condizioni simili alla Terra.",
+        "pl": "Dowody wskazują na dawne ciepło i wodę, a nie wieczny chłód, pełną pokrywę lodową, skład gazowego olbrzyma czy warunki podobne do Ziemi."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "The same carbon molecules can form without life through chemical reactions"
       ],
       "answerIndex": 4,
-      "hintKo": "The uncertainty is scientific (abiotic formation is possible), not due to equipment failure, data loss, contamination, or molecule size."
+      "hintKo": "The uncertainty is scientific (abiotic formation is possible), not due to equipment failure, data loss, contamination, or molecule size.",
+      "hintI18n": {
+        "en": "The uncertainty is scientific (abiotic formation is possible), not due to equipment failure, data loss, contamination, or molecule size.",
+        "ko": "불확실성은 과학적인 것입니다(비생물학적 형성 가능성). 장비 고장, 데이터 손실, 오염, 분자 크기 때문이 아닙니다.",
+        "zh-Hans": "这种不确定性是科学层面的（可能由非生物过程形成），并非设备故障、数据丢失、污染或分子大小造成的。",
+        "ja": "不確実さは科学的なもの（非生物的生成の可能性）であり、機器の故障、データ損失、汚染、分子サイズによるものではありません。",
+        "es": "La incertidumbre es científica (es posible una formación abiótica), no se debe a fallos de equipo, pérdida de datos, contaminación ni tamaño de las moléculas.",
+        "hi": "अनिश्चितता वैज्ञानिक है (अजैविक निर्माण संभव है), यह उपकरण खराबी, डेटा हानि, संदूषण या अणु के आकार के कारण नहीं है।",
+        "de": "Die Unsicherheit ist wissenschaftlich (abiotische Bildung ist möglich), nicht auf Geräteausfall, Datenverlust, Kontamination oder Molekülgröße zurückzuführen.",
+        "vi": "Sự không chắc chắn là về mặt khoa học (có thể hình thành phi sinh học), không phải do thiết bị hỏng, mất dữ liệu, nhiễm bẩn hay kích thước phân tử.",
+        "pt-BR": "A incerteza é científica (a formação abiótica é possível), não se deve a falha de equipamento, perda de dados, contaminação ou tamanho da molécula.",
+        "id": "Ketidakpastiannya bersifat ilmiah (pembentukan abiotik mungkin terjadi), bukan karena kegagalan peralatan, kehilangan data, kontaminasi, atau ukuran molekul.",
+        "fr": "L'incertitude est scientifique (une formation abiotique est possible), pas due à une panne d'équipement, une perte de données, une contamination ou la taille des molécules.",
+        "ar": "عدم اليقين علمي (من الممكن أن يكون التكوين غير حيوي)، وليس بسبب عطل في المعدات أو فقدان البيانات أو التلوث أو حجم الجزيء.",
+        "tr": "Belirsizlik bilimseldir (abiyotik oluşum mümkündür); ekipman arızası, veri kaybı, kirlenme veya molekül boyutundan değildir.",
+        "it": "L'incertezza è scientifica (è possibile una formazione abiotica), non è dovuta a guasto delle attrezzature, perdita di dati, contaminazione o dimensione delle molecole.",
+        "pl": "Niepewność jest naukowa (możliwe jest abiotyczne powstanie), a nie wynika z awarii sprzętu, utraty danych, zanieczyszczenia czy rozmiaru cząsteczki."
+      }
     }
   ],
   "youtube_url": ""

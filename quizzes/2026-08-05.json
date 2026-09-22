@@ -17,7 +17,24 @@
         "The CEO of Google"
       ],
       "answerIndex": 0,
-      "hintKo": "The study's senior author is Professor Prem Kumar; Gina Talcott is the first author."
+      "hintKo": "The study's senior author is Professor Prem Kumar; Gina Talcott is the first author.",
+      "hintI18n": {
+        "en": "The study's senior author is Professor Prem Kumar; Gina Talcott is the first author.",
+        "ko": "이 연구의 책임저자는 프렘 쿠마르 교수이고, 지나 탈콧은 제1저자입니다.",
+        "zh-Hans": "该研究的资深作者是普雷姆·库马尔教授；吉娜·塔尔科特是第一作者。",
+        "ja": "この研究の上級著者はプレム・クマール教授で、ジーナ・タルコットが筆頭著者です。",
+        "es": "El autor principal del estudio es el profesor Prem Kumar; Gina Talcott es la primera autora.",
+        "hi": "अध्ययन के वरिष्ठ लेखक प्रोफेसर प्रेम कुमार हैं; जीना टैलकॉट प्रथम लेखिका हैं।",
+        "de": "Der leitende Autor der Studie ist Professor Prem Kumar; Gina Talcott ist die Erstautorin.",
+        "vi": "Tác giả cấp cao của nghiên cứu là Giáo sư Prem Kumar; Gina Talcott là tác giả đầu tiên.",
+        "pt-BR": "O autor sênior do estudo é o professor Prem Kumar; Gina Talcott é a primeira autora.",
+        "id": "Penulis senior studi ini adalah Profesor Prem Kumar; Gina Talcott adalah penulis pertama.",
+        "fr": "L'auteur principal de l'étude est le professeur Prem Kumar ; Gina Talcott est la première auteure.",
+        "ar": "المؤلف الرئيسي للدراسة هو الأستاذ بريم كومار؛ جينا تالكوت هي المؤلفة الأولى.",
+        "tr": "Çalışmanın kıdemli yazarı Profesör Prem Kumar'dır; Gina Talcott ise ilk yazardır.",
+        "it": "L'autore senior dello studio è il professor Prem Kumar; Gina Talcott è la prima autrice.",
+        "pl": "Starszym autorem badania jest profesor Prem Kumar; Gina Talcott jest pierwszą autorką."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Their electrical charge"
       ],
       "answerIndex": 1,
-      "hintKo": "The key result was entanglement fidelity above ninety-four percent, confirming the connection survived."
+      "hintKo": "The key result was entanglement fidelity above ninety-four percent, confirming the connection survived.",
+      "hintI18n": {
+        "en": "The key result was entanglement fidelity above ninety-four percent, confirming the connection survived.",
+        "ko": "핵심 결과는 얽힘 충실도가 94퍼센트를 넘었다는 것이며, 이는 연결이 유지되었음을 확인해 줍니다.",
+        "zh-Hans": "关键结果是纠缠保真度超过94%，这证实了连接得以保持。",
+        "ja": "重要な結果はもつれの忠実度が94%を超えたことで、接続が維持されたことを裏付けています。",
+        "es": "El resultado clave fue una fidelidad de entrelazamiento superior al 94 %, lo que confirma que la conexión sobrevivió.",
+        "hi": "मुख्य परिणाम 94% से अधिक एंटैंगलमेंट निष्ठा था, जो पुष्टि करता है कि कनेक्शन बना रहा।",
+        "de": "Das zentrale Ergebnis war eine Verschränkungstreue von über 94 %, was bestätigt, dass die Verbindung erhalten blieb.",
+        "vi": "Kết quả then chốt là độ trung thực rối lượng tử trên 94%, xác nhận rằng kết nối vẫn duy trì.",
+        "pt-BR": "O resultado principal foi uma fidelidade de emaranhamento acima de 94%, confirmando que a conexão sobreviveu.",
+        "id": "Hasil utamanya adalah fidelitas belitan kuantum di atas 94%, yang menegaskan koneksi itu bertahan.",
+        "fr": "Le résultat clé était une fidélité d'intrication supérieure à 94 %, confirmant que la connexion a survécu.",
+        "ar": "كانت النتيجة الرئيسية هي دقة التشابك التي تجاوزت 94%، مما يؤكد أن الاتصال استمر.",
+        "tr": "Kilit sonuç, dolanıklık sadakatinin %94'ün üzerinde olmasıydı ve bağlantının sürdüğünü doğruladı.",
+        "it": "Il risultato chiave è stata una fedeltà dell'intreccio quantistico superiore al 94%, confermando che la connessione è sopravvissuta.",
+        "pl": "Kluczowym wynikiem była wierność splątania powyżej 94%, co potwierdziło, że połączenie przetrwało."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "They have not shown it yet"
       ],
       "answerIndex": 0,
-      "hintKo": "The earlier thirty-kilometer teleportation demonstration came from the team's twenty twenty-four study."
+      "hintKo": "The earlier thirty-kilometer teleportation demonstration came from the team's twenty twenty-four study.",
+      "hintI18n": {
+        "en": "The earlier thirty-kilometer teleportation demonstration came from the team's twenty twenty-four study.",
+        "ko": "이전의 30킬로미터 순간이동 시연은 팀의 2024년 연구에서 나왔습니다.",
+        "zh-Hans": "较早的30公里隐形传态演示来自该团队2024年的研究。",
+        "ja": "以前の30キロメートルのテレポーテーション実証は、チームの2024年の研究によるものでした。",
+        "es": "La anterior demostración de teletransportación a treinta kilómetros provino del estudio del equipo de 2024.",
+        "hi": "पहले की तीस किलोमीटर की टेलीपोर्टेशन प्रदर्शन टीम के 2024 अध्ययन से आया था।",
+        "de": "Die frühere Teleportationsdemonstration über dreißig Kilometer stammte aus der Studie des Teams von 2024.",
+        "vi": "Màn trình diễn dịch chuyển lượng tử 30 km trước đó đến từ nghiên cứu năm 2024 của nhóm.",
+        "pt-BR": "A demonstração anterior de teletransporte a trinta quilômetros veio do estudo da equipe de 2024.",
+        "id": "Demonstrasi teleportasi sejauh 30 kilometer sebelumnya berasal dari studi tim pada 2024.",
+        "fr": "La précédente démonstration de téléportation sur trente kilomètres provenait de l'étude de l'équipe de 2024.",
+        "ar": "جاء العرض السابق للانتقال الكمي لمسافة ثلاثين كيلومترًا من دراسة الفريق عام 2024.",
+        "tr": "Daha önceki otuz kilometrelik ışınlanma gösterimi, ekibin 2024 çalışmasından geldi.",
+        "it": "La precedente dimostrazione di teletrasporto su trenta chilometri proveniva dallo studio del team del 2024.",
+        "pl": "Wcześniejsza demonstracja teleportacji na trzydzieści kilometrów pochodziła z badania zespołu z 2024 roku."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Between Seoul and Tokyo"
       ],
       "answerIndex": 1,
-      "hintKo": "The photon traveled from Northwestern University to downtown Chicago through installed fiber."
+      "hintKo": "The photon traveled from Northwestern University to downtown Chicago through installed fiber.",
+      "hintI18n": {
+        "en": "The photon traveled from Northwestern University to downtown Chicago through installed fiber.",
+        "ko": "광자는 설치된 광섬유를 통해 노스웨스턴 대학교에서 시카고 도심까지 이동했습니다.",
+        "zh-Hans": "光子通过已铺设的光纤从西北大学传播到芝加哥市中心。",
+        "ja": "光子は敷設された光ファイバーを通ってノースウェスタン大学からシカゴ中心部まで移動しました。",
+        "es": "El fotón viajó desde la Universidad Northwestern hasta el centro de Chicago a través de fibra instalada.",
+        "hi": "फोटॉन स्थापित फाइबर के जरिए नॉर्थवेस्टर्न यूनिवर्सिटी से शिकागो के डाउनटाउन तक गया।",
+        "de": "Das Photon reiste über installierte Glasfaser von der Northwestern-Universität bis in die Innenstadt von Chicago.",
+        "vi": "Photon đã đi từ Đại học Northwestern đến trung tâm thành phố Chicago qua sợi quang đã lắp đặt.",
+        "pt-BR": "O fóton viajou da Universidade Northwestern até o centro de Chicago por fibra instalada.",
+        "id": "Foton melakukan perjalanan dari Universitas Northwestern ke pusat kota Chicago melalui serat optik yang terpasang.",
+        "fr": "Le photon a voyagé de l'Université Northwestern au centre-ville de Chicago via une fibre installée.",
+        "ar": "انتقل الفوتون من جامعة نورث وسترن إلى وسط مدينة شيكاغو عبر ألياف مثبتة.",
+        "tr": "Foton, kurulu fiber üzerinden Northwestern Üniversitesi'nden Chicago şehir merkezine gitti.",
+        "it": "Il fotone ha viaggiato dalla Università Northwestern al centro di Chicago attraverso fibra installata.",
+        "pl": "Foton podróżował z Uniwersytetu Northwestern do centrum Chicago przez zainstalowane światłowody."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "Because they use radio waves"
       ],
       "answerIndex": 1,
-      "hintKo": "Quantum signals are tiny compared with classical signals, so optical noise can easily overwhelm the individual photons."
+      "hintKo": "Quantum signals are tiny compared with classical signals, so optical noise can easily overwhelm the individual photons.",
+      "hintI18n": {
+        "en": "Quantum signals are tiny compared with classical signals, so optical noise can easily overwhelm the individual photons.",
+        "ko": "양자 신호는 고전 신호에 비해 매우 작아서, 광학 잡음이 개별 광자를 쉽게 압도할 수 있습니다.",
+        "zh-Hans": "与经典信号相比，量子信号非常微弱，因此光学噪声很容易淹没单个光子。",
+        "ja": "量子信号は古典的信号に比べて非常に小さいため、光ノイズが個々の光子を容易に圧倒します。",
+        "es": "Las señales cuánticas son diminutas en comparación con las señales clásicas, por lo que el ruido óptico puede ahogar fácilmente a los fotones individuales.",
+        "hi": "क्वांटम संकेत शास्त्रीय संकेतों की तुलना में बहुत छोटे होते हैं, इसलिए ऑप्टिकल शोर अलग-अलग फोटॉनों को आसानी से दबा सकता है।",
+        "de": "Quantensignale sind im Vergleich zu klassischen Signalen winzig, daher kann optisches Rauschen die einzelnen Photonen leicht übertönen.",
+        "vi": "Tín hiệu lượng tử rất nhỏ so với tín hiệu cổ điển, nên nhiễu quang có thể dễ dàng lấn át từng photon riêng lẻ.",
+        "pt-BR": "Os sinais quânticos são minúsculos em comparação com os sinais clássicos, então o ruído óptico pode facilmente sobrepujar os fótons individuais.",
+        "id": "Sinyal kuantum sangat kecil dibandingkan sinyal klasik, jadi derau optik dapat dengan mudah menenggelamkan foton individu.",
+        "fr": "Les signaux quantiques sont minuscules comparés aux signaux classiques, donc le bruit optique peut facilement submerger les photons individuels.",
+        "ar": "الإشارات الكمية صغيرة جدًا مقارنة بالإشارات الكلاسيكية، لذلك يمكن للضوضاء البصرية أن تطغى بسهولة على الفوتونات الفردية.",
+        "tr": "Kuantum sinyalleri klasik sinyallere kıyasla çok küçüktür, bu yüzden optik gürültü tek tek fotonları kolayca bastırabilir.",
+        "it": "I segnali quantistici sono minuscoli rispetto ai segnali classici, quindi il rumore ottico può facilmente sopraffare i singoli fotoni.",
+        "pl": "Sygnały kwantowe są maleńkie w porównaniu z sygnałami klasycznymi, więc szum optyczny może łatwo zagłuszyć pojedyncze fotony."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "They used radio frequencies"
       ],
       "answerIndex": 1,
-      "hintKo": "Quieter spectrum regions plus precise timing kept the delicate photons safe from the noise."
+      "hintKo": "Quieter spectrum regions plus precise timing kept the delicate photons safe from the noise.",
+      "hintI18n": {
+        "en": "Quieter spectrum regions plus precise timing kept the delicate photons safe from the noise.",
+        "ko": "더 조용한 스펙트럼 영역과 정밀한 타이밍 덕분에 섬세한 광자들이 잡음으로부터 안전하게 보호되었습니다.",
+        "zh-Hans": "更安静的频谱区域加上精确的时序，使脆弱的光子免受噪声干扰。",
+        "ja": "より静かなスペクトル領域と正確なタイミングが、繊細な光子をノイズから守りました。",
+        "es": "Las regiones del espectro más silenciosas y una sincronización precisa mantuvieron a los delicados fotones a salvo del ruido.",
+        "hi": "अधिक शांत स्पेक्ट्रम क्षेत्रों और सटीक समय-निर्धारण ने नाज़ुक फ़ोटॉनों को शोर से सुरक्षित रखा।",
+        "de": "Ruhigere Spektralbereiche und präzises Timing schützten die empfindlichen Photonen vor dem Rauschen.",
+        "vi": "Các vùng phổ yên tĩnh hơn cùng thời điểm chính xác đã giữ những photon mong manh an toàn khỏi tiếng ồn.",
+        "pt-BR": "Regiões mais silenciosas do espectro e uma sincronização precisa mantiveram os delicados fótons protegidos do ruído.",
+        "id": "Wilayah spektrum yang lebih tenang ditambah penetapan waktu yang tepat menjaga foton rapuh tetap aman dari kebisingan.",
+        "fr": "Des régions du spectre plus silencieuses et un minutage précis ont protégé les photons délicats du bruit.",
+        "ar": "المناطق الطيفية الأكثر هدوءًا مع التوقيت الدقيق أبقت الفوتونات الحساسة آمنة من الضوضاء.",
+        "tr": "Daha sessiz spektrum bölgeleri ve hassas zamanlama, narin fotonları gürültüden korudu.",
+        "it": "Regioni dello spettro più silenziose e una temporizzazione precisa hanno mantenuto i fotoni delicati al sicuro dal rumore.",
+        "pl": "Cichsze obszary widma i precyzyjne taktowanie chroniły delikatne fotony przed szumem."
+      }
     }
   ],
   "youtube_url": ""

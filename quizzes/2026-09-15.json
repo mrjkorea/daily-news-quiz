@@ -17,7 +17,24 @@
         "A space agency"
       ],
       "answerIndex": 3,
-      "hintKo": "The report comes from BirdLife International, a conservation science organization."
+      "hintKo": "The report comes from BirdLife International, a conservation science organization.",
+      "hintI18n": {
+        "en": "The report comes from BirdLife International, a conservation science organization.",
+        "ko": "이 보고서는 보존 과학 단체인 버드라이프 인터내셔널에서 나왔습니다.",
+        "zh-Hans": "该报告来自国际鸟盟，一个保护科学组织。",
+        "ja": "この報告書は、保全科学組織であるバードライフ・インターナショナルによるものです。",
+        "es": "El informe proviene de BirdLife International, una organización de ciencia de la conservación.",
+        "hi": "यह रिपोर्ट बर्डलाइफ इंटरनेशनल से आती है, जो एक संरक्षण विज्ञान संगठन है।",
+        "de": "Der Bericht stammt von BirdLife International, einer Naturschutz-Wissenschaftsorganisation.",
+        "vi": "Báo cáo đến từ BirdLife International, một tổ chức khoa học bảo tồn.",
+        "pt-BR": "O relatório vem da BirdLife International, uma organização de ciência da conservação.",
+        "id": "Laporan tersebut berasal dari BirdLife International, sebuah organisasi ilmu konservasi.",
+        "fr": "Le rapport provient de BirdLife International, une organisation de science de la conservation.",
+        "ar": "التقرير صادر عن بيردلايف إنترناشونال، وهي منظمة علمية للحفاظ على الطبيعة.",
+        "tr": "Rapor, bir koruma bilimi kuruluşu olan BirdLife International'dan geliyor.",
+        "it": "Il rapporto proviene da BirdLife International, un'organizzazione di scienza della conservazione.",
+        "pl": "Raport pochodzi od BirdLife International, organizacji zajmującej się nauką o ochronie przyrody."
+      }
     },
     {
       "id": 2,
@@ -31,7 +48,24 @@
         "Forty-five percent"
       ],
       "answerIndex": 4,
-      "hintKo": "The decline figure in the report is forty-five percent."
+      "hintKo": "The decline figure in the report is forty-five percent.",
+      "hintI18n": {
+        "en": "The decline figure in the report is forty-five percent.",
+        "ko": "보고서에서 감소 수치는 45퍼센트입니다.",
+        "zh-Hans": "报告中的下降数字是百分之四十五。",
+        "ja": "報告書における減少の数字は45パーセントです。",
+        "es": "La cifra de disminución en el informe es del cuarenta y cinco por ciento.",
+        "hi": "रिपोर्ट में गिरावट का आंकड़ा पैंतालीस प्रतिशत है।",
+        "de": "Die Rückgangszahl im Bericht beträgt fünfundvierzig Prozent.",
+        "vi": "Con số suy giảm trong báo cáo là bốn mươi lăm phần trăm.",
+        "pt-BR": "O número de declínio no relatório é de quarenta e cinco por cento.",
+        "id": "Angka penurunan dalam laporan adalah empat puluh lima persen.",
+        "fr": "Le chiffre de déclin dans le rapport est de quarante-cinq pour cent.",
+        "ar": "رقم الانخفاض في التقرير هو خمسة وأربعون في المئة.",
+        "tr": "Rapordaki düşüş oranı yüzde kırk beştir.",
+        "it": "Il dato del declino nel rapporto è del quarantacinque per cento.",
+        "pl": "Liczba spadkowa w raporcie wynosi czterdzieści pięć procent."
+      }
     },
     {
       "id": 3,
@@ -45,7 +79,24 @@
         "Two hundred years ago"
       ],
       "answerIndex": 3,
-      "hintKo": "The curlew was declared extinct last year, the first such loss in mainland Europe and Africa in recent centuries."
+      "hintKo": "The curlew was declared extinct last year, the first such loss in mainland Europe and Africa in recent centuries.",
+      "hintI18n": {
+        "en": "The curlew was declared extinct last year, the first such loss in mainland Europe and Africa in recent centuries.",
+        "ko": "이 새는 작년에 멸종된 것으로 선언되었으며, 최근 수세기 동안 유럽 본토와 아프리카에서 이런 손실은 처음입니다.",
+        "zh-Hans": "这种鹬去年被宣布灭绝，这是近几个世纪以来欧洲大陆和非洲首次出现此类损失。",
+        "ja": "この鳥は昨年絶滅が宣言され、ヨーロッパ本土とアフリカではここ数世紀で初めての損失となりました。",
+        "es": "El zarapito fue declarado extinto el año pasado, la primera pérdida de este tipo en Europa continental y África en siglos recientes.",
+        "hi": "इस पक्षी को पिछले साल विलुप्त घोषित किया गया था, हाल की सदियों में मुख्य भूमि यूरोप और अफ्रीका में ऐसा पहला नुकसान।",
+        "de": "Der Brachvogel wurde letztes Jahr für ausgestorben erklärt, der erste derartige Verlust im europäischen Festland und Afrika in den letzten Jahrhunderten.",
+        "vi": "Chim dẽ mỏ cứng được tuyên bố tuyệt chủng vào năm ngoái, đây là tổn thất đầu tiên như vậy ở lục địa châu Âu và châu Phi trong những thế kỷ gần đây.",
+        "pt-BR": "O maçarico-de-bico-fino foi declarado extinto no ano passado, a primeira perda desse tipo na Europa continental e na África em séculos recentes.",
+        "id": "Gajahan dinyatakan punah tahun lalu, kehilangan pertama semacam ini di daratan Eropa dan Afrika dalam beberapa abad terakhir.",
+        "fr": "Le courlis à bec grêle a été déclaré éteint l'année dernière, la première perte de ce type en Europe continentale et en Afrique au cours des siècles récents.",
+        "ar": "أُعلن انقراض الكروان العام الماضي، وهي أول خسارة من هذا النوع في البر الرئيسي لأوروبا وأفريقيا في القرون الأخيرة.",
+        "tr": "Kervan kuşu geçen yıl nesli tükenmiş ilan edildi; bu, son yüzyıllarda Avrupa anakarası ve Afrika'da böyle bir ilk kayıp.",
+        "it": "Il chiurlo è stato dichiarato estinto l'anno scorso, la prima perdita di questo tipo nell'Europa continentale e in Africa negli ultimi secoli.",
+        "pl": "Kulik został uznany za wymarłego w zeszłym roku; to pierwsza taka strata w Europie kontynentalnej i Afryce w ostatnich stuleciach."
+      }
     },
     {
       "id": 4,
@@ -59,7 +110,24 @@
         "Inside a shopping centre in Madrid"
       ],
       "answerIndex": 0,
-      "hintKo": "The pledge was signed in Nairobi, Kenya."
+      "hintKo": "The pledge was signed in Nairobi, Kenya.",
+      "hintI18n": {
+        "en": "The pledge was signed in Nairobi, Kenya.",
+        "ko": "이 서약은 케냐의 나이로비에서 서명되었습니다.",
+        "zh-Hans": "该承诺在肯尼亚内罗毕签署。",
+        "ja": "この誓約はケニアのナイロビで署名されました。",
+        "es": "El compromiso se firmó en Nairobi, Kenia.",
+        "hi": "यह प्रतिज्ञा केन्या के नैरोबी में हस्ताक्षरित की गई थी।",
+        "de": "Das Versprechen wurde in Nairobi, Kenia, unterzeichnet.",
+        "vi": "Cam kết đã được ký tại Nairobi, Kenya.",
+        "pt-BR": "O compromisso foi assinado em Nairóbi, Quênia.",
+        "id": "Janji tersebut ditandatangani di Nairobi, Kenya.",
+        "fr": "L'engagement a été signé à Nairobi, au Kenya.",
+        "ar": "تم التوقيع على التعهد في نيروبي، كينيا.",
+        "tr": "Taahhüt, Kenya'nın Nairobi kentinde imzalandı.",
+        "it": "L'impegno è stato firmato a Nairobi, in Kenya.",
+        "pl": "Zobowiązanie zostało podpisane w Nairobi w Kenii."
+      }
     },
     {
       "id": 5,
@@ -73,7 +141,24 @@
         "They cannot fly"
       ],
       "answerIndex": 0,
-      "hintKo": "These birds suffer because their ocean and coastal habitats are damaged."
+      "hintKo": "These birds suffer because their ocean and coastal habitats are damaged.",
+      "hintI18n": {
+        "en": "These birds suffer because their ocean and coastal habitats are damaged.",
+        "ko": "이 새들은 바다와 연안 서식지가 파괴되어 고통을 겪고 있습니다.",
+        "zh-Hans": "这些鸟类之所以受害，是因为它们的海洋和沿海栖息地遭到破坏。",
+        "ja": "これらの鳥は、海と沿岸の生息地が損なわれているために苦しんでいます。",
+        "es": "Estas aves sufren porque sus hábitats oceánicos y costeros están dañados.",
+        "hi": "इन पक्षियों को इसलिए नुकसान होता है क्योंकि उनके समुद्री और तटीय आवास क्षतिग्रस्त हैं।",
+        "de": "Diese Vögel leiden, weil ihre Meeres- und Küstenlebensräume geschädigt sind.",
+        "vi": "Những loài chim này chịu tổn thất vì môi trường sống ở đại dương và ven biển của chúng bị hư hại.",
+        "pt-BR": "Essas aves sofrem porque seus habitats oceânicos e costeiros estão danificados.",
+        "id": "Burung-burung ini menderita karena habitat laut dan pesisir mereka rusak.",
+        "fr": "Ces oiseaux souffrent parce que leurs habitats océaniques et côtiers sont endommagés.",
+        "ar": "تعاني هذه الطيور لأن موائلها البحرية والساحلية تضررت.",
+        "tr": "Bu kuşlar, okyanus ve kıyı habitatları zarar gördüğü için acı çekiyor.",
+        "it": "Questi uccelli soffrono perché i loro habitat oceanici e costieri sono danneggiati.",
+        "pl": "Te ptaki cierpią, ponieważ ich siedliska oceaniczne i przybrzeżne są zniszczone."
+      }
     },
     {
       "id": 6,
@@ -87,7 +172,24 @@
         "One hundred million euros only"
       ],
       "answerIndex": 3,
-      "hintKo": "The banking pledge is about six billion dollars."
+      "hintKo": "The banking pledge is about six billion dollars.",
+      "hintI18n": {
+        "en": "The banking pledge is about six billion dollars.",
+        "ko": "은행들의 지원 약속은 약 60억 달러입니다.",
+        "zh-Hans": "银行业承诺的金额约为六十亿美元。",
+        "ja": "銀行による拠出約束は約60億ドルです。",
+        "es": "La promesa del sector bancario es de unos seis mil millones de dólares.",
+        "hi": "बैंकिंग क्षेत्र की प्रतिबद्धता लगभग छह अरब डॉलर की है।",
+        "de": "Die Zusage der Banken beträgt etwa sechs Milliarden Dollar.",
+        "vi": "Cam kết của ngân hàng là khoảng sáu tỷ đô la.",
+        "pt-BR": "A promessa dos bancos é de cerca de seis bilhões de dólares.",
+        "id": "Komitmen perbankan sekitar enam miliar dolar.",
+        "fr": "L'engagement des banques s'élève à environ six milliards de dollars.",
+        "ar": "التعهد المصرفي حوالي ستة مليارات دولار.",
+        "tr": "Bankacılık taahhüdü yaklaşık altı milyar dolar.",
+        "it": "L'impegno delle banche è di circa sei miliardi di dollari.",
+        "pl": "Zobowiązanie banków wynosi około sześciu miliardów dolarów."
+      }
     }
   ],
   "youtube_url": ""
