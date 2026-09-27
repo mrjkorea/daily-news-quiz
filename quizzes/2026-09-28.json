@@ -1,0 +1,195 @@
+{
+  "id": "2026-09-28",
+  "date": "2026-09-28",
+  "title": "Daily News Quiz · 2026-09-28",
+  "headline": "TikTok agrees to teen time limits in its first US state safety settlement",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who reached a settlement with TikTok over teen safety?",
+      "choices": [
+        "The European Union",
+        "The United Nations",
+        "A school in Seoul",
+        "The state of Alabama",
+        "A phone company in Japan"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Alabama settled with TikTok and ByteDance days before trial.",
+      "hintI18n": {
+        "en": "Alabama settled with TikTok and ByteDance days before trial.",
+        "ko": "앨라배마는 재판 며칠 전에 틱톡 및 바이트댄스와 합의했습니다.",
+        "zh-Hans": "阿拉巴马州在庭审前几天与TikTok和字节跳动达成和解。",
+        "ja": "アラバマ州は裁判の数日前にTikTokとByteDanceと和解した。",
+        "es": "Alabama llegó a un acuerdo con TikTok y ByteDance días antes del juicio.",
+        "hi": "अलबामा ने मुकदमे से कुछ दिन पहले टिकटॉक और बाइटडांस के साथ समझौता किया।",
+        "de": "Alabama einigte sich wenige Tage vor der Verhandlung mit TikTok und ByteDance.",
+        "vi": "Alabama đã đạt được thỏa thuận với TikTok và ByteDance vài ngày trước phiên tòa.",
+        "pt-BR": "O Alabama chegou a um acordo com o TikTok e a ByteDance dias antes do julgamento.",
+        "id": "Alabama mencapai penyelesaian dengan TikTok dan ByteDance beberapa hari sebelum persidangan.",
+        "fr": "L’Alabama a conclu un accord avec TikTok et ByteDance quelques jours avant le procès.",
+        "ar": "توصلت ألاباما إلى تسوية مع تيك توك و بايت دانس قبل أيام من المحاكمة.",
+        "tr": "Alabama, duruşmadan günler önce TikTok ve ByteDance ile anlaştı.",
+        "it": "L'Alabama ha raggiunto un accordo con TikTok e ByteDance pochi giorni prima del processo.",
+        "pl": "Alabama zawarła ugodę z TikTokiem i ByteDance na kilka dni przed procesem."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What daily time limit will teenagers in Alabama face?",
+      "choices": [
+        "No limit at all",
+        "A fee for every clip",
+        "A weekly ban on video",
+        "Only weekend use",
+        "A two-hour daily limit"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The deal sets a two-hour daily time limit for teenagers in Alabama.",
+      "hintI18n": {
+        "en": "The deal sets a two-hour daily time limit for teenagers in Alabama.",
+        "ko": "이 합의는 앨라배마의 청소년에게 하루 2시간 이용 제한을 둡니다.",
+        "zh-Hans": "该协议为阿拉巴马州青少年设定了每天两小时的时间限制。",
+        "ja": "この合意により、アラバマ州のティーンエイジャーには1日2時間の制限が設けられる。",
+        "es": "El acuerdo establece un límite diario de dos horas para los adolescentes en Alabama.",
+        "hi": "समझौता अलबामा में किशोरों के लिए प्रतिदिन दो घंटे की समय सीमा तय करता है।",
+        "de": "Die Vereinbarung legt für Teenager in Alabama ein tägliches Zeitlimit von zwei Stunden fest.",
+        "vi": "Thỏa thuận đặt giới hạn hai giờ mỗi ngày cho thanh thiếu niên ở Alabama.",
+        "pt-BR": "O acordo estabelece um limite diário de duas horas para adolescentes no Alabama.",
+        "id": "Kesepakatan itu menetapkan batas waktu dua jam per hari bagi remaja di Alabama.",
+        "fr": "L’accord fixe une limite quotidienne de deux heures pour les adolescents en Alabama.",
+        "ar": "تفرض الاتفاقية حدًا زمنيًا يوميًا مدته ساعتان للمراهقين في ألاباما.",
+        "tr": "Anlaşma, Alabama'daki gençler için günlük iki saatlik süre sınırı getiriyor.",
+        "it": "L'accordo stabilisce un limite giornaliero di due ore per gli adolescenti in Alabama.",
+        "pl": "Umowa ustanawia dzienny limit dwóch godzin dla nastolatków w Alabamie."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the settlement arrive?",
+      "choices": [
+        "Ten years after the trial",
+        "During a holiday shutdown",
+        "Days before a scheduled trial",
+        "On the morning the app first launched",
+        "After the trial had already ended"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The agreement came only days before the Montgomery trial was set to start.",
+      "hintI18n": {
+        "en": "The agreement came only days before the Montgomery trial was set to start.",
+        "ko": "이 합의는 몽고메리 재판이 시작되기 불과 며칠 전에 나왔습니다.",
+        "zh-Hans": "该协议在蒙哥马利庭审即将开始的前几天才达成。",
+        "ja": "この合意は、モンゴメリーでの裁判が始まるわずか数日前に成立した。",
+        "es": "El acuerdo se produjo solo días antes de que comenzara el juicio de Montgomery.",
+        "hi": "यह समझौता मॉन्टगोमेरी में मुकदमा शुरू होने से कुछ दिन पहले हुआ।",
+        "de": "Die Einigung kam nur wenige Tage, bevor der Prozess in Montgomery beginnen sollte.",
+        "vi": "Thỏa thuận được đưa ra chỉ vài ngày trước khi phiên tòa ở Montgomery bắt đầu.",
+        "pt-BR": "O acordo surgiu apenas dias antes de o julgamento em Montgomery começar.",
+        "id": "Kesepakatan itu terjadi hanya beberapa hari sebelum persidangan Montgomery dimulai.",
+        "fr": "L’accord est intervenu quelques jours seulement avant le début du procès de Montgomery.",
+        "ar": "جاء الاتفاق قبل أيام فقط من بدء محاكمة مونتغومري.",
+        "tr": "Anlaşma, Montgomery duruşmasının başlamasından sadece günler önce geldi.",
+        "it": "L'accordo è arrivato solo pochi giorni prima dell'inizio del processo di Montgomery.",
+        "pl": "Porozumienie nastąpiło zaledwie kilka dni przed rozpoczęciem procesu w Montgomery."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does this first state settlement apply?",
+      "choices": [
+        "Only on desktop computers",
+        "Only in school classrooms",
+        "Alabama",
+        "Only inside China",
+        "Every country at once"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The settlement applies in Alabama, even if later product changes may spread.",
+      "hintI18n": {
+        "en": "The settlement applies in Alabama, even if later product changes may spread.",
+        "ko": "이 합의는 앨라배마에 적용되며, 이후 제품 변경이 다른 곳으로 퍼질 수도 있습니다.",
+        "zh-Hans": "该和解适用于阿拉巴马州，尽管之后的产品变化可能会推广到其他地区。",
+        "ja": "この和解はアラバマ州に適用されるが、後の製品変更が広がる可能性はある。",
+        "es": "El acuerdo se aplica en Alabama, aunque cambios posteriores del producto podrían extenderse.",
+        "hi": "यह समझौता अलबामा में लागू होता है, भले ही बाद के उत्पाद बदलाव आगे फैल सकें।",
+        "de": "Der Vergleich gilt in Alabama, auch wenn spätere Produktänderungen sich ausbreiten könnten.",
+        "vi": "Thỏa thuận áp dụng ở Alabama, dù các thay đổi sản phẩm sau này có thể lan rộng.",
+        "pt-BR": "O acordo se aplica no Alabama, mesmo que mudanças posteriores no produto possam se espalhar.",
+        "id": "Penyelesaian ini berlaku di Alabama, meskipun perubahan produk nanti mungkin menyebar.",
+        "fr": "L’accord s’applique en Alabama, même si de futurs changements de produit pourraient s’étendre.",
+        "ar": "تنطبق التسوية في ألاباما، حتى لو انتشرت تغييرات المنتج لاحقًا.",
+        "tr": "Anlaşma Alabama'da geçerli olsa da sonraki ürün değişiklikleri yayılabilir.",
+        "it": "L'accordo si applica in Alabama, anche se successivi cambiamenti del prodotto potrebbero diffondersi.",
+        "pl": "Ugoda obowiązuje w Alabamie, choć późniejsze zmiany produktu mogą się rozprzestrzenić."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did Alabama sue TikTok?",
+      "choices": [
+        "It said the app was too slow",
+        "It wanted a new logo",
+        "It wanted to buy the company",
+        "It said videos were too short",
+        "It said the app was addictive and could push harmful content to young users"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Alabama said the algorithm and endless videos endangered teen well-being.",
+      "hintI18n": {
+        "en": "Alabama said the algorithm and endless videos endangered teen well-being.",
+        "ko": "앨라배마는 알고리즘과 끝없는 동영상이 청소년의 건강을 위협한다고 말했습니다.",
+        "zh-Hans": "阿拉巴马州表示，算法和无休止的视频危害了青少年的身心健康。",
+        "ja": "アラバマ州は、アルゴリズムと終わりのない動画が10代の健全性を危険にさらすと述べた。",
+        "es": "Alabama dijo que el algoritmo y los videos interminables ponían en peligro el bienestar de los adolescentes.",
+        "hi": "अलबामा ने कहा कि एल्गोरिदम और अंतहीन वीडियो किशोरों की भलाई को खतरे में डालते हैं।",
+        "de": "Alabama erklärte, der Algorithmus und endlose Videos gefährdeten das Wohl von Teenagern.",
+        "vi": "Alabama cho rằng thuật toán và các video vô tận gây nguy hiểm cho sức khỏe tinh thần của thanh thiếu niên.",
+        "pt-BR": "O Alabama disse que o algoritmo e vídeos infinitos colocavam em risco o bem-estar dos adolescentes.",
+        "id": "Alabama mengatakan algoritma dan video tanpa akhir membahayakan kesejahteraan remaja.",
+        "fr": "L’Alabama a déclaré que l’algorithme et les vidéos sans fin menaçaient le bien-être des adolescents.",
+        "ar": "قالت ألاباما إن الخوارزمية والفيديوهات اللانهائية تعرض رفاه المراهقين للخطر.",
+        "tr": "Alabama, algoritmanın ve sonsuz videoların gençlerin iyilik halini tehlikeye attığını söyledi.",
+        "it": "L'Alabama ha affermato che l'algoritmo e i video infiniti mettevano a rischio il benessere degli adolescenti.",
+        "pl": "Alabama twierdziła, że algorytm i nieskończone filmy zagrażają dobrostanowi nastolatków."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How will TikTok change the app for teens in that state?",
+      "choices": [
+        "With a daily time limit, pauses after fifteen minutes, and stricter age checks",
+        "By turning the app into a newspaper",
+        "By removing the search button only",
+        "By charging a fee to watch one video",
+        "By deleting every video"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The deal requires a time cap, short pauses, and stronger age verification.",
+      "hintI18n": {
+        "en": "The deal requires a time cap, short pauses, and stronger age verification.",
+        "ko": "이 합의는 시간 제한, 짧은 휴식, 더 강화된 연령 확인을 요구합니다.",
+        "zh-Hans": "该协议要求设置时间上限、短暂休息和更严格的年龄验证。",
+        "ja": "この合意は、時間制限、短い休止、より厳格な年齢確認を求めている。",
+        "es": "El acuerdo exige un límite de tiempo, pausas breves y una verificación de edad más estricta.",
+        "hi": "समझौता समय सीमा, छोटे विराम और अधिक मजबूत आयु सत्यापन की मांग करता है।",
+        "de": "Die Vereinbarung verlangt eine Zeitbegrenzung, kurze Pausen und eine strengere Altersverifizierung.",
+        "vi": "Thỏa thuận yêu cầu giới hạn thời gian, tạm dừng ngắn và xác minh độ tuổi chặt chẽ hơn.",
+        "pt-BR": "O acordo exige um limite de tempo, pausas curtas e verificação de idade mais forte.",
+        "id": "Kesepakatan itu memerlukan batas waktu, jeda singkat, dan verifikasi usia yang lebih kuat.",
+        "fr": "L’accord exige un plafond de temps, de courtes pauses et une vérification d’âge renforcée.",
+        "ar": "تتطلب الاتفاقية حدًا زمنيًا وفواصل قصيرة وتحققًا أقوى من العمر.",
+        "tr": "Anlaşma bir süre sınırı, kısa molalar ve daha güçlü yaş doğrulaması gerektiriyor.",
+        "it": "L'accordo richiede un limite di tempo, brevi pause e una verifica dell'età più forte.",
+        "pl": "Umowa wymaga limitu czasu, krótkich przerw i silniejszej weryfikacji wieku."
+      }
+    }
+  ]
+}
