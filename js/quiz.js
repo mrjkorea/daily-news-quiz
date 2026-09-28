@@ -162,6 +162,32 @@
       ${missHtml}`;
   };
 
+  // Jay 28SEP2026: quiz result also lands in the ONE score book.
+  const WHO_KEY = "mrj.news-quiz.student";
+  const logToOneBook = (right, total) => {
+    if (!window.MRJ_SCORES) return;
+    let who = "";
+    try { who = (localStorage.getItem(WHO_KEY) || "").trim(); } catch (e) {}
+    if (!who) {
+      const typed = window.prompt("Your name (so the score goes to your page):", "");
+      who = (typed || "").trim();
+      if (who) { try { localStorage.setItem(WHO_KEY, who); } catch (e) {} }
+    }
+    const slug = (document.title || location.pathname || "quiz").replace(/\s+/g, " ").trim();
+    window.MRJ_SCORES.post({
+      student: who || "unknown",
+      program: "daily-news-quiz",
+      appName: "MRJ Daily ESL News Quiz",
+      source: "daily-news-quiz",
+      bookTitle: slug,
+      unitTitle: slug,
+      itemId: "news-quiz:" + slug + ":" + new Date().toISOString().slice(0, 10),
+      itemType: "quiz",
+      scoreValue: right,
+      scoreMax: total,
+    });
+  };
+
   const grade = () => {
     const rec = JSON.parse(localStorage.getItem(key()) || '{"attempts":0}');
     rec.attempts += 1;
@@ -171,6 +197,7 @@
     });
     rec.last = right;
     localStorage.setItem(key(), JSON.stringify(rec));
+    try { logToOneBook(right, data.questions.length); } catch (e) {}
     graded = true;
     paintResults();
     $("#results").scrollIntoView({ behavior: "smooth", block: "start" });
