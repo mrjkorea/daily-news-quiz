@@ -1,0 +1,195 @@
+{
+  "id": "2026-09-29",
+  "date": "2026-09-29",
+  "title": "Daily News Quiz · 2026-09-29",
+  "headline": "Scented cleaners can fill a home with invisible nanoparticles within minutes",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the Purdue study of scented cleaners?",
+      "choices": [
+        "A soap company spokesperson",
+        "Brandon Boor and his team",
+        "A city mayor",
+        "A weather agency",
+        "A hospital nurse"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Brandon Boor at Purdue University led the indoor-air study.",
+      "hintI18n": {
+        "en": "Brandon Boor at Purdue University led the indoor-air study.",
+        "ko": "퍼듀 대학교의 브랜든 부어가 실내 공기 연구를 이끌었습니다.",
+        "zh-Hans": "普渡大学的布兰登·博尔领导了这项室内空气研究。",
+        "ja": "パデュー大学のブランドン・ブールが室内空気の研究を主導しました。",
+        "es": "Brandon Boor, de la Universidad de Purdue, dirigió el estudio del aire interior.",
+        "hi": "पर्ड्यू विश्वविद्यालय के ब्रैंडन बोर ने इनडोर वायु अध्ययन का नेतृत्व किया।",
+        "de": "Brandon Boor von der Purdue University leitete die Studie zur Innenraumluft.",
+        "vi": "Brandon Boor tại Đại học Purdue đã dẫn đầu nghiên cứu về không khí trong nhà.",
+        "pt-BR": "Brandon Boor, da Universidade Purdue, liderou o estudo do ar interno.",
+        "id": "Brandon Boor dari Purdue University memimpin studi udara dalam ruangan.",
+        "fr": "Brandon Boor, de l’université Purdue, a dirigé l’étude sur l’air intérieur.",
+        "ar": "قاد براندون بور من جامعة بيردو دراسة الهواء الداخلي.",
+        "tr": "Purdue Üniversitesi'nden Brandon Boor, iç hava araştırmasını yönetti.",
+        "it": "Brandon Boor della Purdue University ha guidato lo studio sull'aria interna.",
+        "pl": "Brandon Boor z Purdue University kierował badaniem powietrza wewnętrznego."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What can a fresh cleaning smell hide?",
+      "choices": [
+        "A cloud of invisible nanoparticles",
+        "A leak in the roof",
+        "A lost key",
+        "A broken window",
+        "A loud fan"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Scented cleaners can create invisible nanoparticles that a room can still smell fresh around.",
+      "hintI18n": {
+        "en": "Scented cleaners can create invisible nanoparticles that a room can still smell fresh around.",
+        "ko": "향이 나는 세정제는 보이지 않는 나노입자를 만들 수 있으며, 방은 여전히 상쾌한 냄새가 날 수 있습니다.",
+        "zh-Hans": "带香味的清洁剂会产生看不见的纳米颗粒，而房间里仍可能闻起来很清新。",
+        "ja": "香り付きのクリーナーは目に見えないナノ粒子を生み出すことがあり、部屋はまだ爽やかな香りがすることがあります。",
+        "es": "Los limpiadores con fragancia pueden crear nanopartículas invisibles, aunque la habitación todavía puede oler a fresco.",
+        "hi": "सुगंधित क्लीनर अदृश्य नैनोकण बना सकते हैं, फिर भी कमरे में ताज़ा महक बनी रह सकती है।",
+        "de": "Duftende Reiniger können unsichtbare Nanopartikel bilden, während der Raum weiterhin frisch riechen kann.",
+        "vi": "Các chất tẩy rửa có mùi thơm có thể tạo ra các hạt nano vô hình, trong khi căn phòng vẫn có thể có mùi thơm mát.",
+        "pt-BR": "Produtos de limpeza com fragrância podem criar nanopartículas invisíveis, enquanto o ambiente ainda pode cheirar a fresco.",
+        "id": "Pembersih beraroma dapat menciptakan nanopartikel tak terlihat, sementara ruangan masih bisa tercium segar.",
+        "fr": "Les nettoyants parfumés peuvent créer des nanoparticules invisibles, alors que la pièce peut encore sentir bon.",
+        "ar": "يمكن أن تنتج منظفات معطرة جزيئات نانوية غير مرئية، بينما قد تظل الغرفة ذات رائحة منعشة.",
+        "tr": "Kokulu temizleyiciler görünmez nanopartiküller oluşturabilir; oda hâlâ ferah kokabilir.",
+        "it": "I detergenti profumati possono creare nanoparticelle invisibili, mentre la stanza può ancora odorare di fresco.",
+        "pl": "Pachnące środki czyszczące mogą tworzyć niewidoczne nanocząstki, a pomieszczenie nadal może pachnieć świeżo."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When do the nanoparticles form?",
+      "choices": [
+        "Only in winter storms",
+        "Only after the bottle is empty for a month",
+        "After one full year",
+        "Only the next morning",
+        "Within minutes of cleaning"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The particles form within minutes, often before the cleaning looks finished.",
+      "hintI18n": {
+        "en": "The particles form within minutes, often before the cleaning looks finished.",
+        "ko": "입자는 몇 분 안에 형성되며, 종종 청소가 끝나 보이기 전에 생깁니다.",
+        "zh-Hans": "这些颗粒会在几分钟内形成，常常在清洁看起来完成之前就已产生。",
+        "ja": "その粒子は数分以内に形成され、多くの場合、掃除が終わったように見える前に発生します。",
+        "es": "Las partículas se forman en pocos minutos, a menudo antes de que la limpieza parezca terminada.",
+        "hi": "ये कण कुछ ही मिनटों में बन जाते हैं, अक्सर सफाई पूरी दिखने से पहले।",
+        "de": "Die Partikel entstehen innerhalb von Minuten, oft bevor die Reinigung abgeschlossen aussieht.",
+        "vi": "Các hạt này hình thành trong vòng vài phút, thường trước khi việc lau chùi có vẻ xong.",
+        "pt-BR": "As partículas se formam em poucos minutos, muitas vezes antes de a limpeza parecer concluída.",
+        "id": "Partikel terbentuk dalam beberapa menit, sering kali sebelum pembersihan terlihat selesai.",
+        "fr": "Les particules se forment en quelques minutes, souvent avant que le nettoyage ne semble terminé.",
+        "ar": "تتكوّن الجسيمات خلال دقائق، غالبًا قبل أن تبدو عملية التنظيف منتهية.",
+        "tr": "Parçacıklar dakikalar içinde oluşur; çoğu zaman temizlik bitmiş görünmeden önce.",
+        "it": "Le particelle si formano in pochi minuti, spesso prima che la pulizia sembri finita.",
+        "pl": "Cząstki tworzą się w ciągu kilku minut, często zanim sprzątanie będzie wyglądać na zakończone."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the team test the cleaners?",
+      "choices": [
+        "Inside a small model house at Purdue",
+        "In a subway tunnel",
+        "In a forest at night",
+        "On a city bus",
+        "On a ship"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They cleaned inside a small model house on the Purdue campus.",
+      "hintI18n": {
+        "en": "They cleaned inside a small model house on the Purdue campus.",
+        "ko": "그들은 퍼듀 캠퍼스의 작은 모형 집 안을 청소했습니다.",
+        "zh-Hans": "他们在普渡校园里的一个小模型屋内进行了清洁。",
+        "ja": "彼らはパデュー大学のキャンパスにある小さな模型住宅の中で清掃しました。",
+        "es": "Limpiaron dentro de una pequeña casa modelo en el campus de Purdue.",
+        "hi": "उन्होंने पर्ड्यू परिसर में एक छोटे मॉडल घर के अंदर सफाई की।",
+        "de": "Sie reinigten im Inneren eines kleinen Modellhauses auf dem Purdue-Campus.",
+        "vi": "Họ lau chùi bên trong một ngôi nhà mô hình nhỏ trong khuôn viên Purdue.",
+        "pt-BR": "Eles limparam dentro de uma pequena casa modelo no campus da Purdue.",
+        "id": "Mereka membersihkan di dalam rumah model kecil di kampus Purdue.",
+        "fr": "Ils ont nettoyé à l’intérieur d’une petite maison modèle sur le campus de Purdue.",
+        "ar": "نظّفوا داخل منزل نموذجي صغير في حرم جامعة بيردو.",
+        "tr": "Purdue kampüsündeki küçük bir maket evin içini temizlediler.",
+        "it": "Hanno pulito all'interno di una piccola casa modello nel campus della Purdue.",
+        "pl": "Sprzątali wewnątrz małego domu modelowego na kampusie Purdue."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are these particles a health concern?",
+      "choices": [
+        "They stain the floor yellow",
+        "They make the lights flicker",
+        "They freeze the water pipes",
+        "They are ultrafine and can travel deep into the lungs",
+        "They erase phone photos"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Ultrafine particles can reach deep lung areas, and the inhaled dose can rival roadside traffic.",
+      "hintI18n": {
+        "en": "Ultrafine particles can reach deep lung areas, and the inhaled dose can rival roadside traffic.",
+        "ko": "초미세 입자는 폐 깊숙한 곳까지 도달할 수 있으며, 흡입량은 도로변 교통에 맞먹을 수 있습니다.",
+        "zh-Hans": "超细颗粒可以到达肺部深处，吸入量甚至可以与路边交通相当。",
+        "ja": "超微粒子は肺の奥深くまで到達することがあり、吸い込む量は道路沿いの交通に匹敵する可能性があります。",
+        "es": "Las partículas ultrafinas pueden llegar a zonas profundas de los pulmones, y la dosis inhalada puede igualar la del tráfico en carretera.",
+        "hi": "अति सूक्ष्म कण फेफड़ों की गहराई तक पहुँच सकते हैं, और श्वसन की मात्रा सड़क किनारे यातायात के बराबर हो सकती है।",
+        "de": "Ultrafeine Partikel können tief in die Lunge gelangen, und die eingeatmete Dosis kann mit der an stark befahrenen Straßen mithalten.",
+        "vi": "Các hạt siêu mịn có thể đi sâu vào phổi, và lượng hít vào có thể tương đương với giao thông ven đường.",
+        "pt-BR": "Partículas ultrafinas podem atingir áreas profundas dos pulmões, e a dose inalada pode se equiparar à do tráfego em beira de estrada.",
+        "id": "Partikel ultrafine dapat mencapai area paru-paru yang dalam, dan dosis yang terhirup bisa menyaingi lalu lintas di tepi jalan.",
+        "fr": "Les particules ultrafines peuvent atteindre les zones profondes des poumons, et la dose inhalée peut égaler celle du trafic routier.",
+        "ar": "يمكن أن تصل الجسيمات فائقة الدقة إلى أعماق الرئتين، وقد تضاهي الجرعة المستنشقة حركة المرور على جانب الطريق.",
+        "tr": "Ultra ince parçacıklar akciğerlerin derin bölgelerine ulaşabilir ve solunan miktar yol kenarı trafiğiyle yarışabilir.",
+        "it": "Le particelle ultrafini possono raggiungere le zone profonde dei polmoni, e la dose inalata può eguagliare quella del traffico stradale.",
+        "pl": "Ultradrobne cząstki mogą docierać do głębokich partii płuc, a wdychana dawka może dorównywać tej przy ruchu drogowym."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How can a household cut the exposure?",
+      "choices": [
+        "Close every window and add an ozone lamp",
+        "Spray more fragrance",
+        "Mix three scented sprays at once",
+        "Burn a candle in a shut room",
+        "Use unscented products and open a window or run an exhaust fan"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The team recommends unscented products, ventilation, and no ozone lamp during scented cleaning.",
+      "hintI18n": {
+        "en": "The team recommends unscented products, ventilation, and no ozone lamp during scented cleaning.",
+        "ko": "연구팀은 무향 제품, 환기, 그리고 향이 나는 세정제 사용 중에는 오존 램프를 쓰지 말 것을 권장합니다.",
+        "zh-Hans": "研究团队建议使用无香产品、保持通风，并在使用香味清洁剂时不要开臭氧灯。",
+        "ja": "研究チームは、無香料製品、換気、そして香り付き洗剤を使う際はオゾンランプを使わないことを勧めています。",
+        "es": "El equipo recomienda productos sin fragancia, ventilación y no usar lámpara de ozono durante la limpieza con fragancia.",
+        "hi": "टीम सुगंधरहित उत्पाद, हवादारी और सुगंधित सफाई के दौरान ओज़ोन लैंप न इस्तेमाल करने की सलाह देती है।",
+        "de": "Das Team empfiehlt parfümfreie Produkte, Lüftung und keine Ozonlampe während der Reinigung mit Duft.",
+        "vi": "Nhóm khuyến nghị dùng sản phẩm không mùi, thông gió và không bật đèn ozone khi lau chùi bằng sản phẩm có mùi thơm.",
+        "pt-BR": "A equipe recomenda produtos sem fragrância, ventilação e não usar lâmpada de ozônio durante a limpeza com produtos perfumados.",
+        "id": "Tim menyarankan produk tanpa aroma, ventilasi, dan tidak menyalakan lampu ozon saat membersihkan dengan produk beraroma.",
+        "fr": "L’équipe recommande des produits sans parfum, une bonne ventilation et pas de lampe à ozone pendant le nettoyage parfumé.",
+        "ar": "يوصي الفريق باستخدام منتجات غير معطرة، والتهوية، وعدم استخدام مصباح الأوزون أثناء التنظيف بالمنتجات المعطرة.",
+        "tr": "Ekip, kokusuz ürünler, havalandırma ve kokulu temizlik sırasında ozon lambası kullanmamayı öneriyor.",
+        "it": "Il team consiglia prodotti senza profumo, ventilazione e nessuna lampada all'ozono durante la pulizia con prodotti profumati.",
+        "pl": "Zespół zaleca produkty bezzapachowe, wentylację i nieużywanie lampy ozonowej podczas sprzątania środkami zapachowymi."
+      }
+    }
+  ]
+}
