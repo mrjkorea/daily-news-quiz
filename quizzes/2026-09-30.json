@@ -1,0 +1,195 @@
+{
+  "id": "2026-09-30",
+  "date": "2026-09-30",
+  "title": "Daily News Quiz · 2026-09-30",
+  "headline": "A coral reef off Benin thought dead for sixty years is alive",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the new search for the reef?",
+      "choices": [
+        "Researchers in Benin",
+        "A museum in Paris",
+        "A fishing crew from Europe",
+        "A weather satellite only",
+        "A cruise company"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A team led by researchers in Benin relocated the reef.",
+      "hintI18n": {
+        "en": "A team led by researchers in Benin relocated the reef.",
+        "ko": "베냉의 연구원들이 이끄는 팀이 그 산호초의 위치를 다시 찾아냈습니다.",
+        "zh-Hans": "由贝宁研究人员领导的一个团队重新找到了该珊瑚礁的位置。",
+        "ja": "ベナンの研究者たちが率いるチームが、そのサンゴ礁の位置を再特定しました。",
+        "es": "Un equipo dirigido por investigadores de Benín volvió a localizar el arrecife.",
+        "hi": "बेनिन के शोधकर्ताओं के नेतृत्व वाली एक टीम ने रीफ का स्थान फिर से पता लगाया।",
+        "de": "Ein Team unter der Leitung von Forschern in Benin lokalisierte das Riff erneut.",
+        "vi": "Một nhóm do các nhà nghiên cứu ở Benin dẫn đầu đã xác định lại vị trí rạn san hô.",
+        "pt-BR": "Uma equipe liderada por pesquisadores no Benim localizou o recife novamente.",
+        "id": "Tim yang dipimpin peneliti di Benin menemukan kembali lokasi terumbu karang itu.",
+        "fr": "Une équipe dirigée par des chercheurs au Bénin a relocalisé le récif.",
+        "ar": "أعاد فريق بقيادة باحثين في بنين تحديد موقع الشعاب المرجانية.",
+        "tr": "Benin'deki araştırmacıların liderliğindeki bir ekip resifi yeniden buldu.",
+        "it": "Un team guidato da ricercatori in Benin ha ritrovato la posizione della barriera corallina.",
+        "pl": "Zespół kierowany przez badaczy w Beninie ponownie zlokalizował rafę."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the cameras find?",
+      "choices": [
+        "Healthy-looking coral patches and several kinds of fish",
+        "A sunken city",
+        "An empty sandy plain",
+        "A field of plastic bottles",
+        "A broken oil pipe only"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Cameras showed living coral patches and fish more than fifty meters down.",
+      "hintI18n": {
+        "en": "Cameras showed living coral patches and fish more than fifty meters down.",
+        "ko": "카메라는 50미터 넘는 깊이에서 살아 있는 산호 조각과 물고기를 보여 주었습니다.",
+        "zh-Hans": "摄像机显示，在五十多米深处有活珊瑚斑块和鱼。",
+        "ja": "カメラは50メートルより深い場所で生きたサンゴの群落と魚をとらえました。",
+        "es": "Las cámaras mostraron parches de coral vivo y peces a más de cincuenta metros de profundidad.",
+        "hi": "कैमरों ने पचास मीटर से अधिक गहराई में जीवित मूंगे के टुकड़े और मछलियाँ दिखाईं।",
+        "de": "Kameras zeigten lebende Korallenflecken und Fische in über fünfzig Metern Tiefe.",
+        "vi": "Camera cho thấy các mảng san hô sống và cá ở độ sâu hơn năm mươi mét.",
+        "pt-BR": "As câmeras mostraram trechos de coral vivo e peixes a mais de cinquenta metros de profundidade.",
+        "id": "Kamera menunjukkan bercak karang hidup dan ikan pada kedalaman lebih dari lima puluh meter.",
+        "fr": "Les caméras ont montré des taches de corail vivant et des poissons à plus de cinquante mètres de profondeur.",
+        "ar": "أظهرت الكاميرات بقع مرجان حية وأسماكًا على عمق أكثر من خمسين مترًا.",
+        "tr": "Kameralar elli metreden daha derinde yaşayan mercan parçaları ve balıklar gösterdi.",
+        "it": "Le telecamere hanno mostrato chiazze di corallo vivo e pesci a più di cinquanta metri di profondità.",
+        "pl": "Kamery pokazały żywe płaty koralowca i ryby na głębokości ponad pięćdziesięciu metrów."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When had surveys suggested the reef was dead?",
+      "choices": [
+        "More than sixty years ago",
+        "Last week",
+        "During a future storm",
+        "Yesterday morning",
+        "Only after this new search"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Older surveys, more than sixty years ago, had written the reef off.",
+      "hintI18n": {
+        "en": "Older surveys, more than sixty years ago, had written the reef off.",
+        "ko": "60여 년 전의 오래된 조사에서는 이 산호초가 죽은 것으로 여겼습니다.",
+        "zh-Hans": "六十多年前的旧调查曾认定该珊瑚礁已经死亡。",
+        "ja": "60年以上前の古い調査では、そのサンゴ礁は死んだものとみなされていました。",
+        "es": "Encuestas más antiguas, de hace más de sesenta años, habían dado el arrecife por muerto.",
+        "hi": "साठ वर्ष से अधिक पुराने सर्वेक्षणों ने रीफ को मृत मान लिया था।",
+        "de": "Ältere Untersuchungen von vor mehr als sechzig Jahren hatten das Riff bereits abgeschrieben.",
+        "vi": "Các cuộc khảo sát cũ hơn, hơn sáu mươi năm trước, đã coi rạn san hô này là đã chết.",
+        "pt-BR": "Levantamentos mais antigos, de mais de sessenta anos atrás, deram o recife como morto.",
+        "id": "Survei lama, lebih dari enam puluh tahun lalu, menganggap terumbu karang itu sudah mati.",
+        "fr": "Des études plus anciennes, vieilles de plus de soixante ans, avaient déclaré le récif mort.",
+        "ar": "اعتقدت مسوحات أقدم، منذ أكثر من ستين عامًا، أن الشعاب المرجانية ميتة.",
+        "tr": "Altmış yıldan daha eski araştırmalar resifi ölü kabul etmişti.",
+        "it": "Indagini più vecchie, di oltre sessant'anni fa, avevano dato la barriera corallina per morta.",
+        "pl": "Starsze badania sprzed ponad sześćdziesięciu lat uznały rafę za martwą."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the living reef?",
+      "choices": [
+        "Under the ice at the North Pole",
+        "In a city aquarium",
+        "On a beach in Seoul",
+        "Off the coast of Benin in West Africa",
+        "Inside a river in the Alps"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The reef is in deep water off Benin.",
+      "hintI18n": {
+        "en": "The reef is in deep water off Benin.",
+        "ko": "그 산호초는 베냉 앞바다 깊은 물속에 있습니다.",
+        "zh-Hans": "该珊瑚礁位于贝宁近海的深水中。",
+        "ja": "そのサンゴ礁はベナン沖の深い海にあります。",
+        "es": "El arrecife está en aguas profundas frente a Benín.",
+        "hi": "रीफ बेनिन के तट से दूर गहरे पानी में है।",
+        "de": "Das Riff liegt in tiefem Wasser vor Benin.",
+        "vi": "Rạn san hô nằm ở vùng nước sâu ngoài khơi Benin.",
+        "pt-BR": "O recife está em águas profundas ao largo do Benim.",
+        "id": "Terumbu karang itu berada di perairan dalam lepas pantai Benin.",
+        "fr": "Le récif se trouve dans des eaux profondes au large du Bénin.",
+        "ar": "تقع الشعاب المرجانية في مياه عميقة قبالة بنين.",
+        "tr": "Resif, Benin açıklarında derin suda bulunuyor.",
+        "it": "La barriera corallina si trova in acque profonde al largo del Benin.",
+        "pl": "Rafa znajduje się w głębokiej wodzie u wybrzeży Beninu."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why was the reef easy to miss?",
+      "choices": [
+        "It glows at noon on the beach",
+        "It is above the waves",
+        "It is inside a harbor wall",
+        "It only appears on maps in winter",
+        "It lives in dim light and is hard to reach"
+      ],
+      "answerIndex": 4,
+      "hintKo": "A deep, dim reef is difficult to visit, so it stayed overlooked.",
+      "hintI18n": {
+        "en": "A deep, dim reef is difficult to visit, so it stayed overlooked.",
+        "ko": "깊고 어두운 산호초는 찾아가기 어려워서 계속 간과되었습니다.",
+        "zh-Hans": "又深又暗的珊瑚礁很难探访，所以一直被人忽视。",
+        "ja": "深くて薄暗いサンゴ礁は訪れるのが難しく、見過ごされたままでした。",
+        "es": "Un arrecife profundo y oscuro es difícil de visitar, así que siguió pasando desapercibido.",
+        "hi": "गहरा और धुँधला रीफ देखने जाना कठिन है, इसलिए यह अनदेखा रह गया।",
+        "de": "Ein tiefes, dunkles Riff ist schwer zu besuchen, deshalb blieb es übersehen.",
+        "vi": "Một rạn san hô sâu và tối rất khó tiếp cận, nên nó vẫn bị bỏ qua.",
+        "pt-BR": "Um recife profundo e escuro é difícil de visitar, então permaneceu negligenciado.",
+        "id": "Terumbu karang yang dalam dan redup sulit dikunjungi, jadi tetap terabaikan.",
+        "fr": "Un récif profond et sombre est difficile d'accès, il est donc resté négligé.",
+        "ar": "يصعب الوصول إلى شعاب مرجانية عميقة وخافتة، لذلك بقيت مُغفَلة.",
+        "tr": "Derin ve loş bir resifi ziyaret etmek zordur, bu yüzden gözden kaçmış kaldı.",
+        "it": "Una barriera profonda e poco luminosa è difficile da visitare, quindi è rimasta trascurata.",
+        "pl": "Głęboka i ciemna rafa jest trudna do odwiedzenia, więc pozostawała niezauważona."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the team relocate the site?",
+      "choices": [
+        "By dropping a message in a bottle",
+        "By draining the ocean",
+        "With sonar maps, underwater drones, and deep-sea cameras",
+        "By asking a satellite to land",
+        "By walking on the reef at low tide"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Sonar, drones, and cameras found the old site again.",
+      "hintI18n": {
+        "en": "Sonar, drones, and cameras found the old site again.",
+        "ko": "소나, 드론, 카메라가 그 옛 위치를 다시 찾아냈습니다.",
+        "zh-Hans": "声呐、无人机和摄像机再次找到了旧地点。",
+        "ja": "ソナー、ドローン、カメラがその古い場所を再び見つけました。",
+        "es": "El sonar, los drones y las cámaras volvieron a encontrar el sitio antiguo.",
+        "hi": "सोनार, ड्रोन और कैमरों ने पुरानी जगह को फिर से ढूँढ निकाला।",
+        "de": "Sonar, Drohnen und Kameras fanden die alte Stelle wieder.",
+        "vi": "Sonar, máy bay không người lái và camera đã tìm lại được địa điểm cũ.",
+        "pt-BR": "Sonar, drones e câmeras encontraram o antigo local novamente.",
+        "id": "Sonar, drone, dan kamera menemukan kembali lokasi lama itu.",
+        "fr": "Le sonar, les drones et les caméras ont retrouvé l'ancien site.",
+        "ar": "عثر السونار والطائرات المسيّرة والكاميرات على الموقع القديم مرة أخرى.",
+        "tr": "Sonar, dronlar ve kameralar eski alanı yeniden buldu.",
+        "it": "Sonar, droni e telecamere hanno ritrovato il vecchio sito.",
+        "pl": "Sonar, drony i kamery ponownie odnalazły stare miejsce."
+      }
+    }
+  ]
+}
