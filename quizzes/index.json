@@ -1,5 +1,12 @@
 [
   {
+    "id": "2026-10-01",
+    "date": "2026-10-01",
+    "title": "Daily News Quiz · 2026-10-01",
+    "questionCount": 6,
+    "data": "quizzes/2026-10-01.json"
+  },
+  {
     "id": "2026-09-30",
     "date": "2026-09-30",
     "title": "Daily News Quiz · 2026-09-30",

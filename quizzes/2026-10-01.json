@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-01",
+  "date": "2026-10-01",
+  "title": "Daily News Quiz · 2026-10-01",
+  "headline": "CERN has begun disconnecting the Large Hadron Collider for stronger magnets",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who has begun disconnecting the Large Hadron Collider?",
+      "choices": [
+        "A city bus company",
+        "A shipping port",
+        "A film studio",
+        "A weather office",
+        "CERN"
+      ],
+      "answerIndex": 4,
+      "hintKo": "CERN crews cut the first magnet link and started the upgrade.",
+      "hintI18n": {
+        "en": "CERN crews cut the first magnet link and started the upgrade.",
+        "ko": "CERN 작업팀이 첫 자석 연결부를 절단하고 업그레이드를 시작했습니다.",
+        "zh-Hans": "欧洲核子研究中心（CERN）的工作人员切断了第一个磁体连接，并开始了升级。",
+        "ja": "CERNの作業チームが最初の磁石の接続部を切断し、アップグレードを開始しました。",
+        "es": "Los equipos del CERN cortaron el primer enlace de imanes y comenzaron la actualización.",
+        "hi": "CERN के कर्मचारियों ने पहला चुंबकीय जोड़ काटा और अपग्रेड शुरू किया।",
+        "de": "CERN-Teams trennten die erste Magnetverbindung und begannen mit dem Upgrade.",
+        "vi": "Các đội của CERN đã cắt liên kết nam châm đầu tiên và bắt đầu nâng cấp.",
+        "pt-BR": "Equipes do CERN cortaram a primeira ligação de ímãs e começaram a atualização.",
+        "id": "Kru CERN memotong sambungan magnet pertama dan memulai peningkatan.",
+        "fr": "Les équipes du CERN ont coupé la première liaison d'aimants et commencé la mise à niveau.",
+        "ar": "قامت فرق CERN بقطع أول وصلة مغناطيسية وبدأت الترقية.",
+        "tr": "CERN ekipleri ilk mıknatıs bağlantısını kesti ve yükseltmeye başladı.",
+        "it": "Le squadre del CERN hanno tagliato il primo collegamento dei magneti e iniziato l'aggiornamento.",
+        "pl": "Ekipy CERN przecięły pierwsze połączenie magnesu i rozpoczęły modernizację."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What are crews replacing?",
+      "choices": [
+        "The parking lot lights",
+        "The cafeteria chairs",
+        "The border fence",
+        "The visitor maps",
+        "Important magnets that squeeze the particle beams"
+      ],
+      "answerIndex": 4,
+      "hintKo": "They are replacing inner-triplet magnets so the beams can be squeezed tighter.",
+      "hintI18n": {
+        "en": "They are replacing inner-triplet magnets so the beams can be squeezed tighter.",
+        "ko": "그들은 빔을 더 좁게 압축할 수 있도록 내부 트리플릿 자석을 교체하고 있습니다.",
+        "zh-Hans": "他们正在更换内部三连磁体，以便把束流压缩得更紧。",
+        "ja": "彼らはビームをより細く絞れるように、インナートリプレット磁石を交換しています。",
+        "es": "Están reemplazando los imanes del triplete interno para que los haces puedan comprimirse más.",
+        "hi": "वे आंतरिक ट्रिपलेट चुंबक बदल रहे हैं ताकि किरणों को और कसकर दबाया जा सके।",
+        "de": "Sie ersetzen die Magnete des inneren Tripletts, damit die Strahlen enger gebündelt werden können.",
+        "vi": "Họ đang thay thế các nam châm bộ ba bên trong để các chùm tia có thể được ép chặt hơn.",
+        "pt-BR": "Eles estão substituindo os ímãs do tripleto interno para que os feixes possam ser comprimidos mais firmemente.",
+        "id": "Mereka mengganti magnet triplet dalam agar berkas dapat dipadatkan lebih ketat.",
+        "fr": "Ils remplacent les aimants du triplet interne pour que les faisceaux puissent être resserrés davantage.",
+        "ar": "يستبدلون مغناطيسات الثلاثي الداخلي حتى يمكن ضغط الحزم بإحكام أكبر.",
+        "tr": "İç üçlü mıknatısları değiştiriyorlar, böylece ışınlar daha sıkı sıkıştırılabilir.",
+        "it": "Stanno sostituendo i magneti del tripletto interno in modo che i fasci possano essere compressi di più.",
+        "pl": "Wymieniają magnesy wewnętrznego tripletu, aby wiązki można było mocniej ścisnąć."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When were the old inner triplets installed?",
+      "choices": [
+        "After twenty twenty-nine",
+        "During this morning only",
+        "Last weekend",
+        "Between two thousand five and two thousand seven",
+        "In the year nineteen ten"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The old magnets went into the machine between two thousand five and two thousand seven.",
+      "hintI18n": {
+        "en": "The old magnets went into the machine between two thousand five and two thousand seven.",
+        "ko": "오래된 자석은 2005년에서 2007년 사이에 기계에 설치되었습니다.",
+        "zh-Hans": "旧磁体是在2005年至2007年间装入机器的。",
+        "ja": "古い磁石は2005年から2007年の間に機械に設置されました。",
+        "es": "Los imanes antiguos se instalaron en la máquina entre 2005 y 2007.",
+        "hi": "पुराने चुंबक 2005 से 2007 के बीच मशीन में लगाए गए थे।",
+        "de": "Die alten Magnete wurden zwischen 2005 und 2007 in die Maschine eingebaut.",
+        "vi": "Các nam châm cũ đã được lắp vào máy từ năm 2005 đến năm 2007.",
+        "pt-BR": "Os ímãs antigos foram instalados na máquina entre 2005 e 2007.",
+        "id": "Magnet lama dipasang ke dalam mesin antara tahun 2005 dan 2007.",
+        "fr": "Les anciens aimants ont été installés dans la machine entre 2005 et 2007.",
+        "ar": "دخلت المغناطيسات القديمة إلى الآلة بين عامي 2005 و2007.",
+        "tr": "Eski mıknatıslar 2005 ile 2007 arasında makineye yerleştirildi.",
+        "it": "I vecchi magneti sono stati installati nella macchina tra il 2005 e il 2007.",
+        "pl": "Stare magnesy zostały zamontowane w maszynie w latach 2005–2007."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the collider?",
+      "choices": [
+        "In a tunnel under the border of Switzerland and France",
+        "On a mountain in Seoul",
+        "Inside a school gym",
+        "On a ship in the Atlantic",
+        "Under the sea near Benin"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The ring runs under the Swiss-French border.",
+      "hintI18n": {
+        "en": "The ring runs under the Swiss-French border.",
+        "ko": "이 고리는 스위스-프랑스 국경 아래를 지나갑니다.",
+        "zh-Hans": "这个环道穿过瑞士与法国边界的地下。",
+        "ja": "このリングはスイスとフランスの国境の下を通っています。",
+        "es": "El anillo pasa bajo la frontera entre Suiza y Francia.",
+        "hi": "यह रिंग स्विस-फ्रांसीसी सीमा के नीचे चलती है।",
+        "de": "Der Ring verläuft unter der schweizerisch-französischen Grenze.",
+        "vi": "Vòng này chạy bên dưới biên giới Thụy Sĩ – Pháp.",
+        "pt-BR": "O anel passa sob a fronteira entre a Suíça e a França.",
+        "id": "Cincin ini membentang di bawah perbatasan Swiss-Prancis.",
+        "fr": "L'anneau passe sous la frontière franco-suisse.",
+        "ar": "يمتد الحلقة تحت الحدود السويسرية الفرنسية.",
+        "tr": "Halka İsviçre-Fransa sınırının altından geçer.",
+        "it": "L'anello passa sotto il confine tra Svizzera e Francia.",
+        "pl": "Pierścień biegnie pod granicą szwajcarsko-francuską."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are the new magnets stronger?",
+      "choices": [
+        "They contain no metal",
+        "They are smaller than a coin",
+        "They use niobium-tin coils that make a stronger field",
+        "They run on sunlight only",
+        "They are painted blue"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Niobium-tin coils can make fields about forty percent stronger than the old ones.",
+      "hintI18n": {
+        "en": "Niobium-tin coils can make fields about forty percent stronger than the old ones.",
+        "ko": "나이오븀-주석 코일은 기존 코일보다 약 40퍼센트 더 강한 자기장을 만들 수 있습니다.",
+        "zh-Hans": "铌锡线圈能产生比旧线圈强约40%的磁场。",
+        "ja": "ニオブ-スズコイルは、古いコイルより約40パーセント強い磁場を作れます。",
+        "es": "Las bobinas de niobio-estaño pueden crear campos unos cuarenta por ciento más fuertes que las antiguas.",
+        "hi": "नाइओबियम-टिन कुंडलियाँ पुरानी कुंडलियों से लगभग चालीस प्रतिशत अधिक मजबूत क्षेत्र बना सकती हैं।",
+        "de": "Niob-Zinn-Spulen können Felder etwa vierzig Prozent stärker machen als die alten.",
+        "vi": "Cuộn dây niobium-thiếc có thể tạo ra từ trường mạnh hơn khoảng bốn mươi phần trăm so với cuộn cũ.",
+        "pt-BR": "Bobinas de nióbio-estanho podem criar campos cerca de quarenta por cento mais fortes que as antigas.",
+        "id": "Kumparan niobium-timah dapat menghasilkan medan sekitar empat puluh persen lebih kuat daripada yang lama.",
+        "fr": "Les bobines en niobium-étain peuvent créer des champs environ quarante pour cent plus forts que les anciennes.",
+        "ar": "يمكن لملفات النيوبيوم والقصدير أن تولد مجالات أقوى بنحو أربعين بالمئة من القديمة.",
+        "tr": "Niyobyum-kalay bobinleri, eski olanlardan yaklaşık yüzde kırk daha güçlü alanlar oluşturabilir.",
+        "it": "Le bobine in niobio-stagno possono produrre campi circa quaranta per cento più forti delle vecchie.",
+        "pl": "Cewki niobowo-cynowe mogą wytwarzać pola około czterdziestu procent silniejsze niż stare."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How will tighter beams help the experiments?",
+      "choices": [
+        "They create more collisions and more data",
+        "They stop every particle",
+        "They erase old results",
+        "They cool the cafeteria",
+        "They turn the tunnel into a road"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Tighter beams raise the chance of collisions, so ATLAS and CMS get more data.",
+      "hintI18n": {
+        "en": "Tighter beams raise the chance of collisions, so ATLAS and CMS get more data.",
+        "ko": "더 좁게 압축된 빔은 충돌 확률을 높여서 ATLAS와 CMS가 더 많은 데이터를 얻습니다.",
+        "zh-Hans": "更紧的束流会提高碰撞几率，因此ATLAS和CMS能获得更多数据。",
+        "ja": "より細く絞られたビームは衝突の確率を高め、ATLASとCMSはより多くのデータを得られます。",
+        "es": "Haces más estrechos aumentan la probabilidad de colisiones, así que ATLAS y CMS obtienen más datos.",
+        "hi": "अधिक कसी किरणें टकराव की संभावना बढ़ाती हैं, इसलिए ATLAS और CMS को अधिक डेटा मिलता है।",
+        "de": "Engere Strahlen erhöhen die Kollisionswahrscheinlichkeit, sodass ATLAS und CMS mehr Daten erhalten.",
+        "vi": "Chùm tia được ép chặt hơn làm tăng khả năng va chạm, nên ATLAS và CMS nhận được nhiều dữ liệu hơn.",
+        "pt-BR": "Feixes mais comprimidos aumentam a chance de colisões, então ATLAS e CMS recebem mais dados.",
+        "id": "Berkas yang lebih padat meningkatkan peluang tumbukan, sehingga ATLAS dan CMS mendapat lebih banyak data.",
+        "fr": "Des faisceaux plus resserrés augmentent les chances de collisions, donc ATLAS et CMS obtiennent plus de données.",
+        "ar": "تزيد الحزم الأكثر إحكامًا فرص التصادم، لذا تحصل ATLAS وCMS على مزيد من البيانات.",
+        "tr": "Daha sıkı ışınlar çarpışma olasılığını artırır, böylece ATLAS ve CMS daha fazla veri alır.",
+        "it": "Fasci più stretti aumentano la probabilità di collisioni, quindi ATLAS e CMS ottengono più dati.",
+        "pl": "Węższe wiązki zwiększają szansę na zderzenia, więc ATLAS i CMS otrzymują więcej danych."
+      }
+    }
+  ]
+}
