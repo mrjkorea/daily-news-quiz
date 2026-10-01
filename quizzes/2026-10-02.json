@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-02",
+  "date": "2026-10-02",
+  "title": "Daily News Quiz · 2026-10-02",
+  "headline": "Scientists burned test scrolls so X-rays can read two-thousand-year-old ink",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who led the scroll-burning experiment?",
+      "choices": [
+        "A tour guide in Naples",
+        "Douglas Seiler and a research team",
+        "A newspaper editor",
+        "A film director",
+        "A weather reporter"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Douglas Seiler, a research volunteer at Berkeley, led the replica-scroll work.",
+      "hintI18n": {
+        "en": "Douglas Seiler, a research volunteer at Berkeley, led the replica-scroll work.",
+        "ko": "버클리의 연구 자원봉사자 더글러스 세일러가 복제 두루마리 작업을 이끌었습니다.",
+        "zh-Hans": "伯克利的研究志愿者道格拉斯·塞勒领导了复制卷轴的工作。",
+        "ja": "バークレーの研究ボランティア、ダグラス・セイラーが複製巻物の作業を率いました。",
+        "es": "Douglas Seiler, un voluntario de investigación en Berkeley, dirigió el trabajo con los rollos réplica.",
+        "hi": "बर्कले के शोध स्वयंसेवक डगलस सीलर ने प्रतिकृति-स्क्रॉल का काम नेतृत्व किया।",
+        "de": "Douglas Seiler, ein Forschungsfreiwilliger in Berkeley, leitete die Arbeit an den Nachbildungsrollen.",
+        "vi": "Douglas Seiler, một tình nguyện viên nghiên cứu tại Berkeley, đã dẫn đầu công việc làm cuộn giấy mô phỏng.",
+        "pt-BR": "Douglas Seiler, um voluntário de pesquisa em Berkeley, liderou o trabalho com os rolos réplica.",
+        "id": "Douglas Seiler, seorang relawan penelitian di Berkeley, memimpin pekerjaan gulungan replika.",
+        "fr": "Douglas Seiler, un volontaire de recherche à Berkeley, a dirigé le travail sur les rouleaux répliques.",
+        "ar": "قاد دوغلاس سيلر، متطوع بحثي في بيركلي، العمل على اللفائف المقلدة.",
+        "tr": "Berkeley'de araştırma gönüllüsü olan Douglas Seiler, replika parşömen çalışmasını yönetti.",
+        "it": "Douglas Seiler, un volontario di ricerca a Berkeley, ha guidato il lavoro sui rotoli replica.",
+        "pl": "Douglas Seiler, wolontariusz badawczy w Berkeley, kierował pracami nad replikami zwojów."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What makes some ancient ink easier to see in an X-ray?",
+      "choices": [
+        "Red string around the roll",
+        "A wax seal only",
+        "Gold paint on the outside",
+        "Lead mixed into the ink",
+        "Water inside the scroll"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Lead in the ink creates a strong X-ray signal. Plain soot ink is much harder to see.",
+      "hintI18n": {
+        "en": "Lead in the ink creates a strong X-ray signal. Plain soot ink is much harder to see.",
+        "ko": "잉크 속 납은 강한 X선 신호를 만들어냅니다. 일반 그을음 잉크는 훨씬 보기 어렵습니다.",
+        "zh-Hans": "墨水中的铅会产生强烈的X射线信号。普通烟灰墨水则难看得多。",
+        "ja": "インクに含まれる鉛は強いX線信号を生みます。普通のすすインクはずっと見えにくいです。",
+        "es": "El plomo en la tinta crea una señal de rayos X fuerte. La tinta de hollín común es mucho más difícil de ver.",
+        "hi": "स्याही में सीसा मजबूत एक्स-रे संकेत बनाता है। साधारण कालिख वाली स्याही को देखना कहीं कठिन होता है।",
+        "de": "Blei in der Tinte erzeugt ein starkes Röntgensignal. Gewöhnliche Rußtinte ist viel schwerer zu erkennen.",
+        "vi": "Chì trong mực tạo ra tín hiệu tia X mạnh. Mực muội than thông thường khó thấy hơn nhiều.",
+        "pt-BR": "O chumbo na tinta cria um sinal de raios X forte. A tinta de fuligem comum é muito mais difícil de ver.",
+        "id": "Timbal dalam tinta menciptakan sinyal sinar-X yang kuat. Tinta jelaga biasa jauh lebih sulit dilihat.",
+        "fr": "Le plomb dans l’encre crée un fort signal de rayons X. L’encre de suie ordinaire est bien plus difficile à voir.",
+        "ar": "يؤدي الرصاص في الحبر إلى إشارة أشعة سينية قوية. أما حبر السخام العادي فمن الصعب رؤيته كثيرًا.",
+        "tr": "Mürekkep içindeki kurşun güçlü bir X-ışını sinyali oluşturur. Sıradan is mürekkebini görmek çok daha zordur.",
+        "it": "Il piombo nell'inchiostro crea un forte segnale ai raggi X. Il normale inchiostro di fuliggine è molto più difficile da vedere.",
+        "pl": "Ołów w atramencie tworzy silny sygnał rentgenowski. Zwykły atrament sadzowy jest znacznie trudniejszy do zauważenia."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Mount Vesuvius char the Herculaneum scrolls?",
+      "choices": [
+        "In the year seventy-nine",
+        "In two thousand nine",
+        "During the new furnace test",
+        "In the year nineteen hundred",
+        "Last September"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The eruption in the year seventy-nine carbonized the scrolls.",
+      "hintI18n": {
+        "en": "The eruption in the year seventy-nine carbonized the scrolls.",
+        "ko": "서기 79년의 분화로 두루마리들이 탄화되었습니다.",
+        "zh-Hans": "公元79年的喷发使这些卷轴碳化了。",
+        "ja": "西暦79年の噴火で巻物は炭化しました。",
+        "es": "La erupción del año 79 carbonizó los rollos.",
+        "hi": "वर्ष 79 के विस्फोट ने स्क्रॉलों को कार्बनयुक्त बना दिया।",
+        "de": "Der Ausbruch im Jahr 79 verkohlte die Schriftrollen.",
+        "vi": "Vụ phun trào vào năm 79 đã làm các cuộn giấy bị cacbon hóa.",
+        "pt-BR": "A erupção do ano 79 carbonizou os rolos.",
+        "id": "Letusan pada tahun 79 membuat gulungan itu terkarbonisasi.",
+        "fr": "L’éruption de l’an 79 a carbonisé les rouleaux.",
+        "ar": "حوّل ثوران البركان في العام 79 اللفائف إلى فحم.",
+        "tr": "79 yılındaki patlama parşömenleri karbonlaştırdı.",
+        "it": "L'eruzione dell'anno 79 carbonizzò i rotoli.",
+        "pl": "Erupcja w roku 79 zwęgliła zwoje."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where are most of the unread scrolls kept?",
+      "choices": [
+        "In a school in Seoul",
+        "On a ship",
+        "In a phone app",
+        "In a cave in Benin",
+        "In the National Library of Naples"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The carbonized scrolls are kept in the National Library of Naples.",
+      "hintI18n": {
+        "en": "The carbonized scrolls are kept in the National Library of Naples.",
+        "ko": "탄화된 두루마리들은 나폴리 국립도서관에 보관되어 있습니다.",
+        "zh-Hans": "这些碳化卷轴保存在那不勒斯国家图书馆。",
+        "ja": "炭化した巻物はナポリ国立図書館に保管されています。",
+        "es": "Los rollos carbonizados se conservan en la Biblioteca Nacional de Nápoles.",
+        "hi": "कार्बनयुक्त स्क्रॉल नेपल्स की राष्ट्रीय पुस्तकालय में रखे गए हैं।",
+        "de": "Die verkohlten Schriftrollen werden in der Nationalbibliothek von Neapel aufbewahrt.",
+        "vi": "Các cuộn giấy bị cacbon hóa được lưu giữ tại Thư viện Quốc gia Naples.",
+        "pt-BR": "Os rolos carbonizados são guardados na Biblioteca Nacional de Nápoles.",
+        "id": "Gulungan yang terkarbonisasi disimpan di Perpustakaan Nasional Naples.",
+        "fr": "Les rouleaux carbonisés sont conservés à la Bibliothèque nationale de Naples.",
+        "ar": "تُحفظ اللفائف المتفحمة في المكتبة الوطنية في نابولي.",
+        "tr": "Karbonlaşmış parşömenler Napoli Ulusal Kütüphanesi'nde saklanıyor.",
+        "it": "I rotoli carbonizzati sono conservati nella Biblioteca Nazionale di Napoli.",
+        "pl": "Zwęglone zwoje są przechowywane w Bibliotece Narodowej w Neapolu."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why can the scrolls not be unrolled by hand?",
+      "choices": [
+        "They are written in invisible ink only",
+        "They are as fragile as charcoal and would break",
+        "They are too heavy for a table",
+        "They are locked in a safe with no key",
+        "They are frozen solid"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The scrolls are carbonized and too fragile to unroll physically.",
+      "hintI18n": {
+        "en": "The scrolls are carbonized and too fragile to unroll physically.",
+        "ko": "두루마리들은 탄화되어 물리적으로 펼치기에 너무 약합니다.",
+        "zh-Hans": "这些卷轴已经碳化，太脆弱，无法物理展开。",
+        "ja": "巻物は炭化していて、物理的に広げるにはあまりにもろいです。",
+        "es": "Los rollos están carbonizados y son demasiado frágiles para desenrollarlos físicamente.",
+        "hi": "स्क्रॉल कार्बनयुक्त हैं और भौतिक रूप से खोलने के लिए बहुत नाज़ुक हैं।",
+        "de": "Die Schriftrollen sind verkohlt und zu zerbrechlich, um sie physisch aufzurollen.",
+        "vi": "Các cuộn giấy đã bị cacbon hóa và quá giòn để có thể mở ra bằng cách vật lý.",
+        "pt-BR": "Os rolos estão carbonizados e são frágeis demais para serem desenrolados fisicamente.",
+        "id": "Gulungan itu terkarbonisasi dan terlalu rapuh untuk dibuka secara fisik.",
+        "fr": "Les rouleaux sont carbonisés et trop fragiles pour être déroulés physiquement.",
+        "ar": "اللفائف متفحمة وهشة جدًا بحيث لا يمكن فتحها ماديًا.",
+        "tr": "Parşömenler karbonlaşmış ve fiziksel olarak açılamayacak kadar kırılgan.",
+        "it": "I rotoli sono carbonizzati e troppo fragili per essere srotolati fisicamente.",
+        "pl": "Zwoje są zwęglone i zbyt kruche, by rozwinąć je fizycznie."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the team test the lead clue?",
+      "choices": [
+        "They mailed the scrolls to a museum shop",
+        "They soaked the scrolls in water",
+        "They opened every ancient scroll by hand",
+        "They wrote on modern papyrus, burned the rolls, and scanned them with X-rays",
+        "They copied the text with a pen in daylight"
+      ],
+      "answerIndex": 3,
+      "hintKo": "They carbonized replica scrolls with different lead levels and read them by X-ray.",
+      "hintI18n": {
+        "en": "They carbonized replica scrolls with different lead levels and read them by X-ray.",
+        "ko": "그들은 다양한 납 함량의 복제 두루마리를 탄화시킨 뒤 X선으로 판독했습니다.",
+        "zh-Hans": "他们碳化了不同铅含量的复制卷轴，并用X射线读取它们。",
+        "ja": "彼らは異なる鉛濃度の複製巻物を炭化させ、X線で読み取りました。",
+        "es": "Carbonizaron rollos réplica con distintos niveles de plomo y los leyeron con rayos X.",
+        "hi": "उन्होंने अलग-अलग सीसा स्तरों वाले प्रतिकृति स्क्रॉल को कार्बनयुक्त किया और एक्स-रे से पढ़ा।",
+        "de": "Sie verkohlten Nachbildungsrollen mit unterschiedlichen Bleigehalten und lasen sie per Röntgen.",
+        "vi": "Họ cacbon hóa các cuộn giấy mô phỏng với mức chì khác nhau và đọc chúng bằng tia X.",
+        "pt-BR": "Eles carbonizaram rolos réplica com diferentes níveis de chumbo e os leram por raios X.",
+        "id": "Mereka mengarbonisasi gulungan replika dengan kadar timbal berbeda dan membacanya dengan sinar-X.",
+        "fr": "Ils ont carbonisé des rouleaux répliques avec différents taux de plomb et les ont lus aux rayons X.",
+        "ar": "حوّلوا لفائف مقلدة ذات مستويات رصاص مختلفة إلى فحم وقرؤوها بالأشعة السينية.",
+        "tr": "Farklı kurşun seviyelerine sahip replika parşömenleri karbonlaştırdılar ve onları X-ışınıyla okudular.",
+        "it": "Hanno carbonizzato rotoli replica con diversi livelli di piombo e li hanno letti ai raggi X.",
+        "pl": "Zwęglili repliki zwojów o różnych poziomach ołowiu i odczytali je za pomocą promieni rentgenowskich."
+      }
+    }
+  ]
+}
