@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-05",
+  "date": "2026-10-05",
+  "title": "Daily News Quiz · 2026-10-05",
+  "headline": "Boeing white-collar workers approve a contract and avert a strike",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who approved the sweetened contract offer?",
+      "choices": [
+        "Airline passengers",
+        "A city council in Seoul",
+        "A school in Manila",
+        "Members of Boeing's largest white-collar union",
+        "A weather bureau"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The union said its members approved the improved offer.",
+      "hintI18n": {
+        "en": "The union said its members approved the improved offer.",
+        "ko": "노조는 조합원들이 개선된 제안을 승인했다고 말했다.",
+        "zh-Hans": "工会表示其成员批准了改进后的提议。",
+        "ja": "組合は、組合員が改善された提案を承認したと述べた。",
+        "es": "El sindicato dijo que sus miembros aprobaron la oferta mejorada.",
+        "hi": "यूनियन ने कहा कि उसके सदस्यों ने बेहतर प्रस्ताव को मंजूरी दी।",
+        "de": "Die Gewerkschaft sagte, ihre Mitglieder hätten das verbesserte Angebot angenommen.",
+        "vi": "Công đoàn cho biết các thành viên đã chấp thuận đề nghị cải thiện.",
+        "pt-BR": "O sindicato disse que seus membros aprovaram a oferta melhorada.",
+        "id": "Serikat pekerja mengatakan anggotanya menyetujui tawaran yang diperbaiki.",
+        "fr": "Le syndicat a déclaré que ses membres avaient approuvé l'offre améliorée.",
+        "ar": "قال الاتحاد إن أعضاءه وافقوا على العرض المحسّن.",
+        "tr": "Sendika, üyelerinin iyileştirilmiş teklifi onayladığını söyledi.",
+        "it": "Il sindacato ha detto che i suoi membri hanno approvato l'offerta migliorata.",
+        "pl": "Związek zawodowy powiedział, że jego członkowie zatwierdzili ulepszoną ofertę."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the yes vote prevent?",
+      "choices": [
+        "A ban on all air travel",
+        "A new ocean storm",
+        "The closing of every airport",
+        "A strike that could stall work on jetliners",
+        "A holiday for students"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The approval ends fears of a strike.",
+      "hintI18n": {
+        "en": "The approval ends fears of a strike.",
+        "ko": "승인으로 파업에 대한 우려가 끝났다.",
+        "zh-Hans": "批准消除了对罢工的担忧。",
+        "ja": "承認によりストライキへの恐れはなくなった。",
+        "es": "La aprobación pone fin al temor a una huelga.",
+        "hi": "मंजूरी से हड़ताल की आशंका खत्म हो गई।",
+        "de": "Die Zustimmung beendet die Angst vor einem Streik.",
+        "vi": "Sự chấp thuận chấm dứt nỗi lo về một cuộc đình công.",
+        "pt-BR": "A aprovação acaba com o medo de uma greve.",
+        "id": "Persetujuan itu mengakhiri kekhawatiran akan pemogokan.",
+        "fr": "L'approbation met fin à la crainte d'une grève.",
+        "ar": "تنهي الموافقة المخاوف من إضراب.",
+        "tr": "Onay, grev korkusunu sona erdiriyor.",
+        "it": "L'approvazione pone fine al timore di uno sciopero.",
+        "pl": "Zatwierdzenie kończy obawy przed strajkiem."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the union announce the approval?",
+      "choices": [
+        "At the start of October",
+        "On New Year's Day",
+        "Ten years ago",
+        "After the planes were already retired",
+        "During a summer holiday"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The reports came at the start of October.",
+      "hintI18n": {
+        "en": "The reports came at the start of October.",
+        "ko": "보도는 10월 초에 나왔다.",
+        "zh-Hans": "这些报道出现在十月初。",
+        "ja": "報道は10月初めに出た。",
+        "es": "Los informes llegaron a principios de octubre.",
+        "hi": "ये रिपोर्टें अक्टूबर की शुरुआत में आईं।",
+        "de": "Die Berichte kamen Anfang Oktober.",
+        "vi": "Các báo cáo xuất hiện vào đầu tháng Mười.",
+        "pt-BR": "Os relatos surgiram no início de outubro.",
+        "id": "Laporan-laporan itu muncul pada awal Oktober.",
+        "fr": "Les rapports sont arrivés début octobre.",
+        "ar": "جاءت التقارير في بداية أكتوبر.",
+        "tr": "Haberler Ekim başında geldi.",
+        "it": "Le notizie sono arrivate all'inizio di ottobre.",
+        "pl": "Doniesienia pojawiły się na początku października."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where would a strike have slowed new jetliners?",
+      "choices": [
+        "Only in a museum",
+        "At the plane maker's design and factory work",
+        "Only on a farm",
+        "Only on city buses",
+        "Only in a classroom"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A strike could have stalled jetliner work and certification.",
+      "hintI18n": {
+        "en": "A strike could have stalled jetliner work and certification.",
+        "ko": "파업은 제트 여객기 작업과 인증을 지연시켰을 수 있다.",
+        "zh-Hans": "罢工本可能使喷气式客机的工作和认证陷入停滞。",
+        "ja": "ストライキはジェット旅客機の作業と認証を停滞させた可能性がある。",
+        "es": "Una huelga podría haber detenido el trabajo y la certificación de los aviones de pasajeros.",
+        "hi": "हड़ताल जेटलाइनर के काम और प्रमाणन को रोक सकती थी।",
+        "de": "Ein Streik hätte die Arbeit an Passagierjets und die Zertifizierung verzögern können.",
+        "vi": "Một cuộc đình công có thể đã làm đình trệ công việc và chứng nhận máy bay phản lực.",
+        "pt-BR": "Uma greve poderia ter paralisado o trabalho e a certificação dos jatos de passageiros.",
+        "id": "Pemogokan bisa saja menghentikan pekerjaan dan sertifikasi pesawat jet penumpang.",
+        "fr": "Une grève aurait pu bloquer le travail et la certification des avions de ligne.",
+        "ar": "كان يمكن أن يؤدي الإضراب إلى تعطيل العمل واعتماد الطائرات النفاثة.",
+        "tr": "Bir grev, yolcu uçağı çalışmalarını ve sertifikasyonunu durdurabilirdi.",
+        "it": "Uno sciopero avrebbe potuto bloccare il lavoro e la certificazione degli aerei di linea.",
+        "pl": "Strajk mógłby wstrzymać prace nad odrzutowcami i ich certyfikację."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the improved offer matter?",
+      "choices": [
+        "It was sweetened enough for members to say yes and drop the strike threat",
+        "It removed every seat",
+        "It banned all flights",
+        "It changed the color of the planes",
+        "It closed the factory forever"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A better offer won a yes vote and ended the strike fear.",
+      "hintI18n": {
+        "en": "A better offer won a yes vote and ended the strike fear.",
+        "ko": "더 나은 제안이 찬성표를 얻어 파업 우려를 끝냈다.",
+        "zh-Hans": "更好的提议赢得了赞成票，消除了罢工的担忧。",
+        "ja": "より良い提案が賛成票を得て、ストライキの恐れを終わらせた。",
+        "es": "Una mejor oferta obtuvo un voto de aprobación y acabó con el temor a la huelga.",
+        "hi": "एक बेहतर प्रस्ताव ने हाँ में वोट दिलाया और हड़ताल का डर खत्म किया।",
+        "de": "Ein besseres Angebot brachte ein Ja und beendete die Streikangst.",
+        "vi": "Một đề nghị tốt hơn đã giành được phiếu thuận và chấm dứt nỗi lo đình công.",
+        "pt-BR": "Uma oferta melhor ganhou um voto de aprovação e acabou com o medo da greve.",
+        "id": "Tawaran yang lebih baik memperoleh suara setuju dan mengakhiri kekhawatiran pemogokan.",
+        "fr": "Une meilleure offre a obtenu un vote favorable et mis fin à la crainte de grève.",
+        "ar": "حصل عرض أفضل على تصويت بالموافقة وأنهى الخوف من الإضراب.",
+        "tr": "Daha iyi bir teklif, evet oyu kazandı ve grev korkusunu sona erdirdi.",
+        "it": "Un'offerta migliore ha ottenuto un voto favorevole e posto fine al timore dello sciopero.",
+        "pl": "Lepsza oferta zdobyła głos na tak i zakończyła obawę przed strajkiem."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How could a strike have hurt plane building?",
+      "choices": [
+        "By stopping the rain",
+        "By making the sky darker",
+        "By hiding the tools in a school",
+        "By deleting every map",
+        "By stalling two jetliners and adding certification delays"
+      ],
+      "answerIndex": 4,
+      "hintKo": "A walkout could stall two jetliners and slow certification.",
+      "hintI18n": {
+        "en": "A walkout could stall two jetliners and slow certification.",
+        "ko": "파업은 두 제트 여객기를 지연시키고 인증을 늦출 수 있다.",
+        "zh-Hans": "罢工可能使两架喷气式客机停滞，并减缓认证。",
+        "ja": "ストライキは2機のジェット旅客機を停滞させ、認証を遅らせる可能性がある。",
+        "es": "Una huelga podría detener dos aviones de pasajeros y retrasar la certificación.",
+        "hi": "हड़ताल दो जेटलाइनरों को रोक सकती थी और प्रमाणन को धीमा कर सकती थी।",
+        "de": "Ein Streik könnte zwei Passagierjets verzögern und die Zertifizierung verlangsamen.",
+        "vi": "Một cuộc đình công có thể làm đình trệ hai máy bay phản lực và làm chậm chứng nhận.",
+        "pt-BR": "Uma greve poderia paralisar dois jatos de passageiros e retardar a certificação.",
+        "id": "Pemogokan bisa menghentikan dua pesawat jet penumpang dan memperlambat sertifikasi.",
+        "fr": "Une grève pourrait bloquer deux avions de ligne et ralentir la certification.",
+        "ar": "قد يؤدي الإضراب إلى تعطيل طائرتين نفاثتين وإبطاء الاعتماد.",
+        "tr": "Bir grev iki yolcu uçağını durdurabilir ve sertifikasyonu yavaşlatabilir.",
+        "it": "Uno sciopero potrebbe bloccare due aerei di linea e rallentare la certificazione.",
+        "pl": "Strajk mógłby wstrzymać dwa odrzutowce i spowolnić certyfikację."
+      }
+    }
+  ]
+}
