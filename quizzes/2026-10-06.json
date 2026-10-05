@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-06",
+  "date": "2026-10-06",
+  "title": "Daily News Quiz · 2026-10-06",
+  "headline": "A rare tornado tears through Ulladulla on the New South Wales coast",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who confirmed that a tornado moved through the town?",
+      "choices": [
+        "An airline union",
+        "A school principal",
+        "A museum director",
+        "A bus pastor",
+        "The Bureau of Meteorology"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The Bureau of Meteorology confirmed the tornado and called it very unusual.",
+      "hintI18n": {
+        "en": "The Bureau of Meteorology confirmed the tornado and called it very unusual.",
+        "ko": "기상청이 토네이도를 확인했고 매우 이례적이라고 말했다.",
+        "zh-Hans": "气象局确认了龙卷风，并称其非常不寻常。",
+        "ja": "気象局は竜巻を確認し、非常に珍しいと述べた。",
+        "es": "La Oficina de Meteorología confirmó el tornado y lo calificó de muy inusual.",
+        "hi": "मौसम विज्ञान ब्यूरो ने बवंडर की पुष्टि की और इसे बहुत असामान्य बताया।",
+        "de": "Das Wetteramt bestätigte den Tornado und nannte ihn sehr ungewöhnlich.",
+        "vi": "Cục Khí tượng đã xác nhận trận lốc xoáy và gọi nó là rất bất thường.",
+        "pt-BR": "O serviço de meteorologia confirmou o tornado e o chamou de muito incomum.",
+        "id": "Biro Meteorologi mengonfirmasi tornado tersebut dan menyebutnya sangat tidak biasa.",
+        "fr": "Le Bureau de météorologie a confirmé la tornade et l'a qualifiée de très inhabituelle.",
+        "ar": "أكد مكتب الأرصاد الجوية حدوث الإعصار القمعي ووصفه بأنه غير معتاد للغاية.",
+        "tr": "Meteoroloji Bürosu hortumu doğruladı ve onu çok sıra dışı olarak nitelendirdi.",
+        "it": "L'Ufficio di Meteorologia ha confermato il tornado e lo ha definito molto insolito.",
+        "pl": "Biuro Meteorologiczne potwierdziło tornado i nazwało je bardzo nietypowym."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the emergency service help with?",
+      "choices": [
+        "A sermon on a bus",
+        "Fallen roofs, tiles, and trees",
+        "A new contract",
+        "A digital beetle scan",
+        "A quiet electric car"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Crews responded to fallen roofs, tiles, and trees.",
+      "hintI18n": {
+        "en": "Crews responded to fallen roofs, tiles, and trees.",
+        "ko": "구조대원들은 무너진 지붕, 기와, 나무들을 처리하러 출동했다.",
+        "zh-Hans": "救援人员对倒塌的屋顶、瓦片和树木进行了处理。",
+        "ja": "救助隊は倒壊した屋根、瓦、木々に対応した。",
+        "es": "Las cuadrillas atendieron tejados, tejas y árboles caídos.",
+        "hi": "दलों ने गिरी हुई छतों, खपरैलों और पेड़ों पर कार्रवाई की।",
+        "de": "Einsatzkräfte kümmerten sich um eingestürzte Dächer, Ziegel und Bäume.",
+        "vi": "Các đội ứng cứu đã xử lý mái nhà, ngói và cây cối bị đổ.",
+        "pt-BR": "As equipes atenderam telhados, telhas e árvores caídos.",
+        "id": "Tim penolong menangani atap, genteng, dan pohon yang roboh.",
+        "fr": "Les équipes sont intervenues pour des toits, des tuiles et des arbres tombés.",
+        "ar": "استجابت الفرق لأسطح وقرميد وأشجار متساقطة.",
+        "tr": "Ekipler yıkılan çatılara, kiremitlere ve ağaçlara müdahale etti.",
+        "it": "Le squadre sono intervenute per tetti, tegole e alberi caduti.",
+        "pl": "Ekipy interweniowały w związku z zawalonymi dachami, dachówkami i drzewami."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the severe thunderstorm warning arrive?",
+      "choices": [
+        "Just after one in the afternoon",
+        "At midnight in winter",
+        "On New Year's Eve",
+        "After the town was already rebuilt",
+        "A week before sunrise"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The warning came just after one in the afternoon.",
+      "hintI18n": {
+        "en": "The warning came just after one in the afternoon.",
+        "ko": "경보는 오후 1시 직후에 발령됐다.",
+        "zh-Hans": "警告是在下午一点刚过后发布的。",
+        "ja": "警報は午後1時過ぎに発表された。",
+        "es": "La advertencia llegó justo después de la una de la tarde.",
+        "hi": "चेतावनी दोपहर एक बजे के ठीक बाद आई।",
+        "de": "Die Warnung kam kurz nach ein Uhr nachmittags.",
+        "vi": "Cảnh báo được đưa ra ngay sau một giờ chiều.",
+        "pt-BR": "O alerta chegou logo após a uma da tarde.",
+        "id": "Peringatan itu datang tepat setelah pukul satu siang.",
+        "fr": "L'avertissement est arrivé juste après une heure de l'après-midi.",
+        "ar": "وصل التحذير بعد الواحدة بعد الظهر بقليل.",
+        "tr": "Uyarı öğleden sonra saat birden hemen sonra geldi.",
+        "it": "L'avviso è arrivato subito dopo l'una del pomeriggio.",
+        "pl": "Ostrzeżenie nadeszło tuż po pierwszej po południu."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the tornado hit?",
+      "choices": [
+        "Ulladulla on the New South Wales south coast",
+        "A factory in Renton only",
+        "The Natural History Museum",
+        "Central Seoul",
+        "A bus station in Accra"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The tornado tore through Ulladulla on the New South Wales south coast.",
+      "hintI18n": {
+        "en": "The tornado tore through Ulladulla on the New South Wales south coast.",
+        "ko": "토네이도는 뉴사우스웨일스 남부 해안의 얼래덜라를 휩쓸고 지나갔다.",
+        "zh-Hans": "龙卷风席卷了新南威尔士州南海岸的乌拉杜拉。",
+        "ja": "竜巻はニューサウスウェールズ州南海岸のウラドゥラを襲った。",
+        "es": "El tornado arrasó Ulladulla, en la costa sur de Nueva Gales del Sur.",
+        "hi": "बवंडर न्यू साउथ वेल्स के दक्षिणी तट पर स्थित उल्लाडुला से गुज़रा।",
+        "de": "Der Tornado fegte durch Ulladulla an der Südküste von Neusüdwales.",
+        "vi": "Lốc xoáy đã quét qua Ulladulla ở bờ biển phía nam bang New South Wales.",
+        "pt-BR": "O tornado passou por Ulladulla, no litoral sul de Nova Gales do Sul.",
+        "id": "Tornado menerjang Ulladulla di pesisir selatan New South Wales.",
+        "fr": "La tornade a traversé Ulladulla, sur la côte sud de la Nouvelle-Galles du Sud.",
+        "ar": "اجتاح الإعصار القمعي أولادولا على الساحل الجنوبي لنيو ساوث ويلز.",
+        "tr": "Hortum, Yeni Güney Galler'in güney kıyısındaki Ulladulla'yı geçti.",
+        "it": "Il tornado ha attraversato Ulladulla, sulla costa meridionale del Nuovo Galles del Sud.",
+        "pl": "Tornado przeszło przez Ulladullę na południowym wybrzeżu Nowej Południowej Walii."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the bureau call the event unusual?",
+      "choices": [
+        "The cafe had no cups",
+        "Tornadoes are rare on that coast",
+        "The town has no trees",
+        "The warning was written in pencil",
+        "The ocean froze"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The bureau described the tornado as very unusual.",
+      "hintI18n": {
+        "en": "The bureau described the tornado as very unusual.",
+        "ko": "기상청은 그 토네이도를 매우 이례적이라고 설명했다.",
+        "zh-Hans": "气象局称这次龙卷风非常不寻常。",
+        "ja": "気象局はその竜巻を非常に珍しいと説明した。",
+        "es": "La oficina describió el tornado como muy inusual.",
+        "hi": "ब्यूरो ने बवंडर को बहुत असामान्य बताया।",
+        "de": "Das Amt beschrieb den Tornado als sehr ungewöhnlich.",
+        "vi": "Cục này mô tả trận lốc xoáy là rất bất thường.",
+        "pt-BR": "O serviço descreveu o tornado como muito incomum.",
+        "id": "Biro tersebut menggambarkan tornado itu sebagai sangat tidak biasa.",
+        "fr": "Le bureau a décrit la tornade comme très inhabituelle.",
+        "ar": "وصف المكتب الإعصار القمعي بأنه غير معتاد للغاية.",
+        "tr": "Büro, hortumu çok sıra dışı olarak tanımladı.",
+        "it": "L'ufficio ha descritto il tornado come molto insolito.",
+        "pl": "Biuro określiło tornado jako bardzo nietypowe."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the sky change before the wind hit?",
+      "choices": [
+        "It turned into a rainbow only",
+        "It filled with paper planes",
+        "It stopped all sound forever",
+        "It became a museum ceiling",
+        "It went dark, and then a strong wind swept things away"
+      ],
+      "answerIndex": 4,
+      "hintKo": "A cafe owner said the sky went dark before the strong wind.",
+      "hintI18n": {
+        "en": "A cafe owner said the sky went dark before the strong wind.",
+        "ko": "한 카페 주인은 강한 바람이 불기 전에 하늘이 어두워졌다고 말했다.",
+        "zh-Hans": "一位咖啡馆老板说，强风到来前天空变暗了。",
+        "ja": "あるカフェの店主は、強い風が吹く前に空が暗くなったと話した。",
+        "es": "El dueño de una cafetería dijo que el cielo se oscureció antes del viento fuerte.",
+        "hi": "एक कैफ़े के मालिक ने कहा कि तेज़ हवा से पहले आसमान काला हो गया।",
+        "de": "Ein Cafebesitzer sagte, der Himmel sei vor dem starken Wind dunkel geworden.",
+        "vi": "Một chủ quán cà phê cho biết bầu trời tối sầm lại trước khi gió mạnh ập đến.",
+        "pt-BR": "O dono de um café disse que o céu escureceu antes do vento forte.",
+        "id": "Seorang pemilik kafe mengatakan langit menjadi gelap sebelum angin kencang datang.",
+        "fr": "Un propriétaire de café a dit que le ciel s'est assombri avant le vent fort.",
+        "ar": "قال صاحب مقهى إن السماء أظلمت قبل الرياح القوية.",
+        "tr": "Bir kafe sahibi, şiddetli rüzgârdan önce gökyüzünün karardığını söyledi.",
+        "it": "Il proprietario di un bar ha detto che il cielo si è scurito prima del vento forte.",
+        "pl": "Właściciel kawiarni powiedział, że niebo pociemniało przed silnym wiatrem."
+      }
+    }
+  ]
+}
