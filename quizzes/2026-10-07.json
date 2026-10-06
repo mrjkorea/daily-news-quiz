@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-07",
+  "date": "2026-10-07",
+  "title": "Daily News Quiz · 2026-10-07",
+  "headline": "Some passengers feel motion sick in quiet electric cars",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who has heard patients report more motion sickness in electric cars?",
+      "choices": [
+        "Doctors who study dizziness",
+        "A tornado bureau",
+        "A museum robot team",
+        "A plane-maker union",
+        "A bus station choir"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Doctors who study dizziness have heard the reports from patients.",
+      "hintI18n": {
+        "en": "Doctors who study dizziness have heard the reports from patients.",
+        "ko": "어지럼증을 연구하는 의사들은 환자들의 보고를 들었습니다.",
+        "zh-Hans": "研究眩晕的医生已经听到了患者的报告。",
+        "ja": "めまいを研究する医師は、患者からの報告を聞いています。",
+        "es": "Los médicos que estudian los mareos han oído los informes de los pacientes.",
+        "hi": "चक्कर का अध्ययन करने वाले डॉक्टरों ने मरीज़ों की रिपोर्टें सुनी हैं।",
+        "de": "Ärzte, die Schwindel untersuchen, haben die Berichte von Patienten gehört.",
+        "vi": "Các bác sĩ nghiên cứu chứng chóng mặt đã nghe báo cáo từ bệnh nhân.",
+        "pt-BR": "Médicos que estudam tontura têm ouvido relatos de pacientes.",
+        "id": "Dokter yang mempelajari pusing telah mendengar laporan dari pasien.",
+        "fr": "Des médecins qui étudient les vertiges ont entendu les rapports des patients.",
+        "ar": "سمع الأطباء الذين يدرسون الدوخة تقارير المرضى.",
+        "tr": "Baş dönmesini inceleyen doktorlar, hastalardan gelen raporları duydu.",
+        "it": "I medici che studiano le vertigini hanno sentito le segnalazioni dei pazienti.",
+        "pl": "Lekarze badający zawroty głowy słyszeli relacje pacjentów."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What may be missing in a quiet electric car?",
+      "choices": [
+        "Engine sound and vibration that cue acceleration",
+        "A sermon microphone",
+        "A museum label",
+        "A paper map on every seat",
+        "A thunderstorm warning"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Experts say the missing engine sound and vibration can remove a movement cue.",
+      "hintI18n": {
+        "en": "Experts say the missing engine sound and vibration can remove a movement cue.",
+        "ko": "전문가들은 사라진 엔진 소리와 진동이 움직임 단서를 없앨 수 있다고 말합니다.",
+        "zh-Hans": "专家表示，缺少发动机声音和振动可能会消除一种运动提示。",
+        "ja": "専門家は、エンジン音と振動がなくなることで、動きの手がかりが失われる可能性があると言います。",
+        "es": "Los expertos dicen que la falta de sonido y vibración del motor puede eliminar una señal de movimiento.",
+        "hi": "विशेषज्ञों का कहना है कि इंजन की आवाज़ और कंपन की कमी गति का संकेत हटा सकती है।",
+        "de": "Experten sagen, dass fehlender Motorlärm und fehlende Vibration einen Bewegungsreiz entfernen können.",
+        "vi": "Các chuyên gia nói rằng việc thiếu tiếng động cơ và độ rung có thể làm mất một tín hiệu chuyển động.",
+        "pt-BR": "Especialistas dizem que a ausência do som e da vibração do motor pode remover uma pista de movimento.",
+        "id": "Para ahli mengatakan hilangnya suara dan getaran mesin dapat menghilangkan isyarat gerakan.",
+        "fr": "Les experts disent que l'absence du bruit et des vibrations du moteur peut supprimer un repère de mouvement.",
+        "ar": "يقول الخبراء إن غياب صوت المحرك والاهتزاز قد يزيل إشارة حركية.",
+        "tr": "Uzmanlar, eksik motor sesi ve titreşimin bir hareket ipucunu ortadan kaldırabileceğini söylüyor.",
+        "it": "Gli esperti dicono che l'assenza del rumore e delle vibrazioni del motore può eliminare un indizio di movimento.",
+        "pl": "Eksperci mówią, że brak dźwięku silnika i wibracji może usunąć wskazówkę ruchową."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When can regenerative braking feel harsh?",
+      "choices": [
+        "Only during a museum tour",
+        "Only at midnight in winter",
+        "Only on a sailing ship",
+        "Only after a contract vote",
+        "When the driver lifts off the accelerator too quickly"
+      ],
+      "answerIndex": 4,
+      "hintKo": "A sudden lift off the accelerator can make the car slow hard.",
+      "hintI18n": {
+        "en": "A sudden lift off the accelerator can make the car slow hard.",
+        "ko": "갑자기 가속 페달에서 발을 떼면 차가 급격히 느려질 수 있습니다.",
+        "zh-Hans": "突然松开加速踏板可能会让车猛烈减速。",
+        "ja": "アクセルを急に離すと、車が急激に減速することがあります。",
+        "es": "Levantar de repente el pie del acelerador puede hacer que el coche frene con fuerza.",
+        "hi": "अचानक एक्सेलेरेटर छोड़ने से कार तेज़ी से धीमी हो सकती है।",
+        "de": "Ein plötzliches Loslassen des Gaspedals kann das Auto stark abbremsen.",
+        "vi": "Đột ngột nhả chân ga có thể khiến xe giảm tốc mạnh.",
+        "pt-BR": "Tirar o pé do acelerador de repente pode fazer o carro desacelerar com força.",
+        "id": "Melepas pedal gas tiba-tiba dapat membuat mobil melambat dengan keras.",
+        "fr": "Relâcher soudainement l'accélérateur peut faire fortement ralentir la voiture.",
+        "ar": "قد يؤدي رفع القدم عن دواسة الوقود فجأة إلى تباطؤ السيارة بقوة.",
+        "tr": "Gaz pedalını aniden bırakmak, arabayı sertçe yavaşlatabilir.",
+        "it": "Togliere improvvisamente il piede dall'acceleratore può far rallentare bruscamente l'auto.",
+        "pl": "Nagłe puszczenie pedału gazu może sprawić, że samochód gwałtownie zwolni."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did one of the cited lecturers work?",
+      "choices": [
+        "Ulladulla cafe",
+        "A Boeing factory only",
+        "The Natural History Museum only",
+        "King's College London",
+        "Neoplan station in Accra"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A lecturer at King's College London described the early research.",
+      "hintI18n": {
+        "en": "A lecturer at King's College London described the early research.",
+        "ko": "킹스 칼리지 런던의 한 강사가 초기 연구를 설명했습니다.",
+        "zh-Hans": "伦敦国王学院的一位讲师描述了这项早期研究。",
+        "ja": "キングス・カレッジ・ロンドンの講師が初期の研究について説明しました。",
+        "es": "Un profesor del King's College de Londres describió la investigación inicial.",
+        "hi": "किंग्स कॉलेज लंदन के एक व्याख्याता ने शुरुआती शोध का वर्णन किया।",
+        "de": "Ein Dozent am King's College London beschrieb die frühe Forschung.",
+        "vi": "Một giảng viên tại King's College London đã mô tả nghiên cứu ban đầu.",
+        "pt-BR": "Um professor do King's College London descreveu a pesquisa inicial.",
+        "id": "Seorang dosen di King's College London menjelaskan penelitian awal.",
+        "fr": "Un chargé de cours au King's College de Londres a décrit les premières recherches.",
+        "ar": "وصف محاضر في كينجز كوليدج لندن البحث المبكر.",
+        "tr": "King's College London'da bir öğretim görevlisi ilk araştırmayı anlattı.",
+        "it": "Un docente del King's College di Londra ha descritto la ricerca iniziale.",
+        "pl": "Wykładowca w King's College London opisał wczesne badania."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why can the body feel sick in a moving car?",
+      "choices": [
+        "The paint is the wrong color",
+        "The beetle was not scanned",
+        "The eyes, the inner ear, and the body send cues that do not match",
+        "The contract was not signed",
+        "The roof tiles fell"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Motion sickness comes from a mismatch in sensory cues.",
+      "hintI18n": {
+        "en": "Motion sickness comes from a mismatch in sensory cues.",
+        "ko": "멀미는 감각 단서의 불일치에서 비롯됩니다.",
+        "zh-Hans": "晕动病来自感官线索的不匹配。",
+        "ja": "乗り物酔いは、感覚の手がかりの不一致から起こります。",
+        "es": "El mareo por movimiento se debe a una falta de coincidencia en las señales sensoriales.",
+        "hi": "मोशन सिकनेस संवेदी संकेतों में असंगति से होती है।",
+        "de": "Reisekrankheit entsteht durch eine Nichtübereinstimmung der Sinnesreize.",
+        "vi": "Say tàu xe đến từ sự không khớp giữa các tín hiệu giác quan.",
+        "pt-BR": "O enjoo de movimento vem de uma incompatibilidade nos sinais sensoriais.",
+        "id": "Mabuk perjalanan berasal dari ketidakcocokan isyarat sensorik.",
+        "fr": "Le mal des transports vient d'une inadéquation des signaux sensoriels.",
+        "ar": "دوار الحركة ينشأ من عدم تطابق الإشارات الحسية.",
+        "tr": "Hareket hastalığı, duyusal ipuçlarındaki uyumsuzluktan kaynaklanır.",
+        "it": "Il malessere da movimento deriva da una discrepanza nei segnali sensoriali.",
+        "pl": "Choroba lokomocyjna wynika z niezgodności sygnałów sensorycznych."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How can some electric cars reduce the problem?",
+      "choices": [
+        "By driving only in reverse",
+        "By turning the car into a boat",
+        "By removing every window",
+        "By banning all passengers",
+        "By softening braking, adding sound, or adding a small seat vibration"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Some models can tailor braking and add sound or seat vibration.",
+      "hintI18n": {
+        "en": "Some models can tailor braking and add sound or seat vibration.",
+        "ko": "일부 모델은 제동을 조정하고 소리나 시트 진동을 추가할 수 있습니다.",
+        "zh-Hans": "一些车型可以调整制动，并增加声音或座椅振动。",
+        "ja": "一部のモデルはブレーキを調整し、音やシートの振動を加えることができます。",
+        "es": "Algunos modelos pueden adaptar el frenado y añadir sonido o vibración en el asiento.",
+        "hi": "कुछ मॉडल ब्रेकिंग को अनुकूलित कर सकते हैं और ध्वनि या सीट कंपन जोड़ सकते हैं।",
+        "de": "Einige Modelle können die Bremsung anpassen und Geräusche oder Sitzvibration hinzufügen.",
+        "vi": "Một số mẫu xe có thể điều chỉnh phanh và thêm âm thanh hoặc rung ghế.",
+        "pt-BR": "Alguns modelos podem ajustar a frenagem e adicionar som ou vibração no assento.",
+        "id": "Beberapa model dapat menyesuaikan pengereman dan menambahkan suara atau getaran kursi.",
+        "fr": "Certains modèles peuvent adapter le freinage et ajouter du son ou des vibrations dans le siège.",
+        "ar": "يمكن لبعض الطرازات تخصيص الكبح وإضافة صوت أو اهتزاز في المقعد.",
+        "tr": "Bazı modeller frenlemeyi özelleştirip ses veya koltuk titreşimi ekleyebilir.",
+        "it": "Alcuni modelli possono adattare la frenata e aggiungere suono o vibrazione del sedile.",
+        "pl": "Niektóre modele mogą dostosować hamowanie i dodać dźwięk lub wibracje fotela."
+      }
+    }
+  ]
+}
