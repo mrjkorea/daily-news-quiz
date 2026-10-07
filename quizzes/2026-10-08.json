@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-08",
+  "date": "2026-10-08",
+  "title": "Daily News Quiz · 2026-10-08",
+  "headline": "Robots and AI will put seventy million UK museum specimens online",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who leads the digital collections project?",
+      "choices": [
+        "A bus pastor in Accra",
+        "A tornado bureau",
+        "An electric-car clinic",
+        "A Boeing union",
+        "The Natural History Museum"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The Natural History Museum leads the DiSSCo UK project.",
+      "hintI18n": {
+        "en": "The Natural History Museum leads the DiSSCo UK project.",
+        "ko": "자연사 박물관이 DiSSCo UK 프로젝트를 이끕니다.",
+        "zh-Hans": "自然历史博物馆领导 DiSSCo UK 项目。",
+        "ja": "自然史博物館が DiSSCo UK プロジェクトを主導しています。",
+        "es": "El Museo de Historia Natural lidera el proyecto DiSSCo UK.",
+        "hi": "प्राकृतिक इतिहास संग्रहालय DiSSCo UK परियोजना का नेतृत्व करता है।",
+        "de": "Das Naturhistorische Museum leitet das DiSSCo-UK-Projekt.",
+        "vi": "Bảo tàng Lịch sử Tự nhiên dẫn dắt dự án DiSSCo UK.",
+        "pt-BR": "O Museu de História Natural lidera o projeto DiSSCo UK.",
+        "id": "Museum Sejarah Alam memimpin proyek DiSSCo UK.",
+        "fr": "Le Muséum d'histoire naturelle dirige le projet DiSSCo UK.",
+        "ar": "يترأس متحف التاريخ الطبيعي مشروع DiSSCo UK.",
+        "tr": "Doğa Tarihi Müzesi, DiSSCo UK projesine liderlik ediyor.",
+        "it": "Il Museo di Storia Naturale guida il progetto DiSSCo UK.",
+        "pl": "Muzeum Historii Naturalnej prowadzi projekt DiSSCo UK."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What will people be able to view online?",
+      "choices": [
+        "Only today's weather map",
+        "Only bus sermons",
+        "Only one paper contract",
+        "Only airplane seats",
+        "About seventy million animals, plants, fossils, and rocks"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The project puts animals, plants, fossils, and rocks online.",
+      "hintI18n": {
+        "en": "The project puts animals, plants, fossils, and rocks online.",
+        "ko": "이 프로젝트는 동물, 식물, 화석, 암석을 온라인에 공개합니다.",
+        "zh-Hans": "该项目将动物、植物、化石和岩石放到网上。",
+        "ja": "このプロジェクトは動物、植物、化石、岩石をオンラインで公開します。",
+        "es": "El proyecto pone en línea animales, plantas, fósiles y rocas.",
+        "hi": "यह परियोजना जानवरों, पौधों, जीवाश्मों और चट्टानों को ऑनलाइन डालती है।",
+        "de": "Das Projekt stellt Tiere, Pflanzen, Fossilien und Gesteine online.",
+        "vi": "Dự án đưa động vật, thực vật, hóa thạch và đá lên mạng.",
+        "pt-BR": "O projeto coloca animais, plantas, fósseis e rochas online.",
+        "id": "Proyek ini menempatkan hewan, tumbuhan, fosil, dan batu secara online.",
+        "fr": "Le projet met en ligne des animaux, des plantes, des fossiles et des roches.",
+        "ar": "يضع المشروع الحيوانات والنباتات والحفريات والصخور على الإنترنت.",
+        "tr": "Proje hayvanları, bitkileri, fosilleri ve kayaları çevrimiçi erişime açıyor.",
+        "it": "Il progetto mette online animali, piante, fossili e rocce.",
+        "pl": "Projekt udostępnia w internecie zwierzęta, rośliny, skamieniałości i skały."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When were some of the specimens collected?",
+      "choices": [
+        "Centuries ago",
+        "During next year's holiday",
+        "On the day the app launched",
+        "After the tornado warning",
+        "This morning only"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Some specimens were collected centuries ago.",
+      "hintI18n": {
+        "en": "Some specimens were collected centuries ago.",
+        "ko": "일부 표본은 수백 년 전에 수집되었습니다.",
+        "zh-Hans": "有些标本是几百年前采集的。",
+        "ja": "いくつかの標本は何世紀も前に収集されました。",
+        "es": "Algunos especímenes se recolectaron hace siglos.",
+        "hi": "कुछ नमूने सदियों पहले एकत्र किए गए थे।",
+        "de": "Einige Exemplare wurden vor Jahrhunderten gesammelt.",
+        "vi": "Một số mẫu vật đã được thu thập từ nhiều thế kỷ trước.",
+        "pt-BR": "Alguns espécimes foram coletados há séculos.",
+        "id": "Beberapa spesimen dikumpulkan berabad-abad lalu.",
+        "fr": "Certains spécimens ont été collectés il y a des siècles.",
+        "ar": "جُمعت بعض العينات منذ قرون.",
+        "tr": "Bazı örnekler yüzyıllar önce toplandı.",
+        "it": "Alcuni esemplari sono stati raccolti secoli fa.",
+        "pl": "Niektóre okazy zebrano wieki temu."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where are the extra drawers being opened?",
+      "choices": [
+        "Only in a moving bus",
+        "Only on the moon",
+        "In institutions across the United Kingdom",
+        "Only in one cafe",
+        "Only on a jetliner"
+      ],
+      "answerIndex": 2,
+      "hintKo": "New funding opens drawers across the United Kingdom.",
+      "hintI18n": {
+        "en": "New funding opens drawers across the United Kingdom.",
+        "ko": "새로운 자금 지원으로 영국 전역의 서랍이 열립니다.",
+        "zh-Hans": "新资金让英国各地的抽屉得以打开。",
+        "ja": "新たな資金提供により、イギリス各地の引き出しが開かれます。",
+        "es": "Una nueva financiación abre cajones en todo el Reino Unido.",
+        "hi": "नई फंडिंग से पूरे यूनाइटेड किंगडम में दराज खुल रही हैं।",
+        "de": "Neue Fördermittel öffnen Schubladen im gesamten Vereinigten Königreich.",
+        "vi": "Nguồn tài trợ mới mở các ngăn kéo trên khắp Vương quốc Anh.",
+        "pt-BR": "Novos financiamentos abrem gavetas em todo o Reino Unido.",
+        "id": "Pendanaan baru membuka laci di seluruh Inggris Raya.",
+        "fr": "De nouveaux financements permettent d'ouvrir des tiroirs partout au Royaume-Uni.",
+        "ar": "يفتح التمويل الجديد الأدراج في جميع أنحاء المملكة المتحدة.",
+        "tr": "Yeni fon sağlanması Birleşik Krallık genelinde çekmeceleri açıyor.",
+        "it": "Nuovi finanziamenti aprono cassetti in tutto il Regno Unito.",
+        "pl": "Nowe finansowanie otwiera szuflady w całym Zjednoczonym Królestwie."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why does digitizing the insects matter?",
+      "choices": [
+        "It makes the beetles fly again",
+        "It bans preaching",
+        "Digital copies can help track species loss and climate change",
+        "It stops every storm",
+        "It ratifies a contract"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Digital copies help scientists follow species loss and future climate change.",
+      "hintI18n": {
+        "en": "Digital copies help scientists follow species loss and future climate change.",
+        "ko": "디지털 사본은 과학자들이 종의 감소와 미래 기후 변화를 추적하는 데 도움이 됩니다.",
+        "zh-Hans": "数字副本帮助科学家追踪物种消失和未来的气候变化。",
+        "ja": "デジタル複製は、科学者が種の減少や将来の気候変動を追跡する助けになります。",
+        "es": "Las copias digitales ayudan a los científicos a seguir la pérdida de especies y el cambio climático futuro.",
+        "hi": "डिजिटल प्रतियाँ वैज्ञानिकों को प्रजातियों के नुकसान और भविष्य के जलवायु परिवर्तन को ट्रैक करने में मदद करती हैं।",
+        "de": "Digitale Kopien helfen Wissenschaftlern, Artenverlust und künftigen Klimawandel zu verfolgen.",
+        "vi": "Bản sao kỹ thuật số giúp các nhà khoa học theo dõi sự mất mát loài và biến đổi khí hậu trong tương lai.",
+        "pt-BR": "Cópias digitais ajudam os cientistas a acompanhar a perda de espécies e as mudanças climáticas futuras.",
+        "id": "Salinan digital membantu ilmuwan melacak hilangnya spesies dan perubahan iklim di masa depan.",
+        "fr": "Les copies numériques aident les scientifiques à suivre la perte d'espèces et le changement climatique futur.",
+        "ar": "تساعد النسخ الرقمية العلماء على تتبع فقدان الأنواع وتغير المناخ في المستقبل.",
+        "tr": "Dijital kopyalar, bilim insanlarının tür kaybını ve gelecekteki iklim değişikliğini izlemesine yardımcı olur.",
+        "it": "Le copie digitali aiutano gli scienziati a seguire la perdita di specie e i cambiamenti climatici futuri.",
+        "pl": "Cyfrowe kopie pomagają naukowcom śledzić utratę gatunków i przyszłe zmiany klimatu."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How will the scan work go faster?",
+      "choices": [
+        "By burning the labels",
+        "By closing the museum",
+        "By mailing one beetle at a time for a century",
+        "By hiding every drawer",
+        "Robots and artificial intelligence will digitize the specimens"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Robots and AI speed the scan from hundreds of years toward a decade.",
+      "hintI18n": {
+        "en": "Robots and AI speed the scan from hundreds of years toward a decade.",
+        "ko": "로봇과 AI는 스캔 작업을 수백 년에서 십여 년으로 단축합니다.",
+        "zh-Hans": "机器人和人工智能将扫描时间从数百年缩短到大约十年。",
+        "ja": "ロボットとAIがスキャンを数百年から十年ほどに短縮します。",
+        "es": "Los robots y la IA aceleran el escaneo de cientos de años hacia una década.",
+        "hi": "रोबोट और AI स्कैन को सैकड़ों वर्षों से घटाकर एक दशक की ओर तेज़ करते हैं।",
+        "de": "Roboter und KI beschleunigen das Scannen von Hunderten von Jahren auf etwa ein Jahrzehnt.",
+        "vi": "Robot và AI tăng tốc quá trình quét từ hàng trăm năm xuống còn khoảng một thập kỷ.",
+        "pt-BR": "Robôs e IA aceleram a digitalização de centenas de anos para cerca de uma década.",
+        "id": "Robot dan AI mempercepat pemindaian dari ratusan tahun menjadi sekitar satu dekade.",
+        "fr": "Les robots et l'IA accélèrent la numérisation, la faisant passer de centaines d'années à une décennie.",
+        "ar": "تعمل الروبوتات والذكاء الاصطناعي على تسريع المسح من مئات السنين إلى نحو عقد.",
+        "tr": "Robotlar ve yapay zekâ, taramayı yüzlerce yıldan yaklaşık on yıla indiriyor.",
+        "it": "Robot e IA accelerano la scansione da centinaia di anni a circa un decennio.",
+        "pl": "Roboty i AI przyspieszają skanowanie z setek lat do około dekady."
+      }
+    }
+  ]
+}
