@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-09",
+  "date": "2026-10-09",
+  "title": "Daily News Quiz · 2026-10-09",
+  "headline": "Ghana starts enforcing a ban on preaching inside moving buses",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who often preaches on long-distance buses in Ghana?",
+      "choices": [
+        "Plane-factory unions",
+        "Electric-car engineers only",
+        "Museum robots",
+        "Pastors who ride with the passengers",
+        "Weather forecasters"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Pastors commonly preach on public buses in Ghana.",
+      "hintI18n": {
+        "en": "Pastors commonly preach on public buses in Ghana.",
+        "ko": "목사들이 가나의 공공 버스에서 흔히 설교합니다.",
+        "zh-Hans": "在加纳，牧师们常在公共汽车上传教。",
+        "ja": "ガーナでは、牧師たちがよく公共バスで説教します。",
+        "es": "En Ghana, los pastores suelen predicar en los autobuses públicos.",
+        "hi": "घाना में पादरी अक्सर सार्वजनिक बसों में उपदेश देते हैं।",
+        "de": "In Ghana predigen Pastoren häufig in öffentlichen Bussen.",
+        "vi": "Ở Ghana, các mục sư thường thuyết giảng trên xe buýt công cộng.",
+        "pt-BR": "Em Gana, pastores costumam pregar em ônibus públicos.",
+        "id": "Di Ghana, pendeta sering berkhotbah di bus umum.",
+        "fr": "Au Ghana, les pasteurs prêchent souvent dans les bus publics.",
+        "ar": "في غانا، غالباً ما يَعِظ القساوسة في الحافلات العامة.",
+        "tr": "Gana'da papazlar sık sık halk otobüslerinde vaaz verir.",
+        "it": "In Ghana, i pastori spesso predicano sugli autobus pubblici.",
+        "pl": "W Ghanie pastorzy często głoszą kazania w autobusach publicznych."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does the new rule call preaching on a moving bus?",
+      "choices": [
+        "A museum specimen",
+        "A jetliner certification",
+        "A weather warning",
+        "A nuisance that can affect safety and comfort",
+        "A required school subject"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The regulation treats the preaching as a nuisance tied to safety and comfort.",
+      "hintI18n": {
+        "en": "The regulation treats the preaching as a nuisance tied to safety and comfort.",
+        "ko": "이 규정은 그 설교를 안전과 편의에 관련된 방해 요소로 봅니다.",
+        "zh-Hans": "该法规把这种传教视为与安全和舒适有关的滋扰。",
+        "ja": "この規制は、その説教を安全と快適さに関わる迷惑行為として扱っています。",
+        "es": "La norma considera la predicación una molestia relacionada con la seguridad y la comodidad.",
+        "hi": "यह नियम इस उपदेश को सुरक्षा और आराम से जुड़ी उपद्रव मानता है।",
+        "de": "Die Regelung betrachtet das Predigen als eine Belästigung, die mit Sicherheit und Komfort zusammenhängt.",
+        "vi": "Quy định coi việc thuyết giảng là một sự phiền toái liên quan đến an toàn và thoải mái.",
+        "pt-BR": "A regulamentação considera a pregação um incômodo ligado à segurança e ao conforto.",
+        "id": "Peraturan ini menganggap khotbah sebagai gangguan yang berkaitan dengan keselamatan dan kenyamanan.",
+        "fr": "La réglementation considère cette prédication comme une nuisance liée à la sécurité et au confort.",
+        "ar": "تعتبر اللائحة هذا الوعظ إزعاجاً مرتبطاً بالسلامة والراحة.",
+        "tr": "Düzenleme, vaaz vermeyi güvenlik ve konforla bağlantılı bir rahatsızlık olarak görüyor.",
+        "it": "Il regolamento considera la predicazione un disturbo legato alla sicurezza e al comfort.",
+        "pl": "Przepis traktuje głoszenie kazań jako uciążliwość związaną z bezpieczeństwem i komfortem."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did parliament pass the regulation?",
+      "choices": [
+        "In the year sixteen oh eight",
+        "In May, with enforcement starting in recent weeks",
+        "After the beetles were scanned",
+        "On Saturday in Ulladulla",
+        "During a winter fair"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Parliament passed the rule in May, and enforcement has started in recent weeks.",
+      "hintI18n": {
+        "en": "Parliament passed the rule in May, and enforcement has started in recent weeks.",
+        "ko": "의회는 5월에 이 규칙을 통과시켰고, 최근 몇 주 동안 시행이 시작되었습니다.",
+        "zh-Hans": "议会于5月通过了该规定，最近几周已开始执行。",
+        "ja": "議会は5月にこの規則を可決し、ここ数週間で施行が始まりました。",
+        "es": "El parlamento aprobó la norma en mayo, y la aplicación ha comenzado en las últimas semanas.",
+        "hi": "संसद ने मई में यह नियम पारित किया, और हाल के हफ्तों में इसे लागू करना शुरू हो गया है।",
+        "de": "Das Parlament verabschiedete die Regelung im Mai, und die Durchsetzung hat in den letzten Wochen begonnen.",
+        "vi": "Quốc hội đã thông qua quy định vào tháng Năm, và việc thực thi đã bắt đầu trong những tuần gần đây.",
+        "pt-BR": "O parlamento aprovou a regra em maio, e a aplicação começou nas últimas semanas.",
+        "id": "Parlemen mengesahkan aturan itu pada bulan Mei, dan penegakannya telah dimulai dalam beberapa minggu terakhir.",
+        "fr": "Le parlement a adopté la règle en mai, et son application a commencé ces dernières semaines.",
+        "ar": "أقر البرلمان القاعدة في مايو، وبدأ تنفيذها في الأسابيع الأخيرة.",
+        "tr": "Parlamento kuralı Mayıs ayında kabul etti ve uygulama son haftalarda başladı.",
+        "it": "Il parlamento ha approvato la norma a maggio, e l'applicazione è iniziata nelle ultime settimane.",
+        "pl": "Parlament przyjął przepis w maju, a egzekwowanie rozpoczęło się w ostatnich tygodniach."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is this bus rule being enforced?",
+      "choices": [
+        "Only in a UK museum",
+        "Only inside one London college",
+        "Only at a Boeing plant",
+        "Only on the New South Wales coast",
+        "On moving public vehicles in Ghana"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The rule covers moving public and commercial vehicles in Ghana.",
+      "hintI18n": {
+        "en": "The rule covers moving public and commercial vehicles in Ghana.",
+        "ko": "이 규칙은 가나에서 운행 중인 공공 및 상업용 차량에 적용됩니다.",
+        "zh-Hans": "该规定适用于加纳行驶中的公共和商用车辆。",
+        "ja": "この規則は、ガーナで走行中の公共車両と商用車両に適用されます。",
+        "es": "La norma se aplica a los vehículos públicos y comerciales en movimiento en Ghana.",
+        "hi": "यह नियम घाना में चलते हुए सार्वजनिक और व्यावसायिक वाहनों पर लागू होता है।",
+        "de": "Die Regelung gilt für fahrende öffentliche und gewerbliche Fahrzeuge in Ghana.",
+        "vi": "Quy định áp dụng cho xe công cộng và xe thương mại đang di chuyển ở Ghana.",
+        "pt-BR": "A regra abrange veículos públicos e comerciais em movimento em Gana.",
+        "id": "Aturan ini mencakup kendaraan umum dan komersial yang bergerak di Ghana.",
+        "fr": "La règle s'applique aux véhicules publics et commerciaux en mouvement au Ghana.",
+        "ar": "تشمل القاعدة المركبات العامة والتجارية المتحركة في غانا.",
+        "tr": "Kural, Gana'da hareket halindeki toplu ve ticari araçları kapsıyor.",
+        "it": "La norma riguarda i veicoli pubblici e commerciali in movimento in Ghana.",
+        "pl": "Przepis obejmuje poruszające się pojazdy publiczne i komercyjne w Ghanie."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do critics want the ban?",
+      "choices": [
+        "They want every bus to become a church",
+        "They want a longer contract",
+        "A loud sermon can distract the driver",
+        "They dislike quiet rides",
+        "They want more hailstones"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Critics say the noise and movement can distract the driver.",
+      "hintI18n": {
+        "en": "Critics say the noise and movement can distract the driver.",
+        "ko": "비판론자들은 소음과 움직임이 운전자의 주의를 흐트러뜨릴 수 있다고 말합니다.",
+        "zh-Hans": "批评者说，噪音和动作可能会让司机分心。",
+        "ja": "批判派は、騒音と動きが運転手の注意をそらす可能性があると言っています。",
+        "es": "Los críticos dicen que el ruido y el movimiento pueden distraer al conductor.",
+        "hi": "आलोचकों का कहना है कि शोर और हलचल ड्राइवर का ध्यान भटका सकते हैं।",
+        "de": "Kritiker sagen, dass der Lärm und die Bewegung den Fahrer ablenken können.",
+        "vi": "Những người chỉ trích nói rằng tiếng ồn và sự chuyển động có thể làm tài xế mất tập trung.",
+        "pt-BR": "Críticos dizem que o barulho e o movimento podem distrair o motorista.",
+        "id": "Kritikus mengatakan kebisingan dan gerakan dapat mengalihkan perhatian pengemudi.",
+        "fr": "Les critiques disent que le bruit et les mouvements peuvent distraire le conducteur.",
+        "ar": "يقول المنتقدون إن الضوضاء والحركة قد تشتت انتباه السائق.",
+        "tr": "Eleştirmenler gürültünün ve hareketin sürücünün dikkatini dağıtabileceğini söylüyor.",
+        "it": "I critici dicono che il rumore e il movimento possono distrarre l'autista.",
+        "pl": "Krytycy mówią, że hałas i ruch mogą rozpraszać kierowcę."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How can a person be punished under the new rule?",
+      "choices": [
+        "With a sealed envelope",
+        "With a tornado drill only",
+        "With a free museum ticket",
+        "With up to eight months in prison, a fine, or both",
+        "With a new electric car"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The penalty can be up to eight months in prison, a fine, or both.",
+      "hintI18n": {
+        "en": "The penalty can be up to eight months in prison, a fine, or both.",
+        "ko": "처벌은 최대 8개월의 징역, 벌금, 또는 둘 다일 수 있습니다.",
+        "zh-Hans": "处罚可以是最高八个月的监禁、罚款，或两者并罚。",
+        "ja": "罰則は最長8か月の禁錮、罰金、またはその両方となることがあります。",
+        "es": "La pena puede ser de hasta ocho meses de prisión, una multa, o ambas.",
+        "hi": "सज़ा आठ महीने तक की जेल, जुर्माना, या दोनों हो सकती है।",
+        "de": "Die Strafe kann bis zu acht Monate Gefängnis, eine Geldstrafe oder beides umfassen.",
+        "vi": "Hình phạt có thể lên tới tám tháng tù, tiền phạt, hoặc cả hai.",
+        "pt-BR": "A pena pode ser de até oito meses de prisão, multa, ou ambas.",
+        "id": "Hukumannya bisa berupa penjara hingga delapan bulan, denda, atau keduanya.",
+        "fr": "La peine peut aller jusqu'à huit mois de prison, une amende, ou les deux.",
+        "ar": "يمكن أن تكون العقوبة السجن حتى ثمانية أشهر، أو غرامة، أو كليهما.",
+        "tr": "Ceza sekiz aya kadar hapis, para cezası veya her ikisi olabilir.",
+        "it": "La pena può arrivare fino a otto mesi di prigione, una multa, o entrambe.",
+        "pl": "Kara może wynosić do ośmiu miesięcy więzienia, grzywnę lub obie te kary."
+      }
+    }
+  ]
+}
