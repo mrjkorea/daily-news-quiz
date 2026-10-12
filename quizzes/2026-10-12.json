@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-12",
+  "date": "2026-10-12",
+  "title": "Daily News Quiz · 2026-10-12",
+  "headline": "Smoke from Indonesian fires closes schools in Malaysia",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who ordered the full school closures in Malaysia?",
+      "choices": [
+        "A weather clerk in Seoul",
+        "A museum robot team",
+        "Airline passengers",
+        "Education Minister Fadhlina Sidek",
+        "A baseball umpire"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The education minister ordered the closures.",
+      "hintI18n": {
+        "en": "The education minister ordered the closures.",
+        "ko": "교육부 장관이 휴교를 명령했습니다.",
+        "zh-Hans": "教育部长下令关闭学校。",
+        "ja": "教育大臣が休校を命じました。",
+        "es": "El ministro de Educación ordenó los cierres.",
+        "hi": "शिक्षा मंत्री ने स्कूल बंद करने का आदेश दिया।",
+        "de": "Der Bildungsminister ordnete die Schulschließungen an.",
+        "vi": "Bộ trưởng Giáo dục đã ra lệnh đóng cửa trường học.",
+        "pt-BR": "O ministro da Educação ordenou o fechamento das escolas.",
+        "id": "Menteri Pendidikan memerintahkan penutupan sekolah.",
+        "fr": "Le ministre de l’Éducation a ordonné les fermetures.",
+        "ar": "أمر وزير التعليم بإغلاق المدارس.",
+        "tr": "Eğitim bakanı okulların kapatılmasını emretti.",
+        "it": "Il ministro dell’Istruzione ha ordinato le chiusure.",
+        "pl": "Minister edukacji nakazał zamknięcie szkół."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is filling the air over Kuala Lumpur?",
+      "choices": [
+        "A new ocean wave",
+        "Snow from the South Pole",
+        "A quiet electric car",
+        "Thick smoke from fires in Indonesia",
+        "A printed poem"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The haze is smoke from fires across the sea.",
+      "hintI18n": {
+        "en": "The haze is smoke from fires across the sea.",
+        "ko": "연무는 바다 건너편 화재에서 나온 연기입니다.",
+        "zh-Hans": "雾霾是来自海对岸火灾的烟雾。",
+        "ja": "煙霧は海の向こうの火災からの煙です。",
+        "es": "La neblina es humo de incendios al otro lado del mar.",
+        "hi": "धुंध समुद्र के पार की आग से निकला धुआँ है।",
+        "de": "Der Dunst ist Rauch von Bränden jenseits des Meeres.",
+        "vi": "Khói mù là khói từ các đám cháy bên kia biển.",
+        "pt-BR": "A névoa é fumaça de incêndios do outro lado do mar.",
+        "id": "Kabut asap adalah asap dari kebakaran di seberang laut.",
+        "fr": "La brume est de la fumée provenant d’incendies de l’autre côté de la mer.",
+        "ar": "الضباب الدخاني هو دخان من حرائق عبر البحر.",
+        "tr": "Pus, denizin karşısındaki yangınlardan çıkan dumandır.",
+        "it": "La foschia è fumo proveniente da incendi oltre il mare.",
+        "pl": "Zamglenie to dym z pożarów po drugiej stronie morza."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the capital air reading get worse in this story?",
+      "choices": [
+        "On New Year Day",
+        "Ten years ago",
+        "Before any fire started",
+        "On Friday, after more than a month of haze",
+        "During a winter fair"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The story names Friday, after weeks of smoke.",
+      "hintI18n": {
+        "en": "The story names Friday, after weeks of smoke.",
+        "ko": "이 이야기는 몇 주간의 연기 끝에 금요일을 언급합니다.",
+        "zh-Hans": "报道提到星期五，此前已有数周的烟雾。",
+        "ja": "この話では、数週間の煙のあと、金曜日を挙げています。",
+        "es": "La historia menciona el viernes, después de semanas de humo.",
+        "hi": "यह कहानी कई हफ्तों के धुएँ के बाद शुक्रवार का जिक्र करती है।",
+        "de": "Die Geschichte nennt Freitag, nach Wochen des Rauchs.",
+        "vi": "Câu chuyện nêu ngày thứ Sáu, sau nhiều tuần khói.",
+        "pt-BR": "A história cita sexta-feira, após semanas de fumaça.",
+        "id": "Kisah ini menyebut hari Jumat, setelah berminggu-minggu asap.",
+        "fr": "Le récit mentionne vendredi, après des semaines de fumée.",
+        "ar": "تذكر القصة يوم الجمعة، بعد أسابيع من الدخان.",
+        "tr": "Haber, haftalarca süren dumandan sonra Cuma gününü belirtiyor.",
+        "it": "La storia indica venerdì, dopo settimane di fumo.",
+        "pl": "Historia podaje piątek, po tygodniach dymu."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where are the fires that send this smoke?",
+      "choices": [
+        "Only inside one London college",
+        "Only at a Boeing plant",
+        "Only on the moon",
+        "In forests and peatland in Indonesia",
+        "Only in a UK museum"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The fires are in Indonesia, and the smoke crosses the border.",
+      "hintI18n": {
+        "en": "The fires are in Indonesia, and the smoke crosses the border.",
+        "ko": "화재는 인도네시아에서 발생했고, 연기는 국경을 넘어옵니다.",
+        "zh-Hans": "火灾发生在印度尼西亚，烟雾越过边境。",
+        "ja": "火災はインドネシアで発生し、煙が国境を越えています。",
+        "es": "Los incendios están en Indonesia y el humo cruza la frontera.",
+        "hi": "आग इंडोनेशिया में है, और धुआँ सीमा पार करता है।",
+        "de": "Die Brände sind in Indonesien, und der Rauch überquert die Grenze.",
+        "vi": "Các đám cháy ở Indonesia, và khói bay qua biên giới.",
+        "pt-BR": "Os incêndios estão na Indonésia, e a fumaça cruza a fronteira.",
+        "id": "Kebakaran ada di Indonesia, dan asapnya melintasi perbatasan.",
+        "fr": "Les incendies sont en Indonésie, et la fumée traverse la frontière.",
+        "ar": "الحرائق في إندونيسيا، والدخان يعبر الحدود.",
+        "tr": "Yangınlar Endonezya’da ve duman sınırı geçiyor.",
+        "it": "Gli incendi sono in Indonesia e il fumo attraversa il confine.",
+        "pl": "Pożary są w Indonezji, a dym przekracza granicę."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the king say schools should close?",
+      "choices": [
+        "To start a new holiday market",
+        "To sell more electric cars",
+        "To stop a baseball game",
+        "To protect children, older people, and patients who struggle to breathe",
+        "To hide a poem"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The king tied the closure to health and bad air.",
+      "hintI18n": {
+        "en": "The king tied the closure to health and bad air.",
+        "ko": "국왕은 휴교를 건강과 나쁜 공기와 연결했습니다.",
+        "zh-Hans": "国王将停课与健康和恶劣空气联系起来。",
+        "ja": "国王は休校を健康と悪い空気に関連づけました。",
+        "es": "El rey relacionó el cierre con la salud y el mal aire.",
+        "hi": "राजा ने बंद को स्वास्थ्य और खराब हवा से जोड़ा।",
+        "de": "Der König verband die Schließung mit Gesundheit und schlechter Luft.",
+        "vi": "Nhà vua liên hệ việc đóng cửa với sức khỏe và không khí xấu.",
+        "pt-BR": "O rei relacionou o fechamento à saúde e ao ar ruim.",
+        "id": "Raja mengaitkan penutupan dengan kesehatan dan udara buruk.",
+        "fr": "Le roi a lié la fermeture à la santé et à l’air malsain.",
+        "ar": "ربط الملك الإغلاق بالصحة والهواء السيئ.",
+        "tr": "Kral, kapatmayı sağlık ve kötü havayla ilişkilendirdi.",
+        "it": "Il re ha collegato la chiusura alla salute e all’aria cattiva.",
+        "pl": "Król powiązał zamknięcie ze zdrowiem i złym powietrzem."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How is Malaysia trying to bring rain?",
+      "choices": [
+        "By painting the sky",
+        "By closing every factory in Europe",
+        "By moving the capital",
+        "By cloud seeding",
+        "By banning all buses"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The prime minister said Malaysia is using cloud seeding.",
+      "hintI18n": {
+        "en": "The prime minister said Malaysia is using cloud seeding.",
+        "ko": "총리는 말레이시아가 인공 강우를 사용하고 있다고 말했습니다.",
+        "zh-Hans": "总理说马来西亚正在使用人工降雨。",
+        "ja": "首相はマレーシアが人工降雨を行っていると述べました。",
+        "es": "El primer ministro dijo que Malasia está usando siembra de nubes.",
+        "hi": "प्रधानमंत्री ने कहा कि मलेशिया कृत्रिम वर्षा का इस्तेमाल कर रहा है।",
+        "de": "Der Premierminister sagte, Malaysia nutze Wolkenimpfung.",
+        "vi": "Thủ tướng nói Malaysia đang dùng phương pháp gieo mây.",
+        "pt-BR": "O primeiro-ministro disse que a Malásia está usando semeadura de nuvens.",
+        "id": "Perdana Menteri mengatakan Malaysia menggunakan penyemaian awan.",
+        "fr": "Le premier ministre a dit que la Malaisie utilise l’ensemencement des nuages.",
+        "ar": "قال رئيس الوزراء إن ماليزيا تستخدم استمطار السحب.",
+        "tr": "Başbakan, Malezya’nın bulut tohumlama kullandığını söyledi.",
+        "it": "Il primo ministro ha detto che la Malesia sta usando l’inseminazione delle nuvole.",
+        "pl": "Premier powiedział, że Malezja stosuje zasiewanie chmur."
+      }
+    }
+  ]
+}
