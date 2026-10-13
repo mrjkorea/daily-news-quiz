@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-14",
+  "date": "2026-10-14",
+  "title": "Daily News Quiz · 2026-10-14",
+  "headline": "Britain opens eight hubs to help farms and hospitals use robots",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who announced the new robotics hubs?",
+      "choices": [
+        "A baseball captain",
+        "A poet in Canada",
+        "A weather king",
+        "AI and Robotics Minister Kanishka Narayan",
+        "A bus pastor"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The minister announced the hubs on a visit to Lincoln.",
+      "hintI18n": {
+        "en": "The minister announced the hubs on a visit to Lincoln.",
+        "ko": "장관은 링컨 방문 중에 그 허브들을 발표했습니다.",
+        "zh-Hans": "部长在访问林肯时宣布了这些中心。",
+        "ja": "大臣はリンカーン訪問中にこれらのハブを発表しました。",
+        "es": "El ministro anunció los centros durante una visita a Lincoln.",
+        "hi": "मंत्री ने लिंकन की यात्रा के दौरान इन केंद्रों की घोषणा की।",
+        "de": "Der Minister kündigte die Zentren bei einem Besuch in Lincoln an.",
+        "vi": "Bộ trưởng đã công bố các trung tâm này trong chuyến thăm Lincoln.",
+        "pt-BR": "O ministro anunciou os centros durante uma visita a Lincoln.",
+        "id": "Menteri mengumumkan pusat-pusat itu saat berkunjung ke Lincoln.",
+        "fr": "Le ministre a annoncé les centres lors d'une visite à Lincoln.",
+        "ar": "أعلن الوزير عن المراكز خلال زيارة إلى لينكولن.",
+        "tr": "Bakan, Lincoln ziyareti sırasında merkezleri duyurdu.",
+        "it": "Il ministro ha annunciato i centri durante una visita a Lincoln.",
+        "pl": "Minister ogłosił te ośrodki podczas wizyty w Lincoln."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What will the Lincoln hub help farms do?",
+      "choices": [
+        "Close every school",
+        "Print ancient scrolls",
+        "Launch a moon rocket",
+        "Use robots to pick fruit and kill weeds with light",
+        "Ban all preaching"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The Lincoln hub covers fruit picking and light weeding.",
+      "hintI18n": {
+        "en": "The Lincoln hub covers fruit picking and light weeding.",
+        "ko": "링컨 허브는 과일 수확과 가벼운 제초 작업을 다룹니다.",
+        "zh-Hans": "林肯中心涵盖水果采摘和轻度除草。",
+        "ja": "リンカーンのハブは果物の収穫と軽い除草を担当します。",
+        "es": "El centro de Lincoln abarca la recolección de fruta y el deshierbe ligero.",
+        "hi": "लिंकन केंद्र फल तोड़ने और हल्की निराई को कवर करता है।",
+        "de": "Das Zentrum in Lincoln umfasst Obsternte und leichtes Unkrautjäten.",
+        "vi": "Trung tâm Lincoln phụ trách việc hái trái cây và làm cỏ nhẹ.",
+        "pt-BR": "O centro de Lincoln cobre a colheita de frutas e a capina leve.",
+        "id": "Pusat Lincoln mencakup pemetikan buah dan penyiangan ringan.",
+        "fr": "Le centre de Lincoln couvre la cueillette de fruits et le désherbage léger.",
+        "ar": "يغطي مركز لينكولن قطف الفاكهة وإزالة الأعشاب الضارة الخفيفة.",
+        "tr": "Lincoln merkezi meyve toplama ve hafif ot temizlemeyi kapsıyor.",
+        "it": "Il centro di Lincoln copre la raccolta della frutta e il diserbo leggero.",
+        "pl": "Ośrodek w Lincoln obejmuje zbieranie owoców i lekkie odchwaszczanie."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was this hub plan in the news?",
+      "choices": [
+        "In the year eighteen ten",
+        "A century ago",
+        "Before robots existed",
+        "In recent days, about two days before this lesson week was planned",
+        "On New Year Day"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The BBC report is from the current week.",
+      "hintI18n": {
+        "en": "The BBC report is from the current week.",
+        "ko": "BBC 보도는 이번 주에 나온 것입니다.",
+        "zh-Hans": "BBC 的报道来自本周。",
+        "ja": "BBCの報道は今週のものです。",
+        "es": "El informe de la BBC es de esta semana.",
+        "hi": "बीबीसी की रिपोर्ट इसी सप्ताह की है।",
+        "de": "Der BBC-Bericht stammt aus der aktuellen Woche.",
+        "vi": "Bản tin của BBC là từ tuần này.",
+        "pt-BR": "A reportagem da BBC é desta semana.",
+        "id": "Laporan BBC berasal dari minggu ini.",
+        "fr": "Le reportage de la BBC date de cette semaine.",
+        "ar": "تقرير BBC من هذا الأسبوع.",
+        "tr": "BBC haberı bu haftaya ait.",
+        "it": "Il servizio della BBC è di questa settimana.",
+        "pl": "Reportaż BBC pochodzi z bieżącego tygodnia."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the hub for robotic-assisted surgery?",
+      "choices": [
+        "Only at the South Pole",
+        "Only in a peat field",
+        "Only on a bus in Ghana",
+        "In Newcastle",
+        "Only in a baseball park"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The surgery hub is in Newcastle.",
+      "hintI18n": {
+        "en": "The surgery hub is in Newcastle.",
+        "ko": "수술 허브는 뉴캐슬에 있습니다.",
+        "zh-Hans": "手术中心位于纽卡斯尔。",
+        "ja": "手術ハブはニューカッスルにあります。",
+        "es": "El centro de cirugía está en Newcastle.",
+        "hi": "सर्जरी केंद्र न्यूकैसल में है।",
+        "de": "Das Operationszentrum befindet sich in Newcastle.",
+        "vi": "Trung tâm phẫu thuật ở Newcastle.",
+        "pt-BR": "O centro de cirurgia fica em Newcastle.",
+        "id": "Pusat bedah berada di Newcastle.",
+        "fr": "Le centre de chirurgie se trouve à Newcastle.",
+        "ar": "يقع مركز الجراحة في نيوكاسل.",
+        "tr": "Ameliyat merkezi Newcastle'da.",
+        "it": "Il centro chirurgico si trova a Newcastle.",
+        "pl": "Ośrodek chirurgiczny znajduje się w Newcastle."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do farms want these robots?",
+      "choices": [
+        "They want thicker smoke",
+        "They want fewer strawberries",
+        "They want to stop all rain",
+        "Farmers struggle to find workers at harvest time",
+        "They want a literature prize"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The minister said harvest labour is hard to find.",
+      "hintI18n": {
+        "en": "The minister said harvest labour is hard to find.",
+        "ko": "장관은 수확 인력을 구하기 어렵다고 말했습니다.",
+        "zh-Hans": "部长说，收获季节的劳动力很难找。",
+        "ja": "大臣は収穫労働者を見つけるのが難しいと述べました。",
+        "es": "El ministro dijo que es difícil encontrar mano de obra para la cosecha.",
+        "hi": "मंत्री ने कहा कि फसल कटाई के लिए मजदूर मिलना मुश्किल है।",
+        "de": "Der Minister sagte, Erntehelfer seien schwer zu finden.",
+        "vi": "Bộ trưởng nói rằng khó tìm được lao động thu hoạch.",
+        "pt-BR": "O ministro disse que é difícil encontrar mão de obra para a colheita.",
+        "id": "Menteri mengatakan tenaga kerja panen sulit ditemukan.",
+        "fr": "Le ministre a dit qu'il est difficile de trouver de la main-d'œuvre pour la récolte.",
+        "ar": "قال الوزير إن العمالة للحصاد يصعب العثور عليها.",
+        "tr": "Bakan, hasat işçisi bulmanın zor olduğunu söyledi.",
+        "it": "Il ministro ha detto che è difficile trovare manodopera per il raccolto.",
+        "pl": "Minister powiedział, że trudno znaleźć pracowników do zbiorów."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many new Robotics Adoption Hubs did the government name?",
+      "choices": [
+        "One hub only",
+        "Zero hubs",
+        "A hundred hubs in one city",
+        "Eight hubs, plus money for training projects",
+        "Hubs on the moon only"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The announcement names eight hubs.",
+      "hintI18n": {
+        "en": "The announcement names eight hubs.",
+        "ko": "이번 발표에서는 여덟 개의 허브를 지정했습니다.",
+        "zh-Hans": "公告列出了八个中心。",
+        "ja": "この発表では8つのハブが挙げられています。",
+        "es": "El anuncio nombra ocho centros.",
+        "hi": "घोषणा में आठ केंद्रों के नाम हैं।",
+        "de": "Die Ankündigung nennt acht Zentren.",
+        "vi": "Thông báo nêu tên tám trung tâm.",
+        "pt-BR": "O anúncio nomeia oito centros.",
+        "id": "Pengumuman itu menyebutkan delapan pusat.",
+        "fr": "L'annonce nomme huit centres.",
+        "ar": "يذكر الإعلان ثمانية مراكز.",
+        "tr": "Duyuruda sekiz merkez belirtiliyor.",
+        "it": "L'annuncio indica otto centri.",
+        "pl": "Ogłoszenie wymienia osiem ośrodków."
+      }
+    }
+  ]
+}
