@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-13",
+  "date": "2026-10-13",
+  "title": "Daily News Quiz · 2026-10-13",
+  "headline": "A medicine prize honors a light switch for nerve cells",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who found the light-sensitive protein in a tiny alga?",
+      "choices": [
+        "A school principal in Malaysia",
+        "Two weather forecasters",
+        "A baseball team",
+        "Peter Hegemann and Georg Nagel",
+        "A farm robot company"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Hegemann and Nagel discovered the algal protein.",
+      "hintI18n": {
+        "en": "Hegemann and Nagel discovered the algal protein.",
+        "ko": "헤게만과 나겔이 조류 단백질을 발견했습니다.",
+        "zh-Hans": "赫格曼和纳格尔发现了这种藻类蛋白。",
+        "ja": "ヘーゲマンとナーゲルが藻類のタンパク質を発見しました。",
+        "es": "Hegemann y Nagel descubrieron la proteína del alga.",
+        "hi": "हेगेमैन और नागेल ने शैवाल प्रोटीन की खोज की।",
+        "de": "Hegemann und Nagel entdeckten das Algenprotein.",
+        "vi": "Hegemann và Nagel đã phát hiện protein của tảo.",
+        "pt-BR": "Hegemann e Nagel descobriram a proteína da alga.",
+        "id": "Hegemann dan Nagel menemukan protein alga tersebut.",
+        "fr": "Hegemann et Nagel ont découvert la protéine de l'algue.",
+        "ar": "اكتشف هيغيمان وناغل بروتين الطحلب.",
+        "tr": "Hegemann ve Nagel alg proteinini keşfetti.",
+        "it": "Hegemann e Nagel hanno scoperto la proteina dell'alga.",
+        "pl": "Hegemann i Nagel odkryli białko glonu."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does blue light do to that protein?",
+      "choices": [
+        "It paints the sky grey",
+        "It closes every school",
+        "It prints a book",
+        "It opens a channel so an electrical impulse can start",
+        "It picks strawberries"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Blue light opens the channel and starts an impulse.",
+      "hintI18n": {
+        "en": "Blue light opens the channel and starts an impulse.",
+        "ko": "푸른 빛은 통로를 열고 신경 충동을 시작합니다.",
+        "zh-Hans": "蓝光打开通道并引发神经冲动。",
+        "ja": "青い光がチャネルを開き、神経インパルスを発生させます。",
+        "es": "La luz azul abre el canal e inicia un impulso nervioso.",
+        "hi": "नीली रोशनी चैनल को खोलती है और तंत्रिका आवेग शुरू करती है।",
+        "de": "Blaues Licht öffnet den Kanal und startet einen Nervenimpuls.",
+        "vi": "Ánh sáng xanh mở kênh và khởi phát một xung thần kinh.",
+        "pt-BR": "A luz azul abre o canal e inicia um impulso nervoso.",
+        "id": "Cahaya biru membuka saluran dan memulai impuls saraf.",
+        "fr": "La lumière bleue ouvre le canal et déclenche un influx nerveux.",
+        "ar": "الضوء الأزرق يفتح القناة ويبدأ نبضة عصبية.",
+        "tr": "Mavi ışık kanalı açar ve sinir impulsu başlatır.",
+        "it": "La luce blu apre il canale e avvia un impulso nervoso.",
+        "pl": "Niebieskie światło otwiera kanał i uruchamia impuls nerwowy."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Karl Deisseroth show the light switch in nerve cells?",
+      "choices": [
+        "In the year fourteen ninety-two",
+        "Last Friday only",
+        "Before algae existed",
+        "In two thousand five, with living mice two years later",
+        "On a winter holiday"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The breakthrough paper was in two thousand five.",
+      "hintI18n": {
+        "en": "The breakthrough paper was in two thousand five.",
+        "ko": "획기적인 논문은 2005년에 나왔습니다.",
+        "zh-Hans": "这篇突破性论文发表于2005年。",
+        "ja": "画期的な論文は2005年に発表されました。",
+        "es": "El artículo revolucionario fue en 2005.",
+        "hi": "अभूतपूर्व शोध पत्र 2005 में प्रकाशित हुआ था।",
+        "de": "Die bahnbrechende Arbeit war 2005.",
+        "vi": "Bài báo đột phá ra đời năm 2005.",
+        "pt-BR": "O artigo revolucionário foi em 2005.",
+        "id": "Makalah terobosan itu terbit pada 2005.",
+        "fr": "L'article révolutionnaire date de 2005.",
+        "ar": "كانت الورقة البحثية الرائدة في عام 2005.",
+        "tr": "Çığır açan makale 2005 yılındaydı.",
+        "it": "L'articolo rivoluzionario è del 2005.",
+        "pl": "Przełomowa praca powstała w 2005 roku."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the prize-winning idea begin?",
+      "choices": [
+        "Only in a coal mine",
+        "Only on a bus in Ghana",
+        "Only in a city fire",
+        "In a single-celled alga that swims toward light",
+        "Only in a baseball park"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The protein comes from an alga that swims toward light.",
+      "hintI18n": {
+        "en": "The protein comes from an alga that swims toward light.",
+        "ko": "이 단백질은 빛을 향해 헤엄치는 조류에서 나옵니다.",
+        "zh-Hans": "这种蛋白质来自一种向光游动的藻类。",
+        "ja": "そのタンパク質は光に向かって泳ぐ藻類に由来します。",
+        "es": "La proteína proviene de un alga que nada hacia la luz.",
+        "hi": "यह प्रोटीन एक ऐसे शैवाल से आता है जो प्रकाश की ओर तैरता है।",
+        "de": "Das Protein stammt von einer Alge, die zum Licht schwimmt.",
+        "vi": "Protein này đến từ một loại tảo bơi về phía ánh sáng.",
+        "pt-BR": "A proteína vem de uma alga que nada em direção à luz.",
+        "id": "Protein ini berasal dari alga yang berenang menuju cahaya.",
+        "fr": "La protéine vient d'une algue qui nage vers la lumière.",
+        "ar": "يأتي البروتين من طحلب يسبح نحو الضوء.",
+        "tr": "Protein, ışığa doğru yüzen bir yosundan gelir.",
+        "it": "La proteina proviene da un'alga che nuota verso la luce.",
+        "pl": "Białko pochodzi od glonu, który pływa w stronę światła."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is the method useful to brain researchers?",
+      "choices": [
+        "It makes smoke fall as rain",
+        "It replaces every teacher",
+        "It ends all illness overnight",
+        "It can show which nerve circuits shape memory, feeling, and behavior",
+        "It writes poems by itself"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Optogenetics maps circuits for memory, feeling, and behavior.",
+      "hintI18n": {
+        "en": "Optogenetics maps circuits for memory, feeling, and behavior.",
+        "ko": "광유전학은 기억, 감정, 행동의 회로를 지도화합니다.",
+        "zh-Hans": "光遗传学绘制记忆、感觉和行为的回路图谱。",
+        "ja": "光遺伝学は記憶、感情、行動の回路をマッピングします。",
+        "es": "La optogenética mapea los circuitos de la memoria, el sentimiento y el comportamiento.",
+        "hi": "ऑप्टोजेनेटिक्स स्मृति, भावना और व्यवहार के सर्किट का नक्शा बनाता है।",
+        "de": "Optogenetik kartiert Schaltkreise für Erinnerung, Gefühl und Verhalten.",
+        "vi": "Quang di truyền lập bản đồ mạch thần kinh cho ký ức, cảm xúc và hành vi.",
+        "pt-BR": "A optogenética mapeia circuitos de memória, sentimento e comportamento.",
+        "id": "Optogenetika memetakan sirkuit untuk ingatan, perasaan, dan perilaku.",
+        "fr": "L'optogénétique cartographie les circuits de la mémoire, des émotions et du comportement.",
+        "ar": "تقوم البصريات الوراثية برسم خرائط الدوائر المتعلقة بالذاكرة والمشاعر والسلوك.",
+        "tr": "Optogenetik, hafıza, duygu ve davranış devrelerini haritalar.",
+        "it": "L'optogenetica mappa i circuiti per memoria, sentimento e comportamento.",
+        "pl": "Optogenetyka mapuje obwody pamięci, uczuć i zachowania."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How are doctors testing the method in medicine?",
+      "choices": [
+        "By cloud seeding",
+        "By closing schools",
+        "By launching a rocket",
+        "In attempts to restore sight",
+        "By banning buses"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The press release names attempts to restore sight.",
+      "hintI18n": {
+        "en": "The press release names attempts to restore sight.",
+        "ko": "보도자료는 시력을 회복하려는 시도들을 언급합니다.",
+        "zh-Hans": "新闻稿提到了恢复视力的尝试。",
+        "ja": "プレスリリースは視力回復の試みに言及しています。",
+        "es": "El comunicado de prensa menciona intentos de restaurar la visión.",
+        "hi": "प्रेस विज्ञप्ति में दृष्टि बहाल करने के प्रयासों का उल्लेख है।",
+        "de": "Die Pressemitteilung nennt Versuche, das Sehvermögen wiederherzustellen.",
+        "vi": "Thông cáo báo chí nêu các nỗ lực phục hồi thị lực.",
+        "pt-BR": "O comunicado de imprensa cita tentativas de restaurar a visão.",
+        "id": "Siaran pers menyebutkan upaya memulihkan penglihatan.",
+        "fr": "Le communiqué de presse mentionne des tentatives pour restaurer la vue.",
+        "ar": "يذكر البيان الصحفي محاولات لاستعادة البصر.",
+        "tr": "Basın bülteni, görme yetisini geri kazandırma girişimlerinden söz ediyor.",
+        "it": "Il comunicato stampa cita tentativi di ripristinare la vista.",
+        "pl": "Komunikat prasowy wymienia próby przywrócenia wzroku."
+      }
+    }
+  ]
+}
