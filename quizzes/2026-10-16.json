@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-16",
+  "date": "2026-10-16",
+  "title": "Daily News Quiz · 2026-10-16",
+  "headline": "A physics prize honors South Pole ice that catches invisible particles",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who won the Nobel Prize in Physics?",
+      "choices": [
+        "Anne Carson",
+        "A school minister",
+        "A strawberry robot",
+        "Francis Halzen",
+        "A bus pastor"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The Academy awarded the physics prize to Francis Halzen.",
+      "hintI18n": {
+        "en": "The Academy awarded the physics prize to Francis Halzen.",
+        "ko": "아카데미는 물리학상을 프랜시스 할젠에게 수여했습니다.",
+        "zh-Hans": "学院将物理学奖授予了弗朗西斯·哈尔岑。",
+        "ja": "アカデミーは物理学賞をフランシス・ハルツェンに授与しました。",
+        "es": "La Academia otorgó el premio de física a Francis Halzen.",
+        "hi": "अकादमी ने भौतिकी का पुरस्कार फ्रांसिस हेल्ज़ेन को दिया।",
+        "de": "Die Akademie verlieh den Physikpreis an Francis Halzen.",
+        "vi": "Viện Hàn lâm đã trao giải thưởng vật lý cho Francis Halzen.",
+        "pt-BR": "A Academia concedeu o prêmio de física a Francis Halzen.",
+        "id": "Akademi memberikan hadiah fisika kepada Francis Halzen.",
+        "fr": "L'Académie a décerné le prix de physique à Francis Halzen.",
+        "ar": "منحت الأكاديمية جائزة الفيزياء لفرانسيس هالزن.",
+        "tr": "Akademi fizik ödülünü Francis Halzen'e verdi.",
+        "it": "L'Accademia ha assegnato il premio di fisica a Francis Halzen.",
+        "pl": "Akademia przyznała nagrodę fizyki Francisowi Halzenowi."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does IceCube use to catch the particles?",
+      "choices": [
+        "A school bell",
+        "A baseball bat",
+        "A city bus",
+        "Clear glacial ice and light sensors",
+        "A paper poem"
+      ],
+      "answerIndex": 3,
+      "hintKo": "IceCube is ice fitted with light sensors.",
+      "hintI18n": {
+        "en": "IceCube is ice fitted with light sensors.",
+        "ko": "아이스큐브는 빛 센서를 장착한 얼음입니다.",
+        "zh-Hans": "IceCube 是装有光传感器的冰。",
+        "ja": "アイスキューブは光センサーを取り付けた氷です。",
+        "es": "IceCube es hielo equipado con sensores de luz.",
+        "hi": "आइसक्यूब प्रकाश सेंसर से लैस बर्फ है।",
+        "de": "IceCube ist Eis, das mit Lichtsensoren ausgestattet ist.",
+        "vi": "IceCube là băng được gắn cảm biến ánh sáng.",
+        "pt-BR": "IceCube é gelo equipado com sensores de luz.",
+        "id": "IceCube adalah es yang dilengkapi dengan sensor cahaya.",
+        "fr": "IceCube est de la glace équipée de capteurs de lumière.",
+        "ar": "آيس كيوب هو جليد مزود بأجهزة استشعار ضوئية.",
+        "tr": "IceCube, ışık sensörleriyle donatılmış buzdur.",
+        "it": "IceCube è ghiaccio dotato di sensori di luce.",
+        "pl": "IceCube to lód wyposażony w czujniki światła."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was the observatory finished?",
+      "choices": [
+        "In fourteen ninety-two",
+        "Last Friday",
+        "Before ice existed",
+        "In two thousand eleven",
+        "In the year eighteen ten"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The press release says IceCube was finished in two thousand eleven.",
+      "hintI18n": {
+        "en": "The press release says IceCube was finished in two thousand eleven.",
+        "ko": "보도 자료에 따르면 아이스큐브는 2011년에 완성되었습니다.",
+        "zh-Hans": "新闻稿称 IceCube 于 2011 年完工。",
+        "ja": "プレスリリースによると、アイスキューブは2011年に完成しました。",
+        "es": "El comunicado de prensa dice que IceCube se terminó en 2011.",
+        "hi": "प्रेस विज्ञप्ति कहती है कि आइसक्यूब 2011 में पूरा हुआ था।",
+        "de": "Die Pressemitteilung besagt, dass IceCube im Jahr 2011 fertiggestellt wurde.",
+        "vi": "Thông cáo báo chí cho biết IceCube đã hoàn thành vào năm 2011.",
+        "pt-BR": "O comunicado de imprensa diz que o IceCube foi concluído em 2011.",
+        "id": "Siaran pers mengatakan IceCube selesai pada tahun 2011.",
+        "fr": "Le communiqué de presse indique qu'IceCube a été achevé en 2011.",
+        "ar": "يقول البيان الصحفي إن آيس كيوب اكتمل في عام 2011.",
+        "tr": "Basın bülteni IceCube'ün 2011'de tamamlandığını söylüyor.",
+        "it": "Il comunicato stampa dice che IceCube è stato completato nel 2011.",
+        "pl": "Biuro prasowe podaje, że IceCube został ukończony w 2011 roku."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the observatory?",
+      "choices": [
+        "Only in Kuala Lumpur",
+        "Only in a London college",
+        "Only on a farm in Lincoln",
+        "In the ice at the South Pole",
+        "Only in a city pool"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The sensors sit in South Pole ice.",
+      "hintI18n": {
+        "en": "The sensors sit in South Pole ice.",
+        "ko": "센서는 남극 얼음 속에 있습니다.",
+        "zh-Hans": "传感器位于南极冰层中。",
+        "ja": "センサーは南極の氷の中にあります。",
+        "es": "Los sensores están en el hielo del Polo Sur.",
+        "hi": "सेंसर दक्षिणी ध्रुव की बर्फ में स्थित हैं।",
+        "de": "Die Sensoren befinden sich im Eis des Südpols.",
+        "vi": "Các cảm biến nằm trong băng ở Nam Cực.",
+        "pt-BR": "Os sensores ficam no gelo do Polo Sul.",
+        "id": "Sensor berada di es Kutub Selatan.",
+        "fr": "Les capteurs se trouvent dans la glace du pôle Sud.",
+        "ar": "توجد أجهزة الاستشعار في جليد القطب الجنوبي.",
+        "tr": "Sensörler Güney Kutbu buzunda bulunur.",
+        "it": "I sensori si trovano nel ghiaccio del Polo Sud.",
+        "pl": "Czujniki znajdują się w lodzie bieguna południowego."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are neutrinos useful messengers?",
+      "choices": [
+        "They close schools",
+        "They pick fruit",
+        "They write poems",
+        "They keep their direction and energy on the long trip",
+        "They seed clouds"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Neutrinos do not change direction or lose energy on the way.",
+      "hintI18n": {
+        "en": "Neutrinos do not change direction or lose energy on the way.",
+        "ko": "중성미자는 이동 중에 방향을 바꾸거나 에너지를 잃지 않습니다.",
+        "zh-Hans": "中微子在途中不会改变方向或失去能量。",
+        "ja": "ニュートリノは途中で方向を変えたりエネルギーを失ったりしません。",
+        "es": "Los neutrinos no cambian de dirección ni pierden energía en el camino.",
+        "hi": "न्यूट्रिनो रास्ते में दिशा नहीं बदलते या ऊर्जा नहीं खोते।",
+        "de": "Neutrinos ändern auf dem Weg weder die Richtung noch verlieren sie Energie.",
+        "vi": "Neutrino không thay đổi hướng hoặc mất năng lượng trên đường đi.",
+        "pt-BR": "Os neutrinos não mudam de direção nem perdem energia no caminho.",
+        "id": "Neutrino tidak mengubah arah atau kehilangan energi di perjalanan.",
+        "fr": "Les neutrinos ne changent pas de direction ni ne perdent d'énergie en chemin.",
+        "ar": "لا تغير النيوترينوات اتجاهها أو تفقد طاقتها في الطريق.",
+        "tr": "Nötrinolar yolda yön değiştirmez veya enerji kaybetmez.",
+        "it": "I neutrini non cambiano direzione né perdono energia lungo il percorso.",
+        "pl": "Neutrina nie zmieniają kierunku ani nie tracą energii po drodze."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does a neutrino reveal itself?",
+      "choices": [
+        "It rings a school bell",
+        "It prints a newspaper",
+        "It starts a strike",
+        "A rare hit on a nucleus makes a flash of light",
+        "It paints a bus"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A rare collision makes a flash that sensors can track.",
+      "hintI18n": {
+        "en": "A rare collision makes a flash that sensors can track.",
+        "ko": "드문 충돌이 센서가 추적할 수 있는 섬광을 만듭니다.",
+        "zh-Hans": "罕见的碰撞会产生传感器可以追踪的闪光。",
+        "ja": "まれな衝突がセンサーで追跡できる閃光を生みます。",
+        "es": "Una colisión rara produce un destello que los sensores pueden rastrear.",
+        "hi": "एक दुर्लभ टक्कर एक चमक पैदा करती है जिसे सेंसर ट्रैक कर सकते हैं।",
+        "de": "Eine seltene Kollision erzeugt einen Blitz, den Sensoren verfolgen können.",
+        "vi": "Một vụ va chạm hiếm tạo ra tia sáng mà cảm biến có thể theo dõi.",
+        "pt-BR": "Uma colisão rara produz um flash que os sensores podem rastrear.",
+        "id": "Tabrakan langka menghasilkan kilatan yang dapat dilacak sensor.",
+        "fr": "Une collision rare produit un éclair que les capteurs peuvent suivre.",
+        "ar": "ينتج عن تصادم نادر وميض يمكن لأجهزة الاستشعار تتبعه.",
+        "tr": "Nadir bir çarpışma, sensörlerin izleyebileceği bir flaş yaratır.",
+        "it": "Una rara collisione produce un lampo che i sensori possono tracciare.",
+        "pl": "Rzadka kolizja tworzy błysk, który czujniki mogą śledzić."
+      }
+    }
+  ]
+}

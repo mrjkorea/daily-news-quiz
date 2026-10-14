@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-15",
+  "date": "2026-10-15",
+  "title": "Daily News Quiz · 2026-10-15",
+  "headline": "Canadian writer Anne Carson wins the Nobel Prize in Literature",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who won the Nobel Prize in Literature?",
+      "choices": [
+        "A farm robot",
+        "A weather minister",
+        "A baseball team",
+        "The Canadian writer Anne Carson",
+        "A neutrino sensor"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The Swedish Academy named Anne Carson.",
+      "hintI18n": {
+        "en": "The Swedish Academy named Anne Carson.",
+        "ko": "스웨덴 한림원이 앤 카슨을 선정했습니다.",
+        "zh-Hans": "瑞典学院将安妮·卡森评为获奖者。",
+        "ja": "スウェーデン・アカデミーはアン・カーソンを選びました。",
+        "es": "La Academia Sueca nombró a Anne Carson.",
+        "hi": "स्वीडिश अकादमी ने ऐन कार्सन को चुना।",
+        "de": "Die Schwedische Akademie wählte Anne Carson aus.",
+        "vi": "Viện Hàn lâm Thụy Điển đã chọn Anne Carson.",
+        "pt-BR": "A Academia Sueca escolheu Anne Carson.",
+        "id": "Akademi Swedia memilih Anne Carson.",
+        "fr": "L’Académie suédoise a choisi Anne Carson.",
+        "ar": "الأكاديمية السويدية اختارت آن كارسون.",
+        "tr": "İsveç Akademisi Anne Carson'ı seçti.",
+        "it": "L'Accademia Svedese ha scelto Anne Carson.",
+        "pl": "Akademia Szwedzka wybrała Anne Carson."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the Academy praise in her work?",
+      "choices": [
+        "A new jet engine",
+        "A school closure rule",
+        "A cloud seeding plan",
+        "Bold inventive writing in playful dialogue with the classical tradition",
+        "A surgical robot"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The citation praises inventive work and the classical tradition.",
+      "hintI18n": {
+        "en": "The citation praises inventive work and the classical tradition.",
+        "ko": "수상 사유는 독창적인 작품과 고전 전통을 칭송합니다.",
+        "zh-Hans": "颁奖词赞扬其富有创造性的作品与古典传统。",
+        "ja": "授賞理由は独創的な作品と古典の伝統を称えています。",
+        "es": "La motivación del premio elogia una obra inventiva y la tradición clásica.",
+        "hi": "प्रशस्ति पत्र रचनात्मक काम और शास्त्रीय परंपरा की प्रशंसा करता है।",
+        "de": "Die Begründung lobt innovative Arbeit und die klassische Tradition.",
+        "vi": "Lời tuyên dương ca ngợi tác phẩm sáng tạo và truyền thống cổ điển.",
+        "pt-BR": "A justificativa elogia o trabalho inventivo e a tradição clássica.",
+        "id": "Kutipan itu memuji karya inventif dan tradisi klasik.",
+        "fr": "La citation loue un travail inventif et la tradition classique.",
+        "ar": "تثني حيثيات الجائزة على العمل الابتكاري والتقليد الكلاسيكي.",
+        "tr": "Gerekçe, yaratıcı çalışmayı ve klasik geleneği övüyor.",
+        "it": "La motivazione elogia un'opera inventiva e la tradizione classica.",
+        "pl": "Uzasadnienie chwali twórczą pracę i tradycję klasyczną."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When was the literature prize announced?",
+      "choices": [
+        "On New Year Day",
+        "In the year eighteen ten",
+        "Before writing existed",
+        "On the eighth of October",
+        "Next summer"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The press release date is the eighth of October.",
+      "hintI18n": {
+        "en": "The press release date is the eighth of October.",
+        "ko": "보도자료 날짜는 10월 8일입니다.",
+        "zh-Hans": "新闻稿日期是10月8日。",
+        "ja": "プレスリリースの日付は10月8日です。",
+        "es": "La fecha del comunicado de prensa es el ocho de octubre.",
+        "hi": "प्रेस विज्ञप्ति की तारीख आठ अक्टूबर है।",
+        "de": "Das Datum der Pressemitteilung ist der achte Oktober.",
+        "vi": "Ngày thông cáo báo chí là ngày 8 tháng 10.",
+        "pt-BR": "A data do comunicado de imprensa é 8 de outubro.",
+        "id": "Tanggal siaran persnya adalah 8 Oktober.",
+        "fr": "La date du communiqué de presse est le 8 octobre.",
+        "ar": "تاريخ البيان الصحفي هو الثامن من أكتوبر.",
+        "tr": "Basın açıklamasının tarihi 8 Ekim'dir.",
+        "it": "La data del comunicato stampa è l'8 ottobre.",
+        "pl": "Data komunikatu prasowego to 8 października."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the writer from?",
+      "choices": [
+        "Only the South Pole",
+        "Only a peat field",
+        "Only one London bus",
+        "Canada",
+        "Only a desert airfield"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The Academy called her a Canadian author.",
+      "hintI18n": {
+        "en": "The Academy called her a Canadian author.",
+        "ko": "한림원은 그녀를 캐나다 작가라고 불렀습니다.",
+        "zh-Hans": "学院称她为加拿大作家。",
+        "ja": "アカデミーは彼女をカナダの作家と呼びました。",
+        "es": "La Academia la llamó autora canadiense.",
+        "hi": "अकादमी ने उन्हें कनाडाई लेखिका कहा।",
+        "de": "Die Akademie nannte sie eine kanadische Autorin.",
+        "vi": "Viện Hàn lâm gọi bà là tác giả người Canada.",
+        "pt-BR": "A Academia a chamou de autora canadense.",
+        "id": "Akademi menyebutnya penulis Kanada.",
+        "fr": "L’Académie l’a qualifiée d’auteure canadienne.",
+        "ar": "وصفتها الأكاديمية بأنها كاتبة كندية.",
+        "tr": "Akademi onu Kanadalı bir yazar olarak nitelendirdi.",
+        "it": "L'Accademia l'ha definita un'autrice canadese.",
+        "pl": "Akademia nazwała ją kanadyjską autorką."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why does this prize matter for English learners?",
+      "choices": [
+        "It closes every school",
+        "It ends all smoke",
+        "It replaces speaking practice",
+        "It shows that old stories can still shape new forms of writing",
+        "It bans poems"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The citation is about new forms built with old stories.",
+      "hintI18n": {
+        "en": "The citation is about new forms built with old stories.",
+        "ko": "수상 사유는 오래된 이야기로 만든 새로운 형식에 관한 것입니다.",
+        "zh-Hans": "颁奖词讲的是用古老故事构建的新形式。",
+        "ja": "授賞理由は古い物語で作られた新しい形式についてです。",
+        "es": "La motivación trata de nuevas formas construidas con historias antiguas.",
+        "hi": "प्रशस्ति पत्र पुरानी कहानियों से बने नए रूपों के बारे में है।",
+        "de": "Die Begründung handelt von neuen Formen, die aus alten Geschichten entstehen.",
+        "vi": "Lời tuyên dương nói về những hình thức mới được tạo nên từ những câu chuyện cũ.",
+        "pt-BR": "A justificativa é sobre novas formas construídas com histórias antigas.",
+        "id": "Kutipan itu tentang bentuk-bentuk baru yang dibangun dari cerita-cerita lama.",
+        "fr": "La citation porte sur des formes nouvelles construites à partir d’histoires anciennes.",
+        "ar": "تتعلق حيثيات الجائزة بأشكال جديدة مبنية على قصص قديمة.",
+        "tr": "Gerekçe, eski hikâyelerle inşa edilmiş yeni biçimlerle ilgilidir.",
+        "it": "La motivazione riguarda nuove forme costruite con storie antiche.",
+        "pl": "Uzasadnienie dotyczy nowych form zbudowanych ze starych opowieści."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the Academy describe her link to old literature?",
+      "choices": [
+        "As a weather warning",
+        "As a strike vote",
+        "As a cloud of smoke",
+        "As a playful dialogue with the classical tradition",
+        "As a robot manual"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The exact phrase is playful dialogue with the classical tradition.",
+      "hintI18n": {
+        "en": "The exact phrase is playful dialogue with the classical tradition.",
+        "ko": "정확한 표현은 고전 전통과의 유쾌한 대화입니다.",
+        "zh-Hans": "确切的表述是“与古典传统进行俏皮的对话”。",
+        "ja": "正確な表現は「古典の伝統との遊び心のある対話」です。",
+        "es": "La frase exacta es diálogo lúdico con la tradición clásica.",
+        "hi": "सटीक वाक्यांश है शास्त्रीय परंपरा के साथ चंचल संवाद।",
+        "de": "Der genaue Wortlaut ist spielerischer Dialog mit der klassischen Tradition.",
+        "vi": "Cụm từ chính xác là đối thoại tinh nghịch với truyền thống cổ điển.",
+        "pt-BR": "A frase exata é diálogo lúdico com a tradição clássica.",
+        "id": "Frasa tepatnya adalah dialog yang penuh permainan dengan tradisi klasik.",
+        "fr": "L’expression exacte est un dialogue ludique avec la tradition classique.",
+        "ar": "العبارة الدقيقة هي حوار مرح مع التقليد الكلاسيكي.",
+        "tr": "Tam ifade, klasik gelenekle eğlenceli bir diyalogdur.",
+        "it": "La frase esatta è un dialogo giocoso con la tradizione classica.",
+        "pl": "Dokładne sformułowanie to żartobliwy dialog z tradycją klasyczną."
+      }
+    }
+  ]
+}
