@@ -11,12 +11,12 @@
       "prompt": "Who won the Nobel Prize in Physics?",
       "choices": [
         "Anne Carson",
-        "A school minister",
-        "A strawberry robot",
         "Francis Halzen",
+        "A strawberry robot",
+        "A school minister",
         "A bus pastor"
       ],
-      "answerIndex": 3,
+      "answerIndex": 1,
       "hintKo": "The Academy awarded the physics prize to Francis Halzen.",
       "hintI18n": {
         "en": "The Academy awarded the physics prize to Francis Halzen.",
@@ -41,13 +41,13 @@
       "type": "MC",
       "prompt": "What does IceCube use to catch the particles?",
       "choices": [
+        "A paper poem",
         "A school bell",
-        "A baseball bat",
         "A city bus",
-        "Clear glacial ice and light sensors",
-        "A paper poem"
+        "A baseball bat",
+        "Clear glacial ice and light sensors"
       ],
-      "answerIndex": 3,
+      "answerIndex": 4,
       "hintKo": "IceCube is ice fitted with light sensors.",
       "hintI18n": {
         "en": "IceCube is ice fitted with light sensors.",
@@ -72,13 +72,13 @@
       "type": "MC",
       "prompt": "When was the observatory finished?",
       "choices": [
-        "In fourteen ninety-two",
-        "Last Friday",
-        "Before ice existed",
         "In two thousand eleven",
+        "In fourteen ninety-two",
+        "Before ice existed",
+        "Last Friday",
         "In the year eighteen ten"
       ],
-      "answerIndex": 3,
+      "answerIndex": 0,
       "hintKo": "The press release says IceCube was finished in two thousand eleven.",
       "hintI18n": {
         "en": "The press release says IceCube was finished in two thousand eleven.",
@@ -103,13 +103,13 @@
       "type": "MC",
       "prompt": "Where is the observatory?",
       "choices": [
-        "Only in Kuala Lumpur",
         "Only in a London college",
-        "Only on a farm in Lincoln",
         "In the ice at the South Pole",
-        "Only in a city pool"
+        "Only in a city pool",
+        "Only on a farm in Lincoln",
+        "Only in Kuala Lumpur"
       ],
-      "answerIndex": 3,
+      "answerIndex": 1,
       "hintKo": "The sensors sit in South Pole ice.",
       "hintI18n": {
         "en": "The sensors sit in South Pole ice.",
@@ -134,9 +134,9 @@
       "type": "MC",
       "prompt": "Why are neutrinos useful messengers?",
       "choices": [
-        "They close schools",
-        "They pick fruit",
         "They write poems",
+        "They pick fruit",
+        "They close schools",
         "They keep their direction and energy on the long trip",
         "They seed clouds"
       ],
@@ -165,11 +165,11 @@
       "type": "MC",
       "prompt": "How does a neutrino reveal itself?",
       "choices": [
-        "It rings a school bell",
-        "It prints a newspaper",
         "It starts a strike",
+        "It paints a bus",
+        "It rings a school bell",
         "A rare hit on a nucleus makes a flash of light",
-        "It paints a bus"
+        "It prints a newspaper"
       ],
       "answerIndex": 3,
       "hintKo": "A rare collision makes a flash that sensors can track.",

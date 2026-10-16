@@ -12,9 +12,9 @@
       "choices": [
         "A weather clerk in Seoul",
         "A museum robot team",
-        "Airline passengers",
+        "A baseball umpire",
         "Education Minister Fadhlina Sidek",
-        "A baseball umpire"
+        "Airline passengers"
       ],
       "answerIndex": 3,
       "hintKo": "The education minister ordered the closures.",
@@ -72,13 +72,13 @@
       "type": "MC",
       "prompt": "When did the capital air reading get worse in this story?",
       "choices": [
-        "On New Year Day",
-        "Ten years ago",
         "Before any fire started",
+        "Ten years ago",
         "On Friday, after more than a month of haze",
-        "During a winter fair"
+        "During a winter fair",
+        "On New Year Day"
       ],
-      "answerIndex": 3,
+      "answerIndex": 2,
       "hintKo": "The story names Friday, after weeks of smoke.",
       "hintI18n": {
         "en": "The story names Friday, after weeks of smoke.",
@@ -103,13 +103,13 @@
       "type": "MC",
       "prompt": "Where are the fires that send this smoke?",
       "choices": [
-        "Only inside one London college",
         "Only at a Boeing plant",
         "Only on the moon",
         "In forests and peatland in Indonesia",
+        "Only inside one London college",
         "Only in a UK museum"
       ],
-      "answerIndex": 3,
+      "answerIndex": 2,
       "hintKo": "The fires are in Indonesia, and the smoke crosses the border.",
       "hintI18n": {
         "en": "The fires are in Indonesia, and the smoke crosses the border.",
@@ -136,11 +136,11 @@
       "choices": [
         "To start a new holiday market",
         "To sell more electric cars",
+        "To hide a poem",
         "To stop a baseball game",
-        "To protect children, older people, and patients who struggle to breathe",
-        "To hide a poem"
+        "To protect children, older people, and patients who struggle to breathe"
       ],
-      "answerIndex": 3,
+      "answerIndex": 4,
       "hintKo": "The king tied the closure to health and bad air.",
       "hintI18n": {
         "en": "The king tied the closure to health and bad air.",
@@ -165,13 +165,13 @@
       "type": "MC",
       "prompt": "How is Malaysia trying to bring rain?",
       "choices": [
-        "By painting the sky",
-        "By closing every factory in Europe",
         "By moving the capital",
+        "By closing every factory in Europe",
         "By cloud seeding",
+        "By painting the sky",
         "By banning all buses"
       ],
-      "answerIndex": 3,
+      "answerIndex": 2,
       "hintKo": "The prime minister said Malaysia is using cloud seeding.",
       "hintI18n": {
         "en": "The prime minister said Malaysia is using cloud seeding.",

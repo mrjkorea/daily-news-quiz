@@ -11,12 +11,12 @@
       "prompt": "Who found the light-sensitive protein in a tiny alga?",
       "choices": [
         "A school principal in Malaysia",
-        "Two weather forecasters",
-        "A baseball team",
+        "A farm robot company",
         "Peter Hegemann and Georg Nagel",
-        "A farm robot company"
+        "Two weather forecasters",
+        "A baseball team"
       ],
-      "answerIndex": 3,
+      "answerIndex": 2,
       "hintKo": "Hegemann and Nagel discovered the algal protein.",
       "hintI18n": {
         "en": "Hegemann and Nagel discovered the algal protein.",
@@ -41,13 +41,13 @@
       "type": "MC",
       "prompt": "What does blue light do to that protein?",
       "choices": [
-        "It paints the sky grey",
         "It closes every school",
+        "It picks strawberries",
+        "It paints the sky grey",
         "It prints a book",
-        "It opens a channel so an electrical impulse can start",
-        "It picks strawberries"
+        "It opens a channel so an electrical impulse can start"
       ],
-      "answerIndex": 3,
+      "answerIndex": 4,
       "hintKo": "Blue light opens the channel and starts an impulse.",
       "hintI18n": {
         "en": "Blue light opens the channel and starts an impulse.",
@@ -73,12 +73,12 @@
       "prompt": "When did Karl Deisseroth show the light switch in nerve cells?",
       "choices": [
         "In the year fourteen ninety-two",
-        "Last Friday only",
-        "Before algae existed",
         "In two thousand five, with living mice two years later",
-        "On a winter holiday"
+        "Before algae existed",
+        "On a winter holiday",
+        "Last Friday only"
       ],
-      "answerIndex": 3,
+      "answerIndex": 1,
       "hintKo": "The breakthrough paper was in two thousand five.",
       "hintI18n": {
         "en": "The breakthrough paper was in two thousand five.",
@@ -103,11 +103,11 @@
       "type": "MC",
       "prompt": "Where did the prize-winning idea begin?",
       "choices": [
-        "Only in a coal mine",
-        "Only on a bus in Ghana",
         "Only in a city fire",
+        "Only in a baseball park",
+        "Only in a coal mine",
         "In a single-celled alga that swims toward light",
-        "Only in a baseball park"
+        "Only on a bus in Ghana"
       ],
       "answerIndex": 3,
       "hintKo": "The protein comes from an alga that swims toward light.",
@@ -134,13 +134,13 @@
       "type": "MC",
       "prompt": "Why is the method useful to brain researchers?",
       "choices": [
-        "It makes smoke fall as rain",
-        "It replaces every teacher",
-        "It ends all illness overnight",
         "It can show which nerve circuits shape memory, feeling, and behavior",
-        "It writes poems by itself"
+        "It makes smoke fall as rain",
+        "It ends all illness overnight",
+        "It writes poems by itself",
+        "It replaces every teacher"
       ],
-      "answerIndex": 3,
+      "answerIndex": 0,
       "hintKo": "Optogenetics maps circuits for memory, feeling, and behavior.",
       "hintI18n": {
         "en": "Optogenetics maps circuits for memory, feeling, and behavior.",
@@ -166,10 +166,10 @@
       "prompt": "How are doctors testing the method in medicine?",
       "choices": [
         "By cloud seeding",
-        "By closing schools",
+        "By banning buses",
         "By launching a rocket",
         "In attempts to restore sight",
-        "By banning buses"
+        "By closing schools"
       ],
       "answerIndex": 3,
       "hintKo": "The press release names attempts to restore sight.",

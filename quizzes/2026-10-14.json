@@ -10,13 +10,13 @@
       "type": "MC",
       "prompt": "Who announced the new robotics hubs?",
       "choices": [
+        "A bus pastor",
+        "A weather king",
         "A baseball captain",
         "A poet in Canada",
-        "A weather king",
-        "AI and Robotics Minister Kanishka Narayan",
-        "A bus pastor"
+        "AI and Robotics Minister Kanishka Narayan"
       ],
-      "answerIndex": 3,
+      "answerIndex": 4,
       "hintKo": "The minister announced the hubs on a visit to Lincoln.",
       "hintI18n": {
         "en": "The minister announced the hubs on a visit to Lincoln.",
@@ -41,13 +41,13 @@
       "type": "MC",
       "prompt": "What will the Lincoln hub help farms do?",
       "choices": [
-        "Close every school",
         "Print ancient scrolls",
-        "Launch a moon rocket",
+        "Ban all preaching",
         "Use robots to pick fruit and kill weeds with light",
-        "Ban all preaching"
+        "Close every school",
+        "Launch a moon rocket"
       ],
-      "answerIndex": 3,
+      "answerIndex": 2,
       "hintKo": "The Lincoln hub covers fruit picking and light weeding.",
       "hintI18n": {
         "en": "The Lincoln hub covers fruit picking and light weeding.",
@@ -72,9 +72,9 @@
       "type": "MC",
       "prompt": "When was this hub plan in the news?",
       "choices": [
-        "In the year eighteen ten",
         "A century ago",
         "Before robots existed",
+        "In the year eighteen ten",
         "In recent days, about two days before this lesson week was planned",
         "On New Year Day"
       ],
@@ -103,13 +103,13 @@
       "type": "MC",
       "prompt": "Where is the hub for robotic-assisted surgery?",
       "choices": [
+        "Only on a bus in Ghana",
         "Only at the South Pole",
         "Only in a peat field",
-        "Only on a bus in Ghana",
-        "In Newcastle",
-        "Only in a baseball park"
+        "Only in a baseball park",
+        "In Newcastle"
       ],
-      "answerIndex": 3,
+      "answerIndex": 4,
       "hintKo": "The surgery hub is in Newcastle.",
       "hintI18n": {
         "en": "The surgery hub is in Newcastle.",
@@ -134,13 +134,13 @@
       "type": "MC",
       "prompt": "Why do farms want these robots?",
       "choices": [
-        "They want thicker smoke",
         "They want fewer strawberries",
-        "They want to stop all rain",
         "Farmers struggle to find workers at harvest time",
-        "They want a literature prize"
+        "They want a literature prize",
+        "They want thicker smoke",
+        "They want to stop all rain"
       ],
-      "answerIndex": 3,
+      "answerIndex": 1,
       "hintKo": "The minister said harvest labour is hard to find.",
       "hintI18n": {
         "en": "The minister said harvest labour is hard to find.",
