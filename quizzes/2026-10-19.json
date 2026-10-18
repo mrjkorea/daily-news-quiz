@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-19",
+  "date": "2026-10-19",
+  "title": "Daily News Quiz · 2026-10-19",
+  "headline": "Eliud Kipchoge wins the Melbourne Marathon at forty-one",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who won the Melbourne Marathon?",
+      "choices": [
+        "A cricket team",
+        "Eliud Kipchoge",
+        "Camille French's coach",
+        "A Formula One driver",
+        "A school runner"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Eliud Kipchoge won the Melbourne Marathon at forty-one.",
+      "hintI18n": {
+        "en": "Eliud Kipchoge won the Melbourne Marathon at forty-one.",
+        "ko": "엘리우드 킵초게가 41세에 멜버른 마라톤에서 우승했습니다.",
+        "zh-Hans": "埃鲁德·基普乔格在41岁时赢得了墨尔本马拉松。",
+        "ja": "エリウド・キプチョゲが41歳でメルボルン・マラソンを制しました。",
+        "es": "Eliud Kipchoge ganó el Maratón de Melbourne a los cuarenta y uno.",
+        "hi": "एलियुड किपचोगे ने इकतालीस की उम्र में मेलबर्न मैराथन जीती।",
+        "de": "Eliud Kipchoge gewann den Melbourne-Marathon mit einundvierzig.",
+        "vi": "Eliud Kipchoge đã thắng Melbourne Marathon ở tuổi bốn mươi mốt.",
+        "pt-BR": "Eliud Kipchoge venceu a Maratona de Melbourne aos quarenta e um anos.",
+        "id": "Eliud Kipchoge memenangkan Melbourne Marathon pada usia empat puluh satu.",
+        "fr": "Eliud Kipchoge a remporté le marathon de Melbourne à quarante et un ans.",
+        "ar": "فاز إيليود كيبشوجي بماراثون ملبورن في الحادية والأربعين من عمره.",
+        "tr": "Eliud Kipchoge, Melbourne Maratonu'nu kırk bir yaşında kazandı.",
+        "it": "Eliud Kipchoge ha vinto la Maratona di Melbourne a quarantun anni.",
+        "pl": "Eliud Kipchoge wygrał maraton w Melbourne w wieku czterdziestu jeden lat."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did Kipchoge set in Melbourne?",
+      "choices": [
+        "A new school rule",
+        "A price for tickets",
+        "A speed limit for cars",
+        "A new course record",
+        "A cricket score"
+      ],
+      "answerIndex": 3,
+      "hintKo": "His time was a new course record for Melbourne.",
+      "hintI18n": {
+        "en": "His time was a new course record for Melbourne.",
+        "ko": "그의 기록은 멜버른의 새로운 코스 기록이었습니다.",
+        "zh-Hans": "他的成绩创下了墨尔本赛道的新纪录。",
+        "ja": "彼のタイムはメルボルンの新コース記録でした。",
+        "es": "Su tiempo fue un nuevo récord del recorrido para Melbourne.",
+        "hi": "उनका समय मेलबर्न के लिए नया कोर्स रिकॉर्ड था।",
+        "de": "Seine Zeit war ein neuer Streckenrekord für Melbourne.",
+        "vi": "Thời gian của anh là kỷ lục đường chạy mới cho Melbourne.",
+        "pt-BR": "Seu tempo foi um novo recorde de percurso para Melbourne.",
+        "id": "Waktunya adalah rekor lintasan baru untuk Melbourne.",
+        "fr": "Son temps a été un nouveau record du parcours pour Melbourne.",
+        "ar": "كان زمنه رقمًا قياسيًا جديدًا للمسار في ملبورن.",
+        "tr": "Derecesi Melbourne için yeni bir parkur rekoruydu.",
+        "it": "Il suo tempo è stato un nuovo record del percorso per Melbourne.",
+        "pl": "Jego czas był nowym rekordem trasy dla Melbourne."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Kipchoge last win a marathon before Melbourne?",
+      "choices": [
+        "At the Berlin Marathon in twenty twenty-three",
+        "Last Tuesday",
+        "In nineteen fifty",
+        "Before he could walk",
+        "Next year"
+      ],
+      "answerIndex": 0,
+      "hintKo": "His last win before Melbourne was in Berlin in twenty twenty-three.",
+      "hintI18n": {
+        "en": "His last win before Melbourne was in Berlin in twenty twenty-three.",
+        "ko": "멜버른 전 마지막 우승은 2023년 베를린이었습니다.",
+        "zh-Hans": "他在墨尔本之前的上一场胜利是2023年在柏林。",
+        "ja": "メルボルンの前の最後の優勝は2023年のベルリンでした。",
+        "es": "Su última victoria antes de Melbourne fue en Berlín en 2023.",
+        "hi": "मेलबर्न से पहले उनकी पिछली जीत 2023 में बर्लिन में थी।",
+        "de": "Sein letzter Sieg vor Melbourne war 2023 in Berlin.",
+        "vi": "Chiến thắng cuối cùng của anh trước Melbourne là ở Berlin vào năm 2023.",
+        "pt-BR": "Sua última vitória antes de Melbourne foi em Berlim em 2023.",
+        "id": "Kemenangan terakhirnya sebelum Melbourne adalah di Berlin pada 2023.",
+        "fr": "Sa dernière victoire avant Melbourne a été à Berlin en 2023.",
+        "ar": "كان آخر فوز له قبل ملبورن في برلين عام 2023.",
+        "tr": "Melbourne'dan önceki son zaferi 2023'te Berlin'deydi.",
+        "it": "La sua ultima vittoria prima di Melbourne è stata a Berlino nel 2023.",
+        "pl": "Jego ostatnie zwycięstwo przed Melbourne było w Berlinie w 2023 roku."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the race finish?",
+      "choices": [
+        "On a farm road",
+        "At a train station",
+        "On a beach in Manila",
+        "In a shopping mall",
+        "Inside the Melbourne Cricket Ground"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The race finished inside the Melbourne Cricket Ground.",
+      "hintI18n": {
+        "en": "The race finished inside the Melbourne Cricket Ground.",
+        "ko": "경기는 멜버른 크리켓 그라운드 안에서 끝났습니다.",
+        "zh-Hans": "比赛在墨尔本板球场内结束。",
+        "ja": "レースはメルボルン・クリケット・グラウンドの内部で終わりました。",
+        "es": "La carrera terminó dentro del Melbourne Cricket Ground.",
+        "hi": "दौड़ मेलबर्न क्रिकेट ग्राउंड के अंदर समाप्त हुई।",
+        "de": "Das Rennen endete im Melbourne Cricket Ground.",
+        "vi": "Cuộc đua kết thúc bên trong Melbourne Cricket Ground.",
+        "pt-BR": "A corrida terminou dentro do Melbourne Cricket Ground.",
+        "id": "Balapan berakhir di dalam Melbourne Cricket Ground.",
+        "fr": "La course s'est terminée à l'intérieur du Melbourne Cricket Ground.",
+        "ar": "انتهى السباق داخل ملعب ملبورن للكريكت.",
+        "tr": "Yarış Melbourne Kriket Sahası'nın içinde sona erdi.",
+        "it": "La gara è terminata dentro il Melbourne Cricket Ground.",
+        "pl": "Wyścig zakończył się wewnątrz Melbourne Cricket Ground."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why does Kipchoge run each race on his world tour?",
+      "choices": [
+        "To sell new cars",
+        "To build a stadium",
+        "To raise money for his foundation",
+        "To find a new job",
+        "To test a phone"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Each race raises money for his foundation.",
+      "hintI18n": {
+        "en": "Each race raises money for his foundation.",
+        "ko": "각 경기는 그의 재단을 위해 기금을 모읍니다.",
+        "zh-Hans": "每场比赛都为他的基金会筹集资金。",
+        "ja": "各レースは彼の財団のために資金を集めています。",
+        "es": "Cada carrera recauda dinero para su fundación.",
+        "hi": "हर दौड़ उनके फाउंडेशन के लिए धन जुटाती है।",
+        "de": "Jedes Rennen sammelt Geld für seine Stiftung.",
+        "vi": "Mỗi cuộc đua quyên tiền cho quỹ của anh ấy.",
+        "pt-BR": "Cada corrida arrecada dinheiro para sua fundação.",
+        "id": "Setiap balapan mengumpulkan uang untuk yayasannya.",
+        "fr": "Chaque course collecte des fonds pour sa fondation.",
+        "ar": "كل سباق يجمع الأموال لمؤسسته.",
+        "tr": "Her yarış onun vakfı için para topluyor.",
+        "it": "Ogni gara raccoglie fondi per la sua fondazione.",
+        "pl": "Każdy wyścig zbiera pieniądze na jego fundację."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did Kipchoge thank the fans in the stadium?",
+      "choices": [
+        "He gave a speech on TV",
+        "He slowed down and waved to them",
+        "He threw his shoes",
+        "He sang a song",
+        "He left early"
+      ],
+      "answerIndex": 1,
+      "hintKo": "He slowed down inside the stadium to wave to the fans.",
+      "hintI18n": {
+        "en": "He slowed down inside the stadium to wave to the fans.",
+        "ko": "그는 팬들에게 손을 흔들기 위해 경기장 안에서 속도를 늦췄습니다.",
+        "zh-Hans": "他在体育场内放慢速度，向粉丝挥手。",
+        "ja": "彼はファンに手を振るためにスタジアム内で速度を落としました。",
+        "es": "Redujo la velocidad dentro del estadio para saludar a los aficionados.",
+        "hi": "वह प्रशंसकों को हाथ हिलाने के लिए स्टेडियम के अंदर धीमा हो गया।",
+        "de": "Er wurde im Stadion langsamer, um den Fans zu winken.",
+        "vi": "Anh ấy chậm lại trong sân vận động để vẫy tay chào người hâm mộ.",
+        "pt-BR": "Ele diminuiu a velocidade dentro do estádio para acenar aos fãs.",
+        "id": "Ia memperlambat langkah di dalam stadion untuk melambaikan tangan kepada para penggemar.",
+        "fr": "Il a ralenti à l'intérieur du stade pour saluer les fans.",
+        "ar": "أبطأ من سرعته داخل الملعب ليلوّح للمعجبين.",
+        "tr": "Stadyumun içinde yavaşlayıp taraftarlara el salladı.",
+        "it": "Ha rallentato dentro lo stadio per salutare i tifosi.",
+        "pl": "Zwolnił wewnątrz stadionu, aby pomachać do fanów."
+      }
+    }
+  ]
+}
