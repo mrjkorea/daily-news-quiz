@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-20",
+  "date": "2026-10-20",
+  "title": "Daily News Quiz · 2026-10-20",
+  "headline": "A small dog lost in Yellowstone for thirty-four days is found safe",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who was lost in Yellowstone?",
+      "choices": [
+        "A park ranger",
+        "A young bear",
+        "Luna, a small terrier",
+        "A cabin cleaner",
+        "A tour bus"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Luna, a ten-year-old Jack Russell terrier, was lost.",
+      "hintI18n": {
+        "en": "Luna, a ten-year-old Jack Russell terrier, was lost.",
+        "ko": "열 살 된 잭 러셀 테리어 루나가 길을 잃었습니다.",
+        "zh-Hans": "十岁的杰克罗素梗卢娜走失了。",
+        "ja": "10歳のジャック・ラッセル・テリアのルナが行方不明になりました。",
+        "es": "Luna, una terrier Jack Russell de diez años, se perdió.",
+        "hi": "दस साल की जैक रसेल टेरियर लूना खो गई थी।",
+        "de": "Luna, ein zehnjähriger Jack-Russell-Terrier, wurde vermisst.",
+        "vi": "Luna, một chú chó Jack Russell terrier mười tuổi, bị lạc.",
+        "pt-BR": "Luna, uma terrier Jack Russell de dez anos, se perdeu.",
+        "id": "Luna, seekor Jack Russell terrier berusia sepuluh tahun, hilang.",
+        "fr": "Luna, une terrier Jack Russell de dix ans, s'est perdue.",
+        "ar": "ضاعت لونا، وهي كلبة جاك راسل تيرير عمرها عشر سنوات.",
+        "tr": "On yaşındaki Jack Russell terrier Luna kayboldu.",
+        "it": "Luna, una Jack Russell terrier di dieci anni, si è persa.",
+        "pl": "Luna, dziesięcioletnia suczka rasy Jack Russell terrier, zaginęła."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the team put inside the trap?",
+      "choices": [
+        "Items with her family's scent and a doghouse",
+        "A loud radio",
+        "A bag of money",
+        "A pair of skis",
+        "A map"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They used her family's scent and a doghouse for shelter.",
+      "hintI18n": {
+        "en": "They used her family's scent and a doghouse for shelter.",
+        "ko": "그들은 루나 가족의 냄새와 개집을 대피소로 사용했습니다.",
+        "zh-Hans": "他们用她家人的气味和一个狗屋作为庇护所。",
+        "ja": "彼らはルナの家族のにおいと犬小屋を避難所として使いました。",
+        "es": "Usaron el olor de su familia y una caseta como refugio.",
+        "hi": "उन्होंने उसके परिवार की गंध और एक कुत्ते का घर आश्रय के लिए इस्तेमाल किया।",
+        "de": "Sie benutzten den Geruch ihrer Familie und eine Hundehütte als Unterschlupf.",
+        "vi": "Họ dùng mùi của gia đình cô ấy và một cái chuồng chó làm nơi trú ẩn.",
+        "pt-BR": "Eles usaram o cheiro da família dela e uma casinha de cachorro como abrigo.",
+        "id": "Mereka menggunakan aroma keluarganya dan rumah anjing sebagai tempat berlindung.",
+        "fr": "Ils ont utilisé l'odeur de sa famille et une niche comme abri.",
+        "ar": "استخدموا رائحة عائلتها وبيت كلب كمأوى.",
+        "tr": "Ailesinin kokusunu ve bir köpek kulübesini barınak olarak kullandılar.",
+        "it": "Hanno usato l'odore della sua famiglia e una cuccia come rifugio.",
+        "pl": "Użyli zapachu jej rodziny i budy dla psa jako schronienia."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Luna run away?",
+      "choices": [
+        "Last winter",
+        "On her birthday",
+        "In nineteen ninety",
+        "On the tenth of September",
+        "This morning"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Luna slipped out on the tenth of September.",
+      "hintI18n": {
+        "en": "Luna slipped out on the tenth of September.",
+        "ko": "루나는 9월 10일에 빠져나갔습니다.",
+        "zh-Hans": "卢娜在9月10日溜了出去。",
+        "ja": "ルナは9月10日に抜け出しました。",
+        "es": "Luna se escapó el 10 de septiembre.",
+        "hi": "लूना 10 सितंबर को निकल भागी।",
+        "de": "Luna entwischte am 10. September.",
+        "vi": "Luna lẻn ra ngoài vào ngày 10 tháng 9.",
+        "pt-BR": "Luna escapou em 10 de setembro.",
+        "id": "Luna kabur pada 10 September.",
+        "fr": "Luna s'est échappée le 10 septembre.",
+        "ar": "تسللت لونا إلى الخارج في العاشر من سبتمبر.",
+        "tr": "Luna 10 Eylül'de kaçtı.",
+        "it": "Luna è scappata il 10 settembre.",
+        "pl": "Luna wymknęła się 10 września."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the family staying?",
+      "choices": [
+        "In a big city hotel",
+        "In a rented cabin near Canyon Village",
+        "On a boat",
+        "In a tent on a beach",
+        "At a farm in Texas"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The family had rented a cabin near Canyon Village.",
+      "hintI18n": {
+        "en": "The family had rented a cabin near Canyon Village.",
+        "ko": "가족은 캐니언 빌리지 근처에 있는 오두막을 빌렸습니다.",
+        "zh-Hans": "这家人租了峡谷村附近的一间小木屋。",
+        "ja": "家族はキャニオン・ビレッジの近くのキャビンを借りていました。",
+        "es": "La familia había alquilado una cabaña cerca de Canyon Village.",
+        "hi": "परिवार ने कैनियन विलेज के पास एक केबिन किराए पर लिया था।",
+        "de": "Die Familie hatte eine Hütte in der Nähe von Canyon Village gemietet.",
+        "vi": "Gia đình đã thuê một căn nhà gỗ gần Canyon Village.",
+        "pt-BR": "A família tinha alugado uma cabana perto de Canyon Village.",
+        "id": "Keluarga itu menyewa kabin di dekat Canyon Village.",
+        "fr": "La famille avait loué un chalet près de Canyon Village.",
+        "ar": "كانت العائلة قد استأجرت كوخاً بالقرب من كانيون فيليج.",
+        "tr": "Aile, Canyon Village yakınında bir kulübe kiralamıştı.",
+        "it": "La famiglia aveva affittato una baita vicino a Canyon Village.",
+        "pl": "Rodzina wynajęła domek w pobliżu Canyon Village."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why was Luna hard to catch?",
+      "choices": [
+        "She could fly",
+        "She was very large",
+        "She lived in a tree",
+        "She was asleep all day",
+        "She had street skills from her early life"
+      ],
+      "answerIndex": 4,
+      "hintKo": "She lived on the streets as a young dog and knew how to survive.",
+      "hintI18n": {
+        "en": "She lived on the streets as a young dog and knew how to survive.",
+        "ko": "그녀는 어린 개였을 때 길에서 살았고 살아남는 법을 알고 있었습니다.",
+        "zh-Hans": "她小时候在街头生活，知道如何生存。",
+        "ja": "彼女は若い犬のころ街で暮らしていて、生き延び方を知っていました。",
+        "es": "Cuando era joven, vivió en la calle y sabía cómo sobrevivir.",
+        "hi": "वह छोटी कुत्ती के रूप में सड़कों पर रहती थी और जीवित रहना जानती थी।",
+        "de": "Sie lebte als junger Hund auf der Straße und wusste, wie man überlebt.",
+        "vi": "Khi còn nhỏ, cô ấy sống trên đường phố và biết cách sinh tồn.",
+        "pt-BR": "Quando era jovem, ela viveu nas ruas e sabia como sobreviver.",
+        "id": "Saat masih muda, ia hidup di jalanan dan tahu cara bertahan hidup.",
+        "fr": "Quand elle était jeune, elle vivait dans la rue et savait comment survivre.",
+        "ar": "عاشت في الشوارع وهي كلبة صغيرة وكانت تعرف كيف تنجو.",
+        "tr": "Genç bir köpekken sokaklarda yaşadı ve hayatta kalmayı biliyordu.",
+        "it": "Da giovane viveva per strada e sapeva come sopravvivere.",
+        "pl": "Jako młody pies żyła na ulicy i wiedziała, jak przetrwać."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the owners help Luna after the rescue?",
+      "choices": [
+        "They bought a new cabin",
+        "They went skiing",
+        "They took her straight to a vet",
+        "They left her in the park",
+        "They called a taxi"
+      ],
+      "answerIndex": 2,
+      "hintKo": "They took Luna straight to a vet.",
+      "hintI18n": {
+        "en": "They took Luna straight to a vet.",
+        "ko": "그들은 루나를 곧바로 수의사에게 데려갔습니다.",
+        "zh-Hans": "他们直接把卢娜带到了兽医那里。",
+        "ja": "彼らはルナをすぐに獣医のところへ連れて行きました。",
+        "es": "Llevaron a Luna directamente al veterinario.",
+        "hi": "वे लूना को सीधे पशु चिकित्सक के पास ले गए।",
+        "de": "Sie brachten Luna direkt zum Tierarzt.",
+        "vi": "Họ đưa Luna đến bác sĩ thú y ngay.",
+        "pt-BR": "Levaram Luna diretamente ao veterinário.",
+        "id": "Mereka langsung membawa Luna ke dokter hewan.",
+        "fr": "Ils ont emmené Luna directement chez le vétérinaire.",
+        "ar": "أخذوا لونا مباشرة إلى الطبيب البيطري.",
+        "tr": "Luna'yı doğrudan veterinere götürdüler.",
+        "it": "Portarono Luna direttamente dal veterinario.",
+        "pl": "Zabrali Lunę od razu do weterynarza."
+      }
+    }
+  ]
+}
