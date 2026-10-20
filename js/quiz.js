@@ -157,7 +157,7 @@
       .join("");
     const verdict = perfect ? I18n.t("perfect") : I18n.t("nice_try");
     box.innerHTML = `<p class="confetti">${perfect ? "🎉🎉🎉" : "⭐"}</p>
-      <p class="score">${right} / ${data.questions.length}</p>
+      <p class="score">${right} / ${data.questions.length} (${data.questions.length ? Math.round((right / data.questions.length) * 100) : 0}%)</p>
       <p>${verdict} · ${I18n.t("attempt", { n: rec.attempts })}</p>
       ${missHtml}`;
   };
