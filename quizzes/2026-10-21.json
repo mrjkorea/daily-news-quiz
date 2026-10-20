@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-21",
+  "date": "2026-10-21",
+  "title": "Daily News Quiz · 2026-10-21",
+  "headline": "A small sugar sensor helps people with type two diabetes",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who took part in the study?",
+      "choices": [
+        "Professional runners",
+        "Children at a school",
+        "Hospital cooks",
+        "Adults with type two diabetes who do not use insulin",
+        "Pilots"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The study included adults with type two diabetes who do not use insulin.",
+      "hintI18n": {
+        "en": "The study included adults with type two diabetes who do not use insulin.",
+        "ko": "이 연구에는 인슐린을 사용하지 않는 제2형 당뇨병 성인들이 포함되었습니다.",
+        "zh-Hans": "这项研究纳入了不使用胰岛素的2型糖尿病成年人。",
+        "ja": "この研究には、インスリンを使わない2型糖尿病の成人が含まれていました。",
+        "es": "El estudio incluyó a adultos con diabetes tipo dos que no usan insulina.",
+        "hi": "इस अध्ययन में टाइप 2 मधुमेह वाले वयस्क शामिल थे जो इंसुलिन का उपयोग नहीं करते।",
+        "de": "Die Studie umfasste Erwachsene mit Typ-2-Diabetes, die kein Insulin verwenden.",
+        "vi": "Nghiên cứu bao gồm người lớn mắc bệnh tiểu đường loại 2 không sử dụng insulin.",
+        "pt-BR": "O estudo incluiu adultos com diabetes tipo 2 que não usam insulina.",
+        "id": "Studi ini mencakup orang dewasa dengan diabetes tipe 2 yang tidak menggunakan insulin.",
+        "fr": "L’étude incluait des adultes atteints de diabète de type 2 qui n’utilisent pas d’insuline.",
+        "ar": "شملت الدراسة بالغين مصابين بالسكري من النوع الثاني لا يستخدمون الأنسولين.",
+        "tr": "Çalışma, insülin kullanmayan tip 2 diyabetli yetişkinleri içeriyordu.",
+        "it": "Lo studio ha incluso adulti con diabete di tipo 2 che non usano insulina.",
+        "pl": "W badaniu wzięły udział osoby dorosłe z cukrzycą typu 2, które nie stosują insuliny."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What does the small sensor check?",
+      "choices": [
+        "The weather",
+        "Blood sugar, all day and night",
+        "Phone messages",
+        "Heart surgery",
+        "Shoe size"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The sensor checks blood sugar all day and night.",
+      "hintI18n": {
+        "en": "The sensor checks blood sugar all day and night.",
+        "ko": "이 센서는 밤낮으로 혈당을 확인합니다.",
+        "zh-Hans": "这个传感器昼夜检查血糖。",
+        "ja": "このセンサーは昼夜を問わず血糖値を確認します。",
+        "es": "El sensor mide el azúcar en la sangre día y noche.",
+        "hi": "सेंसर दिन-रात रक्त शर्करा की जाँच करता है।",
+        "de": "Der Sensor misst den Blutzucker Tag und Nacht.",
+        "vi": "Cảm biến kiểm tra đường huyết cả ngày lẫn đêm.",
+        "pt-BR": "O sensor verifica o açúcar no sangue durante o dia e a noite.",
+        "id": "Sensor memeriksa gula darah sepanjang siang dan malam.",
+        "fr": "Le capteur contrôle la glycémie jour et nuit.",
+        "ar": "يفحص المستشعر سكر الدم طوال اليوم والليل.",
+        "tr": "Sensör gece gündüz kan şekerini kontrol eder.",
+        "it": "Il sensore controlla lo zucchero nel sangue giorno e notte.",
+        "pl": "Czujnik sprawdza poziom cukru we krwi przez całą dobę."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did researchers compare the two groups?",
+      "choices": [
+        "After one hour",
+        "Before the study began",
+        "After ten years",
+        "On the first morning",
+        "After twenty-six weeks"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The results came after twenty-six weeks.",
+      "hintI18n": {
+        "en": "The results came after twenty-six weeks.",
+        "ko": "결과는 26주 후에 나왔습니다.",
+        "zh-Hans": "结果是在二十六周后得出的。",
+        "ja": "結果は26週後に出ました。",
+        "es": "Los resultados llegaron después de veintiséis semanas.",
+        "hi": "परिणाम छब्बीस सप्ताह बाद आए।",
+        "de": "Die Ergebnisse kamen nach sechsundzwanzig Wochen.",
+        "vi": "Kết quả đến sau hai mươi sáu tuần.",
+        "pt-BR": "Os resultados vieram após vinte e seis semanas.",
+        "id": "Hasilnya muncul setelah dua puluh enam minggu.",
+        "fr": "Les résultats sont venus après vingt-six semaines.",
+        "ar": "جاءت النتائج بعد ستة وعشرين أسبوعًا.",
+        "tr": "Sonuçlar yirmi altı hafta sonra geldi.",
+        "it": "I risultati sono arrivati dopo ventisei settimane.",
+        "pl": "Wyniki pojawiły się po dwudziestu sześciu tygodniach."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the study published?",
+      "choices": [
+        "In the New England Journal of Medicine",
+        "In a cookbook",
+        "On a cereal box",
+        "In a travel guide",
+        "On a street sign"
+      ],
+      "answerIndex": 0,
+      "hintKo": "It was published in the New England Journal of Medicine.",
+      "hintI18n": {
+        "en": "It was published in the New England Journal of Medicine.",
+        "ko": "그것은 뉴잉글랜드 의학 저널에 실렸습니다.",
+        "zh-Hans": "它发表在《新英格兰医学杂志》上。",
+        "ja": "それは『ニューイングランド・ジャーナル・オブ・メディシン』に掲載されました。",
+        "es": "Se publicó en el New England Journal of Medicine.",
+        "hi": "इसे न्यू इंग्लैंड जर्नल ऑफ मेडिसिन में प्रकाशित किया गया था।",
+        "de": "Es wurde im New England Journal of Medicine veröffentlicht.",
+        "vi": "Nó được công bố trên New England Journal of Medicine.",
+        "pt-BR": "Foi publicado no New England Journal of Medicine.",
+        "id": "Ini diterbitkan di New England Journal of Medicine.",
+        "fr": "Il a été publié dans le New England Journal of Medicine.",
+        "ar": "نُشر في نيو إنجلاند جورنال أوف ميديسين.",
+        "tr": "New England Journal of Medicine'da yayımlandı.",
+        "it": "È stato pubblicato sul New England Journal of Medicine.",
+        "pl": "Zostało opublikowane w New England Journal of Medicine."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why can the monitor help patients?",
+      "choices": [
+        "It cooks healthy food",
+        "It replaces all doctors",
+        "It shows how food, exercise, and habits change blood sugar",
+        "It plays music",
+        "It stops all illness"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Seeing how food and habits change blood sugar helps patients.",
+      "hintI18n": {
+        "en": "Seeing how food and habits change blood sugar helps patients.",
+        "ko": "음식과 습관이 혈당을 어떻게 바꾸는지 보는 것은 환자에게 도움이 됩니다.",
+        "zh-Hans": "看到食物和习惯如何改变血糖对患者有帮助。",
+        "ja": "食べ物や習慣が血糖値をどう変えるかを見ることは、患者の助けになります。",
+        "es": "Ver cómo la comida y los hábitos cambian el azúcar en la sangre ayuda a los pacientes.",
+        "hi": "यह देखना कि भोजन और आदतें रक्त शर्करा को कैसे बदलती हैं, मरीज़ों की मदद करता है।",
+        "de": "Zu sehen, wie Essen und Gewohnheiten den Blutzucker verändern, hilft Patienten.",
+        "vi": "Việc thấy thức ăn và thói quen thay đổi đường huyết giúp ích cho bệnh nhân.",
+        "pt-BR": "Ver como a comida e os hábitos alteram o açúcar no sangue ajuda os pacientes.",
+        "id": "Melihat bagaimana makanan dan kebiasaan mengubah gula darah membantu pasien.",
+        "fr": "Voir comment l’alimentation et les habitudes modifient la glycémie aide les patients.",
+        "ar": "رؤية كيف يغيّر الطعام والعادات سكر الدم تساعد المرضى.",
+        "tr": "Yemeklerin ve alışkanlıkların kan şekerini nasıl değiştirdiğini görmek hastalara yardımcı olur.",
+        "it": "Vedere come cibo e abitudini cambiano lo zucchero nel sangue aiuta i pazienti.",
+        "pl": "Widzenie, jak jedzenie i nawyki zmieniają poziom cukru we krwi, pomaga pacjentom."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much more time did monitor users spend in a healthy range?",
+      "choices": [
+        "About five more minutes a week",
+        "No time at all",
+        "About one more year",
+        "About five more hours a day",
+        "About ten more days"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Monitor users spent about five more hours a day in range.",
+      "hintI18n": {
+        "en": "Monitor users spent about five more hours a day in range.",
+        "ko": "모니터 사용자들은 하루에 약 5시간 더 건강한 범위에 머물렀습니다.",
+        "zh-Hans": "使用监测仪的人每天在健康范围内的时间多了约五个小时。",
+        "ja": "モニター使用者は1日あたり約5時間多く健康な範囲にとどまりました。",
+        "es": "Los usuarios del monitor pasaron unas cinco horas más al día dentro del rango saludable.",
+        "hi": "मॉनिटर उपयोगकर्ताओं ने दिन में लगभग पाँच घंटे अधिक स्वस्थ सीमा में बिताए।",
+        "de": "Nutzer des Monitors verbrachten etwa fünf Stunden mehr pro Tag im gesunden Bereich.",
+        "vi": "Người dùng máy theo dõi ở trong phạm vi khỏe mạnh nhiều hơn khoảng năm giờ mỗi ngày.",
+        "pt-BR": "Usuários do monitor passaram cerca de cinco horas mais por dia na faixa saudável.",
+        "id": "Pengguna monitor menghabiskan sekitar lima jam lebih banyak per hari dalam kisaran sehat.",
+        "fr": "Les utilisateurs du capteur ont passé environ cinq heures de plus par jour dans la plage saine.",
+        "ar": "قضى مستخدمو الجهاز نحو خمس ساعات إضافية يوميًا ضمن النطاق الصحي.",
+        "tr": "Monitör kullananlar günde yaklaşık beş saat daha sağlıklı aralıkta kaldı.",
+        "it": "Gli utenti del monitor hanno trascorso circa cinque ore in più al giorno nell’intervallo sano.",
+        "pl": "Użytkownicy monitora spędzali około pięciu godzin więcej dziennie w zdrowym zakresie."
+      }
+    }
+  ]
+}
