@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-22",
+  "date": "2026-10-22",
+  "title": "Daily News Quiz · 2026-10-22",
+  "headline": "New York votes on ending horse carriages in Central Park",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who supports the ban besides most council members?",
+      "choices": [
+        "A bus company",
+        "The horse owners' union",
+        "The mayor",
+        "Tourists from Paris",
+        "A football club"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The mayor also supports the ban.",
+      "hintI18n": {
+        "en": "The mayor also supports the ban.",
+        "ko": "시장도 이 금지령을 지지합니다.",
+        "zh-Hans": "市长也支持这项禁令。",
+        "ja": "市長もその禁止令を支持しています。",
+        "es": "El alcalde también apoya la prohibición.",
+        "hi": "मेयर भी इस प्रतिबंध का समर्थन करते हैं।",
+        "de": "Der Bürgermeister unterstützt das Verbot auch.",
+        "vi": "Thị trưởng cũng ủng hộ lệnh cấm.",
+        "pt-BR": "O prefeito também apoia a proibição.",
+        "id": "Walikota juga mendukung larangan tersebut.",
+        "fr": "Le maire soutient aussi l'interdiction.",
+        "ar": "يدعم العمدة أيضًا هذا الحظر.",
+        "tr": "Belediye başkanı da yasağı destekliyor.",
+        "it": "Anche il sindaco sostiene il divieto.",
+        "pl": "Burmistrz również popiera zakaz."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What is the new bill called?",
+      "choices": [
+        "The Park Fun Act",
+        "The Horse Pay Law",
+        "The Taxi Plan",
+        "The Tourist Rule",
+        "Romanch's Law"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The bill is called Romanch's Law.",
+      "hintI18n": {
+        "en": "The bill is called Romanch's Law.",
+        "ko": "이 법안은 로만치의 법이라고 불립니다.",
+        "zh-Hans": "该法案被称为《罗曼奇法》。",
+        "ja": "この法案はロマンチ法と呼ばれています。",
+        "es": "El proyecto de ley se llama Ley de Romanch.",
+        "hi": "इस विधेयक को रोमांच कानून कहा जाता है।",
+        "de": "Das Gesetz heißt Romanch-Gesetz.",
+        "vi": "Dự luật được gọi là Luật Romanch.",
+        "pt-BR": "O projeto de lei é chamado de Lei de Romanch.",
+        "id": "RUU tersebut disebut Undang-Undang Romanch.",
+        "fr": "Le projet de loi s'appelle la loi Romanch.",
+        "ar": "يُسمى مشروع القانون قانون رومانش.",
+        "tr": "Yasa tasarısının adı Romanch Yasası.",
+        "it": "Il disegno di legge si chiama Legge Romanch.",
+        "pl": "Ustawa nazywa się Prawo Romancha."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When would carriage rides for hire end?",
+      "choices": [
+        "Tomorrow morning",
+        "In June twenty twenty-eight",
+        "In nineteen eighty",
+        "Next Christmas",
+        "Never"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Rides for hire would end in June twenty twenty-eight.",
+      "hintI18n": {
+        "en": "Rides for hire would end in June twenty twenty-eight.",
+        "ko": "유료 마차는 2028년 6월에 끝날 것입니다.",
+        "zh-Hans": "出租马车将于2028年6月结束。",
+        "ja": "貸し馬車は2028年6月に終了します。",
+        "es": "Los paseos en carruaje de alquiler terminarían en junio de 2028.",
+        "hi": "किराए की सवारी जून 2028 में समाप्त हो जाएगी।",
+        "de": "Mietkutschenfahrten würden im Juni 2028 enden.",
+        "vi": "Các chuyến xe ngựa cho thuê sẽ kết thúc vào tháng 6 năm 2028.",
+        "pt-BR": "Os passeios de carruagem para alugar terminariam em junho de 2028.",
+        "id": "Tumpangan kereta kuda sewaan akan berakhir pada Juni 2028.",
+        "fr": "Les balades en calèche à louer prendraient fin en juin 2028.",
+        "ar": "ستنتهي رحلات العربة للإيجار في يونيو 2028.",
+        "tr": "Kiralık atlı araba turları Haziran 2028'de sona erecek.",
+        "it": "I giri in carrozza a noleggio terminerebbero a giugno 2028.",
+        "pl": "Przejażdżki powozem do wynajęcia zakończą się w czerwcu 2028 roku."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where do the carriage rides take place?",
+      "choices": [
+        "In a London zoo",
+        "On a beach in Spain",
+        "In a shopping mall",
+        "In Central Park in New York City",
+        "On a farm in India"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The rides take place in Central Park.",
+      "hintI18n": {
+        "en": "The rides take place in Central Park.",
+        "ko": "마차는 센트럴 파크에서 운행됩니다.",
+        "zh-Hans": "马车游览在中央公园进行。",
+        "ja": "馬車はセントラルパークで行われます。",
+        "es": "Los paseos tienen lugar en Central Park.",
+        "hi": "सवारी सेंट्रल पार्क में होती है।",
+        "de": "Die Fahrten finden im Central Park statt.",
+        "vi": "Các chuyến đi diễn ra ở Công viên Trung tâm.",
+        "pt-BR": "Os passeios acontecem no Central Park.",
+        "id": "Wahana ini berlangsung di Central Park.",
+        "fr": "Les balades ont lieu à Central Park.",
+        "ar": "تحدث الجولات في سنترال بارك.",
+        "tr": "Turlar Central Park'ta gerçekleşir.",
+        "it": "I giri si svolgono a Central Park.",
+        "pl": "Przejażdżki odbywają się w Central Parku."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do many people want the ban?",
+      "choices": [
+        "They worry about safety and the horses",
+        "They want faster horses",
+        "They want more carriages",
+        "They dislike parks",
+        "They want cheaper tickets"
+      ],
+      "answerIndex": 0,
+      "hintKo": "People worry about safety and the welfare of the horses.",
+      "hintI18n": {
+        "en": "People worry about safety and the welfare of the horses.",
+        "ko": "사람들은 안전과 말의 복지를 걱정합니다.",
+        "zh-Hans": "人们担心安全和马的福利。",
+        "ja": "人々は安全と馬の福祉を心配しています。",
+        "es": "La gente se preocupa por la seguridad y el bienestar de los caballos.",
+        "hi": "लोग सुरक्षा और घोड़ों के कल्याण की चिंता करते हैं।",
+        "de": "Die Leute sorgen sich um die Sicherheit und das Wohlergehen der Pferde.",
+        "vi": "Mọi người lo lắng về sự an toàn và phúc lợi của ngựa.",
+        "pt-BR": "As pessoas se preocupam com a segurança e o bem-estar dos cavalos.",
+        "id": "Orang-orang khawatir tentang keselamatan dan kesejahteraan kuda.",
+        "fr": "Les gens s'inquiètent de la sécurité et du bien-être des chevaux.",
+        "ar": "يقلق الناس على السلامة ورفاهية الخيول.",
+        "tr": "İnsanlar güvenlik ve atların refahı konusunda endişeli.",
+        "it": "Le persone si preoccupano della sicurezza e del benessere dei cavalli.",
+        "pl": "Ludzie martwią się o bezpieczeństwo i dobrostan koni."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How will the plan help drivers?",
+      "choices": [
+        "It gives them new horses",
+        "It moves them to Paris",
+        "With job training, career help, and possible money",
+        "It makes rides free",
+        "It gives them a park"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The transition plan offers training, career help, and possible money.",
+      "hintI18n": {
+        "en": "The transition plan offers training, career help, and possible money.",
+        "ko": "전환 계획은 훈련, 직업 도움, 그리고 가능한 금전적 지원을 제공합니다.",
+        "zh-Hans": "过渡计划提供培训、职业帮助和可能的资金。",
+        "ja": "移行計画は訓練、キャリア支援、そして可能な資金を提供します。",
+        "es": "El plan de transición ofrece capacitación, ayuda profesional y posible dinero.",
+        "hi": "संक्रमण योजना प्रशिक्षण, करियर सहायता और संभावित धन प्रदान करती है।",
+        "de": "Der Übergangsplan bietet Schulung, Karrierehilfe und möglicherweise Geld.",
+        "vi": "Kế hoạch chuyển đổi cung cấp đào tạo, hỗ trợ nghề nghiệp và có thể có tiền.",
+        "pt-BR": "O plano de transição oferece treinamento, ajuda profissional e possível dinheiro.",
+        "id": "Rencana transisi menawarkan pelatihan, bantuan karier, dan kemungkinan uang.",
+        "fr": "Le plan de transition offre une formation, une aide professionnelle et éventuellement de l'argent.",
+        "ar": "تقدم خطة الانتقال التدريب والمساعدة الوظيفية وربما المال.",
+        "tr": "Geçiş planı eğitim, kariyer yardımı ve olası para sunuyor.",
+        "it": "Il piano di transizione offre formazione, assistenza professionale e possibili soldi.",
+        "pl": "Plan przejściowy oferuje szkolenia, pomoc w karierze i możliwe pieniądze."
+      }
+    }
+  ]
+}
