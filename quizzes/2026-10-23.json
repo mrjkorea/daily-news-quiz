@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-23",
+  "date": "2026-10-23",
+  "title": "Daily News Quiz · 2026-10-23",
+  "headline": "Drones and lasers map a sea coast to fight erosion",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is doing this coast research?",
+      "choices": [
+        "A football team",
+        "A group of tourists",
+        "A fishing company",
+        "Teams from the University of East London and Waseda University",
+        "A city bus company"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Researchers from the University of East London and Waseda University lead it.",
+      "hintI18n": {
+        "en": "Researchers from the University of East London and Waseda University lead it.",
+        "ko": "이스트런던 대학교와 와세다 대학교의 연구자들이 이끌고 있습니다.",
+        "zh-Hans": "来自东伦敦大学和早稻田大学的研究人员领导这项研究。",
+        "ja": "イーストロンドン大学と早稲田大学の研究者がこれを主導しています。",
+        "es": "Investigadores de la Universidad de East London y la Universidad de Waseda lo lideran.",
+        "hi": "ईस्ट लंदन विश्वविद्यालय और वासेदा विश्वविद्यालय के शोधकर्ता इसका नेतृत्व कर रहे हैं।",
+        "de": "Forschende der University of East London und der Waseda-Universität leiten es.",
+        "vi": "Các nhà nghiên cứu từ Đại học East London và Đại học Waseda dẫn dắt nghiên cứu này.",
+        "pt-BR": "Pesquisadores da Universidade de East London e da Universidade Waseda lideram o estudo.",
+        "id": "Peneliti dari University of East London dan Universitas Waseda memimpin penelitian ini.",
+        "fr": "Des chercheurs de l’Université d’East London et de l’Université Waseda mènent cette recherche.",
+        "ar": "يقود البحث باحثون من جامعة إيست لندن وجامعة واسيدا.",
+        "tr": "Doğu Londra Üniversitesi ve Waseda Üniversitesi'nden araştırmacılar bu çalışmayı yürütüyor.",
+        "it": "Ricercatori della University of East London e della Waseda University guidano la ricerca.",
+        "pl": "Badacze z University of East London i Uniwersytetu Waseda prowadzą te badania."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What tools are the scientists using?",
+      "choices": [
+        "Drones and lasers",
+        "Boats and nets",
+        "Paint and brushes",
+        "Hammers and nails",
+        "Pens and paper only"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They use drones and laser technology.",
+      "hintI18n": {
+        "en": "They use drones and laser technology.",
+        "ko": "그들은 드론과 레이저 기술을 사용합니다.",
+        "zh-Hans": "他们使用无人机和激光技术。",
+        "ja": "彼らはドローンとレーザー技術を使っています。",
+        "es": "Utilizan drones y tecnología láser.",
+        "hi": "वे ड्रोन और लेजर तकनीक का उपयोग करते हैं।",
+        "de": "Sie verwenden Drohnen und Lasertechnologie.",
+        "vi": "Họ sử dụng máy bay không người lái và công nghệ laser.",
+        "pt-BR": "Eles usam drones e tecnologia a laser.",
+        "id": "Mereka menggunakan drone dan teknologi laser.",
+        "fr": "Ils utilisent des drones et la technologie laser.",
+        "ar": "يستخدمون الطائرات المسيّرة وتقنية الليزر.",
+        "tr": "Dronlar ve lazer teknolojisi kullanıyorlar.",
+        "it": "Usano droni e tecnologia laser.",
+        "pl": "Używają dronów i technologii laserowej."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When were the Holkham pine trees planted?",
+      "choices": [
+        "In twenty twenty-five",
+        "Last spring",
+        "In the eighteen hundreds",
+        "Next year",
+        "Yesterday"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The trees were planted in the eighteen hundreds.",
+      "hintI18n": {
+        "en": "The trees were planted in the eighteen hundreds.",
+        "ko": "나무들은 1800년대에 심어졌습니다.",
+        "zh-Hans": "这些树是在19世纪种下的。",
+        "ja": "これらの木は1800年代に植えられました。",
+        "es": "Los árboles se plantaron en el siglo XIX.",
+        "hi": "ये पेड़ 1800 के दशक में लगाए गए थे।",
+        "de": "Die Bäume wurden im 19. Jahrhundert gepflanzt.",
+        "vi": "Những cây này được trồng vào thế kỷ 19.",
+        "pt-BR": "As árvores foram plantadas no século XIX.",
+        "id": "Pohon-pohon itu ditanam pada abad ke-19.",
+        "fr": "Les arbres ont été plantés au XIXe siècle.",
+        "ar": "زُرعت هذه الأشجار في القرن التاسع عشر.",
+        "tr": "Ağaçlar 1800'lü yıllarda dikildi.",
+        "it": "Gli alberi furono piantati nell'Ottocento.",
+        "pl": "Drzewa posadzono w XIX wieku."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the coast in this story?",
+      "choices": [
+        "In southern Spain",
+        "In Tokyo Bay",
+        "In New York",
+        "In central Africa",
+        "In Norfolk, in eastern England"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The research is on the Norfolk coast in eastern England.",
+      "hintI18n": {
+        "en": "The research is on the Norfolk coast in eastern England.",
+        "ko": "이 연구는 잉글랜드 동부의 노퍽 해안에서 이루어집니다.",
+        "zh-Hans": "这项研究在英格兰东部的诺福克海岸进行。",
+        "ja": "この研究はイングランド東部のノーフォーク海岸で行われています。",
+        "es": "La investigación se realiza en la costa de Norfolk, en el este de Inglaterra.",
+        "hi": "यह शोध पूर्वी इंग्लैंड के नॉरफ़ॉक तट पर किया जा रहा है।",
+        "de": "Die Forschung findet an der Küste von Norfolk im Osten Englands statt.",
+        "vi": "Nghiên cứu được thực hiện ở bờ biển Norfolk, miền đông nước Anh.",
+        "pt-BR": "A pesquisa é feita na costa de Norfolk, no leste da Inglaterra.",
+        "id": "Penelitian ini dilakukan di pesisir Norfolk, Inggris timur.",
+        "fr": "La recherche se déroule sur la côte du Norfolk, dans l’est de l’Angleterre.",
+        "ar": "يتم البحث على ساحل نورفولك في شرق إنجلترا.",
+        "tr": "Araştırma, Doğu İngiltere'deki Norfolk kıyısında yürütülüyor.",
+        "it": "La ricerca si svolge sulla costa del Norfolk, nell'Inghilterra orientale.",
+        "pl": "Badania prowadzone są na wybrzeżu Norfolk we wschodniej Anglii."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are the scientists studying forests and saltmarsh?",
+      "choices": [
+        "To build hotels",
+        "To learn how they slow waves and protect the coast",
+        "To grow food",
+        "To find gold",
+        "To make a park"
+      ],
+      "answerIndex": 1,
+      "hintKo": "They want to see how nature slows waves and protects the coast.",
+      "hintI18n": {
+        "en": "They want to see how nature slows waves and protects the coast.",
+        "ko": "그들은 자연이 어떻게 파도를 늦추고 해안을 보호하는지 알아보고 싶어 합니다.",
+        "zh-Hans": "他们想了解大自然如何减缓海浪并保护海岸。",
+        "ja": "自然がどのように波を弱め、海岸を守るのかを調べたいと考えています。",
+        "es": "Quieren ver cómo la naturaleza frena las olas y protege la costa.",
+        "hi": "वे यह देखना चाहते हैं कि प्रकृति कैसे लहरों को धीमा करती है और तट की रक्षा करती है।",
+        "de": "Sie wollen sehen, wie die Natur Wellen abbremst und die Küste schützt.",
+        "vi": "Họ muốn xem thiên nhiên làm chậm sóng và bảo vệ bờ biển như thế nào.",
+        "pt-BR": "Eles querem ver como a natureza desacelera as ondas e protege a costa.",
+        "id": "Mereka ingin melihat bagaimana alam memperlambat gelombang dan melindungi pesisir.",
+        "fr": "Ils veulent voir comment la nature ralentit les vagues et protège le littoral.",
+        "ar": "يريدون معرفة كيف تبطئ الطبيعة الأمواج وتحمي الساحل.",
+        "tr": "Doğanın dalgaları nasıl yavaşlattığını ve kıyıyı nasıl koruduğunu görmek istiyorlar.",
+        "it": "Vogliono vedere come la natura rallenta le onde e protegge la costa.",
+        "pl": "Chcą zobaczyć, jak natura spowalnia fale i chroni wybrzeże."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How small is the detail the tools can measure?",
+      "choices": [
+        "As big as a house",
+        "As wide as a road",
+        "About one kilometre",
+        "As small as two millimetres",
+        "As tall as a tree"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The tools can measure detail as small as two millimetres.",
+      "hintI18n": {
+        "en": "The tools can measure detail as small as two millimetres.",
+        "ko": "이 도구들은 2밀리미터만큼 작은 세부 사항도 측정할 수 있습니다.",
+        "zh-Hans": "这些工具可以测量小到两毫米的细节。",
+        "ja": "これらの道具は2ミリメートルほどの細部まで測定できます。",
+        "es": "Las herramientas pueden medir detalles de tan solo dos milímetros.",
+        "hi": "ये उपकरण दो मिलीमीटर जितनी छोटी बारीकी को माप सकते हैं।",
+        "de": "Die Werkzeuge können Details bis zu zwei Millimetern messen.",
+        "vi": "Các công cụ có thể đo chi tiết nhỏ đến hai milimét.",
+        "pt-BR": "As ferramentas podem medir detalhes de até dois milímetros.",
+        "id": "Alat-alat ini dapat mengukur detail sekecil dua milimeter.",
+        "fr": "Les outils peuvent mesurer des détails d’à peine deux millimètres.",
+        "ar": "تستطيع الأدوات قياس تفاصيل صغيرة تصل إلى ملليمترين.",
+        "tr": "Araçlar iki milimetre kadar küçük ayrıntıları ölçebiliyor.",
+        "it": "Gli strumenti possono misurare dettagli fino a due millimetri.",
+        "pl": "Narzędzia mogą mierzyć szczegóły o wielkości zaledwie dwóch milimetrów."
+      }
+    }
+  ]
+}
