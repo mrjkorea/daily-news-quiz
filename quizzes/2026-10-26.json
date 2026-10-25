@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-26",
+  "date": "2026-10-26",
+  "title": "Daily News Quiz · 2026-10-26",
+  "headline": "A big shark leaves a city canal in Busan after a month",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is Bukangi?",
+      "choices": [
+        "A famous diver",
+        "A boat captain",
+        "A female dusky shark",
+        "A small whale",
+        "A park worker"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Bukangi is a female dusky shark.",
+      "hintI18n": {
+        "en": "Bukangi is a female dusky shark.",
+        "ko": "부강이는 암컷 흑기흉상어입니다.",
+        "zh-Hans": "Bukangi 是一条雌性暗色真鲨。",
+        "ja": "プカンイはメスのドタブカです。",
+        "es": "Bukangi es una hembra de tiburón oscuro.",
+        "hi": "बुकांगी एक मादा डस्की शार्क है।",
+        "de": "Bukangi ist ein weiblicher Schwarzhai.",
+        "vi": "Bukangi là một con cá mập xám cái.",
+        "pt-BR": "Bukangi é uma fêmea de tubarão-fidalgo.",
+        "id": "Bukangi adalah hiu kelam betina.",
+        "fr": "Bukangi est une femelle requin de sable sombre.",
+        "ar": "بوكانغي أنثى قرش داكن.",
+        "tr": "Bukangi dişi bir kara köpekbalığıdır.",
+        "it": "Bukangi è una femmina di squalo scuro.",
+        "pl": "Bukangi to samica żarłacza ciemnego."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did workers use on the third try?",
+      "choices": [
+        "Nets, a floating platform, and divers",
+        "Loud music",
+        "A big helicopter",
+        "Fresh pizza",
+        "A fishing hook"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They used nets, a floating platform, and divers.",
+      "hintI18n": {
+        "en": "They used nets, a floating platform, and divers.",
+        "ko": "그물, 떠 있는 작업대, 그리고 잠수부들을 사용했습니다.",
+        "zh-Hans": "他们使用了渔网、浮动平台和潜水员。",
+        "ja": "網と浮かぶ台とダイバーを使いました。",
+        "es": "Usaron redes, una plataforma flotante y buzos.",
+        "hi": "उन्होंने जाल, एक तैरता प्लेटफ़ॉर्म और गोताखोरों का उपयोग किया।",
+        "de": "Sie nutzten Netze, eine schwimmende Plattform und Taucher.",
+        "vi": "Họ dùng lưới, một bệ nổi và thợ lặn.",
+        "pt-BR": "Eles usaram redes, uma plataforma flutuante e mergulhadores.",
+        "id": "Mereka memakai jaring, panggung apung, dan penyelam.",
+        "fr": "Ils ont utilisé des filets, une plateforme flottante et des plongeurs.",
+        "ar": "استخدموا شباكًا ومنصة عائمة وغواصين.",
+        "tr": "Ağlar, yüzen bir platform ve dalgıçlar kullandılar.",
+        "it": "Hanno usato reti, una piattaforma galleggiante e sommozzatori.",
+        "pl": "Użyli sieci, pływającej platformy i nurków."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the third try happen?",
+      "choices": [
+        "Last summer",
+        "In nineteen ninety",
+        "On New Year's Day",
+        "Next month",
+        "On the twenty-first of October"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The third try was on the twenty-first of October.",
+      "hintI18n": {
+        "en": "The third try was on the twenty-first of October.",
+        "ko": "세 번째 시도는 10월 21일에 있었습니다.",
+        "zh-Hans": "第三次尝试是在十月二十一日。",
+        "ja": "三回目の試みは十月二十一日でした。",
+        "es": "El tercer intento fue el veintiuno de octubre.",
+        "hi": "तीसरा प्रयास इक्कीस अक्टूबर को हुआ।",
+        "de": "Der dritte Versuch war am einundzwanzigsten Oktober.",
+        "vi": "Lần thử thứ ba diễn ra vào ngày hai mươi mốt tháng Mười.",
+        "pt-BR": "A terceira tentativa foi no dia vinte e um de outubro.",
+        "id": "Upaya ketiga dilakukan pada tanggal dua puluh satu Oktober.",
+        "fr": "La troisième tentative a eu lieu le vingt et un octobre.",
+        "ar": "كانت المحاولة الثالثة في الحادي والعشرين من أكتوبر.",
+        "tr": "Üçüncü deneme yirmi bir Ekim'de yapıldı.",
+        "it": "Il terzo tentativo è stato il ventuno ottobre.",
+        "pl": "Trzecia próba odbyła się dwudziestego pierwszego października."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the shark stuck?",
+      "choices": [
+        "In a swimming pool",
+        "In a canal at Busan's North Port",
+        "In a mountain lake",
+        "In an aquarium in Seoul",
+        "In a river in Japan"
+      ],
+      "answerIndex": 1,
+      "hintKo": "She was in a canal at Busan's North Port waterfront park.",
+      "hintI18n": {
+        "en": "She was in a canal at Busan's North Port waterfront park.",
+        "ko": "상어는 부산 북항 친수공원의 운하에 있었습니다.",
+        "zh-Hans": "鲨鱼在釜山北港亲水公园的运河里。",
+        "ja": "サメは釜山北港の親水公園の運河にいました。",
+        "es": "Estaba en un canal del parque del puerto norte de Busan.",
+        "hi": "वह बुसान के नॉर्थ पोर्ट वॉटरफ्रंट पार्क की नहर में थी।",
+        "de": "Sie war in einem Kanal im Hafenpark am Nordhafen von Busan.",
+        "vi": "Nó ở trong kênh đào của công viên ven cảng Bắc Busan.",
+        "pt-BR": "Ela estava em um canal do parque do Porto Norte de Busan.",
+        "id": "Hiu itu berada di kanal taman tepi Pelabuhan Utara Busan.",
+        "fr": "Il était dans un canal du parc du port nord de Busan.",
+        "ar": "كانت في قناة بحديقة الميناء الشمالي في بوسان.",
+        "tr": "Busan Kuzey Limanı sahil parkındaki bir kanaldaydı.",
+        "it": "Era in un canale del parco del porto nord di Busan.",
+        "pl": "Był w kanale parku przy Północnym Porcie w Pusan."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why were experts worried about the shark?",
+      "choices": [
+        "She was too fast",
+        "She bit a visitor",
+        "She was too big for the sea",
+        "The water was getting colder and no one saw her eat",
+        "She was lost in a storm"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The water was getting colder, and no one had seen her eat.",
+      "hintI18n": {
+        "en": "The water was getting colder, and no one had seen her eat.",
+        "ko": "물이 차가워지고 있었고, 아무도 상어가 먹는 것을 보지 못했습니다.",
+        "zh-Hans": "水越来越冷，也没有人看到它吃东西。",
+        "ja": "水が冷たくなり、誰もサメが食べるのを見ていませんでした。",
+        "es": "El agua se enfriaba y nadie la había visto comer.",
+        "hi": "पानी ठंडा हो रहा था और किसी ने उसे खाते नहीं देखा था।",
+        "de": "Das Wasser wurde kälter, und niemand hatte sie fressen sehen.",
+        "vi": "Nước ngày càng lạnh và không ai thấy nó ăn.",
+        "pt-BR": "A água estava esfriando e ninguém a tinha visto comer.",
+        "id": "Air makin dingin dan tidak ada yang melihatnya makan.",
+        "fr": "L'eau devenait plus froide et personne ne l'avait vu manger.",
+        "ar": "كان الماء يبرد ولم يرها أحد تأكل.",
+        "tr": "Su soğuyordu ve kimse onun yemek yediğini görmemişti.",
+        "it": "L'acqua diventava più fredda e nessuno l'aveva vista mangiare.",
+        "pl": "Woda robiła się zimniejsza i nikt nie widział, żeby jadł."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many people came to see her?",
+      "choices": [
+        "About ten people",
+        "More than one million visitors",
+        "Only the city mayor",
+        "No one at all",
+        "About fifty students"
+      ],
+      "answerIndex": 1,
+      "hintKo": "More than one million visitors came to see her.",
+      "hintI18n": {
+        "en": "More than one million visitors came to see her.",
+        "ko": "백만 명이 넘는 방문객이 상어를 보러 왔습니다.",
+        "zh-Hans": "超过一百万名游客来看它。",
+        "ja": "百万人以上の訪問者が見に来ました。",
+        "es": "Más de un millón de visitantes fueron a verla.",
+        "hi": "दस लाख से अधिक लोग उसे देखने आए।",
+        "de": "Mehr als eine Million Besucher kamen, um sie zu sehen.",
+        "vi": "Hơn một triệu du khách đã đến xem nó.",
+        "pt-BR": "Mais de um milhão de visitantes foram vê-la.",
+        "id": "Lebih dari satu juta pengunjung datang melihatnya.",
+        "fr": "Plus d'un million de visiteurs sont venus le voir.",
+        "ar": "جاء أكثر من مليون زائر لرؤيتها.",
+        "tr": "Bir milyondan fazla ziyaretçi onu görmeye geldi.",
+        "it": "Più di un milione di visitatori sono venuti a vederla.",
+        "pl": "Ponad milion odwiedzających przyszło go zobaczyć."
+      }
+    }
+  ]
+}
