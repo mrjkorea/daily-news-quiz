@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-27",
+  "date": "2026-10-27",
+  "title": "Daily News Quiz · 2026-10-27",
+  "headline": "Grandmas in Barcelona teach visitors to cook traditional food",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who teaches the cooking workshops?",
+      "choices": [
+        "Famous chefs from TV",
+        "Robots in a kitchen",
+        "University professors",
+        "Local grandmas and grandpas",
+        "Hotel managers"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Local grandmas and grandpas teach the workshops.",
+      "hintI18n": {
+        "en": "Local grandmas and grandpas teach the workshops.",
+        "ko": "현지 할머니와 할아버지들이 요리 워크숍을 가르칩니다.",
+        "zh-Hans": "当地的奶奶和爷爷教授烹饪课程。",
+        "ja": "地元のおばあちゃんとおじいちゃんが料理教室を教えます。",
+        "es": "Abuelas y abuelos locales enseñan los talleres de cocina.",
+        "hi": "स्थानीय दादी-नानी और दादा-नाना खाना पकाने की कार्यशालाएँ सिखाते हैं।",
+        "de": "Einheimische Großmütter und Großväter leiten die Kochkurse.",
+        "vi": "Các ông bà địa phương dạy các lớp nấu ăn.",
+        "pt-BR": "Avós e avôs locais dão as oficinas de culinária.",
+        "id": "Nenek dan kakek setempat mengajar kelas memasak.",
+        "fr": "Des grands-mères et grands-pères du quartier animent les ateliers de cuisine.",
+        "ar": "تقوم الجدات والأجداد المحليون بتعليم ورش الطبخ.",
+        "tr": "Yerel büyükanneler ve büyükbabalar yemek atölyelerini veriyor.",
+        "it": "Nonne e nonni del posto insegnano nei laboratori di cucina.",
+        "pl": "Miejscowe babcie i dziadkowie prowadzą warsztaty kulinarne."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the students make with Sonia Castel?",
+      "choices": [
+        "A Spanish tortilla with potatoes and eggs",
+        "A chocolate cake",
+        "Sushi rolls",
+        "A pizza",
+        "Fried chicken"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They made a Spanish tortilla with potatoes and eggs.",
+      "hintI18n": {
+        "en": "They made a Spanish tortilla with potatoes and eggs.",
+        "ko": "감자와 달걀로 스페인식 토르티야를 만들었습니다.",
+        "zh-Hans": "他们用土豆和鸡蛋做了西班牙土豆饼。",
+        "ja": "ジャガイモと卵でスペイン風トルティーヤを作りました。",
+        "es": "Hicieron una tortilla española con patatas y huevos.",
+        "hi": "उन्होंने आलू और अंडों से स्पेनिश टॉर्टिया बनाई।",
+        "de": "Sie machten eine spanische Tortilla aus Kartoffeln und Eiern.",
+        "vi": "Họ làm món tortilla Tây Ban Nha với khoai tây và trứng.",
+        "pt-BR": "Eles fizeram uma tortilha espanhola com batatas e ovos.",
+        "id": "Mereka membuat tortilla Spanyol dari kentang dan telur.",
+        "fr": "Ils ont préparé une tortilla espagnole avec des pommes de terre et des œufs.",
+        "ar": "صنعوا تورتيا إسبانية بالبطاطس والبيض.",
+        "tr": "Patates ve yumurtayla İspanyol tortillası yaptılar.",
+        "it": "Hanno preparato una tortilla spagnola con patate e uova.",
+        "pl": "Zrobili hiszpańską tortillę z ziemniaków i jajek."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the class cheer?",
+      "choices": [
+        "When the class ended",
+        "When it started to rain",
+        "When a student flipped the pan",
+        "When the food burned",
+        "When the bus came"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The class cheered when a student flipped the pan.",
+      "hintI18n": {
+        "en": "The class cheered when a student flipped the pan.",
+        "ko": "한 학생이 팬을 뒤집었을 때 모두가 환호했습니다.",
+        "zh-Hans": "当一名学生把锅翻过来时，全班欢呼。",
+        "ja": "一人の学生がフライパンを返したとき、クラスは歓声を上げました。",
+        "es": "La clase aplaudió cuando un estudiante dio la vuelta a la sartén.",
+        "hi": "जब एक छात्र ने कड़ाही पलटी तो पूरी कक्षा ने खुशी मनाई।",
+        "de": "Die Klasse jubelte, als ein Student die Pfanne umdrehte.",
+        "vi": "Cả lớp reo hò khi một sinh viên lật chảo.",
+        "pt-BR": "A turma comemorou quando um aluno virou a frigideira.",
+        "id": "Kelas bersorak saat seorang siswa membalik wajan.",
+        "fr": "La classe a applaudi quand un étudiant a retourné la poêle.",
+        "ar": "هتف الصف عندما قلب أحد الطلاب المقلاة.",
+        "tr": "Bir öğrenci tavayı çevirince sınıf alkışladı.",
+        "it": "La classe ha applaudito quando uno studente ha girato la padella.",
+        "pl": "Klasa wiwatowała, gdy student przewrócił patelnię."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where are the workshops?",
+      "choices": [
+        "In Paris, France",
+        "In Seoul, South Korea",
+        "In New York",
+        "In Rome, Italy",
+        "In Barcelona, Spain"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The workshops are in Barcelona, Spain.",
+      "hintI18n": {
+        "en": "The workshops are in Barcelona, Spain.",
+        "ko": "워크숍은 스페인 바르셀로나에 있습니다.",
+        "zh-Hans": "这些课程在西班牙巴塞罗那。",
+        "ja": "教室はスペインのバルセロナにあります。",
+        "es": "Los talleres están en Barcelona, España.",
+        "hi": "ये कार्यशालाएँ स्पेन के बार्सिलोना में हैं।",
+        "de": "Die Kurse finden in Barcelona, Spanien, statt.",
+        "vi": "Các lớp học ở Barcelona, Tây Ban Nha.",
+        "pt-BR": "As oficinas são em Barcelona, na Espanha.",
+        "id": "Kelas-kelas itu ada di Barcelona, Spanyol.",
+        "fr": "Les ateliers ont lieu à Barcelone, en Espagne.",
+        "ar": "الورش في برشلونة بإسبانيا.",
+        "tr": "Atölyeler İspanya'nın Barselona şehrinde.",
+        "it": "I laboratori sono a Barcellona, in Spagna.",
+        "pl": "Warsztaty odbywają się w Barcelonie w Hiszpanii."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are these recipes special?",
+      "choices": [
+        "They are very expensive",
+        "They are harder to find in the city's restaurants",
+        "They use no food",
+        "They come from the moon",
+        "They are only for children"
+      ],
+      "answerIndex": 1,
+      "hintKo": "These old recipes are now harder to find in the city's restaurants.",
+      "hintI18n": {
+        "en": "These old recipes are now harder to find in the city's restaurants.",
+        "ko": "이 옛 요리법은 이제 도시 식당에서 찾기 어렵습니다.",
+        "zh-Hans": "这些老食谱现在在城市的餐厅里更难找到了。",
+        "ja": "これらの昔のレシピは今では街のレストランで見つけにくいです。",
+        "es": "Estas recetas antiguas ahora son más difíciles de encontrar en los restaurantes de la ciudad.",
+        "hi": "ये पुराने नुस्खे अब शहर के रेस्तरां में मुश्किल से मिलते हैं।",
+        "de": "Diese alten Rezepte findet man in den Restaurants der Stadt kaum noch.",
+        "vi": "Những công thức cũ này giờ khó tìm thấy hơn ở các nhà hàng trong thành phố.",
+        "pt-BR": "Essas receitas antigas agora são mais difíceis de achar nos restaurantes da cidade.",
+        "id": "Resep lama ini sekarang lebih sulit ditemukan di restoran kota.",
+        "fr": "Ces vieilles recettes sont désormais plus difficiles à trouver dans les restaurants de la ville.",
+        "ar": "أصبح العثور على هذه الوصفات القديمة أصعب في مطاعم المدينة.",
+        "tr": "Bu eski tarifleri artık şehrin restoranlarında bulmak daha zor.",
+        "it": "Queste vecchie ricette ora sono più difficili da trovare nei ristoranti della città.",
+        "pl": "Te stare przepisy trudniej dziś znaleźć w restauracjach miasta."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does the program help the older teachers?",
+      "choices": [
+        "It gives them free cars",
+        "It sends them on holiday",
+        "It gives them a purpose and a reason to meet new people",
+        "It teaches them to drive",
+        "It pays for their houses"
+      ],
+      "answerIndex": 2,
+      "hintKo": "It gives the older teachers a purpose and a reason to meet new people.",
+      "hintI18n": {
+        "en": "It gives the older teachers a purpose and a reason to meet new people.",
+        "ko": "이 프로그램은 나이 든 선생님들에게 삶의 목적과 새로운 사람을 만날 이유를 줍니다.",
+        "zh-Hans": "这个项目给年长的老师们带来人生目标和认识新朋友的机会。",
+        "ja": "この活動は年配の先生たちに生きがいと新しい人と出会う理由を与えます。",
+        "es": "El programa da a los profesores mayores un propósito y una razón para conocer gente nueva.",
+        "hi": "यह कार्यक्रम बुज़ुर्ग शिक्षकों को एक उद्देश्य और नए लोगों से मिलने का कारण देता है।",
+        "de": "Das Programm gibt den älteren Lehrkräften einen Sinn und einen Grund, neue Menschen zu treffen.",
+        "vi": "Chương trình mang lại cho các giáo viên lớn tuổi mục đích sống và lý do để gặp người mới.",
+        "pt-BR": "O programa dá aos professores mais velhos um propósito e um motivo para conhecer pessoas novas.",
+        "id": "Program ini memberi para pengajar lansia tujuan dan alasan untuk bertemu orang baru.",
+        "fr": "Le programme donne aux enseignants âgés un but et une raison de rencontrer de nouvelles personnes.",
+        "ar": "يمنح البرنامج المعلمين الكبار هدفًا وسببًا للقاء أشخاص جدد.",
+        "tr": "Program, yaşlı öğretmenlere bir amaç ve yeni insanlarla tanışma nedeni veriyor.",
+        "it": "Il programma dà agli insegnanti anziani uno scopo e un motivo per conoscere persone nuove.",
+        "pl": "Program daje starszym nauczycielom cel i powód, by poznawać nowych ludzi."
+      }
+    }
+  ]
+}
