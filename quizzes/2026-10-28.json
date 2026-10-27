@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-28",
+  "date": "2026-10-28",
+  "title": "Daily News Quiz · 2026-10-28",
+  "headline": "A personal cancer vaccine helps stop skin cancer from coming back",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who made the new vaccine?",
+      "choices": [
+        "A small school",
+        "The drug companies MSD and Moderna",
+        "A sports team",
+        "A food company",
+        "A farm in Spain"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The drug companies MSD and Moderna made the vaccine.",
+      "hintI18n": {
+        "en": "The drug companies MSD and Moderna made the vaccine.",
+        "ko": "제약회사 MSD와 모더나가 이 백신을 만들었습니다.",
+        "zh-Hans": "制药公司默沙东和莫德纳研发了这种疫苗。",
+        "ja": "製薬会社のMSDとモデルナがこのワクチンを作りました。",
+        "es": "Las farmacéuticas MSD y Moderna crearon la vacuna.",
+        "hi": "दवा कंपनियों MSD और मॉडर्ना ने यह टीका बनाया।",
+        "de": "Die Pharmafirmen MSD und Moderna haben den Impfstoff entwickelt.",
+        "vi": "Hai công ty dược MSD và Moderna đã làm ra vắc-xin này.",
+        "pt-BR": "As farmacêuticas MSD e Moderna criaram a vacina.",
+        "id": "Perusahaan farmasi MSD dan Moderna membuat vaksin ini.",
+        "fr": "Les laboratoires MSD et Moderna ont mis au point le vaccin.",
+        "ar": "صنعت شركتا الأدوية إم إس دي وموديرنا هذا اللقاح.",
+        "tr": "Aşıyı ilaç şirketleri MSD ve Moderna geliştirdi.",
+        "it": "Le aziende farmaceutiche MSD e Moderna hanno creato il vaccino.",
+        "pl": "Szczepionkę opracowały firmy farmaceutyczne MSD i Moderna."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What type of cancer was studied?",
+      "choices": [
+        "Lung cancer only",
+        "Bone cancer",
+        "Blood cancer",
+        "Melanoma, a type of skin cancer",
+        "Eye cancer"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The study was about melanoma, a type of skin cancer.",
+      "hintI18n": {
+        "en": "The study was about melanoma, a type of skin cancer.",
+        "ko": "이 연구는 피부암의 한 종류인 흑색종에 관한 것이었습니다.",
+        "zh-Hans": "这项研究针对的是黑色素瘤，一种皮肤癌。",
+        "ja": "この研究は皮膚がんの一種であるメラノーマについてでした。",
+        "es": "El estudio trató sobre el melanoma, un tipo de cáncer de piel.",
+        "hi": "यह अध्ययन मेलेनोमा, यानी त्वचा कैंसर के एक प्रकार, पर था।",
+        "de": "Die Studie ging um das Melanom, eine Art Hautkrebs.",
+        "vi": "Nghiên cứu này về u hắc tố, một loại ung thư da.",
+        "pt-BR": "O estudo foi sobre o melanoma, um tipo de câncer de pele.",
+        "id": "Penelitian ini tentang melanoma, sejenis kanker kulit.",
+        "fr": "L'étude portait sur le mélanome, un type de cancer de la peau.",
+        "ar": "كانت الدراسة عن الميلانوما، وهي نوع من سرطان الجلد.",
+        "tr": "Çalışma, bir cilt kanseri türü olan melanom hakkındaydı.",
+        "it": "Lo studio riguardava il melanoma, un tipo di tumore della pelle.",
+        "pl": "Badanie dotyczyło czerniaka, rodzaju raka skóry."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did patients get the vaccine?",
+      "choices": [
+        "After their tumor was removed with surgery",
+        "Before they were born",
+        "Only on holidays",
+        "When they were ten years old",
+        "Never"
+      ],
+      "answerIndex": 0,
+      "hintKo": "All patients had their tumor removed with surgery first.",
+      "hintI18n": {
+        "en": "All patients had their tumor removed with surgery first.",
+        "ko": "모든 환자는 먼저 수술로 종양을 제거했습니다.",
+        "zh-Hans": "所有患者都先通过手术切除了肿瘤。",
+        "ja": "すべての患者はまず手術で腫瘍を取り除きました。",
+        "es": "Todos los pacientes se quitaron primero el tumor con cirugía.",
+        "hi": "सभी मरीज़ों का ट्यूमर पहले सर्जरी से निकाला गया था।",
+        "de": "Allen Patienten wurde zuerst der Tumor operativ entfernt.",
+        "vi": "Tất cả bệnh nhân đều đã được phẫu thuật cắt bỏ khối u trước.",
+        "pt-BR": "Todos os pacientes tiveram o tumor removido por cirurgia antes.",
+        "id": "Semua pasien sudah lebih dulu menjalani operasi pengangkatan tumor.",
+        "fr": "Tous les patients avaient d'abord fait retirer leur tumeur par chirurgie.",
+        "ar": "أُزيل الورم لدى جميع المرضى بالجراحة أولًا.",
+        "tr": "Tüm hastaların tümörü önce ameliyatla alınmıştı.",
+        "it": "Tutti i pazienti avevano prima rimosso il tumore con la chirurgia.",
+        "pl": "Wszystkim pacjentom najpierw usunięto guza chirurgicznie."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does the information for each vaccine come from?",
+      "choices": [
+        "From a library book",
+        "From the weather",
+        "From each patient's own tumor",
+        "From a TV show",
+        "From a random computer"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Each vaccine is made from the patient's own tumor.",
+      "hintI18n": {
+        "en": "Each vaccine is made from the patient's own tumor.",
+        "ko": "각 백신은 환자 자신의 종양으로 만들어집니다.",
+        "zh-Hans": "每种疫苗都是根据患者自己的肿瘤制作的。",
+        "ja": "それぞれのワクチンは患者自身の腫瘍から作られます。",
+        "es": "Cada vacuna se hace a partir del propio tumor del paciente.",
+        "hi": "हर टीका मरीज़ के अपने ट्यूमर से बनाया जाता है।",
+        "de": "Jeder Impfstoff wird aus dem eigenen Tumor des Patienten hergestellt.",
+        "vi": "Mỗi vắc-xin được làm từ chính khối u của bệnh nhân.",
+        "pt-BR": "Cada vacina é feita a partir do próprio tumor do paciente.",
+        "id": "Setiap vaksin dibuat dari tumor milik pasien sendiri.",
+        "fr": "Chaque vaccin est fabriqué à partir de la tumeur du patient.",
+        "ar": "يُصنع كل لقاح من ورم المريض نفسه.",
+        "tr": "Her aşı hastanın kendi tümöründen yapılıyor.",
+        "it": "Ogni vaccino è fatto a partire dal tumore del paziente.",
+        "pl": "Każda szczepionka powstaje na podstawie guza danego pacjenta."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do experts want more time?",
+      "choices": [
+        "To build a new hospital",
+        "To find more doctors",
+        "To change the name",
+        "To make it cheaper today",
+        "To see if patients live longer"
+      ],
+      "answerIndex": 4,
+      "hintKo": "More time is needed to see if patients live longer.",
+      "hintI18n": {
+        "en": "More time is needed to see if patients live longer.",
+        "ko": "환자들이 더 오래 사는지 보려면 시간이 더 필요합니다.",
+        "zh-Hans": "还需要更多时间来看患者是否能活得更久。",
+        "ja": "患者がより長く生きるかを知るには、もっと時間が必要です。",
+        "es": "Se necesita más tiempo para ver si los pacientes viven más.",
+        "hi": "यह देखने के लिए और समय चाहिए कि मरीज़ ज़्यादा जीते हैं या नहीं।",
+        "de": "Es braucht mehr Zeit, um zu sehen, ob die Patienten länger leben.",
+        "vi": "Cần thêm thời gian để xem bệnh nhân có sống lâu hơn không.",
+        "pt-BR": "É preciso mais tempo para ver se os pacientes vivem mais.",
+        "id": "Butuh waktu lebih lama untuk melihat apakah pasien hidup lebih lama.",
+        "fr": "Il faut plus de temps pour voir si les patients vivent plus longtemps.",
+        "ar": "هناك حاجة إلى وقت أطول لمعرفة ما إذا كان المرضى سيعيشون أطول.",
+        "tr": "Hastaların daha uzun yaşayıp yaşamadığını görmek için daha fazla zaman gerekiyor.",
+        "it": "Serve più tempo per capire se i pazienti vivono più a lungo.",
+        "pl": "Potrzeba więcej czasu, by sprawdzić, czy pacjenci żyją dłużej."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much did the vaccine cut the risk?",
+      "choices": [
+        "By two percent",
+        "By forty-two percent",
+        "By one hundred percent",
+        "It did not change the risk",
+        "By ninety percent"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The risk fell by forty-two percent.",
+      "hintI18n": {
+        "en": "The risk fell by forty-two percent.",
+        "ko": "위험이 42퍼센트 줄었습니다.",
+        "zh-Hans": "风险降低了百分之四十二。",
+        "ja": "リスクは四十二パーセント下がりました。",
+        "es": "El riesgo bajó un cuarenta y dos por ciento.",
+        "hi": "जोखिम बयालीस प्रतिशत कम हुआ।",
+        "de": "Das Risiko sank um zweiundvierzig Prozent.",
+        "vi": "Rủi ro giảm bốn mươi hai phần trăm.",
+        "pt-BR": "O risco caiu quarenta e dois por cento.",
+        "id": "Risikonya turun empat puluh dua persen.",
+        "fr": "Le risque a baissé de quarante-deux pour cent.",
+        "ar": "انخفض الخطر بنسبة اثنين وأربعين في المئة.",
+        "tr": "Risk yüzde kırk iki azaldı.",
+        "it": "Il rischio è sceso del quarantadue per cento.",
+        "pl": "Ryzyko spadło o czterdzieści dwa procent."
+      }
+    }
+  ]
+}
