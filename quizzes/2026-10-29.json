@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-29",
+  "date": "2026-10-29",
+  "title": "Daily News Quiz · 2026-10-29",
+  "headline": "Scientists test a bubble machine to clean toxic algae from a lake",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who had the idea for the bubble machine?",
+      "choices": [
+        "Doctor Sanjay Nagarajan, a chemical engineer",
+        "A park dog",
+        "A boat driver",
+        "A famous singer",
+        "A football coach"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Doctor Sanjay Nagarajan, an engineer at the University of Bath, had the idea.",
+      "hintI18n": {
+        "en": "Doctor Sanjay Nagarajan, an engineer at the University of Bath, had the idea.",
+        "ko": "바스 대학교의 엔지니어인 산자이 나가라잔 박사가 이 아이디어를 냈습니다.",
+        "zh-Hans": "巴斯大学的工程师桑杰·纳加拉詹博士想出了这个点子。",
+        "ja": "バース大学のエンジニア、サンジェイ・ナガラジャン博士が考えました。",
+        "es": "El doctor Sanjay Nagarajan, ingeniero de la Universidad de Bath, tuvo la idea.",
+        "hi": "बाथ विश्वविद्यालय के इंजीनियर डॉक्टर संजय नागराजन को यह विचार आया।",
+        "de": "Dr. Sanjay Nagarajan, Ingenieur an der Universität Bath, hatte die Idee.",
+        "vi": "Tiến sĩ Sanjay Nagarajan, kỹ sư tại Đại học Bath, đã nghĩ ra ý tưởng này.",
+        "pt-BR": "O doutor Sanjay Nagarajan, engenheiro da Universidade de Bath, teve a ideia.",
+        "id": "Doktor Sanjay Nagarajan, insinyur di Universitas Bath, punya ide ini.",
+        "fr": "Le docteur Sanjay Nagarajan, ingénieur à l'université de Bath, a eu l'idée.",
+        "ar": "صاحب الفكرة هو الدكتور سانجاي ناغاراجان، مهندس في جامعة باث.",
+        "tr": "Fikir, Bath Üniversitesi'nde mühendis olan Dr. Sanjay Nagarajan'a ait.",
+        "it": "L'idea è del dottor Sanjay Nagarajan, ingegnere all'Università di Bath.",
+        "pl": "Pomysł miał dr Sanjay Nagarajan, inżynier z Uniwersytetu w Bath."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What makes the algae grow very fast?",
+      "choices": [
+        "Snow",
+        "Loud music",
+        "Bubbles",
+        "Hot weather",
+        "Ducks"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Blue-green algae grows very fast in hot weather.",
+      "hintI18n": {
+        "en": "Blue-green algae grows very fast in hot weather.",
+        "ko": "남조류는 더운 날씨에 아주 빨리 자랍니다.",
+        "zh-Hans": "蓝绿藻在炎热天气里长得很快。",
+        "ja": "アオコは暑い天気でとても速く増えます。",
+        "es": "Las algas verdeazuladas crecen muy rápido con el calor.",
+        "hi": "नीले-हरे शैवाल गर्म मौसम में बहुत तेज़ी से बढ़ते हैं।",
+        "de": "Blaualgen wachsen bei heißem Wetter sehr schnell.",
+        "vi": "Tảo lam phát triển rất nhanh khi trời nóng.",
+        "pt-BR": "As algas verde-azuladas crescem muito rápido no calor.",
+        "id": "Alga hijau-biru tumbuh sangat cepat saat cuaca panas.",
+        "fr": "Les algues bleu-vert se développent très vite par temps chaud.",
+        "ar": "تنمو الطحالب الخضراء المزرقة بسرعة كبيرة في الطقس الحار.",
+        "tr": "Mavi-yeşil algler sıcak havada çok hızlı çoğalır.",
+        "it": "Le alghe verdi-azzurre crescono molto in fretta con il caldo.",
+        "pl": "Sinice rosną bardzo szybko w upały."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did he first see the closed lake?",
+      "choices": [
+        "On a work trip to Paris",
+        "When he took his child to the park",
+        "In a dream",
+        "On the news in Korea",
+        "In a school book"
+      ],
+      "answerIndex": 1,
+      "hintKo": "He saw it when he took his child to the park.",
+      "hintI18n": {
+        "en": "He saw it when he took his child to the park.",
+        "ko": "아이를 데리고 공원에 갔을 때 닫힌 호수를 보았습니다.",
+        "zh-Hans": "他带孩子去公园时看到了关闭的湖。",
+        "ja": "子どもを公園に連れて行ったとき、閉鎖された湖を見ました。",
+        "es": "Vio el lago cerrado cuando llevó a su hijo al parque.",
+        "hi": "जब वह अपने बच्चे को पार्क ले गए, तब उन्होंने बंद झील देखी।",
+        "de": "Er sah den gesperrten See, als er mit seinem Kind in den Park ging.",
+        "vi": "Ông thấy hồ bị đóng cửa khi đưa con đến công viên.",
+        "pt-BR": "Ele viu o lago fechado quando levou o filho ao parque.",
+        "id": "Ia melihat danau ditutup saat membawa anaknya ke taman.",
+        "fr": "Il a vu le lac fermé en emmenant son enfant au parc.",
+        "ar": "رأى البحيرة مغلقة عندما أخذ طفله إلى الحديقة.",
+        "tr": "Çocuğunu parka götürdüğünde gölün kapalı olduğunu gördü.",
+        "it": "Ha visto il lago chiuso quando ha portato suo figlio al parco.",
+        "pl": "Zobaczył zamknięte jezioro, gdy zabrał dziecko do parku."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the lake?",
+      "choices": [
+        "In Madrid, Spain",
+        "In New York",
+        "In a park in Warminster, England",
+        "In Seoul",
+        "In the Sahara Desert"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The lake is in a park in Warminster, in Wiltshire, England.",
+      "hintI18n": {
+        "en": "The lake is in a park in Warminster, in Wiltshire, England.",
+        "ko": "호수는 영국 윌트셔주 워민스터의 한 공원에 있습니다.",
+        "zh-Hans": "这个湖在英国威尔特郡沃明斯特的一个公园里。",
+        "ja": "湖はイギリス・ウィルトシャー州ウォーミンスターの公園にあります。",
+        "es": "El lago está en un parque de Warminster, en Wiltshire, Inglaterra.",
+        "hi": "यह झील इंग्लैंड के विल्टशायर में वॉर्मिंस्टर के एक पार्क में है।",
+        "de": "Der See liegt in einem Park in Warminster in Wiltshire, England.",
+        "vi": "Hồ nằm trong một công viên ở Warminster, hạt Wiltshire, Anh.",
+        "pt-BR": "O lago fica em um parque em Warminster, em Wiltshire, na Inglaterra.",
+        "id": "Danau itu ada di sebuah taman di Warminster, Wiltshire, Inggris.",
+        "fr": "Le lac se trouve dans un parc de Warminster, dans le Wiltshire, en Angleterre.",
+        "ar": "تقع البحيرة في حديقة بمدينة وارمنستر في ويلتشير بإنجلترا.",
+        "tr": "Göl, İngiltere'nin Wiltshire bölgesindeki Warminster'da bir parkta.",
+        "it": "Il lago si trova in un parco a Warminster, nel Wiltshire, in Inghilterra.",
+        "pl": "Jezioro leży w parku w Warminster w hrabstwie Wiltshire w Anglii."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why was the lake closed?",
+      "choices": [
+        "It was frozen",
+        "It was too deep",
+        "It had no water",
+        "A shark lived there",
+        "Toxic algae can make people and animals sick"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The toxic algae can make people and animals sick.",
+      "hintI18n": {
+        "en": "The toxic algae can make people and animals sick.",
+        "ko": "유독한 조류는 사람과 동물을 아프게 할 수 있습니다.",
+        "zh-Hans": "有毒的藻类会让人和动物生病。",
+        "ja": "有毒なアオコは人や動物の具合を悪くすることがあります。",
+        "es": "Las algas tóxicas pueden enfermar a personas y animales.",
+        "hi": "ज़हरीले शैवाल लोगों और जानवरों को बीमार कर सकते हैं।",
+        "de": "Die giftigen Algen können Menschen und Tiere krank machen.",
+        "vi": "Tảo độc có thể làm người và động vật bị bệnh.",
+        "pt-BR": "As algas tóxicas podem deixar pessoas e animais doentes.",
+        "id": "Alga beracun bisa membuat manusia dan hewan sakit.",
+        "fr": "Les algues toxiques peuvent rendre malades les humains et les animaux.",
+        "ar": "يمكن للطحالب السامة أن تُمرض الناس والحيوانات.",
+        "tr": "Zehirli algler insanları ve hayvanları hasta edebilir.",
+        "it": "Le alghe tossiche possono far ammalare persone e animali.",
+        "pl": "Toksyczne glony mogą wywołać chorobę u ludzi i zwierząt."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does the machine break up the algae?",
+      "choices": [
+        "With hot fire",
+        "With tiny bubbles that collapse with great force",
+        "With loud sound",
+        "With fish that eat it",
+        "With sand"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Tiny bubbles collapse with great force and break up the algae.",
+      "hintI18n": {
+        "en": "Tiny bubbles collapse with great force and break up the algae.",
+        "ko": "아주 작은 거품이 강한 힘으로 터지면서 조류를 부숩니다.",
+        "zh-Hans": "微小的气泡猛烈破裂，把藻类打碎。",
+        "ja": "小さな泡が強い力でつぶれて、アオコを壊します。",
+        "es": "Burbujas diminutas colapsan con gran fuerza y rompen las algas.",
+        "hi": "छोटे बुलबुले बड़ी ताकत से फटते हैं और शैवाल को तोड़ देते हैं।",
+        "de": "Winzige Bläschen fallen mit großer Kraft zusammen und zerstören die Algen.",
+        "vi": "Những bong bóng nhỏ xíu vỡ với lực rất mạnh và phá vỡ tảo.",
+        "pt-BR": "Bolhas minúsculas colapsam com grande força e quebram as algas.",
+        "id": "Gelembung kecil pecah dengan kekuatan besar dan menghancurkan alga.",
+        "fr": "De minuscules bulles implosent avec force et brisent les algues.",
+        "ar": "تنفجر فقاعات صغيرة جدًا بقوة كبيرة فتُفتت الطحالب.",
+        "tr": "Minik kabarcıklar büyük bir güçle çöker ve algleri parçalar.",
+        "it": "Bollicine minuscole collassano con grande forza e distruggono le alghe.",
+        "pl": "Malutkie pęcherzyki zapadają się z ogromną siłą i rozbijają glony."
+      }
+    }
+  ]
+}
