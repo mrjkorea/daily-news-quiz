@@ -1,0 +1,195 @@
+{
+  "id": "2026-10-30",
+  "date": "2026-10-30",
+  "title": "Daily News Quiz · 2026-10-30",
+  "headline": "A giant battery helps power an apartment building in New York",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who designed the battery system?",
+      "choices": [
+        "A school club",
+        "A pizza shop",
+        "A company called Viridi",
+        "The city zoo",
+        "A football team"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The company Viridi designed the battery system.",
+      "hintI18n": {
+        "en": "The company Viridi designed the battery system.",
+        "ko": "비리디라는 회사가 배터리 시스템을 설계했습니다.",
+        "zh-Hans": "一家名为 Viridi 的公司设计了这套电池系统。",
+        "ja": "ビリディという会社が電池システムを設計しました。",
+        "es": "La empresa Viridi diseñó el sistema de baterías.",
+        "hi": "विरिडी नाम की कंपनी ने बैटरी सिस्टम बनाया।",
+        "de": "Die Firma Viridi hat das Batteriesystem entworfen.",
+        "vi": "Công ty Viridi đã thiết kế hệ thống pin.",
+        "pt-BR": "A empresa Viridi projetou o sistema de baterias.",
+        "id": "Perusahaan Viridi merancang sistem baterai ini.",
+        "fr": "L'entreprise Viridi a conçu le système de batteries.",
+        "ar": "صممت شركة فيريدي نظام البطاريات.",
+        "tr": "Pil sistemini Viridi adlı şirket tasarladı.",
+        "it": "L'azienda Viridi ha progettato il sistema di batterie.",
+        "pl": "System baterii zaprojektowała firma Viridi."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What kind of building has the battery?",
+      "choices": [
+        "An affordable apartment building",
+        "A hospital",
+        "A football stadium",
+        "A shopping mall",
+        "An airport"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The battery is in an affordable apartment building.",
+      "hintI18n": {
+        "en": "The battery is in an affordable apartment building.",
+        "ko": "배터리는 저렴한 아파트 건물에 있습니다.",
+        "zh-Hans": "电池安装在一栋经济适用公寓楼里。",
+        "ja": "電池は手頃な家賃のアパートの建物にあります。",
+        "es": "La batería está en un edificio de apartamentos asequibles.",
+        "hi": "बैटरी एक किफायती अपार्टमेंट इमारत में है।",
+        "de": "Die Batterie steht in einem Wohnhaus mit bezahlbaren Wohnungen.",
+        "vi": "Pin được đặt trong một tòa chung cư giá rẻ.",
+        "pt-BR": "A bateria fica em um prédio de apartamentos populares.",
+        "id": "Baterai itu ada di gedung apartemen yang terjangkau.",
+        "fr": "La batterie se trouve dans un immeuble de logements abordables.",
+        "ar": "البطارية موجودة في مبنى شقق ميسورة التكلفة.",
+        "tr": "Pil, uygun fiyatlı bir apartman binasında.",
+        "it": "La batteria si trova in un palazzo di appartamenti a prezzi accessibili.",
+        "pl": "Bateria jest w budynku z tanimi mieszkaniami."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When can the battery give backup power?",
+      "choices": [
+        "Only on Sundays",
+        "When it snows",
+        "Never",
+        "When there is a power outage",
+        "Only in summer"
+      ],
+      "answerIndex": 3,
+      "hintKo": "It can give backup power during a power outage.",
+      "hintI18n": {
+        "en": "It can give backup power during a power outage.",
+        "ko": "정전이 되면 배터리가 예비 전력을 줄 수 있습니다.",
+        "zh-Hans": "停电时，电池可以提供备用电力。",
+        "ja": "停電のとき、電池が予備の電気を供給できます。",
+        "es": "Puede dar energía de respaldo durante un apagón.",
+        "hi": "बिजली जाने पर यह बैकअप बिजली दे सकती है।",
+        "de": "Bei einem Stromausfall kann sie Notstrom liefern.",
+        "vi": "Khi mất điện, pin có thể cấp điện dự phòng.",
+        "pt-BR": "Ela pode fornecer energia de reserva durante um apagão.",
+        "id": "Saat listrik padam, baterai bisa memberi daya cadangan.",
+        "fr": "Elle peut fournir du courant de secours pendant une panne.",
+        "ar": "يمكنها توفير كهرباء احتياطية أثناء انقطاع التيار.",
+        "tr": "Elektrik kesildiğinde yedek güç verebilir.",
+        "it": "Può fornire energia di riserva durante un blackout.",
+        "pl": "Podczas przerwy w dostawie prądu może dać zasilanie awaryjne."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is Peace Bridge Place?",
+      "choices": [
+        "In London, England",
+        "In Buffalo, New York",
+        "In Seoul, South Korea",
+        "In Paris, France",
+        "In Sydney, Australia"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Peace Bridge Place is in Buffalo, New York.",
+      "hintI18n": {
+        "en": "Peace Bridge Place is in Buffalo, New York.",
+        "ko": "피스 브리지 플레이스는 뉴욕주 버펄로에 있습니다.",
+        "zh-Hans": "和平桥公寓位于纽约州布法罗。",
+        "ja": "ピースブリッジ・プレイスはニューヨーク州バッファローにあります。",
+        "es": "Peace Bridge Place está en Búfalo, Nueva York.",
+        "hi": "पीस ब्रिज प्लेस न्यूयॉर्क के बफ़ेलो में है।",
+        "de": "Peace Bridge Place liegt in Buffalo im Bundesstaat New York.",
+        "vi": "Peace Bridge Place nằm ở Buffalo, bang New York.",
+        "pt-BR": "O Peace Bridge Place fica em Buffalo, Nova York.",
+        "id": "Peace Bridge Place berada di Buffalo, New York.",
+        "fr": "Peace Bridge Place se trouve à Buffalo, dans l'État de New York.",
+        "ar": "يقع مبنى بيس بريدج بليس في مدينة بافالو بولاية نيويورك.",
+        "tr": "Peace Bridge Place, New York'un Buffalo şehrinde.",
+        "it": "Peace Bridge Place si trova a Buffalo, nello stato di New York.",
+        "pl": "Peace Bridge Place znajduje się w Buffalo w stanie Nowy Jork."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do some people worry about big batteries indoors?",
+      "choices": [
+        "They are too quiet",
+        "They are too small",
+        "They smell nice",
+        "They are too cheap",
+        "They can catch fire"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Big lithium batteries can catch fire.",
+      "hintI18n": {
+        "en": "Big lithium batteries can catch fire.",
+        "ko": "큰 리튬 배터리는 불이 날 수 있습니다.",
+        "zh-Hans": "大型锂电池可能会着火。",
+        "ja": "大きなリチウム電池は火事になることがあります。",
+        "es": "Las baterías grandes de litio pueden incendiarse.",
+        "hi": "बड़ी लिथियम बैटरियों में आग लग सकती है।",
+        "de": "Große Lithiumbatterien können Feuer fangen.",
+        "vi": "Pin lithium lớn có thể bốc cháy.",
+        "pt-BR": "Baterias grandes de lítio podem pegar fogo.",
+        "id": "Baterai litium besar bisa terbakar.",
+        "fr": "Les grosses batteries au lithium peuvent prendre feu.",
+        "ar": "يمكن أن تشتعل بطاريات الليثيوم الكبيرة.",
+        "tr": "Büyük lityum piller alev alabilir.",
+        "it": "Le grandi batterie al litio possono prendere fuoco.",
+        "pl": "Duże baterie litowe mogą się zapalić."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How does the design stop heat from spreading?",
+      "choices": [
+        "It uses ice",
+        "It uses fans on the roof",
+        "Each battery cell is kept apart from the others",
+        "It turns off at night",
+        "It uses water pipes"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Each battery cell is kept apart, so heat does not spread.",
+      "hintI18n": {
+        "en": "Each battery cell is kept apart, so heat does not spread.",
+        "ko": "각 배터리 셀을 서로 떨어뜨려 놓아서 열이 퍼지지 않습니다.",
+        "zh-Hans": "每个电池单元彼此隔开，所以热量不会扩散。",
+        "ja": "電池のセルを一つずつ離しているので、熱が広がりません。",
+        "es": "Cada celda de la batería está separada, así que el calor no se propaga.",
+        "hi": "हर बैटरी सेल अलग रखा जाता है, इसलिए गर्मी नहीं फैलती।",
+        "de": "Jede Batteriezelle ist von den anderen getrennt, deshalb breitet sich die Hitze nicht aus.",
+        "vi": "Mỗi cell pin được đặt tách riêng nên nhiệt không lan ra.",
+        "pt-BR": "Cada célula da bateria fica separada, então o calor não se espalha.",
+        "id": "Setiap sel baterai dipisahkan, jadi panas tidak menyebar.",
+        "fr": "Chaque cellule est séparée des autres, donc la chaleur ne se propage pas.",
+        "ar": "كل خلية بطارية منفصلة عن غيرها، لذلك لا تنتشر الحرارة.",
+        "tr": "Her pil hücresi ayrı tutulur, bu yüzden ısı yayılmaz.",
+        "it": "Ogni cella della batteria è separata, quindi il calore non si diffonde.",
+        "pl": "Każde ogniwo jest oddzielone od innych, więc ciepło się nie rozprzestrzenia."
+      }
+    }
+  ]
+}
