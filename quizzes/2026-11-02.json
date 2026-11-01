@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-02",
+  "date": "2026-11-02",
+  "title": "Daily News Quiz · 2026-11-02",
+  "headline": "In an Amsterdam museum, people stand in cages and the animals look free",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who made the animals at the Art Zoo?",
+      "choices": [
+        "A famous zoo keeper",
+        "Two Dutch artists",
+        "A group of students",
+        "A robot company",
+        "A movie studio"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Two Dutch artists, Jaap Sinke and Ferry van Tongeren, made them.",
+      "hintI18n": {
+        "en": "Two Dutch artists, Jaap Sinke and Ferry van Tongeren, made them.",
+        "ko": "네덜란드 예술가 두 명, 야프 싱커와 페리 반 통에렌이 만들었어요.",
+        "zh-Hans": "两位荷兰艺术家亚普·辛克和费里·范·通格伦制作了它们。",
+        "ja": "オランダの芸術家二人、ヤープ・シンケとフェリー・ファン・トンゲレンが作りました。",
+        "es": "Dos artistas neerlandeses, Jaap Sinke y Ferry van Tongeren, los hicieron.",
+        "hi": "दो डच कलाकारों, याप सिंके और फेरी फ़ान टोंगेरेन ने इन्हें बनाया।",
+        "de": "Zwei niederländische Künstler, Jaap Sinke und Ferry van Tongeren, haben sie gemacht.",
+        "vi": "Hai nghệ sĩ Hà Lan, Jaap Sinke và Ferry van Tongeren, đã làm ra chúng.",
+        "pt-BR": "Dois artistas holandeses, Jaap Sinke e Ferry van Tongeren, os fizeram.",
+        "id": "Dua seniman Belanda, Jaap Sinke dan Ferry van Tongeren, membuatnya.",
+        "fr": "Deux artistes néerlandais, Jaap Sinke et Ferry van Tongeren, les ont faits.",
+        "ar": "صنعها فنانان هولنديان هما ياب سينكه وفيري فان تونغيرن.",
+        "tr": "Onları iki Hollandalı sanatçı, Jaap Sinke ve Ferry van Tongeren yaptı.",
+        "it": "Li hanno fatti due artisti olandesi, Jaap Sinke e Ferry van Tongeren.",
+        "pl": "Zrobiło je dwóch holenderskich artystów, Jaap Sinke i Ferry van Tongeren."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What hangs from the ceiling near the entrance?",
+      "choices": [
+        "A big bell",
+        "A small boat",
+        "A paper dragon",
+        "A big crocodile",
+        "A giant lamp"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A big crocodile hangs from the ceiling.",
+      "hintI18n": {
+        "en": "A big crocodile hangs from the ceiling.",
+        "ko": "큰 악어가 천장에 매달려 있어요.",
+        "zh-Hans": "一条大鳄鱼挂在天花板上。",
+        "ja": "大きなワニが天井からつり下がっています。",
+        "es": "Un gran cocodrilo cuelga del techo.",
+        "hi": "एक बड़ा मगरमच्छ छत से लटका है।",
+        "de": "Ein großes Krokodil hängt von der Decke.",
+        "vi": "Một con cá sấu lớn treo trên trần nhà.",
+        "pt-BR": "Um grande crocodilo fica pendurado no teto.",
+        "id": "Seekor buaya besar tergantung di langit-langit.",
+        "fr": "Un gros crocodile est suspendu au plafond.",
+        "ar": "يتدلى تمساح كبير من السقف.",
+        "tr": "Tavandan büyük bir timsah sarkıyor.",
+        "it": "Un grande coccodrillo è appeso al soffitto.",
+        "pl": "Z sufitu zwisa duży krokodyl."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When do visitors stand inside cages?",
+      "choices": [
+        "When they walk through the rooms to see the animals",
+        "Only at night",
+        "When it rains",
+        "Only on their birthday",
+        "When the museum is closed"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Visitors walk inside the cages as they look at the animals.",
+      "hintI18n": {
+        "en": "Visitors walk inside the cages as they look at the animals.",
+        "ko": "관람객은 동물을 보면서 우리 안을 걸어요.",
+        "zh-Hans": "参观者一边看动物，一边在笼子里走。",
+        "ja": "来館者は動物を見ながら檻の中を歩きます。",
+        "es": "Los visitantes caminan dentro de las jaulas mientras miran a los animales.",
+        "hi": "आगंतुक जानवरों को देखते हुए पिंजरों के अंदर चलते हैं।",
+        "de": "Die Besucher gehen in den Käfigen, während sie die Tiere ansehen.",
+        "vi": "Khách tham quan đi bên trong lồng khi ngắm các con vật.",
+        "pt-BR": "Os visitantes andam dentro das jaulas enquanto olham os animais.",
+        "id": "Pengunjung berjalan di dalam kandang sambil melihat hewan.",
+        "fr": "Les visiteurs marchent dans les cages en regardant les animaux.",
+        "ar": "يمشي الزوار داخل الأقفاص وهم ينظرون إلى الحيوانات.",
+        "tr": "Ziyaretçiler hayvanlara bakarken kafeslerin içinde yürür.",
+        "it": "I visitatori camminano dentro le gabbie mentre guardano gli animali.",
+        "pl": "Zwiedzający chodzą w klatkach i oglądają zwierzęta."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the Art Zoo?",
+      "choices": [
+        "In a forest in Canada",
+        "On a ship at sea",
+        "In a shopping mall in Tokyo",
+        "In a new tower in Dubai",
+        "In an old canal house in Amsterdam"
+      ],
+      "answerIndex": 4,
+      "hintKo": "It is in an old canal house in Amsterdam.",
+      "hintI18n": {
+        "en": "It is in an old canal house in Amsterdam.",
+        "ko": "암스테르담의 오래된 운하 옆 집에 있어요.",
+        "zh-Hans": "它在阿姆斯特丹一座古老的运河房子里。",
+        "ja": "アムステルダムの古い運河沿いの家にあります。",
+        "es": "Está en una vieja casa junto a un canal en Ámsterdam.",
+        "hi": "यह एम्स्टर्डम में नहर किनारे एक पुराने घर में है।",
+        "de": "Es ist in einem alten Grachtenhaus in Amsterdam.",
+        "vi": "Nó nằm trong một ngôi nhà cổ bên kênh ở Amsterdam.",
+        "pt-BR": "Fica em uma casa antiga à beira de um canal em Amsterdã.",
+        "id": "Letaknya di rumah tua di tepi kanal di Amsterdam.",
+        "fr": "Il se trouve dans une vieille maison au bord d'un canal à Amsterdam.",
+        "ar": "يقع في منزل قديم على قناة في أمستردام.",
+        "tr": "Amsterdam'da kanal kenarındaki eski bir evde.",
+        "it": "Si trova in una vecchia casa sul canale ad Amsterdam.",
+        "pl": "Mieści się w starym domu nad kanałem w Amsterdamie."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are the people in cages?",
+      "choices": [
+        "The animals are dangerous",
+        "It is a punishment",
+        "The artists want the animals to look free and the building to be one artwork",
+        "The cages are cheap",
+        "Visitors asked for cages"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The artists want the animals to look free and the whole building to be one artwork.",
+      "hintI18n": {
+        "en": "The artists want the animals to look free and the whole building to be one artwork.",
+        "ko": "예술가들은 동물이 자유로워 보이고 건물 전체가 하나의 작품이 되기를 원해요.",
+        "zh-Hans": "艺术家希望动物看起来是自由的，整座建筑成为一件艺术品。",
+        "ja": "芸術家たちは動物が自由に見え、建物全体が一つの作品になることを望んでいます。",
+        "es": "Los artistas quieren que los animales parezcan libres y que todo el edificio sea una obra de arte.",
+        "hi": "कलाकार चाहते हैं कि जानवर आज़ाद दिखें और पूरी इमारत एक कलाकृति बने।",
+        "de": "Die Künstler wollen, dass die Tiere frei aussehen und das ganze Gebäude ein Kunstwerk ist.",
+        "vi": "Các nghệ sĩ muốn con vật trông tự do và cả tòa nhà là một tác phẩm nghệ thuật.",
+        "pt-BR": "Os artistas querem que os animais pareçam livres e que o prédio todo seja uma obra de arte.",
+        "id": "Para seniman ingin hewan terlihat bebas dan seluruh gedung menjadi satu karya seni.",
+        "fr": "Les artistes veulent que les animaux semblent libres et que tout le bâtiment soit une œuvre d'art.",
+        "ar": "يريد الفنانان أن تبدو الحيوانات حرة وأن يكون المبنى كله عملًا فنيًا واحدًا.",
+        "tr": "Sanatçılar hayvanların özgür görünmesini ve tüm binanın tek bir sanat eseri olmasını istiyor.",
+        "it": "Gli artisti vogliono che gli animali sembrino liberi e che tutto l'edificio sia un'opera d'arte.",
+        "pl": "Artyści chcą, by zwierzęta wyglądały na wolne, a cały budynek był jednym dziełem sztuki."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did one visitor feel about the museum?",
+      "choices": [
+        "Very bored",
+        "A little creepy",
+        "Very hungry",
+        "Angry and loud",
+        "Sleepy"
+      ],
+      "answerIndex": 1,
+      "hintKo": "One visitor said it was a little creepy.",
+      "hintI18n": {
+        "en": "One visitor said it was a little creepy.",
+        "ko": "한 관람객은 조금 으스스하다고 말했어요.",
+        "zh-Hans": "一位参观者说有点吓人。",
+        "ja": "ある来館者は少し不気味だと言いました。",
+        "es": "Una visitante dijo que era un poco espeluznante.",
+        "hi": "एक आगंतुक ने कहा कि यह थोड़ा डरावना था।",
+        "de": "Eine Besucherin sagte, es sei ein bisschen gruselig.",
+        "vi": "Một khách tham quan nói nơi này hơi rùng rợn.",
+        "pt-BR": "Uma visitante disse que era um pouco assustador.",
+        "id": "Seorang pengunjung berkata tempat itu agak menyeramkan.",
+        "fr": "Une visiteuse a dit que c'était un peu effrayant.",
+        "ar": "قالت إحدى الزائرات إنه مخيف قليلًا.",
+        "tr": "Bir ziyaretçi biraz ürkütücü olduğunu söyledi.",
+        "it": "Una visitatrice ha detto che era un po' inquietante.",
+        "pl": "Jedna osoba zwiedzająca powiedziała, że było trochę strasznie."
+      }
+    }
+  ]
+}
