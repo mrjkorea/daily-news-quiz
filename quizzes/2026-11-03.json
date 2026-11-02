@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-03",
+  "date": "2026-11-03",
+  "title": "Daily News Quiz · 2026-11-03",
+  "headline": "AI helps scientists count bats in hundreds of British woods",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who called the survey a nice story of A I for good?",
+      "choices": [
+        "A famous singer",
+        "A bat farmer",
+        "Professor Kate Jones",
+        "The king of Britain",
+        "A football coach"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Professor Kate Jones, from University College London, said it.",
+      "hintI18n": {
+        "en": "Professor Kate Jones, from University College London, said it.",
+        "ko": "유니버시티 칼리지 런던의 케이트 존스 교수가 말했어요.",
+        "zh-Hans": "伦敦大学学院的凯特·琼斯教授说的。",
+        "ja": "ユニバーシティ・カレッジ・ロンドンのケイト・ジョーンズ教授が言いました。",
+        "es": "Lo dijo la profesora Kate Jones, del University College London.",
+        "hi": "यह यूनिवर्सिटी कॉलेज लंदन की प्रोफ़ेसर केट जोन्स ने कहा।",
+        "de": "Professorin Kate Jones vom University College London hat das gesagt.",
+        "vi": "Giáo sư Kate Jones của University College London đã nói vậy.",
+        "pt-BR": "A professora Kate Jones, da University College London, disse isso.",
+        "id": "Profesor Kate Jones dari University College London yang mengatakannya.",
+        "fr": "C'est la professeure Kate Jones, de l'University College London, qui l'a dit.",
+        "ar": "قالت ذلك البروفيسورة كيت جونز من كلية لندن الجامعية.",
+        "tr": "Bunu University College London'dan Profesör Kate Jones söyledi.",
+        "it": "L'ha detto la professoressa Kate Jones dello University College London.",
+        "pl": "Powiedziała to profesor Kate Jones z University College London."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the devices record?",
+      "choices": [
+        "The sounds that bats make",
+        "Videos of birds",
+        "The weather",
+        "Car noise",
+        "Music in the woods"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They recorded the sounds that bats make.",
+      "hintI18n": {
+        "en": "They recorded the sounds that bats make.",
+        "ko": "박쥐가 내는 소리를 녹음했어요.",
+        "zh-Hans": "它们录下了蝙蝠发出的声音。",
+        "ja": "コウモリが出す音を録音しました。",
+        "es": "Grabaron los sonidos que hacen los murciélagos.",
+        "hi": "उन्होंने चमगादड़ों की आवाज़ें रिकॉर्ड कीं।",
+        "de": "Sie haben die Laute der Fledermäuse aufgenommen.",
+        "vi": "Chúng ghi lại âm thanh của loài dơi.",
+        "pt-BR": "Eles gravaram os sons que os morcegos fazem.",
+        "id": "Alat itu merekam suara yang dibuat kelelawar.",
+        "fr": "Ils ont enregistré les sons des chauves-souris.",
+        "ar": "سجلت الأجهزة الأصوات التي تصدرها الخفافيش.",
+        "tr": "Yarasaların çıkardığı sesleri kaydettiler.",
+        "it": "Hanno registrato i suoni dei pipistrelli.",
+        "pl": "Nagrywały dźwięki wydawane przez nietoperze."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When do the bats make the recorded sounds?",
+      "choices": [
+        "At lunch time",
+        "Only in the morning",
+        "On Sundays",
+        "At night",
+        "Only in winter"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Bats make their calls at night.",
+      "hintI18n": {
+        "en": "Bats make their calls at night.",
+        "ko": "박쥐는 밤에 소리를 내요.",
+        "zh-Hans": "蝙蝠在夜里发出叫声。",
+        "ja": "コウモリは夜に鳴き声を出します。",
+        "es": "Los murciélagos hacen sus llamadas por la noche.",
+        "hi": "चमगादड़ रात में आवाज़ करते हैं।",
+        "de": "Fledermäuse rufen in der Nacht.",
+        "vi": "Dơi phát ra tiếng kêu vào ban đêm.",
+        "pt-BR": "Os morcegos fazem seus chamados à noite.",
+        "id": "Kelelawar bersuara pada malam hari.",
+        "fr": "Les chauves-souris crient la nuit.",
+        "ar": "تصدر الخفافيش نداءاتها في الليل.",
+        "tr": "Yarasalar geceleri ses çıkarır.",
+        "it": "I pipistrelli emettono i loro richiami di notte.",
+        "pl": "Nietoperze wydają odgłosy w nocy."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did researchers put the devices?",
+      "choices": [
+        "On city buses",
+        "On poles among the trees in woodlands",
+        "Inside caves only",
+        "On boats",
+        "On the roofs of schools"
+      ],
+      "answerIndex": 1,
+      "hintKo": "They put them on poles among the trees in three hundred and ten woodlands.",
+      "hintI18n": {
+        "en": "They put them on poles among the trees in three hundred and ten woodlands.",
+        "ko": "310곳의 숲에서 나무 사이 기둥에 설치했어요.",
+        "zh-Hans": "他们把设备放在310片林地树木间的杆子上。",
+        "ja": "310か所の森で、木々の間の柱に取り付けました。",
+        "es": "Los pusieron en postes entre los árboles de 310 bosques.",
+        "hi": "उन्होंने इन्हें 310 वनों में पेड़ों के बीच खंभों पर लगाया।",
+        "de": "Sie haben sie in 310 Wäldern an Pfählen zwischen den Bäumen angebracht.",
+        "vi": "Họ đặt chúng trên cột giữa các cây trong 310 khu rừng.",
+        "pt-BR": "Eles os colocaram em postes entre as árvores de 310 bosques.",
+        "id": "Mereka memasangnya di tiang di antara pohon di 310 hutan.",
+        "fr": "Ils les ont placés sur des poteaux entre les arbres dans 310 bois.",
+        "ar": "وضعوها على أعمدة بين الأشجار في 310 غابات.",
+        "tr": "Onları 310 ormanda ağaçların arasındaki direklere koydular.",
+        "it": "Li hanno messi su pali tra gli alberi in 310 boschi.",
+        "pl": "Umieścili je na słupkach między drzewami w 310 lasach."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the scientists use A I?",
+      "choices": [
+        "It was free",
+        "The bats asked for it",
+        "People do not like bats",
+        "The devices were broken",
+        "There was too much sound for people to study by hand"
+      ],
+      "answerIndex": 4,
+      "hintKo": "People would need more than thirty years to study all the sound by hand.",
+      "hintI18n": {
+        "en": "People would need more than thirty years to study all the sound by hand.",
+        "ko": "사람이 손으로 모든 소리를 연구하려면 30년이 넘게 걸려요.",
+        "zh-Hans": "人工研究所有声音需要三十多年。",
+        "ja": "人が手作業ですべての音を調べると30年以上かかります。",
+        "es": "Una persona necesitaría más de 30 años para estudiar todo el sonido a mano.",
+        "hi": "सारी आवाज़ें हाथ से जाँचने में लोगों को 30 साल से ज़्यादा लगते।",
+        "de": "Menschen bräuchten mehr als 30 Jahre, um alle Laute von Hand zu prüfen.",
+        "vi": "Con người sẽ cần hơn 30 năm để nghe hết bằng tay.",
+        "pt-BR": "As pessoas precisariam de mais de 30 anos para estudar todo o som à mão.",
+        "id": "Manusia butuh lebih dari 30 tahun untuk mempelajari semua suara secara manual.",
+        "fr": "Il faudrait plus de 30 ans pour étudier tous les sons à la main.",
+        "ar": "سيحتاج الناس إلى أكثر من 30 عامًا لدراسة كل الأصوات يدويًا.",
+        "tr": "İnsanların tüm sesleri elle incelemesi 30 yıldan fazla sürerdi.",
+        "it": "Le persone avrebbero bisogno di più di 30 anni per studiare tutti i suoni a mano.",
+        "pl": "Ludzie potrzebowaliby ponad 30 lat, by ręcznie zbadać wszystkie dźwięki."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many bat calls did the devices catch?",
+      "choices": [
+        "About ten",
+        "About one thousand",
+        "About ninety-eight million",
+        "About five hundred",
+        "Only one"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The devices caught about ninety-eight million bat calls.",
+      "hintI18n": {
+        "en": "The devices caught about ninety-eight million bat calls.",
+        "ko": "장치는 박쥐 소리를 약 9,800만 개 녹음했어요.",
+        "zh-Hans": "设备录下了大约九千八百万次蝙蝠叫声。",
+        "ja": "装置は約9800万回のコウモリの鳴き声をとらえました。",
+        "es": "Los dispositivos captaron unos 98 millones de llamadas de murciélagos.",
+        "hi": "उपकरणों ने लगभग 9.8 करोड़ चमगादड़ आवाज़ें रिकॉर्ड कीं।",
+        "de": "Die Geräte haben etwa 98 Millionen Fledermausrufe aufgenommen.",
+        "vi": "Các thiết bị ghi được khoảng 98 triệu tiếng dơi kêu.",
+        "pt-BR": "Os dispositivos captaram cerca de 98 milhões de chamados de morcegos.",
+        "id": "Alat-alat itu merekam sekitar 98 juta suara kelelawar.",
+        "fr": "Les appareils ont capté environ 98 millions de cris de chauves-souris.",
+        "ar": "التقطت الأجهزة نحو 98 مليون نداء للخفافيش.",
+        "tr": "Cihazlar yaklaşık 98 milyon yarasa sesi kaydetti.",
+        "it": "I dispositivi hanno registrato circa 98 milioni di richiami di pipistrelli.",
+        "pl": "Urządzenia nagrały około 98 milionów odgłosów nietoperzy."
+      }
+    }
+  ]
+}
