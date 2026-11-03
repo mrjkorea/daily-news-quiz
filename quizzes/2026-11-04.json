@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-04",
+  "date": "2026-11-04",
+  "title": "Daily News Quiz · 2026-11-04",
+  "headline": "Greenland's City of Icebergs opens a new international airport",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who was one of the passengers on the first flight?",
+      "choices": [
+        "A famous actor",
+        "The king of Spain",
+        "A football team",
+        "Greenland's prime minister",
+        "A group of penguins"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Greenland's prime minister was on the first flight.",
+      "hintI18n": {
+        "en": "Greenland's prime minister was on the first flight.",
+        "ko": "그린란드 총리가 첫 비행기에 탔어요.",
+        "zh-Hans": "格陵兰总理坐上了第一班飞机。",
+        "ja": "グリーンランドの首相が最初の便に乗っていました。",
+        "es": "El primer ministro de Groenlandia iba en el primer vuelo.",
+        "hi": "ग्रीनलैंड के प्रधानमंत्री पहली उड़ान में थे।",
+        "de": "Der Regierungschef von Grönland war auf dem ersten Flug.",
+        "vi": "Thủ tướng Greenland có mặt trên chuyến bay đầu tiên.",
+        "pt-BR": "O primeiro-ministro da Groenlândia estava no primeiro voo.",
+        "id": "Perdana menteri Greenland ikut dalam penerbangan pertama.",
+        "fr": "Le Premier ministre du Groenland était dans le premier vol.",
+        "ar": "كان رئيس وزراء غرينلاند على متن الرحلة الأولى.",
+        "tr": "Grönland başbakanı ilk uçuştaydı.",
+        "it": "Il primo ministro della Groenlandia era sul primo volo.",
+        "pl": "Premier Grenlandii leciał pierwszym lotem."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What do people call Ilulissat?",
+      "choices": [
+        "The City of Lights",
+        "The City of Icebergs",
+        "The Green Garden",
+        "The Sunny Coast",
+        "The Big Apple"
+      ],
+      "answerIndex": 1,
+      "hintKo": "People call it the City of Icebergs.",
+      "hintI18n": {
+        "en": "People call it the City of Icebergs.",
+        "ko": "사람들은 그곳을 '빙산의 도시'라고 불러요.",
+        "zh-Hans": "人们叫它“冰山之城”。",
+        "ja": "人々はそこを「氷山の町」と呼びます。",
+        "es": "La gente la llama la Ciudad de los Icebergs.",
+        "hi": "लोग इसे हिमखंडों का शहर कहते हैं।",
+        "de": "Man nennt sie die Stadt der Eisberge.",
+        "vi": "Người ta gọi nơi đó là Thành phố Băng trôi.",
+        "pt-BR": "As pessoas a chamam de Cidade dos Icebergs.",
+        "id": "Orang menyebutnya Kota Gunung Es.",
+        "fr": "On l'appelle la ville des icebergs.",
+        "ar": "يسميها الناس مدينة الجبال الجليدية.",
+        "tr": "İnsanlar oraya Buzdağları Şehri diyor.",
+        "it": "La gente la chiama la Città degli iceberg.",
+        "pl": "Ludzie nazywają je Miastem Gór Lodowych."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the new airport open?",
+      "choices": [
+        "Last spring",
+        "On New Year's Day",
+        "Next summer",
+        "In twenty twenty",
+        "On the twenty-ninth of October"
+      ],
+      "answerIndex": 4,
+      "hintKo": "It opened on the twenty-ninth of October.",
+      "hintI18n": {
+        "en": "It opened on the twenty-ninth of October.",
+        "ko": "10월 29일에 문을 열었어요.",
+        "zh-Hans": "它在10月29日开放。",
+        "ja": "10月29日に開港しました。",
+        "es": "Se abrió el 29 de octubre.",
+        "hi": "यह 29 अक्टूबर को खुला।",
+        "de": "Er wurde am 29. Oktober eröffnet.",
+        "vi": "Sân bay mở cửa vào ngày 29 tháng 10.",
+        "pt-BR": "Foi inaugurado em 29 de outubro.",
+        "id": "Bandara itu dibuka pada 29 Oktober.",
+        "fr": "Il a ouvert le 29 octobre.",
+        "ar": "افتُتح في التاسع والعشرين من أكتوبر.",
+        "tr": "29 Ekim'de açıldı.",
+        "it": "È stato aperto il 29 ottobre.",
+        "pl": "Otwarto je 29 października."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the first direct flight come from?",
+      "choices": [
+        "Copenhagen, in Denmark",
+        "Tokyo, in Japan",
+        "New York, in the United States",
+        "Cairo, in Egypt",
+        "Sydney, in Australia"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The first direct flight came from Copenhagen, in Denmark.",
+      "hintI18n": {
+        "en": "The first direct flight came from Copenhagen, in Denmark.",
+        "ko": "첫 직항편은 덴마크 코펜하겐에서 왔어요.",
+        "zh-Hans": "第一班直飞航班来自丹麦哥本哈根。",
+        "ja": "最初の直行便はデンマークのコペンハーゲンから来ました。",
+        "es": "El primer vuelo directo vino de Copenhague, en Dinamarca.",
+        "hi": "पहली सीधी उड़ान डेनमार्क के कोपेनहेगन से आई।",
+        "de": "Der erste Direktflug kam aus Kopenhagen in Dänemark.",
+        "vi": "Chuyến bay thẳng đầu tiên đến từ Copenhagen, Đan Mạch.",
+        "pt-BR": "O primeiro voo direto veio de Copenhague, na Dinamarca.",
+        "id": "Penerbangan langsung pertama datang dari Kopenhagen, Denmark.",
+        "fr": "Le premier vol direct venait de Copenhague, au Danemark.",
+        "ar": "جاءت أول رحلة مباشرة من كوبنهاغن في الدنمارك.",
+        "tr": "İlk direkt uçuş Danimarka'nın Kopenhag şehrinden geldi.",
+        "it": "Il primo volo diretto è arrivato da Copenaghen, in Danimarca.",
+        "pl": "Pierwszy lot bezpośredni przyleciał z Kopenhagi w Danii."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why was it hard to get to Ilulissat before?",
+      "choices": [
+        "The town was closed",
+        "Tickets were free",
+        "There are no roads between big towns, so people needed ships or small planes",
+        "It was always dark",
+        "Planes were not allowed"
+      ],
+      "answerIndex": 2,
+      "hintKo": "There are no roads between big towns, so people came by ship or small plane.",
+      "hintI18n": {
+        "en": "There are no roads between big towns, so people came by ship or small plane.",
+        "ko": "큰 마을 사이에 도로가 없어서 배나 작은 비행기로 왔어요.",
+        "zh-Hans": "大城镇之间没有公路，所以人们坐船或小飞机来。",
+        "ja": "大きな町の間に道路がないので、人々は船や小さな飛行機で来ました。",
+        "es": "No hay carreteras entre los pueblos grandes, así que la gente llegaba en barco o en avión pequeño.",
+        "hi": "बड़े शहरों के बीच सड़कें नहीं हैं, इसलिए लोग जहाज़ या छोटे विमान से आते थे।",
+        "de": "Zwischen den großen Orten gibt es keine Straßen, also kamen die Leute mit dem Schiff oder kleinen Flugzeug.",
+        "vi": "Không có đường bộ giữa các thị trấn lớn, nên người ta đến bằng tàu hoặc máy bay nhỏ.",
+        "pt-BR": "Não há estradas entre as cidades grandes, então as pessoas chegavam de navio ou avião pequeno.",
+        "id": "Tidak ada jalan antara kota besar, jadi orang datang dengan kapal atau pesawat kecil.",
+        "fr": "Il n'y a pas de routes entre les grandes villes, alors on venait en bateau ou en petit avion.",
+        "ar": "لا توجد طرق بين المدن الكبيرة، لذلك كان الناس يأتون بالسفن أو الطائرات الصغيرة.",
+        "tr": "Büyük kasabalar arasında yol yok, bu yüzden insanlar gemiyle ya da küçük uçakla geliyordu.",
+        "it": "Non ci sono strade tra le città grandi, quindi si arrivava in nave o con un piccolo aereo.",
+        "pl": "Między dużymi miastami nie ma dróg, więc ludzie przypływali statkiem albo przylatywali małym samolotem."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How long was the first flight?",
+      "choices": [
+        "About ten minutes",
+        "About four and a half hours",
+        "About two days",
+        "About one week",
+        "About twenty hours"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The flight took about four and a half hours.",
+      "hintI18n": {
+        "en": "The flight took about four and a half hours.",
+        "ko": "비행은 약 4시간 30분 걸렸어요.",
+        "zh-Hans": "飞行大约用了四个半小时。",
+        "ja": "フライトは約4時間半かかりました。",
+        "es": "El vuelo duró unas cuatro horas y media.",
+        "hi": "उड़ान में लगभग साढ़े चार घंटे लगे।",
+        "de": "Der Flug dauerte etwa viereinhalb Stunden.",
+        "vi": "Chuyến bay mất khoảng bốn tiếng rưỡi.",
+        "pt-BR": "O voo durou cerca de quatro horas e meia.",
+        "id": "Penerbangan itu memakan waktu sekitar empat setengah jam.",
+        "fr": "Le vol a duré environ quatre heures et demie.",
+        "ar": "استغرقت الرحلة نحو أربع ساعات ونصف.",
+        "tr": "Uçuş yaklaşık dört buçuk saat sürdü.",
+        "it": "Il volo è durato circa quattro ore e mezza.",
+        "pl": "Lot trwał około czterech i pół godziny."
+      }
+    }
+  ]
+}
