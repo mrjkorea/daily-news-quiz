@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-05",
+  "date": "2026-11-05",
+  "title": "Daily News Quiz · 2026-11-05",
+  "headline": "After her wedding was called off, eleven strangers joined a woman's trip",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who joined Bridget on her trip?",
+      "choices": [
+        "Her family",
+        "Her old classmates",
+        "A sports team",
+        "Her boss",
+        "Eleven women who were strangers"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Eleven strangers joined her trip.",
+      "hintI18n": {
+        "en": "Eleven strangers joined her trip.",
+        "ko": "열한 명의 낯선 사람들이 그녀의 여행에 함께했다.",
+        "zh-Hans": "十一个陌生人加入了她的旅行。",
+        "ja": "11人の見知らぬ人が彼女の旅行に参加しました。",
+        "es": "Once desconocidos se unieron a su viaje.",
+        "hi": "ग्यारह अजनबी उसकी यात्रा में शामिल हुए।",
+        "de": "Elf Fremde schlossen sich ihrer Reise an.",
+        "vi": "Mười một người lạ đã tham gia chuyến đi của cô ấy.",
+        "pt-BR": "Onze estranhos se juntaram à viagem dela.",
+        "id": "Sebelas orang asing bergabung dalam perjalanannya.",
+        "fr": "Onze inconnus ont rejoint son voyage.",
+        "ar": "انضم أحد عشر غريبًا إلى رحلتها.",
+        "tr": "On bir yabancı onun gezisine katıldı.",
+        "it": "Undici estranei si sono uniti al suo viaggio.",
+        "pl": "Jedenaścioro nieznajomych dołączyło do jej podróży."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did Bridget post online?",
+      "choices": [
+        "A cooking video",
+        "An invite for a women-only trip to Northern Ireland",
+        "A picture of her cat",
+        "A job offer",
+        "A song"
+      ],
+      "answerIndex": 1,
+      "hintKo": "She posted an invite for a women-only trip to Northern Ireland.",
+      "hintI18n": {
+        "en": "She posted an invite for a women-only trip to Northern Ireland.",
+        "ko": "그녀는 북아일랜드로 떠나는 여성 전용 여행 초대 글을 올렸다.",
+        "zh-Hans": "她发布了一个仅限女性的北爱尔兰旅行邀请。",
+        "ja": "彼女は北アイルランドへの女性限定旅行の招待を投稿しました。",
+        "es": "Publicó una invitación para un viaje solo para mujeres a Irlanda del Norte.",
+        "hi": "उसने उत्तरी आयरलैंड की केवल महिलाओं के लिए यात्रा का निमंत्रण पोस्ट किया।",
+        "de": "Sie postete eine Einladung für eine Reise nur für Frauen nach Nordirland.",
+        "vi": "Cô ấy đã đăng lời mời cho một chuyến đi chỉ dành cho phụ nữ đến Bắc Ireland.",
+        "pt-BR": "Ela postou um convite para uma viagem só para mulheres à Irlanda do Norte.",
+        "id": "Ia memposting undangan untuk perjalanan khusus wanita ke Irlandia Utara.",
+        "fr": "Elle a publié une invitation pour un voyage réservé aux femmes en Irlande du Nord.",
+        "ar": "نشرت دعوة لرحلة للنساء فقط إلى أيرلندا الشمالية.",
+        "tr": "Kuzey İrlanda'ya sadece kadınlara özel bir gezi daveti paylaştı.",
+        "it": "Ha pubblicato un invito per un viaggio solo per donne in Irlanda del Nord.",
+        "pl": "Opublikowała zaproszenie na wyjazd tylko dla kobiet do Irlandii Północnej."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the photographer send Bridget an email?",
+      "choices": [
+        "In April",
+        "In December",
+        "On her birthday",
+        "Last year at Christmas",
+        "In the middle of the trip"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The photographer emailed her in April.",
+      "hintI18n": {
+        "en": "The photographer emailed her in April.",
+        "ko": "사진작가는 4월에 그녀에게 이메일을 보냈다.",
+        "zh-Hans": "那位摄影师在四月给她发了电子邮件。",
+        "ja": "その写真家は4月に彼女にメールを送りました。",
+        "es": "El fotógrafo le envió un correo electrónico en abril.",
+        "hi": "फोटोग्राफर ने अप्रैल में उसे ईमेल किया।",
+        "de": "Der Fotograf schrieb ihr im April eine E-Mail.",
+        "vi": "Nhiếp ảnh gia đã gửi email cho cô ấy vào tháng Tư.",
+        "pt-BR": "O fotógrafo enviou um e-mail para ela em abril.",
+        "id": "Fotografer itu mengirim email kepadanya pada bulan April.",
+        "fr": "Le photographe lui a envoyé un e-mail en avril.",
+        "ar": "أرسل لها المصور رسالة بريد إلكتروني في أبريل.",
+        "tr": "Fotoğrafçı nisan ayında ona e-posta gönderdi.",
+        "it": "Il fotografo le ha inviato un'e-mail ad aprile.",
+        "pl": "Fotograf wysłał jej e-mail w kwietniu."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the group spend a week?",
+      "choices": [
+        "In Paris",
+        "On a ship",
+        "On the north coast of Northern Ireland",
+        "In a big hotel in Las Vegas",
+        "In the mountains of Japan"
+      ],
+      "answerIndex": 2,
+      "hintKo": "They spent a week on the north coast of Northern Ireland.",
+      "hintI18n": {
+        "en": "They spent a week on the north coast of Northern Ireland.",
+        "ko": "그들은 북아일랜드 북부 해안에서 일주일을 보냈다.",
+        "zh-Hans": "他们在北爱尔兰北海岸度过了一周。",
+        "ja": "彼らは北アイルランドの北海岸で1週間を過ごしました。",
+        "es": "Pasaron una semana en la costa norte de Irlanda del Norte.",
+        "hi": "उन्होंने उत्तरी आयरलैंड के उत्तरी तट पर एक सप्ताह बिताया।",
+        "de": "Sie verbrachten eine Woche an der Nordküste Nordirlands.",
+        "vi": "Họ đã dành một tuần ở bờ biển phía bắc Bắc Ireland.",
+        "pt-BR": "Eles passaram uma semana na costa norte da Irlanda do Norte.",
+        "id": "Mereka menghabiskan seminggu di pantai utara Irlandia Utara.",
+        "fr": "Ils ont passé une semaine sur la côte nord de l'Irlande du Nord.",
+        "ar": "أمضوا أسبوعًا على الساحل الشمالي لأيرلندا الشمالية.",
+        "tr": "Kuzey İrlanda'nın kuzey kıyısında bir hafta geçirdiler.",
+        "it": "Hanno trascorso una settimana sulla costa nord dell'Irlanda del Nord.",
+        "pl": "Spędzili tydzień na północnym wybrzeżu Irlandii Północnej."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the wedding not happen?",
+      "choices": [
+        "It rained too much",
+        "The photographer was sick",
+        "There was no money",
+        "Her partner had a serious medical emergency, and the relationship ended",
+        "The church was closed"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Her partner had a serious medical emergency, and the relationship ended.",
+      "hintI18n": {
+        "en": "Her partner had a serious medical emergency, and the relationship ended.",
+        "ko": "그녀의 파트너에게 심각한 의료 응급 상황이 생겼고, 두 사람의 관계는 끝났다.",
+        "zh-Hans": "她的伴侣发生了严重的医疗紧急情况，这段关系也结束了。",
+        "ja": "彼女のパートナーに深刻な医療緊急事態が起き、その関係は終わりました。",
+        "es": "Su pareja tuvo una emergencia médica grave y la relación terminó.",
+        "hi": "उसके साथी को गंभीर चिकित्सीय आपातकाल हुआ, और रिश्ता समाप्त हो गया।",
+        "de": "Ihr Partner hatte einen schweren medizinischen Notfall, und die Beziehung endete.",
+        "vi": "Bạn đời của cô ấy gặp một trường hợp cấp cứu y tế nghiêm trọng, và mối quan hệ đã kết thúc.",
+        "pt-BR": "O parceiro dela teve uma emergência médica grave, e o relacionamento terminou.",
+        "id": "Pasangannya mengalami keadaan darurat medis yang serius, dan hubungan mereka berakhir.",
+        "fr": "Son partenaire a eu une grave urgence médicale, et leur relation a pris fin.",
+        "ar": "تعرض شريكها لحالة طبية طارئة خطيرة، وانتهت العلاقة.",
+        "tr": "Partneri ciddi bir tıbbi acil durum yaşadı ve ilişkileri sona erdi.",
+        "it": "Il suo partner ha avuto un'emergenza medica grave e la relazione è finita.",
+        "pl": "Jej partner miał poważny nagły wypadek medyczny i ich związek się zakończył."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the photographer feel?",
+      "choices": [
+        "Bored",
+        "Very surprised that they had met only three days before",
+        "Angry",
+        "Tired and hungry",
+        "Sad about the weather"
+      ],
+      "answerIndex": 1,
+      "hintKo": "He could not believe they had met only three days before.",
+      "hintI18n": {
+        "en": "He could not believe they had met only three days before.",
+        "ko": "그는 그들이 불과 사흘 전에 만났다는 것을 믿을 수 없었다.",
+        "zh-Hans": "他不敢相信他们三天前才刚认识。",
+        "ja": "彼は彼らがほんの3日前に会ったばかりだとは信じられませんでした。",
+        "es": "No podía creer que se hubieran conocido solo tres días antes.",
+        "hi": "उसे विश्वास नहीं हो रहा था कि वे केवल तीन दिन पहले मिले थे।",
+        "de": "Er konnte nicht glauben, dass sie sich erst drei Tage zuvor kennengelernt hatten.",
+        "vi": "Anh ấy không thể tin rằng họ chỉ mới gặp nhau ba ngày trước.",
+        "pt-BR": "Ele não conseguia acreditar que eles tinham se conhecido apenas três dias antes.",
+        "id": "Ia tidak percaya mereka baru bertemu tiga hari sebelumnya.",
+        "fr": "Il n'arrivait pas à croire qu'ils ne s'étaient rencontrés que trois jours auparavant.",
+        "ar": "لم يستطع أن يصدق أنهما التقيا قبل ثلاثة أيام فقط.",
+        "tr": "Sadece üç gün önce tanıştıklarına inanamadı.",
+        "it": "Non riusciva a credere che si fossero conosciuti solo tre giorni prima.",
+        "pl": "Nie mógł uwierzyć, że poznali się zaledwie trzy dni wcześniej."
+      }
+    }
+  ]
+}

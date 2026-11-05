@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-06",
+  "date": "2026-11-06",
+  "title": "Daily News Quiz · 2026-11-06",
+  "headline": "Small US colleges start football teams to bring in more students",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who stopped football in twenty twenty and then restarted it?",
+      "choices": [
+        "A high school in Texas",
+        "A big pro team",
+        "Azusa Pacific University",
+        "A college in London",
+        "A city park"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Azusa Pacific University stopped football in twenty twenty and restarted it.",
+      "hintI18n": {
+        "en": "Azusa Pacific University stopped football in twenty twenty and restarted it.",
+        "ko": "아주사 퍼시픽 대학교는 2020년에 미식축구를 중단했다가 다시 시작했습니다.",
+        "zh-Hans": "阿苏萨太平洋大学在2020年停止了美式橄榄球项目，后来又恢复了。",
+        "ja": "アズサ・パシフィック大学は2020年にアメリカンフットボールを中止し、その後再開しました。",
+        "es": "La Universidad Azusa Pacific suspendió el fútbol americano en 2020 y luego lo reinició.",
+        "hi": "अज़ूसा पैसिफिक विश्वविद्यालय ने 2020 में अमेरिकन फुटबॉल बंद किया और फिर उसे फिर से शुरू किया।",
+        "de": "Die Azusa Pacific University stellte den American Football 2020 ein und startete ihn später wieder.",
+        "vi": "Đại học Azusa Pacific đã dừng bóng bầu dục Mỹ vào năm 2020 rồi sau đó khởi động lại.",
+        "pt-BR": "A Universidade Azusa Pacific suspendeu o futebol americano em 2020 e depois o retomou.",
+        "id": "Universitas Azusa Pacific menghentikan sepak bola Amerika pada 2020 lalu memulainya lagi.",
+        "fr": "L’Université Azusa Pacific a arrêté le football américain en 2020, puis l’a relancé.",
+        "ar": "أوقفت جامعة أزوسا باسيفيك كرة القدم الأمريكية في عام 2020 ثم أعادت تشغيلها.",
+        "tr": "Azusa Pacific Üniversitesi 2020'de Amerikan futbolunu durdurdu ve sonra yeniden başlattı.",
+        "it": "L’Università Azusa Pacific ha sospeso il football americano nel 2020 e poi lo ha riavviato.",
+        "pl": "Uniwersytet Azusa Pacific wstrzymał futbol amerykański w 2020 roku, a następnie go wznowił."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What do the colleges hope football will bring?",
+      "choices": [
+        "More students",
+        "More snow",
+        "Free food",
+        "Fewer classes",
+        "New roads"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They hope football will bring more students.",
+      "hintI18n": {
+        "en": "They hope football will bring more students.",
+        "ko": "그들은 미식축구가 더 많은 학생을 끌어올 것으로 기대합니다.",
+        "zh-Hans": "他们希望美式橄榄球能带来更多学生。",
+        "ja": "彼らはアメリカンフットボールがより多くの学生を呼び込むことを期待しています。",
+        "es": "Esperan que el fútbol americano atraiga a más estudiantes.",
+        "hi": "उन्हें उम्मीद है कि अमेरिकन फुटबॉल अधिक छात्रों को लाएगा।",
+        "de": "Sie hoffen, dass American Football mehr Studierende bringt.",
+        "vi": "Họ hy vọng bóng bầu dục Mỹ sẽ mang lại nhiều sinh viên hơn.",
+        "pt-BR": "Eles esperam que o futebol americano atraia mais estudantes.",
+        "id": "Mereka berharap sepak bola Amerika akan mendatangkan lebih banyak mahasiswa.",
+        "fr": "Ils espèrent que le football américain attirera plus d’étudiants.",
+        "ar": "يأملون أن تجلب كرة القدم الأمريكية المزيد من الطلاب.",
+        "tr": "Amerikan futbolunun daha fazla öğrenci getireceğini umuyorlar.",
+        "it": "Sperano che il football americano porti più studenti.",
+        "pl": "Mają nadzieję, że futbol amerykański przyciągnie więcej studentów."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Whittier College stop football?",
+      "choices": [
+        "In nineteen fifty",
+        "Last week",
+        "In twenty ten",
+        "In twenty twenty-two",
+        "Never"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Whittier College stopped football in twenty twenty-two.",
+      "hintI18n": {
+        "en": "Whittier College stopped football in twenty twenty-two.",
+        "ko": "휘티어 칼리지는 2022년에 미식축구를 중단했습니다.",
+        "zh-Hans": "惠蒂尔学院在2022年停止了美式橄榄球项目。",
+        "ja": "ホイッティア・カレッジは2022年にアメリカンフットボールを中止しました。",
+        "es": "Whittier College suspendió el fútbol americano en 2022.",
+        "hi": "व्हिटियर कॉलेज ने 2022 में अमेरिकन फुटबॉल बंद कर दिया।",
+        "de": "Das Whittier College stellte den American Football 2022 ein.",
+        "vi": "Trường Whittier đã dừng bóng bầu dục Mỹ vào năm 2022.",
+        "pt-BR": "O Whittier College suspendeu o futebol americano em 2022.",
+        "id": "Whittier College menghentikan sepak bola Amerika pada 2022.",
+        "fr": "Le Whittier College a arrêté le football américain en 2022.",
+        "ar": "أوقفت كلية ويتير كرة القدم الأمريكية في عام 2022.",
+        "tr": "Whittier College 2022'de Amerikan futbolunu durdurdu.",
+        "it": "Il Whittier College ha sospeso il football americano nel 2022.",
+        "pl": "Whittier College wstrzymał futbol amerykański w 2022 roku."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where are Azusa Pacific and Whittier College?",
+      "choices": [
+        "In New York",
+        "In California",
+        "In Canada",
+        "In Mexico",
+        "In Florida"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Both colleges are in California.",
+      "hintI18n": {
+        "en": "Both colleges are in California.",
+        "ko": "두 대학 모두 캘리포니아에 있습니다.",
+        "zh-Hans": "这两所学院都在加利福尼亚州。",
+        "ja": "両校ともカリフォルニア州にあります。",
+        "es": "Ambas universidades están en California.",
+        "hi": "दोनों कॉलेज कैलिफ़ोर्निया में हैं।",
+        "de": "Beide Hochschulen liegen in Kalifornien.",
+        "vi": "Cả hai trường đều ở California.",
+        "pt-BR": "As duas faculdades ficam na Califórnia.",
+        "id": "Kedua kampus tersebut berada di California.",
+        "fr": "Les deux établissements se trouvent en Californie.",
+        "ar": "تقع الكليتان في كاليفورنيا.",
+        "tr": "İki kolej de Kaliforniya'da bulunuyor.",
+        "it": "Entrambi i college si trovano in California.",
+        "pl": "Obie uczelnie znajdują się w Kalifornii."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why are many small colleges starting football teams?",
+      "choices": [
+        "Football is cheap",
+        "The players are famous",
+        "Teachers asked for it",
+        "It is the law",
+        "They have fewer students and want more"
+      ],
+      "answerIndex": 4,
+      "hintKo": "They have fewer students and want more students to sign up.",
+      "hintI18n": {
+        "en": "They have fewer students and want more students to sign up.",
+        "ko": "학생 수가 줄어서 더 많은 학생이 등록하기를 원합니다.",
+        "zh-Hans": "他们的学生更少，希望更多学生报名。",
+        "ja": "学生が減っているため、もっと多くの学生に入学してもらいたいと考えています。",
+        "es": "Tienen menos estudiantes y quieren que más estudiantes se inscriban.",
+        "hi": "उनके पास कम छात्र हैं और वे चाहते हैं कि अधिक छात्र दाखिला लें।",
+        "de": "Sie haben weniger Studierende und möchten, dass sich mehr Studierende anmelden.",
+        "vi": "Họ có ít sinh viên hơn và muốn nhiều sinh viên đăng ký hơn.",
+        "pt-BR": "Eles têm menos estudantes e querem que mais estudantes se inscrevam.",
+        "id": "Mereka memiliki lebih sedikit mahasiswa dan ingin lebih banyak mahasiswa mendaftar.",
+        "fr": "Ils ont moins d’étudiants et veulent que plus d’étudiants s’inscrivent.",
+        "ar": "لديهم عدد أقل من الطلاب ويريدون أن يسجل عدد أكبر منهم.",
+        "tr": "Daha az öğrencileri var ve daha fazla öğrencinin kayıt olmasını istiyorlar.",
+        "it": "Hanno meno studenti e vogliono che più studenti si iscrivano.",
+        "pl": "Mają mniej studentów i chcą, aby zapisało się ich więcej."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many players can a football team have?",
+      "choices": [
+        "About five",
+        "About eleven",
+        "About one hundred",
+        "About one thousand",
+        "About two"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A football team can have about one hundred players.",
+      "hintI18n": {
+        "en": "A football team can have about one hundred players.",
+        "ko": "미식축구 팀은 선수를 약 100명까지 둘 수 있습니다.",
+        "zh-Hans": "一支美式橄榄球队可以有大约一百名球员。",
+        "ja": "アメリカンフットボールのチームは約100人の選手を持つことができます。",
+        "es": "Un equipo de fútbol americano puede tener alrededor de cien jugadores.",
+        "hi": "अमेरिकन फुटबॉल टीम में लगभग एक सौ खिलाड़ी हो सकते हैं।",
+        "de": "Ein American-Football-Team kann etwa hundert Spieler haben.",
+        "vi": "Một đội bóng bầu dục Mỹ có thể có khoảng một trăm cầu thủ.",
+        "pt-BR": "Um time de futebol americano pode ter cerca de cem jogadores.",
+        "id": "Sebuah tim sepak bola Amerika dapat memiliki sekitar seratus pemain.",
+        "fr": "Une équipe de football américain peut compter environ cent joueurs.",
+        "ar": "يمكن أن يضم فريق كرة القدم الأمريكية حوالي مئة لاعب.",
+        "tr": "Bir Amerikan futbolu takımında yaklaşık yüz oyuncu olabilir.",
+        "it": "Una squadra di football americano può avere circa cento giocatori.",
+        "pl": "Drużyna futbolu amerykańskiego może mieć około stu zawodników."
+      }
+    }
+  ]
+}
