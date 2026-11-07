@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-11",
+  "date": "2026-11-11",
+  "title": "Daily News Quiz · 2026-11-11",
+  "headline": "Delhi's toxic winter air is back",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who starts the Winter Action Plan in Delhi?",
+      "choices": [
+        "The farmers",
+        "The police",
+        "The city government",
+        "The schools",
+        "The hospitals"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The city government starts its Winter Action Plan.",
+      "hintI18n": {
+        "en": "The city government starts its Winter Action Plan.",
+        "ko": "시 정부가 겨울 행동 계획을 시작합니다.",
+        "zh-Hans": "市政府启动冬季行动计划。",
+        "ja": "市政府が冬の行動計画を始めます。",
+        "es": "El gobierno de la ciudad inicia su Plan de Acción de Invierno.",
+        "hi": "शहर सरकार अपनी शीतकालीन कार्य योजना शुरू करती है।",
+        "de": "Die Stadtregierung startet ihren Winteraktionsplan.",
+        "vi": "Chính quyền thành phố bắt đầu Kế hoạch Hành động Mùa đông.",
+        "pt-BR": "O governo da cidade inicia seu Plano de Ação de Inverno.",
+        "id": "Pemerintah kota memulai Rencana Aksi Musim Dinginnya.",
+        "fr": "Le gouvernement de la ville lance son plan d’action hivernal.",
+        "ar": "تبدأ حكومة المدينة خطة عمل الشتاء.",
+        "tr": "Şehir yönetimi Kış Eylem Planı'nı başlatıyor.",
+        "it": "Il governo della città avvia il suo Piano d'Azione Invernale.",
+        "pl": "Rząd miasta rozpoczyna zimowy plan działania."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What traps dirty air near the ground in winter?",
+      "choices": [
+        "Cold air and slow winds",
+        "Heavy rain",
+        "Strong sunlight",
+        "Sea winds",
+        "Snow"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Cold air and slow winds trap pollution near the ground.",
+      "hintI18n": {
+        "en": "Cold air and slow winds trap pollution near the ground.",
+        "ko": "차가운 공기와 약한 바람이 오염 물질을 지면 근처에 가둡니다.",
+        "zh-Hans": "冷空气和微弱的风把污染困在地面附近。",
+        "ja": "冷たい空気と弱い風が汚染を地面近くに閉じ込めます。",
+        "es": "El aire frío y los vientos débiles atrapan la contaminación cerca del suelo.",
+        "hi": "ठंडी हवा और धीमी हवाएँ प्रदूषण को ज़मीन के पास रोक लेती हैं।",
+        "de": "Kalte Luft und schwache Winde halten die Verschmutzung nahe am Boden fest.",
+        "vi": "Không khí lạnh và gió yếu giữ ô nhiễm gần mặt đất.",
+        "pt-BR": "O ar frio e os ventos fracos prendem a poluição perto do solo.",
+        "id": "Udara dingin dan angin lemah menjebak polusi di dekat tanah.",
+        "fr": "L’air froid et les vents faibles piègent la pollution près du sol.",
+        "ar": "يحبس الهواء البارد والرياح البطيئة التلوث قرب سطح الأرض.",
+        "tr": "Soğuk hava ve yavaş rüzgarlar kirliliği yerin yakınında tutar.",
+        "it": "L'aria fredda e i venti deboli intrappolano l'inquinamento vicino al suolo.",
+        "pl": "Zimne powietrze i słabe wiatry zatrzymują zanieczyszczenia nisko nad ziemią."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When does the Winter Action Plan start?",
+      "choices": [
+        "On 28 February",
+        "In September",
+        "In December",
+        "On 1 November",
+        "In June"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The plan starts on 1 November and runs to 28 February.",
+      "hintI18n": {
+        "en": "The plan starts on 1 November and runs to 28 February.",
+        "ko": "이 계획은 11월 1일에 시작해 2월 28일까지 이어집니다.",
+        "zh-Hans": "该计划从11月1日开始，持续到2月28日。",
+        "ja": "この計画は11月1日に始まり、2月28日まで続きます。",
+        "es": "El plan comienza el 1 de noviembre y dura hasta el 28 de febrero.",
+        "hi": "योजना 1 नवंबर से शुरू होकर 28 फरवरी तक चलती है।",
+        "de": "Der Plan beginnt am 1. November und läuft bis zum 28. Februar.",
+        "vi": "Kế hoạch bắt đầu vào ngày 1 tháng 11 và kéo dài đến ngày 28 tháng 2.",
+        "pt-BR": "O plano começa em 1º de novembro e vai até 28 de fevereiro.",
+        "id": "Rencana ini dimulai pada 1 November dan berlangsung hingga 28 Februari.",
+        "fr": "Le plan commence le 1er novembre et dure jusqu’au 28 février.",
+        "ar": "تبدأ الخطة في 1 نوفمبر وتستمر حتى 28 فبراير.",
+        "tr": "Plan 1 Kasım'da başlar ve 28 Şubat'a kadar sürer.",
+        "it": "Il piano inizia il 1° novembre e dura fino al 28 febbraio.",
+        "pl": "Plan zaczyna się 1 listopada i trwa do 28 lutego."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does much of the smoke come from?",
+      "choices": [
+        "The sea",
+        "Crop burning in nearby states",
+        "Volcanoes",
+        "The desert",
+        "Airports"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Smoke comes from crop burning in nearby states.",
+      "hintI18n": {
+        "en": "Smoke comes from crop burning in nearby states.",
+        "ko": "연기는 인근 주에서 농작물을 태우는 것에서 나옵니다.",
+        "zh-Hans": "烟雾来自附近邦的农作物焚烧。",
+        "ja": "煙は近くの州での作物の焼却から出ています。",
+        "es": "El humo proviene de la quema de cultivos en estados cercanos.",
+        "hi": "धुआँ आस-पास के राज्यों में फसल जलाने से आता है।",
+        "de": "Der Rauch kommt vom Verbrennen von Ernten in nahe gelegenen Bundesstaaten.",
+        "vi": "Khói đến từ việc đốt mùa màng ở các bang lân cận.",
+        "pt-BR": "A fumaça vem da queima de plantações em estados vizinhos.",
+        "id": "Asap berasal dari pembakaran tanaman di negara bagian terdekat.",
+        "fr": "La fumée provient de la combustion des cultures dans des États voisins.",
+        "ar": "يأتي الدخان من حرق المحاصيل في الولايات المجاورة.",
+        "tr": "Duman, yakındaki eyaletlerdeki mahsul yakımından geliyor.",
+        "it": "Il fumo proviene dalla bruciatura dei raccolti negli stati vicini.",
+        "pl": "Dym pochodzi ze spalania upraw w pobliskich stanach."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do doctors warn people in Delhi?",
+      "choices": [
+        "Because of cold water",
+        "Because of too much rain",
+        "Because of long traffic jams",
+        "Because of loud noise",
+        "Because of coughs and trouble breathing"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Doctors warn about coughs, sore eyes, and trouble breathing.",
+      "hintI18n": {
+        "en": "Doctors warn about coughs, sore eyes, and trouble breathing.",
+        "ko": "의사들은 기침, 눈 따가움, 호흡 곤란을 경고합니다.",
+        "zh-Hans": "医生提醒人们注意咳嗽、眼睛酸痛和呼吸困难。",
+        "ja": "医師は咳、目の痛み、呼吸困難について警告しています。",
+        "es": "Los médicos advierten sobre tos, ojos irritados y problemas para respirar.",
+        "hi": "डॉक्टर खांसी, आँखों में जलन और साँस लेने में तकलीफ़ की चेतावनी देते हैं।",
+        "de": "Ärzte warnen vor Husten, schmerzenden Augen und Atembeschwerden.",
+        "vi": "Các bác sĩ cảnh báo về ho, đau mắt và khó thở.",
+        "pt-BR": "Médicos alertam sobre tosse, olhos irritados e dificuldade para respirar.",
+        "id": "Dokter memperingatkan tentang batuk, mata perih, dan kesulitan bernapas.",
+        "fr": "Les médecins mettent en garde contre la toux, les yeux irrités et les difficultés respiratoires.",
+        "ar": "يحذر الأطباء من السعال والتهاب العين وصعوبة التنفس.",
+        "tr": "Doktorlar öksürük, göz ağrısı ve nefes alma güçlüğü konusunda uyarıyor.",
+        "it": "I medici avvertono di tosse, occhi irritati e difficoltà respiratorie.",
+        "pl": "Lekarze ostrzegają przed kaszlem, podrażnieniem oczu i trudnościami w oddychaniu."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How do many homes protect themselves?",
+      "choices": [
+        "They open all windows",
+        "They stop cooking",
+        "They use air purifiers",
+        "They buy fans",
+        "They leave the city"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Many homes now have air purifiers.",
+      "hintI18n": {
+        "en": "Many homes now have air purifiers.",
+        "ko": "많은 가정에 이제 공기청정기가 있습니다.",
+        "zh-Hans": "现在许多家庭都有空气净化器。",
+        "ja": "今では多くの家庭に空気清浄機があります。",
+        "es": "Muchos hogares ahora tienen purificadores de aire.",
+        "hi": "अब कई घरों में एयर प्यूरीफायर हैं।",
+        "de": "Viele Haushalte haben jetzt Luftreiniger.",
+        "vi": "Nhiều gia đình hiện có máy lọc không khí.",
+        "pt-BR": "Muitas casas agora têm purificadores de ar.",
+        "id": "Banyak rumah sekarang memiliki pembersih udara.",
+        "fr": "De nombreux foyers ont désormais des purificateurs d’air.",
+        "ar": "لدى العديد من المنازل الآن أجهزة تنقية هواء.",
+        "tr": "Artık birçok evde hava temizleyici var.",
+        "it": "Ora molte case hanno purificatori d'aria.",
+        "pl": "Wiele domów ma teraz oczyszczacze powietrza."
+      }
+    }
+  ]
+}

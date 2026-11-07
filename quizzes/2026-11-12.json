@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "title": "Daily News Quiz · 2026-11-12",
+  "headline": "Pope in pretty good health as he starts Latin America tour",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who is travelling in Latin America?",
+      "choices": [
+        "A football team",
+        "A film actor",
+        "Pope Leo XIV",
+        "The president of Uruguay",
+        "A group of doctors"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Pope Leo XIV is on a twelve-day tour.",
+      "hintI18n": {
+        "en": "Pope Leo XIV is on a twelve-day tour.",
+        "ko": "교황 레오 14세가 12일 일정의 순방 중이다.",
+        "zh-Hans": "教皇利奥十四世正在进行为期十二天的巡访。",
+        "ja": "教皇レオ14世は12日間の旅に出ている。",
+        "es": "El papa León XIV está en una gira de doce días.",
+        "hi": "पोप लियो XIV बारह दिन के दौरे पर हैं।",
+        "de": "Papst Leo XIV. ist auf einer zwölftägigen Reise.",
+        "vi": "Giáo hoàng Leo XIV đang trong chuyến công du mười hai ngày.",
+        "pt-BR": "O Papa Leão XIV está em uma turnê de doze dias.",
+        "id": "Paus Leo XIV sedang dalam tur dua belas hari.",
+        "fr": "Le pape Léon XIV est en tournée de douze jours.",
+        "ar": "البابا ليو الرابع عشر في جولة لمدة اثني عشر يومًا.",
+        "tr": "Papa XIV. Leo on iki günlük bir turda.",
+        "it": "Papa Leone XIV è in viaggio da dodici giorni.",
+        "pl": "Papież Leon XIV jest w dwunastodniowej podróży."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What operation did the Pope have?",
+      "choices": [
+        "Surgery for lung cancer",
+        "A knee operation",
+        "An eye operation",
+        "A heart operation",
+        "A dental operation"
+      ],
+      "answerIndex": 0,
+      "hintKo": "He had surgery for lung cancer three weeks ago.",
+      "hintI18n": {
+        "en": "He had surgery for lung cancer three weeks ago.",
+        "ko": "그는 3주 전에 폐암 수술을 받았다.",
+        "zh-Hans": "他三周前接受了肺癌手术。",
+        "ja": "彼は3週間前に肺がんの手術を受けた。",
+        "es": "Hace tres semanas se sometió a una cirugía por cáncer de pulmón.",
+        "hi": "उनका तीन हफ्ते पहले फेफड़ों के कैंसर के लिए सर्जरी हुई थी।",
+        "de": "Er wurde vor drei Wochen wegen Lungenkrebs operiert.",
+        "vi": "Ông đã phẫu thuật ung thư phổi cách đây ba tuần.",
+        "pt-BR": "Ele fez cirurgia para câncer de pulmão há três semanas.",
+        "id": "Ia menjalani operasi kanker paru-paru tiga minggu lalu.",
+        "fr": "Il a été opéré d'un cancer du poumon il y a trois semaines.",
+        "ar": "أجرى عملية جراحية لسرطان الرئة قبل ثلاثة أسابيع.",
+        "tr": "Üç hafta önce akciğer kanseri ameliyatı geçirdi.",
+        "it": "È stato operato per un cancro ai polmoni tre settimane fa.",
+        "pl": "Trzy tygodnie temu przeszedł operację raka płuc."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did doctors find the tumour?",
+      "choices": [
+        "Two years ago",
+        "On the plane",
+        "Last week",
+        "Last month, during a routine scan",
+        "In the spring"
+      ],
+      "answerIndex": 3,
+      "hintKo": "They found it last month during a routine scan.",
+      "hintI18n": {
+        "en": "They found it last month during a routine scan.",
+        "ko": "지난달 정기 검진 중에 발견되었다.",
+        "zh-Hans": "他们上个月在一次常规扫描中发现了它。",
+        "ja": "先月の定期検査で見つかった。",
+        "es": "Lo encontraron el mes pasado durante una exploración rutinaria.",
+        "hi": "उन्हें पिछले महीने एक नियमित स्कैन के दौरान पता चला।",
+        "de": "Sie fanden es letzten Monat bei einer Routineuntersuchung.",
+        "vi": "Họ phát hiện ra nó vào tháng trước trong một lần quét định kỳ.",
+        "pt-BR": "Eles descobriram isso no mês passado durante um exame de rotina.",
+        "id": "Mereka menemukannya bulan lalu saat pemindaian rutin.",
+        "fr": "Ils l'ont découvert le mois dernier lors d'un examen de routine.",
+        "ar": "اكتشفوه الشهر الماضي خلال فحص روتيني.",
+        "tr": "Geçen ay rutin bir tarama sırasında buldular.",
+        "it": "L'hanno scoperto il mese scorso durante una scansione di routine.",
+        "pl": "Znaleźli to w zeszłym miesiącu podczas rutynowego badania."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the Pope arrive first?",
+      "choices": [
+        "Peru",
+        "Uruguay",
+        "Argentina",
+        "Spain",
+        "Brazil"
+      ],
+      "answerIndex": 1,
+      "hintKo": "He arrived in Uruguay, the first stop of the tour.",
+      "hintI18n": {
+        "en": "He arrived in Uruguay, the first stop of the tour.",
+        "ko": "그는 순방의 첫 목적지인 우루과이에 도착했다.",
+        "zh-Hans": "他抵达了乌拉圭，这是此行的第一站。",
+        "ja": "彼はツアーの最初の目的地であるウルグアイに到着した。",
+        "es": "Llegó a Uruguay, la primera parada de la gira.",
+        "hi": "वह उरुग्वे पहुंचे, जो दौरे का पहला पड़ाव है।",
+        "de": "Er kam in Uruguay an, der ersten Station der Reise.",
+        "vi": "Ông đã đến Uruguay, điểm dừng chân đầu tiên của chuyến công du.",
+        "pt-BR": "Ele chegou ao Uruguai, a primeira parada da turnê.",
+        "id": "Ia tiba di Uruguay, persinggahan pertama tur.",
+        "fr": "Il est arrivé en Uruguay, première étape de la tournée.",
+        "ar": "وصل إلى أوروغواي، المحطة الأولى من الجولة.",
+        "tr": "Turun ilk durağı olan Uruguay'a vardı.",
+        "it": "È arrivato in Uruguay, la prima tappa del viaggio.",
+        "pl": "Przybył do Urugwaju, pierwszego przystanku podróży."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why does the Vatican call the Peru visit a homecoming?",
+      "choices": [
+        "Because he was born there",
+        "Because his family lives there",
+        "Because the tour ends there",
+        "Because he studied medicine there",
+        "Because the Pope lived there for many years"
+      ],
+      "answerIndex": 4,
+      "hintKo": "He lived in Peru as a missionary and then as a bishop.",
+      "hintI18n": {
+        "en": "He lived in Peru as a missionary and then as a bishop.",
+        "ko": "그는 선교사로 그리고 나중에 주교로 페루에서 살았다.",
+        "zh-Hans": "他曾在秘鲁作为传教士生活，后来成为主教。",
+        "ja": "彼は宣教師として、そしてその後司教としてペルーに住んでいた。",
+        "es": "Vivió en Perú como misionero y luego como obispo.",
+        "hi": "वह पेरू में एक मिशनरी के रूप में और फिर एक बिशप के रूप में रहे।",
+        "de": "Er lebte in Peru als Missionar und dann als Bischof.",
+        "vi": "Ông sống ở Peru với tư cách là một nhà truyền giáo và sau đó là giám mục.",
+        "pt-BR": "Ele viveu no Peru como missionário e depois como bispo.",
+        "id": "Ia tinggal di Peru sebagai misionaris dan kemudian sebagai uskup.",
+        "fr": "Il a vécu au Pérou comme missionnaire puis comme évêque.",
+        "ar": "عاش في بيرو كمرسل ثم كأسقف.",
+        "tr": "Peru'da önce misyoner, sonra piskopos olarak yaşadı.",
+        "it": "Ha vissuto in Perù come missionario e poi come vescovo.",
+        "pl": "Mieszkał w Peru jako misjonarz, a następnie jako biskup."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How far will the Pope travel on this tour?",
+      "choices": [
+        "About 200 miles",
+        "About 2,000 miles",
+        "More than 20,000 miles",
+        "Less than 100 miles",
+        "10,000 kilometres"
+      ],
+      "answerIndex": 2,
+      "hintKo": "He will cover more than 20,000 miles.",
+      "hintI18n": {
+        "en": "He will cover more than 20,000 miles.",
+        "ko": "그는 20,000마일 이상을 이동할 것이다.",
+        "zh-Hans": "他将行程超过两万英里。",
+        "ja": "彼は2万マイル以上を移動する。",
+        "es": "Recorrerá más de 20,000 millas.",
+        "hi": "वह 20,000 मील से अधिक की यात्रा करेंगे।",
+        "de": "Er wird mehr als 20.000 Meilen zurücklegen.",
+        "vi": "Ông sẽ đi hơn 20.000 dặm.",
+        "pt-BR": "Ele percorrerá mais de 20.000 milhas.",
+        "id": "Ia akan menempuh lebih dari 20.000 mil.",
+        "fr": "Il parcourra plus de 20 000 miles.",
+        "ar": "سيقطع أكثر من 20,000 ميل.",
+        "tr": "20.000 milden fazla yol kat edecek.",
+        "it": "Percorrerà più di 20.000 miglia.",
+        "pl": "Pokona ponad 20 000 mil."
+      }
+    }
+  ]
+}

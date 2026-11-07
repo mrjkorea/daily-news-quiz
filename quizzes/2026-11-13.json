@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "title": "Daily News Quiz · 2026-11-13",
+  "headline": "Judge blocks construction of a planned triumphal arch in Washington",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who stopped the arch work for fourteen days?",
+      "choices": [
+        "The president",
+        "The city mayor",
+        "Judge Tanya Chutkan",
+        "The commission chair",
+        "A senator"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Judge Tanya Chutkan made the order.",
+      "hintI18n": {
+        "en": "Judge Tanya Chutkan made the order.",
+        "ko": "판사 타냐 추트칸이 그 명령을 내렸습니다.",
+        "zh-Hans": "法官塔尼娅·丘特坎下达了该命令。",
+        "ja": "ターニャ・チュトカン判事がその命令を出しました。",
+        "es": "La jueza Tanya Chutkan dio la orden.",
+        "hi": "न्यायाधीश टान्या चुटकन ने यह आदेश दिया।",
+        "de": "Richterin Tanya Chutkan erließ die Anordnung.",
+        "vi": "Thẩm phán Tanya Chutkan đã ra lệnh đó.",
+        "pt-BR": "A juíza Tanya Chutkan deu a ordem.",
+        "id": "Hakim Tanya Chutkan mengeluarkan perintah itu.",
+        "fr": "La juge Tanya Chutkan a rendu cette ordonnance.",
+        "ar": "أصدرت القاضية تانيا تشوتكان هذا الأمر.",
+        "tr": "Yargıç Tanya Chutkan bu emri verdi.",
+        "it": "La giudice Tanya Chutkan ha emesso l'ordine.",
+        "pl": "Sędzia Tanya Chutkan wydała to zarządzenie."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the commission vote to approve?",
+      "choices": [
+        "The arch design",
+        "A new hospital",
+        "A football stadium",
+        "A museum",
+        "A bridge"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The commission approved the arch design, eight to four.",
+      "hintI18n": {
+        "en": "The commission approved the arch design, eight to four.",
+        "ko": "위원회는 8대 4로 아치 설계를 승인했습니다.",
+        "zh-Hans": "委员会以八比四批准了拱门设计。",
+        "ja": "委員会は8対4でアーチの設計を承認しました。",
+        "es": "La comisión aprobó el diseño del arco por ocho votos a cuatro.",
+        "hi": "आयोग ने आठ के मुकाबले चार मतों से मेहराब के डिज़ाइन को मंजूरी दी।",
+        "de": "Die Kommission genehmigte den Bogenentwurf mit acht zu vier Stimmen.",
+        "vi": "Ủy ban đã phê duyệt thiết kế cổng vòm với tỉ lệ tám phiếu thuận, bốn phiếu chống.",
+        "pt-BR": "A comissão aprovou o projeto do arco por oito votos a quatro.",
+        "id": "Komisi menyetujui desain lengkungan dengan suara delapan berbanding empat.",
+        "fr": "La commission a approuvé le design de l'arche par huit voix contre quatre.",
+        "ar": "وافقت اللجنة على تصميم القوس بثمانية أصوات مقابل أربعة.",
+        "tr": "Komisyon kemer tasarımını sekize karşı dört oyla onayladı.",
+        "it": "La commissione ha approvato il progetto dell'arco con otto voti contro quattro.",
+        "pl": "Komisja zatwierdziła projekt łuku stosunkiem głosów osiem do czterech."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the commission vote?",
+      "choices": [
+        "On Monday",
+        "Last month",
+        "On Friday",
+        "On Thursday",
+        "Two years ago"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The commission voted on Thursday evening.",
+      "hintI18n": {
+        "en": "The commission voted on Thursday evening.",
+        "ko": "위원회는 목요일 저녁에 투표했습니다.",
+        "zh-Hans": "委员会在周四晚上进行了投票。",
+        "ja": "委員会は木曜日の夜に投票しました。",
+        "es": "La comisión votó el jueves por la noche.",
+        "hi": "आयोग ने गुरुवार की शाम को मतदान किया।",
+        "de": "Die Kommission stimmte am Donnerstagabend ab.",
+        "vi": "Ủy ban đã bỏ phiếu vào tối thứ Năm.",
+        "pt-BR": "A comissão votou na noite de quinta-feira.",
+        "id": "Komisi memberikan suara pada Kamis malam.",
+        "fr": "La commission a voté jeudi soir.",
+        "ar": "صوّتت اللجنة مساء الخميس.",
+        "tr": "Komisyon perşembe akşamı oylama yaptı.",
+        "it": "La commissione ha votato giovedì sera.",
+        "pl": "Komisja głosowała w czwartek wieczorem."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where would the arch stand?",
+      "choices": [
+        "In New York",
+        "Near Arlington National Cemetery",
+        "Beside the White House garden",
+        "In Chicago",
+        "Near the sea"
+      ],
+      "answerIndex": 1,
+      "hintKo": "It would stand near Arlington National Cemetery.",
+      "hintI18n": {
+        "en": "It would stand near Arlington National Cemetery.",
+        "ko": "그것은 알링턴 국립묘지 근처에 세워질 예정입니다.",
+        "zh-Hans": "它将矗立在阿灵顿国家公墓附近。",
+        "ja": "それはアーリントン国立墓地の近くに建つ予定です。",
+        "es": "Se alzaría cerca del Cementerio Nacional de Arlington.",
+        "hi": "यह आर्लिंग्टन राष्ट्रीय कब्रिस्तान के पास खड़ा होगा।",
+        "de": "Es würde nahe dem Arlington National Cemetery stehen.",
+        "vi": "Nó sẽ đứng gần Nghĩa trang Quốc gia Arlington.",
+        "pt-BR": "Ele ficaria perto do Cemitério Nacional de Arlington.",
+        "id": "Bangunan itu akan berdiri dekat Pemakaman Nasional Arlington.",
+        "fr": "Il se dresserait près du cimetière national d'Arlington.",
+        "ar": "سيكون قائمًا بالقرب من مقبرة أرلينغتون الوطنية.",
+        "tr": "Arlington Ulusal Mezarlığı'nın yakınında yer alacaktı.",
+        "it": "Sorgerebbe vicino al Cimitero Nazionale di Arlington.",
+        "pl": "Stałby niedaleko Narodowego Cmentarza w Arlington."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do opponents object to the arch?",
+      "choices": [
+        "It costs too little",
+        "It is too small",
+        "It is made of wood",
+        "It has no car park",
+        "It will block the view of the cemetery"
+      ],
+      "answerIndex": 4,
+      "hintKo": "They say it will block the view of the cemetery.",
+      "hintI18n": {
+        "en": "They say it will block the view of the cemetery.",
+        "ko": "그들은 그것이 묘지 전망을 가릴 것이라고 말합니다.",
+        "zh-Hans": "他们说这会挡住公墓的视线。",
+        "ja": "それは墓地の眺めを遮ると彼らは言います。",
+        "es": "Dicen que bloqueará la vista del cementerio.",
+        "hi": "उनका कहना है कि यह कब्रिस्तान का दृश्य रोक देगा।",
+        "de": "Sie sagen, es werde die Sicht auf den Friedhof versperren.",
+        "vi": "Họ nói nó sẽ chắn tầm nhìn ra nghĩa trang.",
+        "pt-BR": "Eles dizem que isso vai bloquear a vista do cemitério.",
+        "id": "Mereka mengatakan itu akan menghalangi pemandangan pemakaman.",
+        "fr": "Ils disent que cela bloquera la vue du cimetière.",
+        "ar": "يقولون إنه سيحجب رؤية المقبرة.",
+        "tr": "Mezarlığın manzarasını kapatacağını söylüyorlar.",
+        "it": "Dicono che bloccherà la vista del cimitero.",
+        "pl": "Mówią, że zasłoni widok na cmentarz."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How tall would the arch be?",
+      "choices": [
+        "About 25 feet",
+        "About 500 feet",
+        "About 250 feet",
+        "About 1,000 feet",
+        "About 60 feet"
+      ],
+      "answerIndex": 2,
+      "hintKo": "It would reach 250 feet, about 72 metres.",
+      "hintI18n": {
+        "en": "It would reach 250 feet, about 72 metres.",
+        "ko": "그것은 250피트, 약 72미터에 달할 예정입니다.",
+        "zh-Hans": "它将高达250英尺，约72米。",
+        "ja": "高さは250フィート、約72メートルに達する予定です。",
+        "es": "Alcanzaría 250 pies, unos 72 metros.",
+        "hi": "यह 250 फीट, यानी लगभग 72 मीटर ऊँचा होगा।",
+        "de": "Es würde 250 Fuß erreichen, etwa 72 Meter.",
+        "vi": "Nó sẽ cao 250 feet, khoảng 72 mét.",
+        "pt-BR": "Chegaria a 250 pés, cerca de 72 metros.",
+        "id": "Tingginya akan mencapai 250 kaki, sekitar 72 meter.",
+        "fr": "Il atteindrait 250 pieds, soit environ 72 mètres.",
+        "ar": "سيبلغ ارتفاعه 250 قدمًا، أي نحو 72 مترًا.",
+        "tr": "250 fit, yaklaşık 72 metre yüksekliğe ulaşacaktı.",
+        "it": "Raggiungerebbe 250 piedi, circa 72 metri.",
+        "pl": "Osiągnąłby 250 stóp, czyli około 72 metry."
+      }
+    }
+  ]
+}

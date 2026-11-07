@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-10",
+  "date": "2026-11-10",
+  "title": "Daily News Quiz · 2026-11-10",
+  "headline": "Tesla signals the end of the road for the Cybertruck",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who announced the decision about the Cybertruck?",
+      "choices": [
+        "A factory manager",
+        "The governor of Texas",
+        "Elon Musk",
+        "A car magazine",
+        "The lead engineer"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Elon Musk announced the decision on social media.",
+      "hintI18n": {
+        "en": "Elon Musk announced the decision on social media.",
+        "ko": "일론 머스크가 소셜 미디어에서 그 결정을 발표했습니다.",
+        "zh-Hans": "埃隆·马斯克在社交媒体上宣布了这一决定。",
+        "ja": "イーロン・マスクがソーシャルメディアでその決定を発表しました。",
+        "es": "Elon Musk anunció la decisión en las redes sociales.",
+        "hi": "एलन मस्क ने सोशल मीडिया पर यह फैसला बताया।",
+        "de": "Elon Musk gab die Entscheidung in den sozialen Medien bekannt.",
+        "vi": "Elon Musk đã công bố quyết định trên mạng xã hội.",
+        "pt-BR": "Elon Musk anunciou a decisão nas redes sociais.",
+        "id": "Elon Musk mengumumkan keputusan itu di media sosial.",
+        "fr": "Elon Musk a annoncé la décision sur les réseaux sociaux.",
+        "ar": "أعلن إيلون ماسك القرار على وسائل التواصل الاجتماعي.",
+        "tr": "Elon Musk kararı sosyal medyada duyurdu.",
+        "it": "Elon Musk ha annunciato la decisione sui social media.",
+        "pl": "Elon Musk ogłosił tę decyzję w mediach społecznościowych."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What will Tesla build more of at the factory?",
+      "choices": [
+        "Cybercab cars",
+        "Buses",
+        "Motorbikes",
+        "Boats",
+        "Bicycles"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Musk said the change makes room for more Cybercab cars.",
+      "hintI18n": {
+        "en": "Musk said the change makes room for more Cybercab cars.",
+        "ko": "머스크는 이 변화로 더 많은 사이버캡 차량을 위한 공간이 생긴다고 말했습니다.",
+        "zh-Hans": "马斯克说，这一变化为更多 Cybercab 汽车腾出了空间。",
+        "ja": "マスク氏は、この変更でより多くのCybercab車のための余地ができると述べました。",
+        "es": "Musk dijo que el cambio deja espacio para más coches Cybercab.",
+        "hi": "मस्क ने कहा कि इस बदलाव से अधिक Cybercab कारों के लिए जगह बनती है।",
+        "de": "Musk sagte, die Änderung schaffe Platz für mehr Cybercab-Fahrzeuge.",
+        "vi": "Musk cho biết thay đổi này tạo chỗ cho nhiều xe Cybercab hơn.",
+        "pt-BR": "Musk disse que a mudança abre espaço para mais carros Cybercab.",
+        "id": "Musk mengatakan perubahan ini memberi ruang untuk lebih banyak mobil Cybercab.",
+        "fr": "Musk a dit que ce changement libère de la place pour plus de voitures Cybercab.",
+        "ar": "قال ماسك إن هذا التغيير يتيح مساحة لمزيد من سيارات Cybercab.",
+        "tr": "Musk, bu değişikliğin daha fazla Cybercab aracına yer açtığını söyledi.",
+        "it": "Musk ha detto che il cambiamento fa spazio a più auto Cybercab.",
+        "pl": "Musk powiedział, że ta zmiana robi miejsce na więcej samochodów Cybercab."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the Cybertruck reach buyers?",
+      "choices": [
+        "In 2019",
+        "In 2020",
+        "In 2025",
+        "In 2023",
+        "It never reached buyers"
+      ],
+      "answerIndex": 3,
+      "hintKo": "It reached buyers in 2023, after several delays.",
+      "hintI18n": {
+        "en": "It reached buyers in 2023, after several delays.",
+        "ko": "여러 차례 지연 끝에 2023년에 구매자들에게 인도되었습니다.",
+        "zh-Hans": "在多次推迟之后，它于2023年交付给了买家。",
+        "ja": "何度かの遅れを経て、2023年に購入者のもとに届きました。",
+        "es": "Llegó a los compradores en 2023, tras varios retrasos.",
+        "hi": "कई देरी के बाद यह 2023 में खरीदारों तक पहुँचा।",
+        "de": "Nach mehreren Verzögerungen erreichte es 2023 die Käufer.",
+        "vi": "Sau nhiều lần trì hoãn, nó đến tay người mua vào năm 2023.",
+        "pt-BR": "Chegou aos compradores em 2023, após vários atrasos.",
+        "id": "Kendaraan ini sampai ke pembeli pada 2023, setelah beberapa kali tertunda.",
+        "fr": "Il est arrivé chez les acheteurs en 2023, après plusieurs retards.",
+        "ar": "وصل إلى المشترين في 2023 بعد عدة تأخيرات.",
+        "tr": "Birkaç gecikmenin ardından 2023'te alıcılara ulaştı.",
+        "it": "È arrivato ai compratori nel 2023, dopo diversi ritardi.",
+        "pl": "Dotarł do nabywców w 2023 roku po kilku opóźnieniach."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the Cybertruck factory?",
+      "choices": [
+        "In Berlin",
+        "In Texas",
+        "In Japan",
+        "In Mexico",
+        "In Canada"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The factory is in Texas.",
+      "hintI18n": {
+        "en": "The factory is in Texas.",
+        "ko": "그 공장은 텍사스에 있습니다.",
+        "zh-Hans": "这家工厂位于得克萨斯州。",
+        "ja": "その工場はテキサス州にあります。",
+        "es": "La fábrica está en Texas.",
+        "hi": "यह कारखाना टेक्सास में है।",
+        "de": "Die Fabrik befindet sich in Texas.",
+        "vi": "Nhà máy nằm ở Texas.",
+        "pt-BR": "A fábrica fica no Texas.",
+        "id": "Pabrik itu berada di Texas.",
+        "fr": "L'usine se trouve au Texas.",
+        "ar": "يقع المصنع في تكساس.",
+        "tr": "Fabrika Teksas'ta.",
+        "it": "La fabbrica si trova in Texas.",
+        "pl": "Fabryka znajduje się w Teksasie."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why were sales disappointing?",
+      "choices": [
+        "The truck is too small",
+        "The factory closed",
+        "The truck uses no electricity",
+        "The truck was never advertised",
+        "The truck has a high price and buyers choose other trucks"
+      ],
+      "answerIndex": 4,
+      "hintKo": "The price is high and many buyers choose other pickup trucks.",
+      "hintI18n": {
+        "en": "The price is high and many buyers choose other pickup trucks.",
+        "ko": "가격이 높고 많은 구매자가 다른 픽업트럭을 선택합니다.",
+        "zh-Hans": "价格很高，而且许多买家选择其他皮卡。",
+        "ja": "価格が高く、多くの購入者が他のピックアップトラックを選びます。",
+        "es": "El precio es alto y muchos compradores eligen otras camionetas.",
+        "hi": "कीमत ऊँची है और कई खरीदार दूसरे पिकअप ट्रक चुनते हैं।",
+        "de": "Der Preis ist hoch, und viele Käufer wählen andere Pick-up-Trucks.",
+        "vi": "Giá cao và nhiều người mua chọn các xe bán tải khác.",
+        "pt-BR": "O preço é alto e muitos compradores escolhem outras picapes.",
+        "id": "Harganya tinggi dan banyak pembeli memilih truk pikap lain.",
+        "fr": "Le prix est élevé et beaucoup d'acheteurs choisissent d'autres pick-up.",
+        "ar": "السعر مرتفع وكثير من المشترين يختارون شاحنات بيك أب أخرى.",
+        "tr": "Fiyat yüksek ve birçok alıcı başka kamyonetleri seçiyor.",
+        "it": "Il prezzo è alto e molti acquirenti scelgono altri pickup.",
+        "pl": "Cena jest wysoka, a wielu kupujących wybiera inne pickupy."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How did the lead engineer describe the Cybertruck?",
+      "choices": [
+        "As a fast sports car",
+        "As a cheap family car",
+        "As a strong development platform",
+        "As a failure",
+        "As a small van"
+      ],
+      "answerIndex": 2,
+      "hintKo": "He called it a strong development platform.",
+      "hintI18n": {
+        "en": "He called it a strong development platform.",
+        "ko": "그는 그것을 강력한 개발 플랫폼이라고 불렀습니다.",
+        "zh-Hans": "他称其为强大的开发平台。",
+        "ja": "彼はそれを強力な開発プラットフォームだと呼びました。",
+        "es": "Lo llamó una plataforma de desarrollo sólida.",
+        "hi": "उन्होंने इसे एक मजबूत विकास प्लेटफ़ॉर्म कहा।",
+        "de": "Er nannte es eine starke Entwicklungsplattform.",
+        "vi": "Ông gọi đó là một nền tảng phát triển mạnh mẽ.",
+        "pt-BR": "Ele chamou isso de uma plataforma de desenvolvimento forte.",
+        "id": "Ia menyebutnya sebagai platform pengembangan yang kuat.",
+        "fr": "Il l'a qualifié de solide plateforme de développement.",
+        "ar": "وصفها بأنها منصة تطوير قوية.",
+        "tr": "Onu güçlü bir geliştirme platformu olarak nitelendirdi.",
+        "it": "L'ha definita una solida piattaforma di sviluppo.",
+        "pl": "Nazwał ją mocną platformą rozwojową."
+      }
+    }
+  ]
+}
