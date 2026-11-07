@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "title": "Daily News Quiz · 2026-11-09",
+  "headline": "One of the year's most prolific meteor showers to light up the night sky",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Whose comet leaves the dust that makes the Leonid meteors?",
+      "choices": [
+        "Halley's comet",
+        "Comet NEOWISE",
+        "Comet 55P/Tempel-Tuttle",
+        "The Moon",
+        "A comet with no name"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The Leonids come from dust left by Comet 55P/Tempel-Tuttle.",
+      "hintI18n": {
+        "en": "The Leonids come from dust left by Comet 55P/Tempel-Tuttle.",
+        "ko": "레오니드 유성우는 55P/템펠-터틀 혜성이 남긴 먼지에서 생깁니다.",
+        "zh-Hans": "狮子座流星雨来自55P/坦普尔-塔特尔彗星留下的尘埃。",
+        "ja": "しし座流星群は、55P/テンペル・タットル彗星が残したちりから生まれます。",
+        "es": "Las Leónidas provienen del polvo que dejó el cometa 55P/Tempel-Tuttle.",
+        "hi": "लियोनिड उल्काएँ धूमकेतु 55P/टेम्पल-टटल द्वारा छोड़ी गई धूल से आती हैं।",
+        "de": "Die Leoniden stammen vom Staub des Kometen 55P/Tempel-Tuttle.",
+        "vi": "Mưa sao băng Leonid đến từ bụi do sao chổi 55P/Tempel-Tuttle để lại.",
+        "pt-BR": "As Leónidas vêm da poeira deixada pelo cometa 55P/Tempel-Tuttle.",
+        "id": "Leonid berasal dari debu yang ditinggalkan Komet 55P/Tempel-Tuttle.",
+        "fr": "Les Léonides proviennent de la poussière laissée par la comète 55P/Tempel-Tuttle.",
+        "ar": "تأتي شهب الأسديات من الغبار الذي تركه المذنب 55P/تمبل-تاتل.",
+        "tr": "Leonidler, 55P/Tempel-Tuttle kuyruklu yıldızının bıraktığı tozdan gelir.",
+        "it": "Le Leonidi provengono dalla polvere lasciata dalla cometa 55P/Tempel-Tuttle.",
+        "pl": "Leonidy pochodzą z pyłu pozostawionego przez kometę 55P/Tempel-Tuttle."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What do the Leonid meteors come from?",
+      "choices": [
+        "Dust from a comet",
+        "Pieces of the Moon",
+        "Volcano ash",
+        "Old satellites",
+        "Sea water"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They are dust particles from the comet.",
+      "hintI18n": {
+        "en": "They are dust particles from the comet.",
+        "ko": "그것들은 혜성에서 나온 먼지 입자입니다.",
+        "zh-Hans": "它们是来自彗星的尘埃颗粒。",
+        "ja": "それらは彗星から出たちりの粒です。",
+        "es": "Son partículas de polvo del cometa.",
+        "hi": "वे धूमकेतु से आने वाले धूल के कण हैं।",
+        "de": "Sie sind Staubteilchen vom Kometen.",
+        "vi": "Chúng là các hạt bụi từ sao chổi.",
+        "pt-BR": "São partículas de poeira do cometa.",
+        "id": "Itu adalah partikel debu dari komet.",
+        "fr": "Ce sont des particules de poussière de la comète.",
+        "ar": "هي جسيمات غبار من المذنب.",
+        "tr": "Bunlar kuyruklu yıldızdan gelen toz parçacıklarıdır.",
+        "it": "Sono particelle di polvere della cometa.",
+        "pl": "To cząstki pyłu pochodzące z komety."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When is the peak of the Leonid shower?",
+      "choices": [
+        "The night of 1 November",
+        "The night of 30 November",
+        "Christmas night",
+        "The night of 17 November",
+        "The end of December"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The shower peaks on the night of 17 November.",
+      "hintI18n": {
+        "en": "The shower peaks on the night of 17 November.",
+        "ko": "이 유성우는 11월 17일 밤에 절정에 이릅니다.",
+        "zh-Hans": "这场流星雨在11月17日晚上达到高峰。",
+        "ja": "この流星群は11月17日の夜にピークを迎えます。",
+        "es": "La lluvia alcanza su máximo en la noche del 17 de noviembre.",
+        "hi": "यह उल्का वर्षा 17 नवंबर की रात में चरम पर होती है।",
+        "de": "Der Schauer erreicht seinen Höhepunkt in der Nacht des 17. November.",
+        "vi": "Mưa sao băng đạt đỉnh vào đêm ngày 17 tháng 11.",
+        "pt-BR": "A chuva atinge o pico na noite de 17 de novembro.",
+        "id": "Hujan meteor ini mencapai puncaknya pada malam 17 November.",
+        "fr": "La pluie atteint son maximum dans la nuit du 17 novembre.",
+        "ar": "تبلغ زخة الشهب ذروتها ليلة 17 نوفمبر.",
+        "tr": "Bu göktaşı yağmuru 17 Kasım gecesi zirveye ulaşır.",
+        "it": "Lo sciame raggiunge il picco nella notte del 17 novembre.",
+        "pl": "Rój osiąga szczyt w nocy 17 listopada."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where in the sky should you look?",
+      "choices": [
+        "Near the sun",
+        "Around the constellation Leo",
+        "Near the North Star",
+        "Low in the west",
+        "At the horizon only"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The radiant is around the head of the constellation Leo.",
+      "hintI18n": {
+        "en": "The radiant is around the head of the constellation Leo.",
+        "ko": "복사점은 사자자리 머리 근처에 있습니다.",
+        "zh-Hans": "辐射点位于狮子座头部附近。",
+        "ja": "放射点はしし座の頭のあたりにあります。",
+        "es": "El radiante está cerca de la cabeza de la constelación de Leo.",
+        "hi": "विकिरण बिंदु सिंह तारामंडल के सिर के आसपास है।",
+        "de": "Der Radiant liegt etwa beim Kopf des Sternbilds Löwe.",
+        "vi": "Điểm tỏa nằm quanh phần đầu của chòm sao Sư Tử.",
+        "pt-BR": "O radiante fica perto da cabeça da constelação de Leão.",
+        "id": "Titik radian berada di sekitar kepala rasi bintang Leo.",
+        "fr": "Le radiant se trouve autour de la tête de la constellation du Lion.",
+        "ar": "تقع نقطة الإشعاع حول رأس كوكبة الأسد.",
+        "tr": "Işıma noktası Aslan takımyıldızının başı civarındadır.",
+        "it": "Il radiante è intorno alla testa della costellazione del Leone.",
+        "pl": "Radiant znajduje się w okolicy głowy gwiazdozbioru Lwa."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why should you wait outside for 20 or 30 minutes?",
+      "choices": [
+        "To keep warm",
+        "To wait for the clouds",
+        "To charge your phone",
+        "To see the sunset",
+        "To let your eyes adapt to the dark"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Your eyes need time to adapt to the dark.",
+      "hintI18n": {
+        "en": "Your eyes need time to adapt to the dark.",
+        "ko": "눈이 어둠에 적응하려면 시간이 필요합니다.",
+        "zh-Hans": "你的眼睛需要时间适应黑暗。",
+        "ja": "目が暗さに慣れるまで時間が必要です。",
+        "es": "Tus ojos necesitan tiempo para adaptarse a la oscuridad.",
+        "hi": "आपकी आँखों को अंधेरे के अनुकूल होने में समय लगता है।",
+        "de": "Ihre Augen brauchen Zeit, sich an die Dunkelheit zu gewöhnen.",
+        "vi": "Mắt bạn cần thời gian để thích nghi với bóng tối.",
+        "pt-BR": "Seus olhos precisam de tempo para se adaptar ao escuro.",
+        "id": "Mata Anda perlu waktu untuk menyesuaikan diri dengan kegelapan.",
+        "fr": "Vos yeux ont besoin de temps pour s’adapter à l’obscurité.",
+        "ar": "تحتاج عيناك إلى وقت لتتكيف مع الظلام.",
+        "tr": "Gözlerinizin karanlığa alışması için zamana ihtiyacı var.",
+        "it": "I tuoi occhi hanno bisogno di tempo per adattarsi al buio.",
+        "pl": "Twoje oczy potrzebują czasu, aby przyzwyczaić się do ciemności."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How fast do the particles enter the Earth's atmosphere?",
+      "choices": [
+        "Up to 7 kilometres per second",
+        "Up to 300 kilometres per second",
+        "Up to 71 kilometres per second",
+        "One kilometre per second",
+        "They do not move"
+      ],
+      "answerIndex": 2,
+      "hintKo": "They enter the atmosphere at up to 71 kilometres per second.",
+      "hintI18n": {
+        "en": "They enter the atmosphere at up to 71 kilometres per second.",
+        "ko": "그것들은 초속 최대 71킬로미터로 대기권에 들어옵니다.",
+        "zh-Hans": "它们以最高每秒71公里的速度进入大气层。",
+        "ja": "それらは秒速最大71キロメートルで大気圏に突入します。",
+        "es": "Entran en la atmósfera a hasta 71 kilómetros por segundo.",
+        "hi": "वे वायुमंडल में 71 किलोमीटर प्रति सेकंड तक की गति से प्रवेश करते हैं।",
+        "de": "Sie treten mit bis zu 71 Kilometern pro Sekunde in die Atmosphäre ein.",
+        "vi": "Chúng đi vào khí quyển với tốc độ lên tới 71 km mỗi giây.",
+        "pt-BR": "Eles entram na atmosfera a até 71 quilômetros por segundo.",
+        "id": "Partikel itu masuk ke atmosfer dengan kecepatan hingga 71 kilometer per detik.",
+        "fr": "Ils entrent dans l’atmosphère à une vitesse pouvant atteindre 71 kilomètres par seconde.",
+        "ar": "تدخل الغلاف الجوي بسرعة تصل إلى 71 كيلومترًا في الثانية.",
+        "tr": "Atmosfere saniyede 71 kilometreye varan hızla girerler.",
+        "it": "Entrano nell’atmosfera a una velocità fino a 71 chilometri al secondo.",
+        "pl": "Wchodzą w atmosferę z prędkością do 71 kilometrów na sekundę."
+      }
+    }
+  ]
+}
