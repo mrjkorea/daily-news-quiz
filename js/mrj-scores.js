@@ -4,6 +4,11 @@
    Nothing else. No tunnels. No per-app side sheet.
    Safe on file:// (posts use text/plain so Apps Script needs no CORS preflight).
 
+   Client 2026-11-11-identity (Reg/Metrics): identity_method and
+   identity_confidence are derived from how the student was found, not hardcoded.
+   A signed-in student is mrj_signin/high; a name from opts.student is
+   typed_name/medium. Field names are unchanged.
+
    Client 2026-11-10-course-unit (Reg/Metrics):
    post() now passes courseName -> course_name, assignmentId -> assignment_id,
    unitId -> unit_id, lessonId -> lesson_id. The receiver writes any key that
@@ -89,7 +94,8 @@
   /* One finished item -> one row in ClassroomMetrics. */
   function post(opts) {
     opts = opts || {};
-    var student = signedIn() || String(opts.student || "").trim();
+    var authStudent = signedIn();
+    var student = authStudent || String(opts.student || "").trim();
     /* No student, no row: a score must never land as an orphan. */
     if (!student) return Promise.resolve({ status: "skipped", error: "no student" });
     var key = idKey(student);
@@ -149,9 +155,12 @@
           duration_seconds:
             typeof opts.durationSeconds === "number" ? opts.durationSeconds : undefined,
           local_date: localDate(when),
-          /* Provenance for the book: how the student was identified. */
-          identity_method: "mrj_signin",
-          identity_confidence: "high",
+          /* Provenance for the book: how the student was identified. Derived, never
+             hardcoded (Reg/Metrics 2026-11-11). A real sign-in is mrj_signin/high;
+             a name typed by the app or passed in opts.student is typed_name/medium,
+             so the column can tell a real login from an absent one. */
+          identity_method: authStudent ? "mrj_signin" : "typed_name",
+          identity_confidence: authStudent ? "high" : "medium",
           metadata_json: JSON.stringify(meta),
         },
       ],

@@ -190,7 +190,10 @@
     }
     const slug = (document.title || location.pathname || "quiz").replace(/\s+/g, " ").trim();
     window.MRJ_SCORES.post({
-      student: who || "unknown",
+      /* No invented name: with no signed-in id and no typed name, leave student
+         empty so the shared client's own no-student guard skips the post
+         instead of writing a row with an invented name (Fujimoto 2026-11-11). */
+      student: who || undefined,
       program: "daily-news-quiz",
       appName: "MRJ Daily ESL News Quiz",
       source: "daily-news-quiz",
