@@ -7,6 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&display=swap" rel="stylesheet"/>
   <link rel="stylesheet" href="css/app.css"/>
+  <link rel="stylesheet" href="https://mrjkorea.github.io/mrj-signin/mrj-auth.css?v=20261030-cf-login-1.7.3"/>
 </head>
 <body class="quiz-page">
   <div class="glow" aria-hidden="true"></div>
@@ -30,7 +31,28 @@
   <section id="results" class="hidden"></section>
   <p class="hint-foot" data-i18n="hint_foot">Tap any sentence to hear it. Same quiz-show host every day.</p>
   <script src="js/i18n.js"></script>
-  <script src="js/mrj-scores.js?v=20261013-plainid"></script>
+  <!-- Jay 2026-11-11: the news stays open with no sign-in needed, but a signed-in
+       student's score must record under their own id. So the account book loads
+       and mounts in a hidden slot: no gate, no prompt, no change when signed out. -->
+  <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth.js?v=20261030-cf-login-1.7.3"></script>
+  <script>
+    (function () {
+      function openBook() {
+        if (!window.MRJ_AUTH || typeof window.MRJ_AUTH.mount !== "function") return;
+        var slot = document.createElement("div");
+        slot.id = "mrj-auth-slot";
+        slot.hidden = true;
+        document.body.appendChild(slot);
+        window.MRJ_AUTH.mount(slot, { app: "daily-news-quiz" });
+      }
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", openBook);
+      } else {
+        openBook();
+      }
+    })();
+  </script>
+  <script src="js/mrj-scores.js?v=20261111-identity"></script>
   <script src="js/quiz.js?v=20261020-pct"></script>
 </body>
 </html>
