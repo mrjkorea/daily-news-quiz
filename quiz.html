@@ -43,7 +43,7 @@
         slot.id = "mrj-auth-slot";
         slot.hidden = true;
         document.body.appendChild(slot);
-        window.MRJ_AUTH.mount(slot, { app: "daily-news-quiz" });
+        window.MRJ_AUTH.mount(slot, { app: "daily-news-quiz", chipOff: true });
       }
       if (document.readyState === "loading") {
         document.addEventListener("DOMContentLoaded", openBook);
