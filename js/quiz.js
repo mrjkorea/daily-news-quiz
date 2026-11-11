@@ -166,11 +166,26 @@
   const WHO_KEY = "mrj.news-quiz.student";
   const logToOneBook = (right, total) => {
     if (!window.MRJ_SCORES) return;
+    /* A signed-in student is already known: use that id and never ask for a
+       second name. mrj-scores.js takes the same signed-in id first anyway. */
     let who = "";
-    try { who = (localStorage.getItem(WHO_KEY) || "").trim(); } catch (e) {}
+    try {
+      who = window.MRJ_AUTH && window.MRJ_AUTH.student
+        ? String(window.MRJ_AUTH.student() || "").trim()
+        : "";
+    } catch (e) { who = ""; }
     if (!who) {
-      const typed = window.prompt("Your name (so the score goes to your page):", "");
-      who = (typed || "").trim();
+      try { who = (localStorage.getItem(WHO_KEY) || "").trim(); } catch (e) {}
+    }
+    if (!who) {
+      /* Ask only when nobody knows the name. Some webviews block prompt, and
+         that throw used to stop the score post: a blocked prompt must never
+         cost a row. */
+      let typed = "";
+      try {
+        typed = window.prompt("Your name (so the score goes to your page):", "");
+      } catch (e) { typed = ""; }
+      who = String(typed || "").trim();
       if (who) { try { localStorage.setItem(WHO_KEY, who); } catch (e) {} }
     }
     const slug = (document.title || location.pathname || "quiz").replace(/\s+/g, " ").trim();
