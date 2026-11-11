@@ -7,7 +7,7 @@
    Client 2026-11-11-identity (Reg/Metrics): identity_method and
    identity_confidence are derived from how the student was found, not hardcoded.
    A signed-in student is mrj_signin/high; a name from opts.student is
-   typed_name/medium. Field names are unchanged.
+   typed_name/medium; the literal "unknown" is none/low. Field names are unchanged.
 
    Client 2026-11-10-course-unit (Reg/Metrics):
    post() now passes courseName -> course_name, assignmentId -> assignment_id,
@@ -96,6 +96,11 @@
     opts = opts || {};
     var authStudent = signedIn();
     var student = authStudent || String(opts.student || "").trim();
+    /* "unknown" is the book's word for a post with no student at all. An app that
+       passes that literal (the news quiz did, to keep a signed-out play) is not a
+       sign-in and not a typed name, so it is labelled none/low below while the play
+       is still recorded (Reg/Metrics 2026-11-11). */
+    var anonymous = !authStudent && student.toLowerCase() === "unknown";
     /* No student, no row: a score must never land as an orphan. */
     if (!student) return Promise.resolve({ status: "skipped", error: "no student" });
     var key = idKey(student);
@@ -157,10 +162,10 @@
           local_date: localDate(when),
           /* Provenance for the book: how the student was identified. Derived, never
              hardcoded (Reg/Metrics 2026-11-11). A real sign-in is mrj_signin/high;
-             a name typed by the app or passed in opts.student is typed_name/medium,
-             so the column can tell a real login from an absent one. */
-          identity_method: authStudent ? "mrj_signin" : "typed_name",
-          identity_confidence: authStudent ? "high" : "medium",
+             a name typed by the app or passed in opts.student is typed_name/medium;
+             the literal "unknown" is none/low. Field names are unchanged. */
+          identity_method: authStudent ? "mrj_signin" : anonymous ? "none" : "typed_name",
+          identity_confidence: authStudent ? "high" : anonymous ? "low" : "medium",
           metadata_json: JSON.stringify(meta),
         },
       ],
