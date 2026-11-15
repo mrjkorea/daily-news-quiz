@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-18",
+  "date": "2026-11-18",
+  "title": "Daily News Quiz · 2026-11-18",
+  "headline": "The Philippines wins the first Eurovision Asia",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who won the first Eurovision Song Contest Asia?",
+      "choices": [
+        "A group from Thailand",
+        "Carmelle from the Philippines",
+        "A singer from Vietnam",
+        "Dara from Bulgaria",
+        "A group from Bangladesh"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The winner came from an island country in South East Asia.",
+      "hintI18n": {
+        "en": "The winner came from an island country in South East Asia.",
+        "ko": "우승자는 동남아시아의 섬나라 출신이었습니다.",
+        "zh-Hans": "获胜者来自东南亚的一个岛国。",
+        "ja": "優勝者は東南アジアの島国出身でした。",
+        "es": "La ganadora era de un país insular del sudeste asiático.",
+        "hi": "विजेता दक्षिण-पूर्व एशिया के एक द्वीप देश से था।",
+        "de": "Die Gewinnerin kam aus einem Inselstaat in Südostasien.",
+        "vi": "Người thắng cuộc đến từ một quốc đảo ở Đông Nam Á.",
+        "pt-BR": "A vencedora veio de um país insular do Sudeste Asiático.",
+        "id": "Pemenangnya berasal dari negara kepulauan di Asia Tenggara.",
+        "fr": "La gagnante venait d’un pays insulaire d’Asie du Sud-Est.",
+        "ar": "جاءت الفائزة من دولة جزرية في جنوب شرق آسيا.",
+        "tr": "Kazanan, Güneydoğu Asya’daki bir ada ülkesindendi.",
+        "it": "La vincitrice veniva da un paese insulare del Sud-est asiatico.",
+        "pl": "Zwyciężczyni pochodziła z wyspiarskiego kraju w Azji Południowo-Wschodniej."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What was the name of the winning song?",
+      "choices": [
+        "Aroma",
+        "Bae",
+        "Sobra-Sobra",
+        "Bangaranga",
+        "Black Tie"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The title repeats one word twice.",
+      "hintI18n": {
+        "en": "The title repeats one word twice.",
+        "ko": "제목은 한 단어를 두 번 반복합니다.",
+        "zh-Hans": "歌名把同一个词重复了两次。",
+        "ja": "曲名は同じ言葉を2回繰り返しています。",
+        "es": "El título repite una palabra dos veces.",
+        "hi": "शीर्षक एक शब्द को दो बार दोहराता है।",
+        "de": "Der Titel wiederholt ein Wort zweimal.",
+        "vi": "Tựa bài hát lặp lại một từ hai lần.",
+        "pt-BR": "O título repete uma palavra duas vezes.",
+        "id": "Judulnya mengulang satu kata dua kali.",
+        "fr": "Le titre répète un mot deux fois.",
+        "ar": "يكرر العنوان كلمة واحدة مرتين.",
+        "tr": "Şarkının adı bir kelimeyi iki kez tekrarlıyor.",
+        "it": "Il titolo ripete una parola due volte.",
+        "pl": "Tytuł powtarza jedno słowo dwa razy."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the contest take place?",
+      "choices": [
+        "On Saturday night",
+        "On Monday morning",
+        "Last month",
+        "On Friday afternoon",
+        "Next year"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The show was at night, at the weekend.",
+      "hintI18n": {
+        "en": "The show was at night, at the weekend.",
+        "ko": "쇼는 주말 밤에 열렸습니다.",
+        "zh-Hans": "演出在周末晚上举行。",
+        "ja": "ショーは週末の夜に行われました。",
+        "es": "El programa se celebró de noche, en fin de semana.",
+        "hi": "कार्यक्रम सप्ताहांत की रात में हुआ।",
+        "de": "Die Show fand am Wochenende nachts statt.",
+        "vi": "Chương trình diễn ra vào ban đêm, cuối tuần.",
+        "pt-BR": "O programa aconteceu à noite, no fim de semana.",
+        "id": "Acaranya berlangsung pada malam hari, di akhir pekan.",
+        "fr": "L’émission a eu lieu le soir, pendant le week-end.",
+        "ar": "أُقيم العرض ليلاً في عطلة نهاية الأسبوع.",
+        "tr": "Gösteri hafta sonu gece yapıldı.",
+        "it": "Lo spettacolo si è svolto di notte, nel fine settimana.",
+        "pl": "Program odbył się w nocy, w weekend."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the contest held?",
+      "choices": [
+        "In Manila",
+        "In Seoul",
+        "In Bangkok",
+        "In Hanoi",
+        "In London"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The host city is the capital of Thailand.",
+      "hintI18n": {
+        "en": "The host city is the capital of Thailand.",
+        "ko": "개최 도시는 태국의 수도입니다.",
+        "zh-Hans": "主办城市是泰国的首都。",
+        "ja": "開催都市はタイの首都です。",
+        "es": "La ciudad anfitriona es la capital de Tailandia.",
+        "hi": "मेज़बान शहर थाईलैंड की राजधानी है।",
+        "de": "Die Gastgeberstadt ist die Hauptstadt von Thailand.",
+        "vi": "Thành phố đăng cai là thủ đô của Thái Lan.",
+        "pt-BR": "A cidade-sede é a capital da Tailândia.",
+        "id": "Kota tuan rumah adalah ibu kota Thailand.",
+        "fr": "La ville hôte est la capitale de la Thaïlande.",
+        "ar": "المدينة المضيفة هي عاصمة تايلاند.",
+        "tr": "Ev sahibi şehir Tayland’ın başkentidir.",
+        "it": "La città ospitante è la capitale della Thailandia.",
+        "pl": "Miastem gospodarzem jest stolica Tajlandii."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why was Carmelle's win special?",
+      "choices": [
+        "She sang in four languages",
+        "She was the youngest competitor and the first winner",
+        "She played every instrument",
+        "She wrote the show",
+        "She was a judge last year"
+      ],
+      "answerIndex": 1,
+      "hintKo": "She was only nineteen.",
+      "hintI18n": {
+        "en": "She was only nineteen.",
+        "ko": "그녀는 겨우 열아홉 살이었습니다.",
+        "zh-Hans": "她只有十九岁。",
+        "ja": "彼女はまだ19歳でした。",
+        "es": "Ella solo tenía diecinueve años.",
+        "hi": "वह केवल उन्नीस वर्ष की थी।",
+        "de": "Sie war erst neunzehn Jahre alt.",
+        "vi": "Cô ấy chỉ mới mười chín tuổi.",
+        "pt-BR": "Ela tinha apenas dezenove anos.",
+        "id": "Dia baru berusia sembilan belas tahun.",
+        "fr": "Elle n’avait que dix-neuf ans.",
+        "ar": "كانت تبلغ من العمر تسعة عشر عامًا فقط.",
+        "tr": "Sadece on dokuz yaşındaydı.",
+        "it": "Aveva solo diciannove anni.",
+        "pl": "Miała zaledwie dziewiętnaście lat."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many countries took part?",
+      "choices": [
+        "Eleven",
+        "Nineteen",
+        "Twenty-one",
+        "Five",
+        "Thirty"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Count the acts, not the songs.",
+      "hintI18n": {
+        "en": "Count the acts, not the songs.",
+        "ko": "노래가 아니라 공연 수를 세세요.",
+        "zh-Hans": "数表演节目，而不是歌曲。",
+        "ja": "曲ではなく、パフォーマンスの数を数えてください。",
+        "es": "Cuenta las actuaciones, no las canciones.",
+        "hi": "गीतों को नहीं, प्रस्तुतियों को गिनें।",
+        "de": "Zähle die Auftritte, nicht die Lieder.",
+        "vi": "Hãy đếm số tiết mục, không phải số bài hát.",
+        "pt-BR": "Conte as apresentações, não as músicas.",
+        "id": "Hitung penampilannya, bukan lagunya.",
+        "fr": "Comptez les prestations, pas les chansons.",
+        "ar": "عُدّ العروض، لا الأغاني.",
+        "tr": "Şarkıları değil, performansları say.",
+        "it": "Conta le esibizioni, non le canzoni.",
+        "pl": "Licz występy, a nie piosenki."
+      }
+    }
+  ]
+}
