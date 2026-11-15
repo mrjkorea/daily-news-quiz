@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-19",
+  "date": "2026-11-19",
+  "title": "Daily News Quiz · 2026-11-19",
+  "headline": "Pope Leo returns to a small town high in the Andes",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who visited a small town in the Andes?",
+      "choices": [
+        "A film director",
+        "Pope Leo the Fourteenth",
+        "The president of Peru",
+        "The mayor of Lima",
+        "A famous football player"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The leader of the Catholic Church made the visit.",
+      "hintI18n": {
+        "en": "The leader of the Catholic Church made the visit.",
+        "ko": "가톨릭 교회의 수장이 방문했습니다.",
+        "zh-Hans": "天主教会领袖进行了这次访问。",
+        "ja": "カトリック教会の指導者がその訪問をしました。",
+        "es": "El líder de la Iglesia católica hizo la visita.",
+        "hi": "कैथोलिक चर्च के नेता ने यह यात्रा की।",
+        "de": "Das Oberhaupt der katholischen Kirche machte den Besuch.",
+        "vi": "Người lãnh đạo Giáo hội Công giáo đã thực hiện chuyến thăm.",
+        "pt-BR": "O líder da Igreja Católica fez a visita.",
+        "id": "Pemimpin Gereja Katolik melakukan kunjungan itu.",
+        "fr": "Le chef de l’Église catholique a fait la visite.",
+        "ar": "قام قائد الكنيسة الكاثوليكية بالزيارة.",
+        "tr": "Katolik Kilisesi'nin lideri bu ziyareti gerçekleştirdi.",
+        "it": "Il capo della Chiesa cattolica ha fatto la visita.",
+        "pl": "Przywódca Kościoła katolickiego złożył tę wizytę."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did he speak about in his sermon?",
+      "choices": [
+        "New roads and schools",
+        "The price of food",
+        "A football match",
+        "People leaving home and empty villages",
+        "The weather"
+      ],
+      "answerIndex": 3,
+      "hintKo": "He talked about people who move away.",
+      "hintI18n": {
+        "en": "He talked about people who move away.",
+        "ko": "그는 멀리 이사 가는 사람들에 대해 말했습니다.",
+        "zh-Hans": "他谈到了搬走的人。",
+        "ja": "彼は引っ越していく人々について話しました。",
+        "es": "Habló de las personas que se mudan lejos.",
+        "hi": "उन्होंने दूर जाकर बसने वाले लोगों के बारे में बात की।",
+        "de": "Er sprach über Menschen, die wegziehen.",
+        "vi": "Ông nói về những người chuyển đi nơi khác.",
+        "pt-BR": "Ele falou sobre pessoas que se mudam para longe.",
+        "id": "Dia berbicara tentang orang-orang yang pindah jauh.",
+        "fr": "Il a parlé des personnes qui déménagent loin.",
+        "ar": "تحدث عن الأشخاص الذين ينتقلون بعيدًا.",
+        "tr": "Uzağa taşınan insanlardan bahsetti.",
+        "it": "Ha parlato delle persone che si trasferiscono lontano.",
+        "pl": "Mówił o ludziach, którzy się wyprowadzają."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did he visit the town?",
+      "choices": [
+        "On Sunday",
+        "On Saturday",
+        "On Monday",
+        "On Friday",
+        "Last year"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The visit was at the weekend.",
+      "hintI18n": {
+        "en": "The visit was at the weekend.",
+        "ko": "방문은 주말이었습니다.",
+        "zh-Hans": "这次访问是在周末。",
+        "ja": "訪問は週末でした。",
+        "es": "La visita fue el fin de semana.",
+        "hi": "यात्रा सप्ताहांत पर थी।",
+        "de": "Der Besuch war am Wochenende.",
+        "vi": "Chuyến thăm diễn ra vào cuối tuần.",
+        "pt-BR": "A visita foi no fim de semana.",
+        "id": "Kunjungan itu terjadi pada akhir pekan.",
+        "fr": "La visite a eu lieu le week-end.",
+        "ar": "كانت الزيارة في عطلة نهاية الأسبوع.",
+        "tr": "Ziyaret hafta sonundaydı.",
+        "it": "La visita è stata nel fine settimana.",
+        "pl": "Wizyta odbyła się w weekend."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is Santa Cruz de Succhabamba?",
+      "choices": [
+        "In Brazil",
+        "In Argentina",
+        "In southern Chile",
+        "In northern Peru",
+        "In Mexico"
+      ],
+      "answerIndex": 3,
+      "hintKo": "North of Lima, high in the mountains.",
+      "hintI18n": {
+        "en": "North of Lima, high in the mountains.",
+        "ko": "리마 북쪽, 높은 산속에 있습니다.",
+        "zh-Hans": "位于利马以北，在高山中。",
+        "ja": "リマの北、山の高いところにあります。",
+        "es": "Está al norte de Lima, en lo alto de las montañas.",
+        "hi": "यह लीमा के उत्तर में, पहाड़ों में ऊँचाई पर है।",
+        "de": "Es liegt nördlich von Lima, hoch in den Bergen.",
+        "vi": "Nơi đây nằm ở phía bắc Lima, trên núi cao.",
+        "pt-BR": "Fica ao norte de Lima, no alto das montanhas.",
+        "id": "Terletak di utara Lima, tinggi di pegunungan.",
+        "fr": "C’est au nord de Lima, haut dans les montagnes.",
+        "ar": "تقع شمال ليما، عاليًا في الجبال.",
+        "tr": "Lima'nın kuzeyinde, dağların yükseklerinde.",
+        "it": "Si trova a nord di Lima, in alto tra le montagne.",
+        "pl": "Leży na północ od Limy, wysoko w górach."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is the visit personal for the Pope?",
+      "choices": [
+        "He studied there as a child",
+        "He owns a farm there",
+        "His family lives there",
+        "He was born there",
+        "He was bishop of the region before"
+      ],
+      "answerIndex": 4,
+      "hintKo": "He worked in that area before he became pope.",
+      "hintI18n": {
+        "en": "He worked in that area before he became pope.",
+        "ko": "그는 교황이 되기 전에 그 지역에서 일했습니다.",
+        "zh-Hans": "他在成为教宗之前曾在那个地区工作。",
+        "ja": "彼は教皇になる前にその地域で働きました。",
+        "es": "Trabajó en esa zona antes de ser papa.",
+        "hi": "वे पोप बनने से पहले उस क्षेत्र में काम करते थे।",
+        "de": "Er arbeitete in dieser Gegend, bevor er Papst wurde.",
+        "vi": "Ông từng làm việc ở vùng đó trước khi trở thành giáo hoàng.",
+        "pt-BR": "Ele trabalhou naquela área antes de se tornar papa.",
+        "id": "Dia bekerja di daerah itu sebelum menjadi Paus.",
+        "fr": "Il a travaillé dans cette région avant de devenir pape.",
+        "ar": "عمل في تلك المنطقة قبل أن يصبح بابا.",
+        "tr": "Papa olmadan önce o bölgede çalıştı.",
+        "it": "Ha lavorato in quella zona prima di diventare papa.",
+        "pl": "Pracował w tym rejonie, zanim został papieżem."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many people came to see him, according to the Vatican?",
+      "choices": [
+        "About one hundred",
+        "About twenty thousand",
+        "About two million",
+        "About six thousand",
+        "About five hundred"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The church says twenty thousand. The town has six thousand.",
+      "hintI18n": {
+        "en": "The church says twenty thousand. The town has six thousand.",
+        "ko": "교회는 2만 명이라고 합니다. 마을 인구는 6천 명입니다.",
+        "zh-Hans": "教会说是两万人。这个镇有六千人。",
+        "ja": "教会は2万人だと言っています。町の人口は6千人です。",
+        "es": "La iglesia dice veinte mil. El pueblo tiene seis mil.",
+        "hi": "चर्च का कहना है कि बीस हज़ार लोग आए। कस्बे की आबादी छह हज़ार है।",
+        "de": "Die Kirche sagt zwanzigtausend. Die Stadt hat sechstausend Einwohner.",
+        "vi": "Giáo hội nói có hai mươi nghìn người. Thị trấn có sáu nghìn dân.",
+        "pt-BR": "A igreja diz vinte mil. A cidade tem seis mil.",
+        "id": "Gereja mengatakan dua puluh ribu. Kota itu berpenduduk enam ribu.",
+        "fr": "L’Église dit vingt mille. La ville compte six mille habitants.",
+        "ar": "تقول الكنيسة عشرين ألفًا. البلدة فيها ستة آلاف.",
+        "tr": "Kilise yirmi bin diyor. Kasabanın nüfusu altı bin.",
+        "it": "La chiesa dice ventimila. La città ha seimila abitanti.",
+        "pl": "Kościół mówi o dwudziestu tysiącach. Miasteczko ma sześć tysięcy."
+      }
+    }
+  ]
+}

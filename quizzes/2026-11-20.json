@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "title": "Daily News Quiz · 2026-11-20",
+  "headline": "A Microsoft outage stops work in more than seventy countries",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who said its services work again after the outage?",
+      "choices": [
+        "Microsoft",
+        "The British government",
+        "A hospital group",
+        "The climate summit",
+        "A bank in Japan"
+      ],
+      "answerIndex": 0,
+      "hintKo": "One company runs Outlook and Teams.",
+      "hintI18n": {
+        "en": "One company runs Outlook and Teams.",
+        "ko": "한 회사가 아웃룩과 팀즈를 운영합니다.",
+        "zh-Hans": "一家公司运营 Outlook 和 Teams。",
+        "ja": "1社がアウトルックとチームズを運営しています。",
+        "es": "Una empresa gestiona Outlook y Teams.",
+        "hi": "एक कंपनी Outlook और Teams चलाती है।",
+        "de": "Ein Unternehmen betreibt Outlook und Teams.",
+        "vi": "Một công ty vận hành Outlook và Teams.",
+        "pt-BR": "Uma empresa opera o Outlook e o Teams.",
+        "id": "Satu perusahaan menjalankan Outlook dan Teams.",
+        "fr": "Une entreprise exploite Outlook et Teams.",
+        "ar": "شركة واحدة تشغّل Outlook وTeams.",
+        "tr": "Bir şirket Outlook ve Teams'i işletiyor.",
+        "it": "Una società gestisce Outlook e Teams.",
+        "pl": "Jedna firma obsługuje Outlook i Teams."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What stopped working for users?",
+      "choices": [
+        "Television channels",
+        "Outlook, Teams and Copilot",
+        "All mobile phones",
+        "Bank cards",
+        "Train signals"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Mail, meetings and the AI helper stopped.",
+      "hintI18n": {
+        "en": "Mail, meetings and the AI helper stopped.",
+        "ko": "메일, 회의, 인공지능 도우미가 작동을 멈췄습니다.",
+        "zh-Hans": "邮件、会议和人工智能助手都停止了工作。",
+        "ja": "メール、会議、人工知能アシスタントが止まりました。",
+        "es": "El correo, las reuniones y el asistente de IA dejaron de funcionar.",
+        "hi": "मेल, मीटिंग और कृत्रिम बुद्धिमत्ता सहायक काम करना बंद हो गए।",
+        "de": "E-Mail, Besprechungen und der KI-Helfer funktionierten nicht mehr.",
+        "vi": "Email, cuộc họp và trợ lý trí tuệ nhân tạo ngừng hoạt động.",
+        "pt-BR": "E-mail, reuniões e o assistente de IA pararam de funcionar.",
+        "id": "Email, rapat, dan asisten kecerdasan buatan berhenti bekerja.",
+        "fr": "Le courrier, les réunions et l'assistant IA ont cessé de fonctionner.",
+        "ar": "توقفت رسائل البريد والاجتماعات ومساعد الذكاء الاصطناعي عن العمل.",
+        "tr": "E-posta, toplantılar ve yapay zekâ asistanı çalışmayı durdurdu.",
+        "it": "La posta, le riunioni e l'assistente IA hanno smesso di funzionare.",
+        "pl": "Poczta, spotkania i asystent sztucznej inteligencji przestały działać."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the outage begin?",
+      "choices": [
+        "On Thursday evening",
+        "On Sunday morning",
+        "Two weeks ago",
+        "On Friday night",
+        "On Saturday afternoon"
+      ],
+      "answerIndex": 0,
+      "hintKo": "It started in the evening, two days before Saturday.",
+      "hintI18n": {
+        "en": "It started in the evening, two days before Saturday.",
+        "ko": "토요일 이틀 전 저녁에 시작됐습니다.",
+        "zh-Hans": "它在周六前两天晚上开始。",
+        "ja": "土曜日の2日前の夜に始まりました。",
+        "es": "Comenzó por la noche, dos días antes del sábado.",
+        "hi": "यह शनिवार से दो दिन पहले शाम को शुरू हुआ।",
+        "de": "Es begann am Abend, zwei Tage vor Samstag.",
+        "vi": "Nó bắt đầu vào buổi tối, hai ngày trước thứ Bảy.",
+        "pt-BR": "Começou à noite, dois dias antes de sábado.",
+        "id": "Itu dimulai pada malam hari, dua hari sebelum Sabtu.",
+        "fr": "Cela a commencé le soir, deux jours avant samedi.",
+        "ar": "بدأ في المساء، قبل يومين من السبت.",
+        "tr": "Cumartesi'den iki gün önce akşam başladı.",
+        "it": "È iniziato di sera, due giorni prima di sabato.",
+        "pl": "Zaczęło się wieczorem, dwa dni przed sobotą."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where were services affected?",
+      "choices": [
+        "Only in the United States",
+        "In more than seventy countries",
+        "Only in Europe",
+        "In three countries",
+        "Only in Asia"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Count the countries: more than seventy.",
+      "hintI18n": {
+        "en": "Count the countries: more than seventy.",
+        "ko": "국가를 세어 보세요: 칠십 개가 넘습니다.",
+        "zh-Hans": "数一数国家：超过七十个。",
+        "ja": "国を数えると、70か国以上です。",
+        "es": "Cuenta los países: más de setenta.",
+        "hi": "देशों की गिनती करें: सत्तर से अधिक।",
+        "de": "Zählen Sie die Länder: mehr als siebzig.",
+        "vi": "Đếm số quốc gia: hơn bảy mươi.",
+        "pt-BR": "Conte os países: mais de setenta.",
+        "id": "Hitung negaranya: lebih dari tujuh puluh.",
+        "fr": "Comptez les pays : plus de soixante-dix.",
+        "ar": "عُدّ البلدان: أكثر من سبعين.",
+        "tr": "Ülkeleri sayın: yetmişten fazla.",
+        "it": "Conta i paesi: più di settanta.",
+        "pl": "Policz kraje: ponad siedemdziesiąt."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did Microsoft say the outage happened?",
+      "choices": [
+        "A cyber attack",
+        "An artificial intelligence agent",
+        "A network capacity upgrade",
+        "Too many new users",
+        "A power cut"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The company said it was not an attack.",
+      "hintI18n": {
+        "en": "The company said it was not an attack.",
+        "ko": "회사는 그것이 공격이 아니라고 말했습니다.",
+        "zh-Hans": "公司表示这不是一次攻击。",
+        "ja": "会社は攻撃ではなかったと述べました。",
+        "es": "La empresa dijo que no fue un ataque.",
+        "hi": "कंपनी ने कहा कि यह हमला नहीं था।",
+        "de": "Das Unternehmen sagte, es sei kein Angriff gewesen.",
+        "vi": "Công ty nói đó không phải là một cuộc tấn công.",
+        "pt-BR": "A empresa disse que não foi um ataque.",
+        "id": "Perusahaan mengatakan itu bukan serangan.",
+        "fr": "L'entreprise a déclaré que ce n'était pas une attaque.",
+        "ar": "قالت الشركة إنه لم يكن هجومًا.",
+        "tr": "Şirket bunun bir saldırı olmadığını söyledi.",
+        "it": "L'azienda ha detto che non è stato un attacco.",
+        "pl": "Firma powiedziała, że to nie był atak."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How long did the outage last?",
+      "choices": [
+        "About one day",
+        "About one hour",
+        "About one week",
+        "About one month",
+        "About ten minutes"
+      ],
+      "answerIndex": 0,
+      "hintKo": "From Thursday evening to Friday afternoon.",
+      "hintI18n": {
+        "en": "From Thursday evening to Friday afternoon.",
+        "ko": "목요일 저녁부터 금요일 오후까지입니다.",
+        "zh-Hans": "从周四晚上到周五下午。",
+        "ja": "木曜日の夜から金曜日の午後までです。",
+        "es": "Desde el jueves por la noche hasta el viernes por la tarde.",
+        "hi": "गुरुवार शाम से शुक्रवार दोपहर तक।",
+        "de": "Von Donnerstagabend bis Freitagnachmittag.",
+        "vi": "Từ tối thứ Năm đến chiều thứ Sáu.",
+        "pt-BR": "De quinta-feira à noite até sexta-feira à tarde.",
+        "id": "Dari Kamis malam hingga Jumat sore.",
+        "fr": "De jeudi soir à vendredi après-midi.",
+        "ar": "من مساء الخميس إلى بعد ظهر الجمعة.",
+        "tr": "Perşembe akşamından Cuma öğleden sonraya kadar.",
+        "it": "Da giovedì sera a venerdì pomeriggio.",
+        "pl": "Od czwartkowego wieczora do piątkowego popołudnia."
+      }
+    }
+  ]
+}

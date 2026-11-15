@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-16",
+  "date": "2026-11-16",
+  "title": "Daily News Quiz · 2026-11-16",
+  "headline": "A cut cable stops every flight in the United States",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who stopped all take-offs across the United States?",
+      "choices": [
+        "Air traffic controllers",
+        "The airline pilots",
+        "Airport police",
+        "A court judge",
+        "The weather service"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The people who guide planes from the ground made the decision.",
+      "hintI18n": {
+        "en": "The people who guide planes from the ground made the decision.",
+        "ko": "지상에서 항공기를 안내하는 사람들이 결정했습니다.",
+        "zh-Hans": "从地面引导飞机的人做出了这个决定。",
+        "ja": "地上から飛行機を誘導する人々が決定しました。",
+        "es": "Las personas que guían los aviones desde el suelo tomaron la decisión.",
+        "hi": "ज़मीन से विमानों का मार्गदर्शन करने वाले लोगों ने यह फैसला लिया।",
+        "de": "Die Menschen, die Flugzeuge vom Boden aus leiten, trafen die Entscheidung.",
+        "vi": "Những người hướng dẫn máy bay từ mặt đất đã đưa ra quyết định.",
+        "pt-BR": "As pessoas que guiam os aviões do solo tomaram a decisão.",
+        "id": "Orang-orang yang memandu pesawat dari darat membuat keputusan itu.",
+        "fr": "Les personnes qui guident les avions depuis le sol ont pris la décision.",
+        "ar": "اتخذ الأشخاص الذين يوجهون الطائرات من الأرض هذا القرار.",
+        "tr": "Uçakları yerden yönlendiren kişiler bu kararı verdi.",
+        "it": "Le persone che guidano gli aerei da terra hanno preso la decisione.",
+        "pl": "Decyzję podjęli ludzie, którzy kierują samolotami z ziemi."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What were workers putting into the air traffic system?",
+      "choices": [
+        "New copper wire",
+        "More paper maps",
+        "Fibre-optic cable",
+        "Extra radar towers",
+        "New runways"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The old wire was copper. The new one is glass fibre.",
+      "hintI18n": {
+        "en": "The old wire was copper. The new one is glass fibre.",
+        "ko": "오래된 전선은 구리였습니다. 새 전선은 유리 섬유입니다.",
+        "zh-Hans": "旧电线是铜的。新电线是玻璃纤维的。",
+        "ja": "古いワイヤーは銅でした。新しいワイヤーはガラス繊維です。",
+        "es": "El cable viejo era de cobre. El nuevo es de fibra de vidrio.",
+        "hi": "पुराना तार तांबे का था। नया तार कांच के रेशे का है।",
+        "de": "Der alte Draht war aus Kupfer. Der neue ist aus Glasfaser.",
+        "vi": "Dây cũ bằng đồng. Dây mới bằng sợi thủy tinh.",
+        "pt-BR": "O fio antigo era de cobre. O novo é de fibra de vidro.",
+        "id": "Kabel lama terbuat dari tembaga. Yang baru terbuat dari serat kaca.",
+        "fr": "L'ancien fil était en cuivre. Le nouveau est en fibre de verre.",
+        "ar": "كان السلك القديم من النحاس. أما الجديد فهو من الألياف الزجاجية.",
+        "tr": "Eski tel bakırdı. Yeni tel ise cam elyafıdır.",
+        "it": "Il vecchio filo era di rame. Quello nuovo è in fibra di vetro.",
+        "pl": "Stary przewód był miedziany. Nowy jest z włókna szklanego."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the ground stop begin?",
+      "choices": [
+        "On Friday afternoon",
+        "On Monday morning",
+        "On Saturday night",
+        "Last month",
+        "Early Sunday"
+      ],
+      "answerIndex": 0,
+      "hintKo": "It happened in the afternoon, at the end of the working week.",
+      "hintI18n": {
+        "en": "It happened in the afternoon, at the end of the working week.",
+        "ko": "그것은 근무 주간이 끝나는 오후에 일어났습니다.",
+        "zh-Hans": "事情发生在工作周结束时的下午。",
+        "ja": "それは週の勤務終わりの午後に起こりました。",
+        "es": "Ocurrió por la tarde, al final de la semana laboral.",
+        "hi": "यह कार्य सप्ताह के अंत में दोपहर को हुआ।",
+        "de": "Es geschah am Nachmittag, am Ende der Arbeitswoche.",
+        "vi": "Chuyện xảy ra vào buổi chiều, cuối tuần làm việc.",
+        "pt-BR": "Aconteceu à tarde, no fim da semana de trabalho.",
+        "id": "Itu terjadi pada sore hari, di akhir pekan kerja.",
+        "fr": "C'est arrivé l'après-midi, à la fin de la semaine de travail.",
+        "ar": "حدث ذلك بعد الظهر، في نهاية أسبوع العمل.",
+        "tr": "İş haftasının sonunda, öğleden sonra oldu.",
+        "it": "È successo nel pomeriggio, alla fine della settimana lavorativa.",
+        "pl": "Stało się to po południu, pod koniec tygodnia pracy."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did the problem start?",
+      "choices": [
+        "In a hospital",
+        "At a train station",
+        "In the air traffic control system",
+        "In a school",
+        "At a sea port"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The router was inside the air traffic system.",
+      "hintI18n": {
+        "en": "The router was inside the air traffic system.",
+        "ko": "라우터는 항공 교통 시스템 안에 있었습니다.",
+        "zh-Hans": "路由器在航空交通系统内部。",
+        "ja": "ルーターは航空交通システムの中にありました。",
+        "es": "El router estaba dentro del sistema de control del tráfico aéreo.",
+        "hi": "राउटर हवाई यातायात प्रणाली के अंदर था।",
+        "de": "Der Router befand sich im Luftverkehrssystem.",
+        "vi": "Bộ định tuyến nằm bên trong hệ thống không lưu.",
+        "pt-BR": "O roteador estava dentro do sistema de tráfego aéreo.",
+        "id": "Router itu berada di dalam sistem lalu lintas udara.",
+        "fr": "Le routeur se trouvait à l'intérieur du système de circulation aérienne.",
+        "ar": "كان الموجه داخل نظام الحركة الجوية.",
+        "tr": "Yönlendirici hava trafik sisteminin içindeydi.",
+        "it": "Il router era all'interno del sistema di traffico aereo.",
+        "pl": "Router znajdował się w systemie ruchu lotniczego."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did controllers stop the flights?",
+      "choices": [
+        "The airports were closed for snow",
+        "Planes could not talk safely with controllers",
+        "There were too many pilots",
+        "The president gave an order",
+        "Fuel had run out"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Without clear communication, flying is not safe.",
+      "hintI18n": {
+        "en": "Without clear communication, flying is not safe.",
+        "ko": "명확한 의사소통 없이는 비행이 안전하지 않습니다.",
+        "zh-Hans": "没有清晰的沟通，飞行就不安全。",
+        "ja": "明確な通信がなければ、飛行は安全ではありません。",
+        "es": "Sin una comunicación clara, volar no es seguro.",
+        "hi": "स्पष्ट संचार के बिना उड़ान सुरक्षित नहीं है।",
+        "de": "Ohne klare Kommunikation ist Fliegen nicht sicher.",
+        "vi": "Không có liên lạc rõ ràng thì bay không an toàn.",
+        "pt-BR": "Sem comunicação clara, voar não é seguro.",
+        "id": "Tanpa komunikasi yang jelas, terbang tidak aman.",
+        "fr": "Sans communication claire, voler n'est pas sûr.",
+        "ar": "بدون تواصل واضح، الطيران غير آمن.",
+        "tr": "Açık iletişim olmadan uçmak güvenli değildir.",
+        "it": "Senza una comunicazione chiara, volare non è sicuro.",
+        "pl": "Bez jasnej komunikacji latanie nie jest bezpieczne."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How long did the stop last?",
+      "choices": [
+        "About forty minutes",
+        "About four days",
+        "About ten minutes",
+        "About one week",
+        "About four hours"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Four hours, not four days.",
+      "hintI18n": {
+        "en": "Four hours, not four days.",
+        "ko": "나흘이 아니라 네 시간입니다.",
+        "zh-Hans": "是四小时，不是四天。",
+        "ja": "4日ではなく4時間です。",
+        "es": "Cuatro horas, no cuatro días.",
+        "hi": "चार घंटे, चार दिन नहीं।",
+        "de": "Vier Stunden, nicht vier Tage.",
+        "vi": "Bốn giờ, không phải bốn ngày.",
+        "pt-BR": "Quatro horas, não quatro dias.",
+        "id": "Empat jam, bukan empat hari.",
+        "fr": "Quatre heures, pas quatre jours.",
+        "ar": "أربع ساعات، لا أربعة أيام.",
+        "tr": "Dört gün değil, dört saat.",
+        "it": "Quattro ore, non quattro giorni.",
+        "pl": "Cztery godziny, nie cztery dni."
+      }
+    }
+  ]
+}

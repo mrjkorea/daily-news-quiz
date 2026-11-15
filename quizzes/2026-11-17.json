@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-17",
+  "date": "2026-11-17",
+  "title": "Daily News Quiz · 2026-11-17",
+  "headline": "A climate summit in Turkey asks countries for much more clean power",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who leads the climate summit together with Turkey?",
+      "choices": [
+        "Australia",
+        "Brazil",
+        "Britain",
+        "Japan",
+        "Egypt"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Two countries lead the talks. One is Turkey.",
+      "hintI18n": {
+        "en": "Two countries lead the talks. One is Turkey.",
+        "ko": "두 나라가 회담을 이끕니다. 그중 하나가 튀르키예입니다.",
+        "zh-Hans": "有两个国家共同主持会谈。其中一个是土耳其。",
+        "ja": "2か国が協議を主導しています。その一つがトルコです。",
+        "es": "Dos países dirigen las conversaciones. Uno es Turquía.",
+        "hi": "दो देश बातचीत का नेतृत्व कर रहे हैं। उनमें से एक तुर्की है।",
+        "de": "Zwei Länder leiten die Gespräche. Eines davon ist die Türkei.",
+        "vi": "Hai quốc gia dẫn dắt cuộc đàm phán. Một trong số đó là Thổ Nhĩ Kỳ.",
+        "pt-BR": "Dois países lideram as conversas. Um deles é a Turquia.",
+        "id": "Dua negara memimpin pembicaraan. Salah satunya adalah Turki.",
+        "fr": "Deux pays dirigent les discussions. L’un d’eux est la Turquie.",
+        "ar": "دولتان تقودان المحادثات. إحداهما تركيا.",
+        "tr": "İki ülke görüşmelere liderlik ediyor. Bunlardan biri Türkiye.",
+        "it": "Due paesi guidano i colloqui. Uno è la Turchia.",
+        "pl": "Dwa kraje prowadzą rozmowy. Jednym z nich jest Turcja."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What share of energy from electricity does Turkey want by twenty thirty-five?",
+      "choices": [
+        "About one fifth",
+        "Thirty-five percent",
+        "Half",
+        "Ten percent",
+        "All of it"
+      ],
+      "answerIndex": 1,
+      "hintKo": "One fifth today. The target is much bigger.",
+      "hintI18n": {
+        "en": "One fifth today. The target is much bigger.",
+        "ko": "오늘날 5분의 1입니다. 목표는 훨씬 더 큽니다.",
+        "zh-Hans": "目前是五分之一。目标要大得多。",
+        "ja": "現在は5分の1です。目標はもっと大きいです。",
+        "es": "Hoy es una quinta parte. El objetivo es mucho mayor.",
+        "hi": "आज यह पांचवां हिस्सा है। लक्ष्य कहीं बड़ा है।",
+        "de": "Heute ist es ein Fünftel. Das Ziel ist viel größer.",
+        "vi": "Hiện nay là một phần năm. Mục tiêu lớn hơn nhiều.",
+        "pt-BR": "Hoje é um quinto. A meta é muito maior.",
+        "id": "Saat ini seperlima. Targetnya jauh lebih besar.",
+        "fr": "Aujourd’hui, c’est un cinquième. L’objectif est bien plus élevé.",
+        "ar": "اليوم خُمس. الهدف أكبر بكثير.",
+        "tr": "Bugün beşte bir. Hedef çok daha büyük.",
+        "it": "Oggi è un quinto. L’obiettivo è molto più grande.",
+        "pl": "Dziś to jedna piąta. Cel jest znacznie większy."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the British prime minister speak at the summit?",
+      "choices": [
+        "On Thursday",
+        "On Monday",
+        "On Sunday",
+        "Last year",
+        "On Saturday"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The speech came near the end of the working week.",
+      "hintI18n": {
+        "en": "The speech came near the end of the working week.",
+        "ko": "연설은 주중이 거의 끝날 때 나왔습니다.",
+        "zh-Hans": "讲话是在工作周快结束时发表的。",
+        "ja": "演説は週の終わり近くに行われました。",
+        "es": "El discurso llegó casi al final de la semana laboral.",
+        "hi": "भाषण कार्य सप्ताह के अंत के करीब हुआ।",
+        "de": "Die Rede kam gegen Ende der Arbeitswoche.",
+        "vi": "Bài phát biểu diễn ra gần cuối tuần làm việc.",
+        "pt-BR": "O discurso ocorreu perto do fim da semana de trabalho.",
+        "id": "Pidato itu disampaikan menjelang akhir pekan kerja.",
+        "fr": "Le discours a eu lieu vers la fin de la semaine de travail.",
+        "ar": "جاء الخطاب قرب نهاية أسبوع العمل.",
+        "tr": "Konuşma çalışma haftasının sonuna doğru yapıldı.",
+        "it": "Il discorso è arrivato verso la fine della settimana lavorativa.",
+        "pl": "Przemówienie miało miejsce pod koniec tygodnia pracy."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the summit taking place?",
+      "choices": [
+        "In London",
+        "In New York",
+        "In Antalya, Turkey",
+        "In Sydney",
+        "In Paris"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The city is in Turkey.",
+      "hintI18n": {
+        "en": "The city is in Turkey.",
+        "ko": "도시는 튀르키예에 있습니다.",
+        "zh-Hans": "这座城市位于土耳其。",
+        "ja": "その都市はトルコにあります。",
+        "es": "La ciudad está en Turquía.",
+        "hi": "शहर तुर्की में है।",
+        "de": "Die Stadt liegt in der Türkei.",
+        "vi": "Thành phố nằm ở Thổ Nhĩ Kỳ.",
+        "pt-BR": "A cidade fica na Turquia.",
+        "id": "Kota itu berada di Turki.",
+        "fr": "La ville se trouve en Turquie.",
+        "ar": "المدينة في تركيا.",
+        "tr": "Şehir Türkiye'de.",
+        "it": "La città si trova in Turchia.",
+        "pl": "Miasto znajduje się w Turcji."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did the prime minister name a climate security envoy?",
+      "choices": [
+        "To sell more gas",
+        "Because climate change is now a security threat",
+        "To lead the summit",
+        "To write a book",
+        "To close schools"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Think about safety, not about money.",
+      "hintI18n": {
+        "en": "Think about safety, not about money.",
+        "ko": "돈이 아니라 안전을 생각하세요.",
+        "zh-Hans": "要考虑安全，而不是钱。",
+        "ja": "お金ではなく安全を考えてください。",
+        "es": "Piensa en la seguridad, no en el dinero.",
+        "hi": "पैसे के बारे में नहीं, सुरक्षा के बारे में सोचें।",
+        "de": "Denk an Sicherheit, nicht an Geld.",
+        "vi": "Hãy nghĩ đến an toàn, không phải tiền bạc.",
+        "pt-BR": "Pense em segurança, não em dinheiro.",
+        "id": "Pikirkan keselamatan, bukan uang.",
+        "fr": "Pensez à la sécurité, pas à l’argent.",
+        "ar": "فكّر في السلامة، لا في المال.",
+        "tr": "Parayı değil, güvenliği düşünün.",
+        "it": "Pensa alla sicurezza, non ai soldi.",
+        "pl": "Myśl o bezpieczeństwie, nie o pieniądzach."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How much did Britain's cereal harvest fall?",
+      "choices": [
+        "Eleven percent",
+        "Thirty-five percent",
+        "One percent",
+        "Half",
+        "Nothing"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Close to ten percent, but a little more.",
+      "hintI18n": {
+        "en": "Close to ten percent, but a little more.",
+        "ko": "거의 10퍼센트지만 조금 더 됩니다.",
+        "zh-Hans": "接近百分之十，但略多一点。",
+        "ja": "10パーセント近くですが、少しそれを上回ります。",
+        "es": "Cerca del diez por ciento, pero un poco más.",
+        "hi": "लगभग दस प्रतिशत, लेकिन थोड़ा अधिक।",
+        "de": "Fast zehn Prozent, aber etwas mehr.",
+        "vi": "Gần mười phần trăm, nhưng nhiều hơn một chút.",
+        "pt-BR": "Quase dez por cento, mas um pouco mais.",
+        "id": "Mendekati sepuluh persen, tetapi sedikit lebih.",
+        "fr": "Près de dix pour cent, mais un peu plus.",
+        "ar": "قريب من عشرة في المائة، لكنه أكثر قليلاً.",
+        "tr": "Yüzde ona yakın, ama biraz daha fazla.",
+        "it": "Quasi dieci per cento, ma un po’ di più.",
+        "pl": "Blisko dziesięciu procent, ale trochę więcej."
+      }
+    }
+  ]
+}
