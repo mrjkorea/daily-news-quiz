@@ -684,5 +684,12 @@
     "title": "Daily News Quiz · 2026-11-16",
     "questionCount": 6,
     "data": "quizzes/2026-11-16.json"
+  },
+  {
+    "id": "2026-11-17",
+    "date": "2026-11-17",
+    "title": "Daily News Quiz · 2026-11-17",
+    "questionCount": 6,
+    "data": "quizzes/2026-11-17.json"
   }
 ]
