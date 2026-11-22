@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-25",
+  "date": "2026-11-25",
+  "title": "Daily News Quiz · 2026-11-25",
+  "headline": "A daily pill gives new hope for a very deadly cancer",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who tested the new pill?",
+      "choices": [
+        "A school in Canada",
+        "A farm in Spain",
+        "Doctors in Korea",
+        "Doctors in the United States",
+        "A shop in London"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The trial was in North America.",
+      "hintI18n": {
+        "en": "The trial was in North America.",
+        "ko": "그 임상 시험은 북아메리카에서 있었다.",
+        "zh-Hans": "这项试验在北美进行。",
+        "ja": "その試験は北アメリカで行われました。",
+        "es": "El ensayo se realizó en Norteamérica.",
+        "hi": "यह परीक्षण उत्तरी अमेरिका में था।",
+        "de": "Die Studie fand in Nordamerika statt.",
+        "vi": "Cuộc thử nghiệm diễn ra ở Bắc Mỹ.",
+        "pt-BR": "O estudo foi realizado na América do Norte.",
+        "id": "Uji coba itu dilakukan di Amerika Utara.",
+        "fr": "L’essai a eu lieu en Amérique du Nord.",
+        "ar": "أُجريت التجربة في أمريكا الشمالية.",
+        "tr": "Deneme Kuzey Amerika'da yapıldı.",
+        "it": "Lo studio è stato condotto in Nord America.",
+        "pl": "Badanie odbyło się w Ameryce Północnej."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the pill do in most patients?",
+      "choices": [
+        "It made hair grow",
+        "It replaced chemotherapy",
+        "It cured every cancer",
+        "It stopped the tumours growing",
+        "It stopped pain in the back"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Almost all of the tumours stopped growing.",
+      "hintI18n": {
+        "en": "Almost all of the tumours stopped growing.",
+        "ko": "거의 모든 종양이 성장을 멈췄다.",
+        "zh-Hans": "几乎所有肿瘤都停止生长。",
+        "ja": "ほとんどすべての腫瘍が成長を止めました。",
+        "es": "Casi todos los tumores dejaron de crecer.",
+        "hi": "लगभग सभी ट्यूमर बढ़ना बंद हो गए।",
+        "de": "Fast alle Tumore hörten auf zu wachsen.",
+        "vi": "Gần như tất cả các khối u ngừng phát triển.",
+        "pt-BR": "Quase todos os tumores pararam de crescer.",
+        "id": "Hampir semua tumor berhenti tumbuh.",
+        "fr": "Presque toutes les tumeurs ont cessé de croître.",
+        "ar": "توقفت جميع الأورام تقريبًا عن النمو.",
+        "tr": "Neredeyse tüm tümörler büyümeyi durdurdu.",
+        "it": "Quasi tutti i tumori hanno smesso di crescere.",
+        "pl": "Prawie wszystkie guzy przestały rosnąć."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the cancer not appear on a scan?",
+      "choices": [
+        "In one patient in twelve",
+        "After the first scan",
+        "Before the test started",
+        "In every patient",
+        "After one day"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The number sounds like a clock: one in twelve.",
+      "hintI18n": {
+        "en": "The number sounds like a clock: one in twelve.",
+        "ko": "그 숫자는 시계처럼 들린다: 열둘 중 하나.",
+        "zh-Hans": "这个数字听起来像钟表：十二分之一。",
+        "ja": "その数字は時計のように聞こえます。12分の1です。",
+        "es": "El número suena como un reloj: uno de cada doce.",
+        "hi": "यह संख्या घड़ी जैसी लगती है: बारह में से एक।",
+        "de": "Die Zahl klingt wie eine Uhr: eins von zwölf.",
+        "vi": "Con số nghe như đồng hồ: một trong mười hai.",
+        "pt-BR": "O número soa como um relógio: um em cada doze.",
+        "id": "Angka itu terdengar seperti jam: satu dari dua belas.",
+        "fr": "Le nombre ressemble à une horloge : un sur douze.",
+        "ar": "الرقم يبدو مثل الساعة: واحد من اثني عشر.",
+        "tr": "Sayı bir saate benziyor: on ikide bir.",
+        "it": "Il numero suona come un orologio: uno su dodici.",
+        "pl": "Ta liczba brzmi jak zegar: jeden na dwanaście."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is the pancreas?",
+      "choices": [
+        "Inside the body near the stomach",
+        "In the hair",
+        "In the knee",
+        "In the tooth",
+        "In the ear"
+      ],
+      "answerIndex": 0,
+      "hintKo": "It is an organ, not a bone.",
+      "hintI18n": {
+        "en": "It is an organ, not a bone.",
+        "ko": "그것은 장기이지 뼈가 아니다.",
+        "zh-Hans": "它是一个器官，不是骨头。",
+        "ja": "それは器官であり、骨ではありません。",
+        "es": "Es un órgano, no un hueso.",
+        "hi": "यह एक अंग है, हड्डी नहीं।",
+        "de": "Es ist ein Organ, kein Knochen.",
+        "vi": "Đó là một cơ quan, không phải xương.",
+        "pt-BR": "É um órgão, não um osso.",
+        "id": "Itu adalah organ, bukan tulang.",
+        "fr": "C’est un organe, pas un os.",
+        "ar": "إنه عضو، وليس عظمًا.",
+        "tr": "Bu bir organdır, kemik değildir.",
+        "it": "È un organo, non un osso.",
+        "pl": "To narząd, nie kość."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do doctors say this is not a cure yet?",
+      "choices": [
+        "The pill is too cheap",
+        "The pill is not approved anywhere",
+        "They need longer studies",
+        "The test was too small for any hope",
+        "Patients dislike the taste"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Cancer can come back, so time must pass first.",
+      "hintI18n": {
+        "en": "Cancer can come back, so time must pass first.",
+        "ko": "암은 다시 생길 수 있어서 시간이 먼저 지나야 한다.",
+        "zh-Hans": "癌症可能会复发，所以必须先过一段时间。",
+        "ja": "がんは再発することがあるので、まず時間が経つ必要があります。",
+        "es": "El cáncer puede volver, así que primero debe pasar tiempo.",
+        "hi": "कैंसर वापस आ सकता है, इसलिए पहले समय बीतना जरूरी है।",
+        "de": "Krebs kann zurückkommen, deshalb muss zuerst Zeit vergehen.",
+        "vi": "Ung thư có thể quay lại, nên trước tiên phải cần thời gian.",
+        "pt-BR": "O câncer pode voltar, então é preciso passar tempo primeiro.",
+        "id": "Kanker bisa kembali, jadi waktu harus berlalu dulu.",
+        "fr": "Le cancer peut revenir, il faut donc d’abord du temps.",
+        "ar": "قد يعود السرطان، لذا يجب أن يمر وقت أولًا.",
+        "tr": "Kanser geri gelebilir, bu yüzden önce zaman geçmesi gerekir.",
+        "it": "Il cancro può tornare, quindi prima deve passare del tempo.",
+        "pl": "Rak może wrócić, więc najpierw musi upłynąć czas."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How long did the test follow patients?",
+      "choices": [
+        "About three days",
+        "About one and a half years",
+        "About two weeks",
+        "About six months",
+        "About ten years"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Longer than a year, shorter than three.",
+      "hintI18n": {
+        "en": "Longer than a year, shorter than three.",
+        "ko": "일 년보다 길고 삼 년보다 짧다.",
+        "zh-Hans": "比一年长，比三年短。",
+        "ja": "1年より長く、3年より短いです。",
+        "es": "Más de un año, menos de tres.",
+        "hi": "एक वर्ष से अधिक, तीन से कम।",
+        "de": "Länger als ein Jahr, kürzer als drei.",
+        "vi": "Dài hơn một năm, ngắn hơn ba năm.",
+        "pt-BR": "Mais de um ano, menos de três.",
+        "id": "Lebih dari satu tahun, kurang dari tiga.",
+        "fr": "Plus d’un an, moins de trois.",
+        "ar": "أطول من سنة وأقصر من ثلاث.",
+        "tr": "Bir yıldan uzun, üçten kısa.",
+        "it": "Più di un anno, meno di tre.",
+        "pl": "Dłużej niż rok, krócej niż trzy."
+      }
+    }
+  ]
+}
