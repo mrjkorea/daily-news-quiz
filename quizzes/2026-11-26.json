@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-26",
+  "date": "2026-11-26",
+  "title": "Daily News Quiz · 2026-11-26",
+  "headline": "A teenage gamer and his mother help to find a missing girl",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who did Landon meet in the game?",
+      "choices": [
+        "A police officer",
+        "A girl who was missing",
+        "A famous player",
+        "His teacher",
+        "His cousin"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The player was in danger far from home.",
+      "hintI18n": {
+        "en": "The player was in danger far from home.",
+        "ko": "그 플레이어는 집에서 멀리 떨어진 곳에서 위험에 처해 있었어요.",
+        "zh-Hans": "那名玩家离家很远，身处危险之中。",
+        "ja": "そのプレイヤーは家から遠く離れた場所で危険な目に遭っていました。",
+        "es": "El jugador estaba en peligro lejos de casa.",
+        "hi": "खिलाड़ी घर से दूर खतरे में था।",
+        "de": "Der Spieler war weit von zu Hause entfernt in Gefahr.",
+        "vi": "Người chơi đang gặp nguy hiểm ở xa nhà.",
+        "pt-BR": "O jogador estava em perigo longe de casa.",
+        "id": "Pemain itu berada dalam bahaya jauh dari rumah.",
+        "fr": "Le joueur était en danger loin de chez lui.",
+        "ar": "كان اللاعب في خطر بعيدًا عن المنزل.",
+        "tr": "Oyuncu evden uzakta tehlikedeydi.",
+        "it": "Il giocatore era in pericolo lontano da casa.",
+        "pl": "Gracz był w niebezpieczeństwie daleko od domu."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the girl ask Landon for?",
+      "choices": [
+        "Money",
+        "Help",
+        "A new game",
+        "A phone number",
+        "A ticket"
+      ],
+      "answerIndex": 1,
+      "hintKo": "She was scared and alone. She needed people.",
+      "hintI18n": {
+        "en": "She was scared and alone. She needed people.",
+        "ko": "그녀는 무서웠고 혼자였어요. 그녀는 사람들이 필요했어요.",
+        "zh-Hans": "她很害怕，也很孤独。她需要有人陪伴。",
+        "ja": "彼女は怖がっていて一人でした。彼女には人が必要でした。",
+        "es": "Tenía miedo y estaba sola. Necesitaba gente.",
+        "hi": "वह डरी हुई और अकेली थी। उसे लोगों की ज़रूरत थी।",
+        "de": "Sie hatte Angst und war allein. Sie brauchte Menschen.",
+        "vi": "Cô ấy sợ hãi và cô đơn. Cô ấy cần mọi người.",
+        "pt-BR": "Ela estava com medo e sozinha. Ela precisava de pessoas.",
+        "id": "Dia takut dan sendirian. Dia membutuhkan orang lain.",
+        "fr": "Elle avait peur et était seule. Elle avait besoin de gens.",
+        "ar": "كانت خائفة ووحيدة. كانت بحاجة إلى الناس.",
+        "tr": "Korkmuş ve yalnızdı. İnsanlara ihtiyacı vardı.",
+        "it": "Aveva paura ed era sola. Aveva bisogno di persone.",
+        "pl": "Bała się i była sama. Potrzebowała ludzi."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Landon tell his mother?",
+      "choices": [
+        "On the first day",
+        "After two weeks of chatting",
+        "After the police called",
+        "The next morning",
+        "After one year"
+      ],
+      "answerIndex": 1,
+      "hintKo": "It was not minutes. It was weeks.",
+      "hintI18n": {
+        "en": "It was not minutes. It was weeks.",
+        "ko": "몇 분이 아니었어요. 몇 주였어요.",
+        "zh-Hans": "不是几分钟，而是几周。",
+        "ja": "数分ではありませんでした。数週間でした。",
+        "es": "No fueron minutos. Fueron semanas.",
+        "hi": "यह मिनट नहीं थे। यह हफ़्ते थे।",
+        "de": "Es waren nicht Minuten. Es waren Wochen.",
+        "vi": "Đó không phải là vài phút. Đó là vài tuần.",
+        "pt-BR": "Não foram minutos. Foram semanas.",
+        "id": "Itu bukan beberapa menit. Itu beberapa minggu.",
+        "fr": "Ce n'était pas des minutes. C'était des semaines.",
+        "ar": "لم تكن دقائق. كانت أسابيع.",
+        "tr": "Dakikalar değildi. Haftalardı.",
+        "it": "Non erano minuti. Erano settimane.",
+        "pl": "To nie były minuty. To były tygodnie."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where was the girl being held?",
+      "choices": [
+        "In Korea",
+        "In Canada",
+        "In Oregon",
+        "In Colorado",
+        "In England"
+      ],
+      "answerIndex": 2,
+      "hintKo": "She named a state in the west of the country.",
+      "hintI18n": {
+        "en": "She named a state in the west of the country.",
+        "ko": "그녀는 나라 서쪽에 있는 주 이름을 말했어요.",
+        "zh-Hans": "她说出了这个国家西部的一个州。",
+        "ja": "彼女は国の西部にある州の名前を言いました。",
+        "es": "Mencionó un estado en el oeste del país.",
+        "hi": "उसने देश के पश्चिम में एक राज्य का नाम बताया।",
+        "de": "Sie nannte einen Staat im Westen des Landes.",
+        "vi": "Cô ấy nói tên một bang ở phía tây đất nước.",
+        "pt-BR": "Ela citou um estado no oeste do país.",
+        "id": "Dia menyebutkan sebuah negara bagian di barat negara itu.",
+        "fr": "Elle a cité un État dans l'ouest du pays.",
+        "ar": "ذكرت ولاية في غرب البلاد.",
+        "tr": "Ülkenin batısındaki bir eyaletin adını söyledi.",
+        "it": "Ha nominato uno stato nell'ovest del paese.",
+        "pl": "Podawała nazwę stanu na zachodzie kraju."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why did Khristina ask for a letter with a name?",
+      "choices": [
+        "To write a story",
+        "To send a present",
+        "To learn the exact address",
+        "To find a job",
+        "To call the school"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A name on a paper leads to a home.",
+      "hintI18n": {
+        "en": "A name on a paper leads to a home.",
+        "ko": "종이에 적힌 이름이 집으로 이어져요.",
+        "zh-Hans": "纸上的名字能指向一个家。",
+        "ja": "紙に書かれた名前が家につながります。",
+        "es": "Un nombre en un papel lleva a un hogar.",
+        "hi": "कागज़ पर लिखा नाम घर तक पहुँचाता है।",
+        "de": "Ein Name auf einem Papier führt zu einem Zuhause.",
+        "vi": "Một cái tên trên giấy dẫn đến một mái nhà.",
+        "pt-BR": "Um nome em um papel leva a um lar.",
+        "id": "Nama di atas kertas mengarah ke sebuah rumah.",
+        "fr": "Un nom sur un papier mène à un foyer.",
+        "ar": "اسم على ورقة يقود إلى منزل.",
+        "tr": "Bir kâğıttaki isim bir eve götürür.",
+        "it": "Un nome su un foglio porta a una casa.",
+        "pl": "Nazwisko na papierze prowadzi do domu."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How long after Landon told his mother did police rescue the girl?",
+      "choices": [
+        "One year",
+        "One week",
+        "One hour",
+        "One month",
+        "One day"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Very fast. The next morning.",
+      "hintI18n": {
+        "en": "Very fast. The next morning.",
+        "ko": "아주 빨랐어요. 다음 날 아침이었어요.",
+        "zh-Hans": "非常快。就在第二天早上。",
+        "ja": "とても速かったです。翌朝でした。",
+        "es": "Muy rápido. A la mañana siguiente.",
+        "hi": "बहुत तेज़। अगली सुबह।",
+        "de": "Sehr schnell. Am nächsten Morgen.",
+        "vi": "Rất nhanh. Vào sáng hôm sau.",
+        "pt-BR": "Muito rápido. Na manhã seguinte.",
+        "id": "Sangat cepat. Pagi berikutnya.",
+        "fr": "Très vite. Le lendemain matin.",
+        "ar": "بسرعة كبيرة. في صباح اليوم التالي.",
+        "tr": "Çok hızlı. Ertesi sabah.",
+        "it": "Molto veloce. La mattina dopo.",
+        "pl": "Bardzo szybko. Następnego ranka."
+      }
+    }
+  ]
+}
