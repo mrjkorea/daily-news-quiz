@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-24",
+  "date": "2026-11-24",
+  "title": "Daily News Quiz · 2026-11-24",
+  "headline": "Young job hunters ask employers for one honest answer",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who wrote the report about young people and work?",
+      "choices": [
+        "Alan Milburn",
+        "Robert Walters",
+        "Meg Burton",
+        "Jessica Anderson",
+        "Yugraj Samrai"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The name is Alan, and he was a minister.",
+      "hintI18n": {
+        "en": "The name is Alan, and he was a minister.",
+        "ko": "이름은 앨런이고, 그는 장관이었습니다.",
+        "zh-Hans": "名字是艾伦，他曾是部长。",
+        "ja": "名前はアランで、彼は大臣でした。",
+        "es": "El nombre es Alan y él era ministro.",
+        "hi": "नाम एलन है, और वे मंत्री थे।",
+        "de": "Der Name ist Alan, und er war Minister.",
+        "vi": "Tên là Alan, và ông ấy là bộ trưởng.",
+        "pt-BR": "O nome é Alan, e ele era ministro.",
+        "id": "Namanya Alan, dan dia adalah menteri.",
+        "fr": "Le nom est Alan, et il était ministre.",
+        "ar": "الاسم آلان، وكان وزيراً.",
+        "tr": "Adı Alan ve o bir bakandı.",
+        "it": "Il nome è Alan, e lui era ministro.",
+        "pl": "Nazywa się Alan i był ministrem."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What do young people want from companies?",
+      "choices": [
+        "A free telephone",
+        "A longer holiday",
+        "An answer to every application",
+        "A new computer",
+        "A job for a friend"
+      ],
+      "answerIndex": 2,
+      "hintKo": "They do not ask for money or gifts. They ask for words.",
+      "hintI18n": {
+        "en": "They do not ask for money or gifts. They ask for words.",
+        "ko": "그들은 돈이나 선물을 요구하지 않습니다. 그들은 말을 원합니다.",
+        "zh-Hans": "他们不要钱或礼物。他们要的是话语。",
+        "ja": "彼らはお金や贈り物を求めていません。言葉を求めています。",
+        "es": "No piden dinero ni regalos. Piden palabras.",
+        "hi": "वे पैसे या उपहार नहीं मांगते। वे शब्द मांगते हैं।",
+        "de": "Sie bitten nicht um Geld oder Geschenke. Sie bitten um Worte.",
+        "vi": "Họ không xin tiền hay quà. Họ xin lời nói.",
+        "pt-BR": "Eles não pedem dinheiro nem presentes. Pedem palavras.",
+        "id": "Mereka tidak meminta uang atau hadiah. Mereka meminta kata-kata.",
+        "fr": "Ils ne demandent pas d'argent ni de cadeaux. Ils demandent des mots.",
+        "ar": "هم لا يطلبون مالاً أو هدايا. يطلبون كلمات.",
+        "tr": "Para ya da hediye istemiyorlar. Söz istiyorlar.",
+        "it": "Non chiedono denaro o regali. Chiedono parole.",
+        "pl": "Nie proszą o pieniądze ani prezenty. Proszą o słowa."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When should companies answer young applicants, under the report?",
+      "choices": [
+        "After one year",
+        "Only after an interview",
+        "Never",
+        "Every time they apply",
+        "Only in summer"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The rule is about every application, not only interviews.",
+      "hintI18n": {
+        "en": "The rule is about every application, not only interviews.",
+        "ko": "이 규칙은 모든 지원서에 관한 것이며, 면접만이 아닙니다.",
+        "zh-Hans": "这条规则适用于每份申请，不只是面试。",
+        "ja": "この規則はすべての応募に当てはまり、面接だけではありません。",
+        "es": "La regla se refiere a cada solicitud, no solo a las entrevistas.",
+        "hi": "यह नियम हर आवेदन पर लागू है, केवल साक्षात्कार पर नहीं।",
+        "de": "Die Regel gilt für jede Bewerbung, nicht nur für Vorstellungsgespräche.",
+        "vi": "Quy tắc áp dụng cho mọi đơn ứng tuyển, không chỉ phỏng vấn.",
+        "pt-BR": "A regra vale para toda candidatura, não apenas para entrevistas.",
+        "id": "Aturan ini berlaku untuk setiap lamaran, bukan hanya wawancara.",
+        "fr": "La règle concerne chaque candidature, pas seulement les entretiens.",
+        "ar": "القاعدة تخص كل طلب، وليس المقابلات فقط.",
+        "tr": "Kural her başvuru için geçerli, sadece mülakatlar için değil.",
+        "it": "La regola riguarda ogni candidatura, non solo i colloqui.",
+        "pl": "Zasada dotyczy każdego zgłoszenia, nie tylko rozmów kwalifikacyjnych."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where is this problem reported?",
+      "choices": [
+        "In Britain",
+        "In Brazil",
+        "In Japan",
+        "In Egypt",
+        "In Canada"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The report is about one country in Europe.",
+      "hintI18n": {
+        "en": "The report is about one country in Europe.",
+        "ko": "이 보고서는 유럽의 한 나라에 관한 것입니다.",
+        "zh-Hans": "这份报告是关于欧洲的一个国家。",
+        "ja": "この報告書はヨーロッパの一国についてです。",
+        "es": "El informe trata de un país de Europa.",
+        "hi": "यह रिपोर्ट यूरोप के एक देश के बारे में है।",
+        "de": "Der Bericht handelt von einem Land in Europa.",
+        "vi": "Báo cáo nói về một quốc gia ở châu Âu.",
+        "pt-BR": "O relatório é sobre um país da Europa.",
+        "id": "Laporan ini tentang satu negara di Eropa.",
+        "fr": "Le rapport concerne un pays d'Europe.",
+        "ar": "التقرير عن دولة واحدة في أوروبا.",
+        "tr": "Rapor Avrupa'daki bir ülke hakkında.",
+        "it": "Il rapporto riguarda un paese in Europa.",
+        "pl": "Raport dotyczy jednego kraju w Europie."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is silence hard for young people?",
+      "choices": [
+        "It costs them money",
+        "Their parents are angry",
+        "It makes their phones slow",
+        "They learn nothing from it",
+        "They must write again"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Silence gives them no lesson for the next time.",
+      "hintI18n": {
+        "en": "Silence gives them no lesson for the next time.",
+        "ko": "침묵은 그들에게 다음을 위한 교훈을 주지 않습니다.",
+        "zh-Hans": "沉默不能给他们下次的教训。",
+        "ja": "沈黙は彼らに次のための教訓を与えません。",
+        "es": "El silencio no les da ninguna lección para la próxima vez.",
+        "hi": "चुप्पी उन्हें अगली बार के लिए कोई सबक नहीं देती।",
+        "de": "Schweigen gibt ihnen keine Lehre für das nächste Mal.",
+        "vi": "Sự im lặng không cho họ bài học nào cho lần sau.",
+        "pt-BR": "O silêncio não lhes dá nenhuma lição para a próxima vez.",
+        "id": "Diam tidak memberi mereka pelajaran untuk lain kali.",
+        "fr": "Le silence ne leur donne aucune leçon pour la prochaine fois.",
+        "ar": "الصمت لا يعطيهم درساً للمرة القادمة.",
+        "tr": "Sessizlik onlara bir dahaki sefere ders vermiyor.",
+        "it": "Il silenzio non dà loro alcuna lezione per la prossima volta.",
+        "pl": "Cisza nie daje im żadnej lekcji na następny raz."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many job hunters said an application was ignored?",
+      "choices": [
+        "About one in ten",
+        "About half",
+        "Almost none",
+        "Eighty six in a hundred",
+        "About one in a thousand"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Most of them, not a few.",
+      "hintI18n": {
+        "en": "Most of them, not a few.",
+        "ko": "그들 대부분입니다. 소수가 아닙니다.",
+        "zh-Hans": "他们大多数，不是少数。",
+        "ja": "彼らの大多数で、少数ではありません。",
+        "es": "La mayoría de ellos, no unos pocos.",
+        "hi": "उनमें से अधिकांश, कुछ ही नहीं।",
+        "de": "Die meisten von ihnen, nicht wenige.",
+        "vi": "Phần lớn trong số họ, không phải một số ít.",
+        "pt-BR": "A maioria deles, não poucos.",
+        "id": "Sebagian besar dari mereka, bukan sedikit.",
+        "fr": "La plupart d'entre eux, pas quelques-uns.",
+        "ar": "معظمهم، وليس قلة.",
+        "tr": "Çoğu, birkaçı değil.",
+        "it": "La maggior parte di loro, non pochi.",
+        "pl": "Większość z nich, nie niewielu."
+      }
+    }
+  ]
+}
