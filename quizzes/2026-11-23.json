@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-23",
+  "date": "2026-11-23",
+  "title": "Daily News Quiz · 2026-11-23",
+  "headline": "A video game earns almost four billion dollars in one day",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Which company made the game?",
+      "choices": [
+        "Rockstar Games",
+        "Cloudflare",
+        "Sensor Tower",
+        "Nintendo",
+        "Take One"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The company name has rock and star in it.",
+      "hintI18n": {
+        "en": "The company name has rock and star in it.",
+        "ko": "회사 이름에 ‘록’과 ‘스타’가 들어 있습니다.",
+        "zh-Hans": "公司名称里有“摇滚”和“明星”两个词。",
+        "ja": "会社名に「ロック」と「スター」が入っています。",
+        "es": "El nombre de la empresa incluye las palabras «rock» y «star».",
+        "hi": "कंपनी के नाम में “रॉक” और “स्टार” शब्द हैं।",
+        "de": "Der Firmenname enthält die Wörter „Rock“ und „Star“.",
+        "vi": "Tên công ty có chứa hai từ “rock” và “star”.",
+        "pt-BR": "O nome da empresa inclui as palavras “rock” e “star”.",
+        "id": "Nama perusahaan mengandung kata “rock” dan “star”.",
+        "fr": "Le nom de l’entreprise contient les mots « rock » et « star ».",
+        "ar": "اسم الشركة يحتوي على كلمتي «روك» و«ستار».",
+        "tr": "Şirket adında “rock” ve “star” kelimeleri var.",
+        "it": "Il nome dell'azienda contiene le parole “rock” e “star”.",
+        "pl": "Nazwa firmy zawiera słowa „rock” i „star”."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What did the game earn in its first day?",
+      "choices": [
+        "Two point five billion dollars",
+        "One billion dollars",
+        "Three point eight billion dollars",
+        "Thirty two million dollars",
+        "Eleven billion dollars"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Three point eight, not two point five. The film number is smaller.",
+      "hintI18n": {
+        "en": "Three point eight, not two point five. The film number is smaller.",
+        "ko": "3.8이지 2.5가 아닙니다. 영화 쪽 숫자가 더 작아요.",
+        "zh-Hans": "是三点八，不是二点五。电影的数字更小。",
+        "ja": "3.8で、2.5ではありません。映画の数字の方が小さいです。",
+        "es": "Es tres punto ocho, no dos punto cinco. La cifra de la película es menor.",
+        "hi": "तीन दशमलव आठ, दो दशमलव पाँच नहीं। फ़िल्म वाला आंकड़ा छोटा है।",
+        "de": "Drei Komma acht, nicht zwei Komma fünf. Die Zahl des Films ist kleiner.",
+        "vi": "Là ba phẩy tám, không phải hai phẩy năm. Con số của phim nhỏ hơn.",
+        "pt-BR": "É três vírgula oito, não dois vírgula cinco. O número do filme é menor.",
+        "id": "Tiga koma delapan, bukan dua koma lima. Angka filmnya lebih kecil.",
+        "fr": "C’est trois virgule huit, pas deux virgule cinq. Le chiffre du film est plus petit.",
+        "ar": "إنه ثلاثة فاصلة ثمانية، وليس اثنين فاصلة خمسة. رقم الفيلم أصغر.",
+        "tr": "Üç virgül sekiz, iki virgül beş değil. Filmin sayısı daha küçük.",
+        "it": "È tre virgola otto, non due virgola cinque. Il numero del film è più piccolo.",
+        "pl": "To trzy przecinek osiem, nie dwa przecinek pięć. Liczba dla filmu jest mniejsza."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did the game go on sale?",
+      "choices": [
+        "On Monday morning",
+        "At midnight on Thursday",
+        "On Friday evening",
+        "Last summer",
+        "Two years ago"
+      ],
+      "answerIndex": 1,
+      "hintKo": "It was the first minute of Thursday.",
+      "hintI18n": {
+        "en": "It was the first minute of Thursday.",
+        "ko": "목요일의 첫 1분이었습니다.",
+        "zh-Hans": "那是星期四的第一分钟。",
+        "ja": "木曜日の最初の1分でした。",
+        "es": "Fue el primer minuto del jueves.",
+        "hi": "यह गुरुवार की शुरुआत का पहला मिनट था।",
+        "de": "Es war die erste Minute am Donnerstag.",
+        "vi": "Đó là phút đầu tiên của thứ Năm.",
+        "pt-BR": "Foi no primeiro minuto de quinta-feira.",
+        "id": "Itu terjadi pada menit pertama hari Kamis.",
+        "fr": "C’était la première minute de jeudi.",
+        "ar": "كانت الدقيقة الأولى من يوم الخميس.",
+        "tr": "Perşembe gününün ilk dakikasıydı.",
+        "it": "È stato il primo minuto di giovedì.",
+        "pl": "To była pierwsza minuta czwartku."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where does the game take place?",
+      "choices": [
+        "In a state that looks like Florida",
+        "In London",
+        "In Tokyo",
+        "In the Arctic",
+        "On a space station"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The state is warm and near the sea, like Florida.",
+      "hintI18n": {
+        "en": "The state is warm and near the sea, like Florida.",
+        "ko": "그 주는 따뜻하고 바다와 가까워요, 플로리다처럼요.",
+        "zh-Hans": "这个州温暖又靠海，像佛罗里达州一样。",
+        "ja": "その州は暖かく海に近いです。フロリダのようです。",
+        "es": "El estado es cálido y está cerca del mar, como Florida.",
+        "hi": "वह राज्य गर्म है और समुद्र के पास है, फ़्लोरिडा की तरह।",
+        "de": "Der Staat ist warm und liegt am Meer, wie Florida.",
+        "vi": "Tiểu bang đó ấm và gần biển, giống như Florida.",
+        "pt-BR": "O estado é quente e fica perto do mar, como a Flórida.",
+        "id": "Negara bagian itu hangat dan dekat laut, seperti Florida.",
+        "fr": "L’État est chaud et proche de la mer, comme la Floride.",
+        "ar": "الولاية دافئة وقريبة من البحر، مثل فلوريدا.",
+        "tr": "Eyalet sıcak ve denize yakın, tıpkı Florida gibi.",
+        "it": "Lo stato è caldo e vicino al mare, come la Florida.",
+        "pl": "Ten stan jest ciepły i leży blisko morza, jak Floryda."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why is this probably the most expensive game ever made?",
+      "choices": [
+        "It took thirteen years to write the songs",
+        "It uses a new kind of television",
+        "One person made all of it",
+        "It has no pictures",
+        "It cost more than one billion dollars to make"
+      ],
+      "answerIndex": 4,
+      "hintKo": "Look for the word billion in the story.",
+      "hintI18n": {
+        "en": "Look for the word billion in the story.",
+        "ko": "이야기에서 ‘십억’이라는 단어를 찾아보세요.",
+        "zh-Hans": "在故事里找“十亿”这个词。",
+        "ja": "ストーリーの中で「10億」という言葉を探してください。",
+        "es": "Busca la palabra “mil millones” en la historia.",
+        "hi": "कहानी में “अरब” शब्द खोजें।",
+        "de": "Suche im Text nach dem Wort „Milliarde“.",
+        "vi": "Hãy tìm từ “tỷ” trong câu chuyện.",
+        "pt-BR": "Procure a palavra “bilhão” na história.",
+        "id": "Cari kata “miliar” dalam cerita.",
+        "fr": "Cherchez le mot « milliard » dans l’histoire.",
+        "ar": "ابحث عن كلمة “مليار” في القصة.",
+        "tr": "Hikâyede “milyar” kelimesini arayın.",
+        "it": "Cerca la parola “miliardo” nella storia.",
+        "pl": "Poszukaj w historii słowa „miliard”."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How many copies did the company sell before the launch?",
+      "choices": [
+        "Thirty two and a half million",
+        "Three million",
+        "One hundred thousand",
+        "Sixty million",
+        "Twelve million"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The number is more than thirty million, before launch day.",
+      "hintI18n": {
+        "en": "The number is more than thirty million, before launch day.",
+        "ko": "그 숫자는 출시일 전에 3천만 개가 넘습니다.",
+        "zh-Hans": "在发售日之前，这个数字超过三千万。",
+        "ja": "その数は発売日の前に3千万を超えています。",
+        "es": "El número es más de treinta millones, antes del día de lanzamiento.",
+        "hi": "यह संख्या तीन करोड़ से अधिक है, लॉन्च के दिन से पहले।",
+        "de": "Die Zahl liegt vor dem Veröffentlichungstag bei über dreißig Millionen.",
+        "vi": "Con số đó là hơn ba mươi triệu, trước ngày ra mắt.",
+        "pt-BR": "O número é mais de trinta milhões, antes do dia de lançamento.",
+        "id": "Jumlahnya lebih dari tiga puluh juta, sebelum hari peluncuran.",
+        "fr": "Le nombre dépasse trente millions, avant le jour du lancement.",
+        "ar": "العدد أكثر من ثلاثين مليونًا، قبل يوم الإطلاق.",
+        "tr": "Sayı, çıkış gününden önce otuz milyonun üzerinde.",
+        "it": "Il numero è più di trenta milioni, prima del giorno del lancio.",
+        "pl": "Ta liczba to ponad trzydzieści milionów, przed dniem premiery."
+      }
+    }
+  ]
+}
