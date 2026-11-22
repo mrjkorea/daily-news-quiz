@@ -1,0 +1,195 @@
+{
+  "id": "2026-11-27",
+  "date": "2026-11-27",
+  "title": "Daily News Quiz · 2026-11-27",
+  "headline": "A small bird flies more than ten thousand kilometres and comes home",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Who tracked Phil's journey?",
+      "choices": [
+        "Scientists in Britain",
+        "A school class in Canada",
+        "Fishers in Norway",
+        "A zoo in Brazil",
+        "A farmer in Japan"
+      ],
+      "answerIndex": 0,
+      "hintKo": "They work with birds and with numbers.",
+      "hintI18n": {
+        "en": "They work with birds and with numbers.",
+        "ko": "그들은 새와 숫자를 다루는 일을 해요.",
+        "zh-Hans": "他们从事与鸟类和数字有关的工作。",
+        "ja": "彼らは鳥と数字を扱う仕事をしています。",
+        "es": "Trabajan con aves y con números.",
+        "hi": "वे पक्षियों और संख्याओं के साथ काम करते हैं।",
+        "de": "Sie arbeiten mit Vögeln und mit Zahlen.",
+        "vi": "Họ làm việc với chim và với các con số.",
+        "pt-BR": "Eles trabalham com aves e com números.",
+        "id": "Mereka bekerja dengan burung dan dengan angka.",
+        "fr": "Ils travaillent avec des oiseaux et avec des chiffres.",
+        "ar": "يعملون مع الطيور ومع الأرقام.",
+        "tr": "Kuşlarla ve sayılarla çalışıyorlar.",
+        "it": "Lavorano con gli uccelli e con i numeri.",
+        "pl": "Pracują z ptakami i z liczbami."
+      }
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "What kind of bird is Phil?",
+      "choices": [
+        "A penguin",
+        "An eagle",
+        "A bar tailed godwit",
+        "A pigeon",
+        "A parrot"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The name has godwit in it.",
+      "hintI18n": {
+        "en": "The name has godwit in it.",
+        "ko": "그 이름에는 ‘갓윗’이 들어 있어요.",
+        "zh-Hans": "名字里有“godwit”这个词。",
+        "ja": "その名前に「godwit」が入っています。",
+        "es": "El nombre contiene “godwit”.",
+        "hi": "इस नाम में “godwit” शामिल है।",
+        "de": "Der Name enthält „godwit“.",
+        "vi": "Tên đó có chứa “godwit”.",
+        "pt-BR": "O nome contém “godwit”.",
+        "id": "Namanya mengandung “godwit”.",
+        "fr": "Le nom contient « godwit ».",
+        "ar": "يحتوي الاسم على “godwit”.",
+        "tr": "Adında “godwit” var.",
+        "it": "Il nome contiene “godwit”.",
+        "pl": "Nazwa zawiera „godwit”."
+      }
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "When did Phil make this journey?",
+      "choices": [
+        "In spring",
+        "Ten years ago",
+        "Last winter",
+        "This year, before winter",
+        "Last summer"
+      ],
+      "answerIndex": 3,
+      "hintKo": "He will stay in England for the cold months.",
+      "hintI18n": {
+        "en": "He will stay in England for the cold months.",
+        "ko": "그는 추운 달 동안 영국에 머물 거예요.",
+        "zh-Hans": "他会在寒冷的几个月里留在英格兰。",
+        "ja": "彼は寒い月の間、イングランドに滞在します。",
+        "es": "Se quedará en Inglaterra durante los meses fríos.",
+        "hi": "वह ठंडे महीनों में इंग्लैंड में रहेगा।",
+        "de": "Er bleibt während der kalten Monate in England.",
+        "vi": "Nó sẽ ở lại Anh trong những tháng lạnh.",
+        "pt-BR": "Ele vai ficar na Inglaterra durante os meses frios.",
+        "id": "Ia akan tinggal di Inggris selama bulan-bulan dingin.",
+        "fr": "Il restera en Angleterre pendant les mois froids.",
+        "ar": "سيبقى في إنجلترا خلال الأشهر الباردة.",
+        "tr": "Soğuk aylarda İngiltere'de kalacak.",
+        "it": "Resterà in Inghilterra durante i mesi freddi.",
+        "pl": "Zostanie w Anglii na chłodne miesiące."
+      }
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Where did Phil fly first from England?",
+      "choices": [
+        "To Iceland",
+        "To Norway",
+        "To the Wadden Sea",
+        "To Spain",
+        "To Africa"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The first stop is a sea area in the Netherlands.",
+      "hintI18n": {
+        "en": "The first stop is a sea area in the Netherlands.",
+        "ko": "첫 번째 들르는 곳은 네덜란드의 바다 지역이에요.",
+        "zh-Hans": "第一站是荷兰的一片海域。",
+        "ja": "最初の立ち寄り先はオランダの海域です。",
+        "es": "La primera parada es una zona marina de los Países Bajos.",
+        "hi": "पहला पड़ाव नीदरलैंड का एक समुद्री क्षेत्र है।",
+        "de": "Der erste Stopp ist ein Meeresgebiet in den Niederlanden.",
+        "vi": "Điểm dừng đầu tiên là một vùng biển ở Hà Lan.",
+        "pt-BR": "A primeira parada é uma área marinha nos Países Baixos.",
+        "id": "Perhentian pertama adalah kawasan laut di Belanda.",
+        "fr": "Le premier arrêt est une zone marine aux Pays-Bas.",
+        "ar": "المحطة الأولى هي منطقة بحرية في هولندا.",
+        "tr": "İlk durak Hollanda'daki bir deniz alanıdır.",
+        "it": "La prima sosta è un'area marina nei Paesi Bassi.",
+        "pl": "Pierwszym przystankiem jest obszar morski w Holandii."
+      }
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Why do scientists say wetlands must be protected?",
+      "choices": [
+        "Birds build houses there",
+        "Wetlands are cheap to buy",
+        "Birds need places to stop and eat",
+        "Fish eat the birds",
+        "Wetlands make good car parks"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The birds are tired and hungry on the way.",
+      "hintI18n": {
+        "en": "The birds are tired and hungry on the way.",
+        "ko": "새들은 이동하는 동안 지치고 배고파요.",
+        "zh-Hans": "这些鸟在途中又累又饿。",
+        "ja": "鳥たちは途中で疲れてお腹が空いています。",
+        "es": "Las aves están cansadas y hambrientas en el camino.",
+        "hi": "रास्ते में पक्षी थके हुए और भूखे हैं।",
+        "de": "Die Vögel sind unterwegs müde und hungrig.",
+        "vi": "Những con chim mệt và đói trên đường.",
+        "pt-BR": "As aves estão cansadas e com fome no caminho.",
+        "id": "Burung-burung itu lelah dan lapar di perjalanan.",
+        "fr": "Les oiseaux sont fatigués et affamés en route.",
+        "ar": "الطيور متعبة وجائعة في الطريق.",
+        "tr": "Kuşlar yolda yorgun ve aç.",
+        "it": "Gli uccelli sono stanchi e affamati lungo il percorso.",
+        "pl": "Ptaki są zmęczone i głodne w drodze."
+      }
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "How far did Phil fly in total?",
+      "choices": [
+        "About two hundred kilometres",
+        "About eleven thousand kilometres",
+        "About five hundred kilometres",
+        "About one thousand kilometres",
+        "About fifty thousand kilometres"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The number is near eleven thousand, not fifty.",
+      "hintI18n": {
+        "en": "The number is near eleven thousand, not fifty.",
+        "ko": "그 수는 오십이 아니라 만 천에 가까워요.",
+        "zh-Hans": "这个数字接近一万一千，而不是五十。",
+        "ja": "その数は五十ではなく、一万一千に近いです。",
+        "es": "El número es casi once mil, no cincuenta.",
+        "hi": "यह संख्या पचास नहीं, ग्यारह हज़ार के करीब है।",
+        "de": "Die Zahl liegt bei fast elftausend, nicht bei fünfzig.",
+        "vi": "Con số này gần mười một nghìn, không phải năm mươi.",
+        "pt-BR": "O número é quase onze mil, não cinquenta.",
+        "id": "Angkanya mendekati sebelas ribu, bukan lima puluh.",
+        "fr": "Le nombre est proche de onze mille, pas de cinquante.",
+        "ar": "الرقم قريب من أحد عشر ألفًا، وليس خمسين.",
+        "tr": "Sayı elli değil, on bir bine yakın.",
+        "it": "Il numero è vicino a undicimila, non cinquanta.",
+        "pl": "Ta liczba jest bliska jedenastu tysiącom, a nie pięćdziesięciu."
+      }
+    }
+  ]
+}
